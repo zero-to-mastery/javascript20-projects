@@ -7,102 +7,102 @@ Student submissions for the JavaScript 20 projects
 ## Submissions:
 Check out all of the submissions below! Well done everyone:
 
-### Quote Generator - [Github](https://github.com/JacintoDesign/quote-generator)  
+### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)  
 
 *
 
 
-### Infinity Scroll - [Github](https://github.com/JacintoDesign/infinite-scroll)   
+### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)   
 
 *
 
 
-### Picture in Picture - [Github](https://github.com/JacintoDesign/picture-in-picture)  
+### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)  
 
 *
 
 
-### Joke Teller - [Github](https://github.com/JacintoDesign/joke-teller/)  
+### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)  
 
 *
 
 
-### Light/Dark Mode - [Github](https://github.com/JacintoDesign/light-dark-mode)   
+### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)   
 
 *
 
 
-### Animated Template - [Github](https://github.com/JacintoDesign/animated-template)   
+### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)   
 
 *
 
 
-### Navigation Nation - [Github](https://github.com/JacintoDesign/animated-navigation)   
+### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)   
 
 *
 
 
-### Music Player - [Github](https://github.com/JacintoDesign/music-player)  
+### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)  
 
 *
 
 
-### Custom Countdown - [Github](https://github.com/JacintoDesign/custom-countdown)   
+### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)   
 
 *
 
 
-### Book Keeper - [Github](https://github.com/JacintoDesign/bookmark-app)   
+### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)   
 
 *
 
 
-### Video Player - [Github](https://github.com/JacintoDesign/video-player)  
+### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)  
 
 *
 
 
-### Form Validator - [Github](https://github.com/JacintoDesign/form-validation)   
+### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)   
 
 *
 
 
-### Rock Spock - [Github](https://github.com/JacintoDesign/spock-rock-game)   
+### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)   
 
 *
 
 
-### NASA APOD - [Github](https://github.com/JacintoDesign/nasa-api-pictures)  
+### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)  
 
 *
 
 
-### Paint Clone - [Github](https://github.com/JacintoDesign/paint-clone)  
+### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)  
 
 *
 
 
-### Pong - [Github](https://github.com/JacintoDesign/pong-clone)   
+### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)   
 
 *
 
 
-### Math Sprint Game - [Github](https://github.com/JacintoDesign/math-sprint-game)  
+### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)  
 
 *
 
 
-### Drag and Drop - [Github](https://github.com/JacintoDesign/drag-and-drop)  
+### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)  
 
 *
 
 
-### Calculator - [Github](https://github.com/JacintoDesign/calculator)   
+### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)   
 
 *
 
 
-### Splash Page - [Github](https://github.com/JacintoDesign/splash-page)  
+### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)  
 
 *
 
