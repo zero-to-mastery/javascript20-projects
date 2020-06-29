@@ -106,8 +106,6 @@ Check out all of the submissions below! Well done everyone:
 
 *
 
-
-
 ### Teri Eyenike - Original: [Github](https://github.com/Terieyenike/Reefit)
 
 
