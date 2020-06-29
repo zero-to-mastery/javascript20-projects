@@ -29,6 +29,7 @@ Check out all of the submissions below! Well done everyone:
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
+### Teri Eyenike - Original: [Github](https://github.com/Terieyenike/Reefit)
 *
 
 
@@ -105,8 +106,6 @@ Check out all of the submissions below! Well done everyone:
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
 *
-
-### Teri Eyenike - Original: [Github](https://github.com/Terieyenike/Reefit)
 
 
 
