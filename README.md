@@ -29,12 +29,8 @@ Check out all of the submissions below! Well done everyone:
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
-*
-
-
-### Teri Eyenike - Original: [Github](https://github.com/Terieyenike/Reefit)
-
-*
+* Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit)
+-
 
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
