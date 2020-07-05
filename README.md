@@ -9,7 +9,7 @@ Check out all of the submissions below! Well done everyone:
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
-*
+* Teri Eyenike - [Github](https://github.com/Terieyenike/quotegenerator)
 
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
