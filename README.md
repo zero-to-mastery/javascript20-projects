@@ -15,6 +15,7 @@ Check out all of the submissions below! Well done everyone:
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
+- Russ Perry - [Github](https://github.com/rperry99/infinite-scroll)
 -
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
