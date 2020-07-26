@@ -21,16 +21,18 @@ Check out all of the submissions below! Well done everyone:
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
+- Russ Perry - [Github](https://github.com/rperry99/picture-in-picture)
 -
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
+- Russ Perry - [Github](https://github.com/rperry99/joke-teller)
 -
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit)
-
+- Russ Perry - [Github](https://github.com/rperry99/light-dark-mode)
 -
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
