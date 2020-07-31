@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78a2028c-6524-4048-b88d-3621649bccf2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="d988cbb6-e8af-40d8-b342-c86ab6abc310" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/javascript20-projects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +18,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1fRiKYU33qMK5bY4QHJSGkuLmB8" />
+  <component name="ProjectId" id="1fRjQQ1qPg0qEA2TbYFGTpm3qx8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,18 +33,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="78a2028c-6524-4048-b88d-3621649bccf2" name="Default Changelist" comment="" />
-      <created>1596187243194</created>
+      <changelist id="d988cbb6-e8af-40d8-b342-c86ab6abc310" name="Default Changelist" comment="" />
+      <created>1596187782728</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1596187243194</updated>
+      <updated>1596187782728</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="843" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1596187249191">
+    <state x="843" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1596187790644">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="843" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596187249191" />
+    <state x="843" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596187790644" />
   </component>
 </project>
