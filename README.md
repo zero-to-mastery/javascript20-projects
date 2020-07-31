@@ -94,3 +94,7 @@ Check out all of the submissions below! Well done everyone:
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
 -
+
+### Javascript Calculator - Original: [Github](https://github.com/atharv123-wq/Calculator)
+
+-
