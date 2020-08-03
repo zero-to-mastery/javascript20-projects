@@ -44,7 +44,7 @@ Check out all of the submissions below! Well done everyone:
 -
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
-
+- vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/javascript20-projects)
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audioplayer)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
