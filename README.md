@@ -47,7 +47,7 @@ Check out all of the submissions below! Well done everyone:
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
 - Russ Perry - [Github](https://github.com/rperry99/navigation-animation)
-- Rick Hallett - [Github](https://github.com/rickhallett/crypto-io) (work in progress! Will be completed by 31/08/2020 [Bundled](https://github.com/rickhallett/crypto-io))
+- Rick Hallett - [Github](https://github.com/rickhallett/crypto-io) (work in progress! Will be completed by 31/08/2020! [ViewLive](https://rickhallett.github.io/crypto-io-bundled/))
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 - Russ Perry - [Github](https://github.com/rperry99/javascript-music-player)
