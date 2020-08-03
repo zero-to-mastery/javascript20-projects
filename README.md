@@ -39,22 +39,27 @@ Check out all of the submissions below! Well done everyone:
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
+- Russ Perry - [Github](https://github.com/rperry99/animation-template)
 -
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
+- Russ Perry - [Github](https://github.com/rperry99/navigation-animation)
 -
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
+- Russ Perry - [Github](https://github.com/rperry99/javascript-music-player)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/javascript20-projects)
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audioplayer)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
+- Russ Perry - [Github](https://github.com/rperry99/custom-countdown)
 -
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
+- Russ Perry - [Github](https://github.com/rperry99/book-keeper)
 -
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
