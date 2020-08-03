@@ -14,6 +14,7 @@ Check out all of the submissions below! Well done everyone:
 - Russ Perry - [Github](https://github.com/rperry99/quote-generator)
 - Jovan Ničković - [Github](https://github.com/jovannickovic/quote-generator)
 - Arianna Choza - [Github](https://github.com/unachoza/quote-generator) [ViewLive](https://unachoza.github.io/quote-generator/)
+- vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/quote-generator)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -45,8 +46,8 @@ Check out all of the submissions below! Well done everyone:
 -
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
-
--
+- vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/javascript20-projects)
+- Yusuf Abukar - [Github](https://github.com/yusufabukar/audioplayer)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
