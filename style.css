@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+html {
+  box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    min-height: 100vh;
+    background-color: #94b1b8;
+background-image: url("data:image/svg+xml,%3Csvg width='42' height='44' viewBox='0 0 42 44' xmlns='http://www.w3.org/2000/svg'%3E%3Cg id='Page-1' fill='none' fill-rule='evenodd'%3E%3Cg id='brick-wall' fill='%231f5767' fill-opacity='0.8'%3E%3Cpath d='M0 0h42v44H0V0zm1 1h40v20H1V1zM0 23h20v20H0V23zm22 0h20v20H22V23z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+   /* background-color: #e3eef6;
+background-image: url("data:image/svg+xml,%3Csvg width='84' height='48' viewBox='0 0 84 48' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0h12v6H0V0zm28 8h12v6H28V8zm14-8h12v6H42V0zm14 0h12v6H56V0zm0 8h12v6H56V8zM42 8h12v6H42V8zm0 16h12v6H42v-6zm14-8h12v6H56v-6zm14 0h12v6H70v-6zm0-16h12v6H70V0zM28 32h12v6H28v-6zM14 16h12v6H14v-6zM0 24h12v6H0v-6zm0 8h12v6H0v-6zm14 0h12v6H14v-6zm14 8h12v6H28v-6zm-14 0h12v6H14v-6zm28 0h12v6H42v-6zm14-8h12v6H56v-6zm0-8h12v6H56v-6zm14 8h12v6H70v-6zm0 8h12v6H70v-6zM14 24h12v6H14v-6zm14-8h12v6H28v-6zM14 8h12v6H14V8zM0 8h12v6H0V8z' fill='%23306d94' fill-opacity='0.52' fill-rule='evenodd'/%3E%3C/svg%3E");*/
+   color: whitesmoke;
+   font-family: 'Courgette', cursive;
+   font-weight: 700;
+   text-align: center;
+   display:flex;
+   align-items: center;
+   justify-content: center;
+
+  /* background-color: #b89694;
+background-image: url("data:image/svg+xml,%3Csvg width='42' height='44' viewBox='0 0 42 44' xmlns='http://www.w3.org/2000/svg'%3E%3Cg id='Page-1' fill='none' fill-rule='evenodd'%3E%3Cg id='brick-wall' fill='%2337bee5' fill-opacity='0.8'%3E%3Cpath d='M0 0h42v44H0V0zm1 1h40v20H1V1zM0 23h20v20H0V23zm22 0h20v20H22V23z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");*/
+}
+
+
+.quote-container{
+  width:auto;
+  max-width: 900px;
+  padding:20px 30px;
+  border-radius: 10px;
+  background-color: rgba(151, 144, 144, 0.722);
+  box-shadow: 0 10px 10px 10px rgba(206, 204, 204, 0.959);
+}
+
+.quote-text{
+  font-size:2.75rem;
+}
+
+.long-quote{
+  font-size:2rem;
+}
+
+.fa-quote-left{
+  font-size: 4rem;
+}
+
+.quote-author{
+  margin-top: 15px;
+  font-size: 1.50rem;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+
+.button-container{
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+button{
+cursor: pointer;
+font-size: 1,2rem;
+color: rgb(84, 159, 194);
+height:2.5rem;
+border: none;
+border-radius: 10px;
+padding: 0.5rem 1.8rem;
+background-color: rgba(229, 228, 235, 0.959);
+box-shadow: 0 0.3rem rgb(139, 171, 185);
+
+}
+
+button:hover{
+  filter: brightness(110%);
+}
+
+button:active{
+  transform: translate(0,0.3rem);
+  box-shadow: 0 0.1rem;
+}
+
+.twitter-button:hover{
+  color:#38a1f3;
+}
+
+.fa-twitter{
+  font-size: 1.5rem;
+}
+/*  Loader  */
+.loader {
+  border: 16px solid #f3f3f3; /* Light grey */
+  border-top: 16px solid #667580; /* Blue */
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Media Query: Table or Smaller*/
+
+@media screen and (max-width: 1000px){
+ .quote-container{
+   margin: auto 20px;
+ }
+
+ .quote-text{
+   font-size: 2.5rem;
+ }
+}
