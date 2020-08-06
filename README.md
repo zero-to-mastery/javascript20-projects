@@ -53,6 +53,7 @@ Check out all of the submissions below! Well done everyone:
 - Russ Perry - [Github](https://github.com/rperry99/javascript-music-player)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/javascript20-projects)
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audioplayer)
+- Juan Melara - [Github](https://juanky256.github.io/Music-Player/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
