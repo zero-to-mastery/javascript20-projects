@@ -17,6 +17,8 @@ Check out all of the submissions below! Well done everyone:
 - Arianna Choza - [Github](https://github.com/unachoza/quote-generator) [ViewLive](https://unachoza.github.io/quote-generator/)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/quote-generator)
 - Daniel Livingston - [Github](https://github.com/DanielLivingston32/Quote-Generator)
+Mohamad Saad Eddin - [GitHub] (https://github.com/MHD22/Quote-Generator-React-APP) [ViewLive] (https://mhd22.github.io/Quote-Generator-React-APP/)
+
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
