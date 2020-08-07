@@ -17,6 +17,7 @@ Check out all of the submissions below! Well done everyone:
 - Arianna Choza - [Github](https://github.com/unachoza/quote-generator) [ViewLive](https://unachoza.github.io/quote-generator/)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/quote-generator)
 - Daniel Livingston - [Github](https://github.com/DanielLivingston32/Quote-Generator)
+- Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/) 
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
