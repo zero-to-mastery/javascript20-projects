@@ -16,6 +16,7 @@ Check out all of the submissions below! Well done everyone:
 - Vlad Flore - [Github](https://vladflore.github.io/quote-generator)
 - Arianna Choza - [Github](https://github.com/unachoza/quote-generator) [ViewLive](https://unachoza.github.io/quote-generator/)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/quote-generator)
+- Brian Smith - [Github](https://github.com/theautoroboto/Execuse-Generator)
 - Daniel Livingston - [Github](https://github.com/DanielLivingston32/Quote-Generator)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
@@ -70,7 +71,7 @@ Check out all of the submissions below! Well done everyone:
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
--
+- Brian Smith - [Github](https://github.com/theautoroboto/TheAutoLotto)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
