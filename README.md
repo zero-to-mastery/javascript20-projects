@@ -17,9 +17,8 @@ Check out all of the submissions below! Well done everyone:
 - Arianna Choza - [Github](https://github.com/unachoza/quote-generator) [ViewLive](https://unachoza.github.io/quote-generator/)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/quote-generator)
 - Daniel Livingston - [Github](https://github.com/DanielLivingston32/Quote-Generator)
+- Keshav Naganathan - [Github](https://github.com/DevKesh/quote_app) and [Click here for live app](https://generator-quotes.netlify.app/)
 
--Keshav Naganathan - [Github](https://github.com/DevKesh/quote_app) 
-Check it out live here ->(https://generator-quotes.netlify.app/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
