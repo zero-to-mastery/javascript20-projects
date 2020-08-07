@@ -52,7 +52,7 @@ Check out all of the submissions below! Well done everyone:
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 - Russ Perry - [Github](https://github.com/rperry99/javascript-music-player)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/javascript20-projects)
-- Yusuf Abukar - [Github](https://github.com/yusufabukar/audioplayer)
+- Yusuf Abukar - [Github](https://github.com/yusufabukar/audio-player/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
@@ -66,7 +66,7 @@ Check out all of the submissions below! Well done everyone:
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
--
+- Yusuf Abukar - [Github](https://github.com/yusufabukar/video-player/)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
