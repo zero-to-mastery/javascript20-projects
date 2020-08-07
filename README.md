@@ -18,6 +18,7 @@ Check out all of the submissions below! Well done everyone:
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/quote-generator)
 - Brian Smith - [Github](https://github.com/theautoroboto/Execuse-Generator)
 - Daniel Livingston - [Github](https://github.com/DanielLivingston32/Quote-Generator)
+- Michael Siu - [Github](https://github.com/mics13/QuoteGenerator)
 - Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/) 
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
