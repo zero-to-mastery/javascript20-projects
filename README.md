@@ -18,6 +18,7 @@ Check out all of the submissions below! Well done everyone:
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/quote-generator)
 - Brian Smith - [Github](https://github.com/theautoroboto/Execuse-Generator)
 - Daniel Livingston - [Github](https://github.com/DanielLivingston32/Quote-Generator)
+- Vignesh G - [Github](https://github.com/VigneshG1616/Quote_Generator_Modified) [ViewLive](https://vigneshg1616.github.io/Quote_Generator_Modified/)
 - Mohamad Saad Eddin - [GitHub](https://github.com/MHD22/Quote-Generator-React-APP) [ViewLive](https://mhd22.github.io/Quote-Generator-React-APP/)
 - Aadil Rashid Najar - [Github](https://github.com/Aadil-Rashid/Eid-mubarak)
 - Michael Siu - [Github](https://github.com/mics13/QuoteGenerator)
