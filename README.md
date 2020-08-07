@@ -16,8 +16,11 @@ Check out all of the submissions below! Well done everyone:
 - Vlad Flore - [Github](https://vladflore.github.io/quote-generator)
 - Arianna Choza - [Github](https://github.com/unachoza/quote-generator) [ViewLive](https://unachoza.github.io/quote-generator/)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/quote-generator)
+- Brian Smith - [Github](https://github.com/theautoroboto/Execuse-Generator)
 - Daniel Livingston - [Github](https://github.com/DanielLivingston32/Quote-Generator)
 - Aadil Rashid Najar - [Github](https://github.com/Aadil-Rashid/Eid-mubarak)
+- Michael Siu - [Github](https://github.com/mics13/QuoteGenerator)
+- Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/) 
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -53,7 +56,7 @@ Check out all of the submissions below! Well done everyone:
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 - Russ Perry - [Github](https://github.com/rperry99/javascript-music-player)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/javascript20-projects)
-- Yusuf Abukar - [Github](https://github.com/yusufabukar/audioplayer)
+- Yusuf Abukar - [Github](https://github.com/yusufabukar/audio-player/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
@@ -67,11 +70,11 @@ Check out all of the submissions below! Well done everyone:
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
--
+- Yusuf Abukar - [Github](https://github.com/yusufabukar/video-player/)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
--
+- Brian Smith - [Github](https://github.com/theautoroboto/TheAutoLotto)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
