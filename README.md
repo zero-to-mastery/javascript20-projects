@@ -16,6 +16,7 @@ Check out all of the submissions below! Well done everyone:
 - Vlad Flore - [Github](https://vladflore.github.io/quote-generator)
 - Arianna Choza - [Github](https://github.com/unachoza/quote-generator) [ViewLive](https://unachoza.github.io/quote-generator/)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/quote-generator)
+- Shawn Gillespie - [Github](https://github.com/ShawnGillespie/prof-pongles-quote-generator) [ViewLive](https://shawngillespie.github.io/prof-pongles-quote-generator)
 - Anette - [Github](https://github.com/RedSquirrrel/quote-generator) [ViewLive](https://redsquirrrel.github.io/quote-generator/)
 - Rick Hallett - [Github](https://github.com/rickhallett/quote-generator)
 - Nabil -  [Github] (https://github.com/nabilnm/Quote-generator)
