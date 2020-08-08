@@ -18,6 +18,7 @@ Check out all of the submissions below! Well done everyone:
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/quote-generator)
 - Brian Smith - [Github](https://github.com/theautoroboto/Execuse-Generator)
 - Daniel Livingston - [Github](https://github.com/DanielLivingston32/Quote-Generator)
+- Sam Kach - [Github](https://github.com/rizamoyi/quote-generator)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Quote-Generator)
 - Vignesh G - [Github](https://github.com/VigneshG1616/Quote_Generator_Modified) [ViewLive](https://vigneshg1616.github.io/Quote_Generator_Modified/)
 - Mohamad Saad Eddin - [GitHub](https://github.com/MHD22/Quote-Generator-React-APP) [ViewLive](https://mhd22.github.io/Quote-Generator-React-APP/)
@@ -58,6 +59,7 @@ Check out all of the submissions below! Well done everyone:
 -
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
+
 - Russ Perry - [Github](https://github.com/rperry99/javascript-music-player)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/javascript20-projects)
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audio-player/)
