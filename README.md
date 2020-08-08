@@ -16,6 +16,7 @@ Check out all of the submissions below! Well done everyone:
 - Vlad Flore - [Github](https://vladflore.github.io/quote-generator)
 - Arianna Choza - [Github](https://github.com/unachoza/quote-generator) [ViewLive](https://unachoza.github.io/quote-generator/)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/quote-generator)
+- Meghal Donde Pradhan - [Github](https://github.com/meghaldonde/quote-generator.github.io) [Live](https://meghaldonde.github.io/quote-generator.github.io/)
 - Brian Smith - [Github](https://github.com/theautoroboto/Execuse-Generator)
 - Daniel Livingston - [Github](https://github.com/DanielLivingston32/Quote-Generator)
 - Paul Gelario - [Github](https://github.com/pauldavid23/quote-generator)
