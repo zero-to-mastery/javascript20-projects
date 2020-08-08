@@ -16,23 +16,31 @@ Check out all of the submissions below! Well done everyone:
 - Vlad Flore - [Github](https://vladflore.github.io/quote-generator)
 - Arianna Choza - [Github](https://github.com/unachoza/quote-generator) [ViewLive](https://unachoza.github.io/quote-generator/)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/quote-generator)
+- Brian Smith - [Github](https://github.com/theautoroboto/Execuse-Generator)
 - Daniel Livingston - [Github](https://github.com/DanielLivingston32/Quote-Generator)
 - Sam Kach - [Github](https://github.com/rizamoyi/quote-generator)
+- Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Quote-Generator)
+- Vignesh G - [Github](https://github.com/VigneshG1616/Quote_Generator_Modified) [ViewLive](https://vigneshg1616.github.io/Quote_Generator_Modified/)
+- Mohamad Saad Eddin - [GitHub](https://github.com/MHD22/Quote-Generator-React-APP) [ViewLive](https://mhd22.github.io/Quote-Generator-React-APP/)
+- Aadil Rashid Najar - [Github](https://github.com/Aadil-Rashid/Eid-mubarak)
+- Michael Siu - [Github](https://github.com/mics13/QuoteGenerator)
+- Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/) 
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
 - Russ Perry - [Github](https://github.com/rperry99/infinite-scroll)
 - JayaSree - [Github](https://github.com/Jayasree77/Front-end/tree/master/Infinite%20Scroll) [ViewLive](https://codepen.io/Jayasree_0708/full/ZEQmVEd)
+- Sahil Jamwal - [Github](https://github.com/sahiljamwal/Unsplashed-Infinite-Scroller)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
 - Russ Perry - [Github](https://github.com/rperry99/picture-in-picture)
--
+- Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
 - Russ Perry - [Github](https://github.com/rperry99/joke-teller)
--
+- Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
@@ -43,7 +51,7 @@ Check out all of the submissions below! Well done everyone:
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
 - Russ Perry - [Github](https://github.com/rperry99/animation-template)
--
+- Ozziel Ruiiz [Github](https://ozzielruiz.github.io/animated-template/)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
@@ -54,12 +62,13 @@ Check out all of the submissions below! Well done everyone:
 
 - Russ Perry - [Github](https://github.com/rperry99/javascript-music-player)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/javascript20-projects)
-- Yusuf Abukar - [Github](https://github.com/yusufabukar/audioplayer)
+- Yusuf Abukar - [Github](https://github.com/yusufabukar/audio-player/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
 - Russ Perry - [Github](https://github.com/rperry99/custom-countdown)
--
+- Arianna Choza - [Github](https://github.com/unachoza/countdown) [ViewLive](https://unachoza.github.io/countdown)
+
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
@@ -68,11 +77,11 @@ Check out all of the submissions below! Well done everyone:
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
--
+- Yusuf Abukar - [Github](https://github.com/yusufabukar/video-player/)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
--
+- Brian Smith - [Github](https://github.com/theautoroboto/TheAutoLotto)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
