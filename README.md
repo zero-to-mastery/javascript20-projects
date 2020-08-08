@@ -18,6 +18,7 @@ Check out all of the submissions below! Well done everyone:
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/quote-generator)
 - Brian Smith - [Github](https://github.com/theautoroboto/Execuse-Generator)
 - Daniel Livingston - [Github](https://github.com/DanielLivingston32/Quote-Generator)
+- Simone Taeggi - [Github](https://github.com/simotae14/quote-tae-generator) [ViewLive](https://simotae14.github.io/quote-tae-generator/)
 - Sam Kach - [Github](https://github.com/rizamoyi/quote-generator)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Quote-Generator)
 - Vignesh G - [Github](https://github.com/VigneshG1616/Quote_Generator_Modified) [ViewLive](https://vigneshg1616.github.io/Quote_Generator_Modified/)
