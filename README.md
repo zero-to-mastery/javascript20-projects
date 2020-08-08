@@ -18,6 +18,7 @@ Check out all of the submissions below! Well done everyone:
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/quote-generator)
 - Brian Smith - [Github](https://github.com/theautoroboto/Execuse-Generator)
 - Daniel Livingston - [Github](https://github.com/DanielLivingston32/Quote-Generator)
+- Paul Gelario - [Github](https://github.com/pauldavid23/quote-generator)
 - Adwaith Rajesh -[Github](https://github.com/Adwaith123/Quote-generator) [ViewLive](https://adwaith123.github.io/Quote-generator/)
 - Simone Taeggi - [Github](https://github.com/simotae14/quote-tae-generator) [ViewLive](https://simotae14.github.io/quote-tae-generator/)
 - Sam Kach - [Github](https://github.com/rizamoyi/quote-generator)
@@ -27,7 +28,6 @@ Check out all of the submissions below! Well done everyone:
 - Aadil Rashid Najar - [Github](https://github.com/Aadil-Rashid/Eid-mubarak)
 - Michael Siu - [Github](https://github.com/mics13/QuoteGenerator)
 - Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/) 
-
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
