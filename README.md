@@ -33,9 +33,9 @@ Check out all of the submissions below! Well done everyone:
 
 - Russ Perry - [Github](https://github.com/rperry99/infinite-scroll)
 - JayaSree - [Github](https://github.com/Jayasree77/Front-end/tree/master/Infinite%20Scroll) [ViewLive](https://codepen.io/Jayasree_0708/full/ZEQmVEd)
+- Teri Eyenike - [Github](https://github.com/Terieyenike/infinity/tree/master) [ViewLive](https://infinit.netlify.app/)
 - Paul Gelario - [Github](https://pauldavid23.github.io/InfiniteScrollAPI/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Unsplashed-Infinite-Scroller)
-
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
