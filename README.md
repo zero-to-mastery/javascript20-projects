@@ -50,6 +50,7 @@ Check out all of the submissions below! Well done everyone:
 - Alexander Suero - [Github](https://github.com/alexandersuerof/Picture-in-Picture) [ViewLive](https://alexandersuerof.github.io/Picture-in-Picture/)
 - Yiying Jie - [Github](https://github.com/yjie28/jsp-picture-in-picture) [ViewLive](https://yjie28.github.io/jsp-picture-in-picture/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
+- Soojin - [Github](https://github.com/ehdgodgka/js20-picture-in-picture) [ViewLive](https://ehdgodgka.github.io/js20-picture-in-picture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
