@@ -19,7 +19,7 @@ Check out all of the submissions below! Well done everyone:
 - Shawn Gillespie - [Github](https://github.com/ShawnGillespie/prof-pongles-quote-generator) [ViewLive](https://shawngillespie.github.io/prof-pongles-quote-generator)
 - Anette - [Github](https://github.com/RedSquirrrel/quote-generator) [ViewLive](https://redsquirrrel.github.io/quote-generator/)
 - Rick Hallett - [Github](https://github.com/rickhallett/quote-generator)
-- Nabil -  [Github] (https://github.com/nabilnm/Quote-generator)
+- Nabil - [Github](https://github.com/nabilnm/Quote-generator)
 - Meghal Donde Pradhan - [Github](https://github.com/meghaldonde/quote-generator.github.io) [Live](https://meghaldonde.github.io/quote-generator.github.io/)
 - Brian Smith - [Github](https://github.com/theautoroboto/Execuse-Generator)
 - Daniel Livingston - [Github](https://github.com/DanielLivingston32/Quote-Generator)
@@ -32,8 +32,8 @@ Check out all of the submissions below! Well done everyone:
 - Mohamad Saad Eddin - [GitHub](https://github.com/MHD22/Quote-Generator-React-APP) [ViewLive](https://mhd22.github.io/Quote-Generator-React-APP/)
 - Aadil Rashid Najar - [Github](https://github.com/Aadil-Rashid/Eid-mubarak)
 - Michael Siu - [Github](https://github.com/mics13/QuoteGenerator)
-- Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/) 
-- Noha El-Boghdady - [Github] (https://github.com/nohaelboghdady/QuoteGenerator), [Viewlive](https://nohaelboghdady.github.io/QuoteGenerator/)
+- Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/)
+- Noha El-Boghdady - [Github](https://github.com/nohaelboghdady/QuoteGenerator), [Viewlive](https://nohaelboghdady.github.io/QuoteGenerator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -56,12 +56,13 @@ Check out all of the submissions below! Well done everyone:
 
 - Russ Perry - [Github](https://github.com/rperry99/joke-teller)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
+- Sam Kach - [Github](https://github.com/rizamoyi/joke-teller)
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit)
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode)
--
+- Sam Kach - [Github](https://github.com/rizamoyi/light-dark-mode)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
