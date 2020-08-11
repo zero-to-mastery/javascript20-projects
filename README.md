@@ -16,26 +16,39 @@ Check out all of the submissions below! Well done everyone:
 - Vlad Flore - [Github](https://vladflore.github.io/quote-generator)
 - Arianna Choza - [Github](https://github.com/unachoza/quote-generator) [ViewLive](https://unachoza.github.io/quote-generator/)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/quote-generator)
+- Shawn Gillespie - [Github](https://github.com/ShawnGillespie/prof-pongles-quote-generator) [ViewLive](https://shawngillespie.github.io/prof-pongles-quote-generator)
+- Anette - [Github](https://github.com/RedSquirrrel/quote-generator) [ViewLive](https://redsquirrrel.github.io/quote-generator/)
+- Rick Hallett - [Github](https://github.com/rickhallett/quote-generator)
+- Nabil -  [Github] (https://github.com/nabilnm/Quote-generator)
+- Meghal Donde Pradhan - [Github](https://github.com/meghaldonde/quote-generator.github.io) [Live](https://meghaldonde.github.io/quote-generator.github.io/)
 - Brian Smith - [Github](https://github.com/theautoroboto/Execuse-Generator)
 - Daniel Livingston - [Github](https://github.com/DanielLivingston32/Quote-Generator)
+- Paul Gelario - [Github](https://github.com/pauldavid23/quote-generator)
+- Adwaith Rajesh -[Github](https://github.com/Adwaith123/Quote-generator) [ViewLive](https://adwaith123.github.io/Quote-generator/)
+- Simone Taeggi - [Github](https://github.com/simotae14/quote-tae-generator) [ViewLive](https://simotae14.github.io/quote-tae-generator/)
 - Sam Kach - [Github](https://github.com/rizamoyi/quote-generator)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Quote-Generator)
 - Vignesh G - [Github](https://github.com/VigneshG1616/Quote_Generator_Modified) [ViewLive](https://vigneshg1616.github.io/Quote_Generator_Modified/)
 - Mohamad Saad Eddin - [GitHub](https://github.com/MHD22/Quote-Generator-React-APP) [ViewLive](https://mhd22.github.io/Quote-Generator-React-APP/)
 - Aadil Rashid Najar - [Github](https://github.com/Aadil-Rashid/Eid-mubarak)
 - Michael Siu - [Github](https://github.com/mics13/QuoteGenerator)
-- Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/)
+- Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/) 
+- Noha El-Boghdady - [Github] (https://github.com/nohaelboghdady/QuoteGenerator), [Viewlive](https://nohaelboghdady.github.io/QuoteGenerator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
 - Russ Perry - [Github](https://github.com/rperry99/infinite-scroll)
 - JayaSree - [Github](https://github.com/Jayasree77/Front-end/tree/master/Infinite%20Scroll) [ViewLive](https://codepen.io/Jayasree_0708/full/ZEQmVEd)
+- Teri Eyenike - [Github](https://github.com/Terieyenike/infinity/tree/master) [ViewLive](https://infinit.netlify.app/)
+- Paul Gelario - [Github](https://pauldavid23.github.io/InfiniteScrollAPI/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Unsplashed-Infinite-Scroller)
 - Sam Kach - [Github](https://github.com/rizamoyi/infinite-scroll)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
 - Russ Perry - [Github](https://github.com/rperry99/picture-in-picture)
+- Alexander Suero - [Github](https://github.com/alexandersuerof/Picture-in-Picture) [ViewLive](https://alexandersuerof.github.io/Picture-in-Picture/)
+- Yiying Jie - [Github](https://github.com/yjie28/jsp-picture-in-picture) [ViewLive](https://yjie28.github.io/jsp-picture-in-picture/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
 - Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
 
@@ -58,12 +71,14 @@ Check out all of the submissions below! Well done everyone:
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
 - Russ Perry - [Github](https://github.com/rperry99/navigation-animation)
--
+- Rick Hallett - [Github](https://github.com/rickhallett/crypto-io) (work in progress! Will be completed by 31/08/2020! [ViewLive](https://rickhallett.github.io/crypto-io-bundled/))
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
 - Russ Perry - [Github](https://github.com/rperry99/javascript-music-player)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/javascript20-projects)
+- Yusuf Abukar - [Github](https://github.com/yusufabukar/audioplayer)
+- Juan Melara - [Github](https://juanky256.github.io/Music-Player/)
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audio-player/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
