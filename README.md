@@ -42,6 +42,7 @@ Check out all of the submissions below! Well done everyone:
 - Teri Eyenike - [Github](https://github.com/Terieyenike/infinity/tree/master) [ViewLive](https://infinit.netlify.app/)
 - Paul Gelario - [Github](https://pauldavid23.github.io/InfiniteScrollAPI/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Unsplashed-Infinite-Scroller)
+- Sam Kach - [Github](https://github.com/rizamoyi/infinite-scroll)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
@@ -49,6 +50,7 @@ Check out all of the submissions below! Well done everyone:
 - Alexander Suero - [Github](https://github.com/alexandersuerof/Picture-in-Picture) [ViewLive](https://alexandersuerof.github.io/Picture-in-Picture/)
 - Yiying Jie - [Github](https://github.com/yjie28/jsp-picture-in-picture) [ViewLive](https://yjie28.github.io/jsp-picture-in-picture/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
+- Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
@@ -83,7 +85,6 @@ Check out all of the submissions below! Well done everyone:
 
 - Russ Perry - [Github](https://github.com/rperry99/custom-countdown)
 - Arianna Choza - [Github](https://github.com/unachoza/countdown) [ViewLive](https://unachoza.github.io/countdown)
-
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
