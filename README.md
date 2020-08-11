@@ -23,6 +23,7 @@ Check out all of the submissions below! Well done everyone:
 - Meghal Donde Pradhan - [Github](https://github.com/meghaldonde/quote-generator.github.io) [Live](https://meghaldonde.github.io/quote-generator.github.io/)
 - Brian Smith - [Github](https://github.com/theautoroboto/Execuse-Generator)
 - Daniel Livingston - [Github](https://github.com/DanielLivingston32/Quote-Generator)
+- Keshav Naganathan - [Github](https://github.com/DevKesh/quote_app) and [Click here for live app](https://generator-quotes.netlify.app/)
 - Paul Gelario - [Github](https://github.com/pauldavid23/quote-generator)
 - Adwaith Rajesh -[Github](https://github.com/Adwaith123/Quote-generator) [ViewLive](https://adwaith123.github.io/Quote-generator/)
 - Simone Taeggi - [Github](https://github.com/simotae14/quote-tae-generator) [ViewLive](https://simotae14.github.io/quote-tae-generator/)
