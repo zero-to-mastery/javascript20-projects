@@ -32,7 +32,8 @@ Check out all of the submissions below! Well done everyone:
 - Mohamad Saad Eddin - [GitHub](https://github.com/MHD22/Quote-Generator-React-APP) [ViewLive](https://mhd22.github.io/Quote-Generator-React-APP/)
 - Aadil Rashid Najar - [Github](https://github.com/Aadil-Rashid/Eid-mubarak)
 - Michael Siu - [Github](https://github.com/mics13/QuoteGenerator)
-- Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/) 
+- Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/)
+- Soojin [Github](https://github.com/ehdgodgka/quote-generator), [ViewLive](https://ehdgodgka.github.io/quote-generator/)
 - Theodorus Clarence - [Github](https://github.com/theodorusclarence/quote-generator), [ViewLive](https://theodorusclarence.github.io/quote-generator/)
 - Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/) 
 - Noha El-Boghdady - [Github](https://github.com/nohaelboghdady/QuoteGenerator), [Viewlive](https://nohaelboghdady.github.io/QuoteGenerator/)
@@ -44,6 +45,7 @@ Check out all of the submissions below! Well done everyone:
 - Teri Eyenike - [Github](https://github.com/Terieyenike/infinity/tree/master) [ViewLive](https://infinit.netlify.app/)
 - Paul Gelario - [Github](https://pauldavid23.github.io/InfiniteScrollAPI/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Unsplashed-Infinite-Scroller)
+- Soojin - [Github](https://github.com/ehdgodgka/js20-infinity-scroll) [ViewLive](https://ehdgodgka.github.io/js20-infinity-scroll/)
 - Sam Kach - [Github](https://github.com/rizamoyi/infinite-scroll)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
@@ -52,6 +54,7 @@ Check out all of the submissions below! Well done everyone:
 - Alexander Suero - [Github](https://github.com/alexandersuerof/Picture-in-Picture) [ViewLive](https://alexandersuerof.github.io/Picture-in-Picture/)
 - Yiying Jie - [Github](https://github.com/yjie28/jsp-picture-in-picture) [ViewLive](https://yjie28.github.io/jsp-picture-in-picture/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
+- Soojin - [Github](https://github.com/ehdgodgka/js20-picture-in-picture) [ViewLive](https://ehdgodgka.github.io/js20-picture-in-picture/)
 - Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
