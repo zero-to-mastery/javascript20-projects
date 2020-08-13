@@ -36,7 +36,7 @@ Check out all of the submissions below! Well done everyone:
 - Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/)
 - Soojin [Github](https://github.com/ehdgodgka/quote-generator), [ViewLive](https://ehdgodgka.github.io/quote-generator/)
 - Theodorus Clarence - [Github](https://github.com/theodorusclarence/quote-generator), [ViewLive](https://theodorusclarence.github.io/quote-generator/)
-- Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/) 
+- Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/)
 - Noha El-Boghdady - [Github](https://github.com/nohaelboghdady/QuoteGenerator), [Viewlive](https://nohaelboghdady.github.io/QuoteGenerator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
@@ -48,6 +48,7 @@ Check out all of the submissions below! Well done everyone:
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Unsplashed-Infinite-Scroller)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-infinity-scroll) [ViewLive](https://ehdgodgka.github.io/js20-infinity-scroll/)
 - Sam Kach - [Github](https://github.com/rizamoyi/infinite-scroll)
+- Anette - [Github](https://github.com/RedSquirrrel/infinite-scroll) [ViewLive](https://redsquirrrel.github.io/infinite-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
@@ -57,23 +58,27 @@ Check out all of the submissions below! Well done everyone:
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-picture-in-picture) [ViewLive](https://ehdgodgka.github.io/js20-picture-in-picture/)
 - Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
+- Anette - [Github](https://github.com/RedSquirrrel/picture-in-picture) [ViewLive](https://redsquirrrel.github.io/picture-in-picture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
 - Russ Perry - [Github](https://github.com/rperry99/joke-teller)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
 - Sam Kach - [Github](https://github.com/rizamoyi/joke-teller)
+- Anette - [Github](https://github.com/RedSquirrrel/joke-teller) [ViewLive](https://redsquirrrel.github.io/joke-teller/)
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit)
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode)
 - Sam Kach - [Github](https://github.com/rizamoyi/light-dark-mode)
+- Anette - [Github](https://github.com/RedSquirrrel/light-dark-mode) [ViewLive](https://redsquirrrel.github.io/light-dark-mode/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
 - Russ Perry - [Github](https://github.com/rperry99/animation-template)
 - Ozziel Ruiiz [Github](https://ozzielruiz.github.io/animated-template/)
+- Anette - [Github](https://github.com/RedSquirrrel/isle-of-wight) [ViewLive](https://redsquirrrel.github.io/isle-of-wight/)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
