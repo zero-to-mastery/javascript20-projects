@@ -48,6 +48,7 @@ Check out all of the submissions below! Well done everyone:
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Unsplashed-Infinite-Scroller)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-infinity-scroll) [ViewLive](https://ehdgodgka.github.io/js20-infinity-scroll/)
 - Sam Kach - [Github](https://github.com/rizamoyi/infinite-scroll)
+- Vlad Flore - [Github](https://vladflore.github.io/infinity-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
@@ -57,6 +58,7 @@ Check out all of the submissions below! Well done everyone:
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-picture-in-picture) [ViewLive](https://ehdgodgka.github.io/js20-picture-in-picture/)
 - Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
+- Vlad Flore - [Github](https://vladflore.github.io/picture-in-picture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
