@@ -36,8 +36,9 @@ Check out all of the submissions below! Well done everyone:
 - Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/)
 - Soojin [Github](https://github.com/ehdgodgka/quote-generator), [ViewLive](https://ehdgodgka.github.io/quote-generator/)
 - Theodorus Clarence - [Github](https://github.com/theodorusclarence/quote-generator), [ViewLive](https://theodorusclarence.github.io/quote-generator/)
-- Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/) 
+- Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/)
 - Noha El-Boghdady - [Github](https://github.com/nohaelboghdady/QuoteGenerator), [Viewlive](https://nohaelboghdady.github.io/QuoteGenerator/)
+- tzeepee - [Github](https://github.com/tzeepee/zitatengenerator), [Viewlive](https://tzeepee.github.io/zitatengenerator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
