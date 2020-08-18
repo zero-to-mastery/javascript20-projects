@@ -33,7 +33,7 @@ Check out all of the submissions below! Well done everyone:
 - Aadil Rashid Najar - [Github](https://github.com/Aadil-Rashid/Eid-mubarak)
 - Michael Siu - [Github](https://github.com/mics13/QuoteGenerator)
 - Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/) 
-- jthinlay - [Github](https://github.com/jthinlay/javascriptProjectQuoteGenerator), [ViewLive](https://jthinlay.github.io/javascriptProjectQuoteGenerator/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProjectQuoteGenerator), [ViewLive](https://jthinlay.github.io/javascriptProjectQuoteGenerator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -42,6 +42,7 @@ Check out all of the submissions below! Well done everyone:
 - Teri Eyenike - [Github](https://github.com/Terieyenike/infinity/tree/master) [ViewLive](https://infinit.netlify.app/)
 - Paul Gelario - [Github](https://pauldavid23.github.io/InfiniteScrollAPI/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Unsplashed-Infinite-Scroller)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectInfiniteScroll) [ViewLive](https://jthinlay.github.io/JavaScriptProjectInfiniteScroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
