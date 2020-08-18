@@ -12,6 +12,7 @@ Check out all of the submissions below! Well done everyone:
 
 - Teri Eyenike - [Github](https://github.com/Terieyenike/quotegenerator)
 - Russ Perry - [Github](https://github.com/rperry99/quote-generator)
+- Rasika Kshirsagar - [Github](https://github.com/rasika30/quote-generator) [ViewLive](https://rasika30.github.io/quote-generator/)
 - Jovan Ničković - [Github](https://github.com/jovannickovic/quote-generator)
 - Vlad Flore - [Github](https://vladflore.github.io/quote-generator)
 - Arianna Choza - [Github](https://github.com/unachoza/quote-generator) [ViewLive](https://unachoza.github.io/quote-generator/)
