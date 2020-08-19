@@ -33,7 +33,7 @@ Check out all of the submissions below! Well done everyone:
 - Mohamad Saad Eddin - [GitHub](https://github.com/MHD22/Quote-Generator-React-APP) [ViewLive](https://mhd22.github.io/Quote-Generator-React-APP/)
 - Aadil Rashid Najar - [Github](https://github.com/Aadil-Rashid/Eid-mubarak)
 - Michael Siu - [Github](https://github.com/mics13/QuoteGenerator)
-- Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/)
+- Austin Hill - [Github](https://github.com/Akinghill/Quote-Machine) [ViewLive](https://akinghill.github.io/Quote-Machine/)
 - Soojin [Github](https://github.com/ehdgodgka/quote-generator), [ViewLive](https://ehdgodgka.github.io/quote-generator/)
 - Theodorus Clarence - [Github](https://github.com/theodorusclarence/quote-generator), [ViewLive](https://theodorusclarence.github.io/quote-generator/)
 - Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/) 
@@ -69,6 +69,7 @@ Check out all of the submissions below! Well done everyone:
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit)
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode)
 - Sam Kach - [Github](https://github.com/rizamoyi/light-dark-mode)
+- Austin Hill - [Github](https://github.com/Akinghill/markdown-previewer-LD) [ViewLive](https://akinghill.github.io/markdown-previewer-LD/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
