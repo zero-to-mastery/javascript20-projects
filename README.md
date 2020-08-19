@@ -132,7 +132,7 @@ Check out all of the submissions below! Well done everyone:
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
--
+- @stanimal93 [GitHub](https://github.com/stanimal93/bubbly-calculator)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
