@@ -75,6 +75,7 @@ Check out all of the submissions below! Well done everyone:
 
 - Russ Perry - [Github](https://github.com/rperry99/animation-template)
 - Ozziel Ruiiz [Github](https://ozzielruiz.github.io/animated-template/)
+- Soojin - [Github](https://github.com/ehdgodgka/j20-animation) [ViewLive](https://ehdgodgka.github.io/j20-animation/)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
