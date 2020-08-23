@@ -49,6 +49,7 @@ Check out all of the submissions below! Well done everyone:
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Unsplashed-Infinite-Scroller)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-infinity-scroll) [ViewLive](https://ehdgodgka.github.io/js20-infinity-scroll/)
 - Sam Kach - [Github](https://github.com/rizamoyi/infinite-scroll)
+- WayneMacMavis - [Github](https://github.com/waynemacmavis/infinite-scroll), [Viewlive](https://waynemacmavis.github.io/infinite-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
