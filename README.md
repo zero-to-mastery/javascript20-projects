@@ -81,7 +81,7 @@ Check out all of the submissions below! Well done everyone:
 
 - Russ Perry - [Github](https://github.com/rperry99/navigation-animation)
 - Rick Hallett - [Github](https://github.com/rickhallett/crypto-io) (work in progress! Will be completed by 31/08/2020! [ViewLive](https://rickhallett.github.io/crypto-io-bundled/))
-- Soojin - [Github](https://github.com/ehdgodgka/j20-animation) [ViewLive](https://ehdgodgka.github.io/j20-animation/)
+- Soojin - [Github](https://github.com/ehdgodgka/j20-navigation) [ViewLive](https://ehdgodgka.github.io/j20-navigation/)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
@@ -90,6 +90,7 @@ Check out all of the submissions below! Well done everyone:
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audioplayer)
 - Juan Melara - [Github](https://juanky256.github.io/Music-Player/)
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audio-player/)
+- Soojin - [Github](https://github.com/ehdgodgka/j20-music-player) [ViewLive](https://ehdgodgka.github.io/j20-music-player/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
