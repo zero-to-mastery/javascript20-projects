@@ -69,6 +69,7 @@ Check out all of the submissions below! Well done everyone:
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit)
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode)
 - Sam Kach - [Github](https://github.com/rizamoyi/light-dark-mode)
+- Simone Taeggi - [Github](https://github.com/simotae14/light-dark-mode-tae) [ViewLive](https://simotae14.github.io/light-dark-mode-tae/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
