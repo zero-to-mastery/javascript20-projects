@@ -11,7 +11,7 @@ Check out all of the submissions below! Well done everyone:
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
 - Teri Eyenike - [Github](https://github.com/Terieyenike/quotegenerator)
-- Russ Perry - [Github](https://github.com/rperry99/quote-generator)
+- Russ Perry - [Github](https://github.com/rperry99/quote-generator) [ViewLive](https://rperry99.github.io/quote-generator/)
 - Jovan Ničković - [Github](https://github.com/jovannickovic/quote-generator)
 - Vlad Flore - [Github](https://vladflore.github.io/quote-generator)
 - Arianna Choza - [Github](https://github.com/unachoza/quote-generator) [ViewLive](https://unachoza.github.io/quote-generator/)
@@ -36,12 +36,12 @@ Check out all of the submissions below! Well done everyone:
 - Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/)
 - Soojin [Github](https://github.com/ehdgodgka/quote-generator), [ViewLive](https://ehdgodgka.github.io/quote-generator/)
 - Theodorus Clarence - [Github](https://github.com/theodorusclarence/quote-generator), [ViewLive](https://theodorusclarence.github.io/quote-generator/)
-- Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/) 
+- Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/)
 - Noha El-Boghdady - [Github](https://github.com/nohaelboghdady/QuoteGenerator), [Viewlive](https://nohaelboghdady.github.io/QuoteGenerator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
-- Russ Perry - [Github](https://github.com/rperry99/infinite-scroll)
+- Russ Perry - [Github](https://github.com/rperry99/infinite-scroll) [ViewLive](https://russ-infinite-scroll.netlify.app/)
 - JayaSree - [Github](https://github.com/Jayasree77/Front-end/tree/master/Infinite%20Scroll) [ViewLive](https://codepen.io/Jayasree_0708/full/ZEQmVEd)
 - Teri Eyenike - [Github](https://github.com/Terieyenike/infinity/tree/master) [ViewLive](https://infinit.netlify.app/)
 - Paul Gelario - [Github](https://pauldavid23.github.io/InfiniteScrollAPI/)
@@ -51,7 +51,7 @@ Check out all of the submissions below! Well done everyone:
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
-- Russ Perry - [Github](https://github.com/rperry99/picture-in-picture)
+- Russ Perry - [Github](https://github.com/rperry99/picture-in-picture) [ViewLive](https://rperry99.github.io/picture-in-picture/)
 - Alexander Suero - [Github](https://github.com/alexandersuerof/Picture-in-Picture) [ViewLive](https://alexandersuerof.github.io/Picture-in-Picture/)
 - Yiying Jie - [Github](https://github.com/yjie28/jsp-picture-in-picture) [ViewLive](https://yjie28.github.io/jsp-picture-in-picture/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
@@ -60,19 +60,19 @@ Check out all of the submissions below! Well done everyone:
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
-- Russ Perry - [Github](https://github.com/rperry99/joke-teller)
+- Russ Perry - [Github](https://github.com/rperry99/joke-teller) [ViewLive](https://github.com/rperry99/joke-teller)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
 - Sam Kach - [Github](https://github.com/rizamoyi/joke-teller)
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit)
-- Russ Perry - [Github](https://github.com/rperry99/light-dark-mode)
+- Russ Perry - [Github](https://github.com/rperry99/light-dark-mode) [ViewLive](https://rperry99.github.io/light-dark-mode/index.html)
 - Sam Kach - [Github](https://github.com/rizamoyi/light-dark-mode)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
-- Russ Perry - [Github](https://github.com/rperry99/animation-template)
+- Russ Perry - [Github](https://github.com/rperry99/animation-template) [ViewLive](https://rperry99.github.io/animation-template/)
 - Ozziel Ruiiz [Github](https://ozzielruiz.github.io/animated-template/)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
@@ -82,7 +82,7 @@ Check out all of the submissions below! Well done everyone:
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
-- Russ Perry - [Github](https://github.com/rperry99/javascript-music-player)
+- Russ Perry - [Github](https://github.com/rperry99/javascript-music-player) [ViewLive](https://rperry99.github.io/navigation-animation/)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/javascript20-projects)
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audioplayer)
 - Juan Melara - [Github](https://juanky256.github.io/Music-Player/)
@@ -90,25 +90,27 @@ Check out all of the submissions below! Well done everyone:
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
-- Russ Perry - [Github](https://github.com/rperry99/custom-countdown)
+- Russ Perry - [Github](https://github.com/rperry99/custom-countdown) [ViewLive](https://rperry99.github.io/custom-countdown/)
 - Arianna Choza - [Github](https://github.com/unachoza/countdown) [ViewLive](https://unachoza.github.io/countdown)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
-- Russ Perry - [Github](https://github.com/rperry99/book-keeper)
+- Russ Perry - [Github](https://github.com/rperry99/book-keeper) [ViewLive](https://rperry99.github.io/book-keeper/)
 -
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/video-player/)
+- Russ Perry - [GitHub](https://github.com/rperry99/video-player) [ViewLive](https://rperry99.github.io/video-player/)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
 - Brian Smith - [Github](https://github.com/theautoroboto/TheAutoLotto)
+- Russ Perry - [GitHub](https://github.com/rperry99/form-validation) [ViewLive](https://rperry99.github.io/form-validation/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
--
+- Russ Perry - [GitHub](https://github.com/rperry99/spock-rock-game) [ViewLive](https://rperry99.github.io/spock-rock-game/)
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
