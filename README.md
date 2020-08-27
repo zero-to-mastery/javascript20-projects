@@ -113,14 +113,15 @@ Check out all of the submissions below! Well done everyone:
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
 - Brian Smith - [Github](https://github.com/theautoroboto/TheAutoLotto)
+- Anette - [Github](https://github.com/RedSquirrrel/form-validator) [ViewLive](https://redsquirrrel.github.io/form-validator/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
--
+- Anette [Github](https://github.com/RedSquirrrel/rock-spock) [ViewLive](https://redsquirrrel.github.io/rock-spock/)
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
--
+- Anette [Github](https://github.com/RedSquirrrel/nasa-apod) [ViewLive](https://redsquirrrel.github.io/nasa-apod/)
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
@@ -132,7 +133,7 @@ Check out all of the submissions below! Well done everyone:
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
--
+- Anette [Github](https://github.com/RedSquirrrel/math-sprint-game) [ViewLive](https://redsquirrrel.github.io/math-sprint-game/)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
