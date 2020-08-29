@@ -128,7 +128,7 @@ Check out all of the submissions below! Well done everyone:
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
--
+- Marius Bogdanel - [Github](https://github.com/mbogdanel/kanban-board) [ViewLive](https://mbogdanel.github.io/kanban-board/)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
