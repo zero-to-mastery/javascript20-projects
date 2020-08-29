@@ -38,6 +38,7 @@ Check out all of the submissions below! Well done everyone:
 - Theodorus Clarence - [Github](https://github.com/theodorusclarence/quote-generator), [ViewLive](https://theodorusclarence.github.io/quote-generator/)
 - Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/) 
 - Noha El-Boghdady - [Github](https://github.com/nohaelboghdady/QuoteGenerator), [Viewlive](https://nohaelboghdady.github.io/QuoteGenerator/)
+- Hamza Khan - [GitHub](https://github.com/salderahamza/Quote-Generator), [Live](https://salderahamza.github.io/Quote-Generator)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
