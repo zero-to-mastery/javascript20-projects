@@ -38,6 +38,7 @@ Check out all of the submissions below! Well done everyone:
 - Theodorus Clarence - [Github](https://github.com/theodorusclarence/quote-generator), [ViewLive](https://theodorusclarence.github.io/quote-generator/)
 - Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/) 
 - Noha El-Boghdady - [Github](https://github.com/nohaelboghdady/QuoteGenerator), [Viewlive](https://nohaelboghdady.github.io/QuoteGenerator/)
+- Rahul Bakshi - [Github](https://github.com/rahulbakshi4/get-me-a-quote), [ViewLive](https://rahulbakshi4.github.io/get-me-a-quote/)
 - Gabriel Vasile - [Github](https://github.com/ItsGabeYo/QuoteGenerator), [ViewLive](https://itsgabeyo.github.io/QuoteGenerator/)
 - Lidia Alonso [Github] (https://github.com/alonso276/quotegenerator), [Viewlive] (https://alonso276.github.io/quotegenerator/)
 - Sujanth S - [Github](https://github.com/sujanth21/quote_generator_api), [Viewlive](https://suj-quote-generator.herokuapp.com/api/v1/quotes/random), [Front-end](https://suj-quote-generator.herokuapp.com/)
@@ -63,6 +64,7 @@ Check out all of the submissions below! Well done everyone:
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-picture-in-picture) [ViewLive](https://ehdgodgka.github.io/js20-picture-in-picture/)
 - Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
+- Rahul Bakshi - [Github](https://github.com/rahulbakshi4/picture-in-pcture), [ViewLive](https://rahulbakshi4.github.io/picture-in-picture/)  
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
