@@ -38,6 +38,7 @@ Check out all of the submissions below! Well done everyone:
 - Theodorus Clarence - [Github](https://github.com/theodorusclarence/quote-generator), [ViewLive](https://theodorusclarence.github.io/quote-generator/)
 - Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/) 
 - Noha El-Boghdady - [Github](https://github.com/nohaelboghdady/QuoteGenerator), [Viewlive](https://nohaelboghdady.github.io/QuoteGenerator/)
+- Karan Ahir - [GitHub](https://github.com/karanahir9/Quote-Genrator), [ViewLive](https://karanahir9.github.io/Quote-Genrator/)
 - Sarwar Md - [Github](https://github.com/Sarwar-Md/quote_), [Viewlive](https://sarwar-md.github.io/quote_/)
 - Rahul Bakshi - [Github](https://github.com/rahulbakshi4/get-me-a-quote), [ViewLive](https://rahulbakshi4.github.io/get-me-a-quote/)
 - Gabriel Vasile - [Github](https://github.com/ItsGabeYo/QuoteGenerator), [ViewLive](https://itsgabeyo.github.io/QuoteGenerator/)
@@ -45,6 +46,7 @@ Check out all of the submissions below! Well done everyone:
 - Sujanth S - [Github](https://github.com/sujanth21/quote_generator_api), [Viewlive](https://suj-quote-generator.herokuapp.com/api/v1/quotes/random), [Front-end](https://suj-quote-generator.herokuapp.com/)
 - Maxim Klochkov - [Github](https://github.com/eastmann/quote-generator), [Viewlive](https://eastmann.github.io/quote-generator/)
 - Harsh Goswami - [Github](https://github.com/astomak/random_qoute_generator), [ViewLive](https://astomak.github.io/random_qoute_generator/)
+
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -55,6 +57,7 @@ Check out all of the submissions below! Well done everyone:
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Unsplashed-Infinite-Scroller)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-infinity-scroll) [ViewLive](https://ehdgodgka.github.io/js20-infinity-scroll/)
 - Sam Kach - [Github](https://github.com/rizamoyi/infinite-scroll)
+- Karan Ahir - [GitHub](https://github.com/karanahir9/Infinity-Scroll) [ViewLive](https://karanahir9.github.io/Infinity-Scroll/)
 - Sarwar Md - [Github](https://github.com/Sarwar-Md/lens.git)
 - Harsh Goswami - [Github](https://github.com/astomak/masonry_image_gallery), [ViewLive](https://astomak.github.io/masonry_image_gallery/)
 
