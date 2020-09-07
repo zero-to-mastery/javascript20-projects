@@ -72,7 +72,11 @@ Check out all of the submissions below! Well done everyone:
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-picture-in-picture) [ViewLive](https://ehdgodgka.github.io/js20-picture-in-picture/)
 - Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
+<<<<<<< HEAD
 - Rahul Bakshi - [Github](https://github.com/rahulbakshi4/picture-in-pcture), [ViewLive](https://rahulbakshi4.github.io/picture-in-picture/)  
+=======
+- Karan Ahir - [Github](https://github.com/karanahir9/Picture-In-Picture) [ViewLive](https://karanahir9.github.io/Picture-In-Picture/)
+>>>>>>> Added my Picture-In-Picture links
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
