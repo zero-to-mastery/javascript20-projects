@@ -36,8 +36,9 @@ Check out all of the submissions below! Well done everyone:
 - Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/)
 - Soojin - [Github](https://github.com/ehdgodgka/quote-generator), [ViewLive](https://ehdgodgka.github.io/quote-generator/)
 - Theodorus Clarence - [Github](https://github.com/theodorusclarence/quote-generator), [ViewLive](https://theodorusclarence.github.io/quote-generator/)
-- Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/) 
+- Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/)
 - Noha El-Boghdady - [Github](https://github.com/nohaelboghdady/QuoteGenerator), [Viewlive](https://nohaelboghdady.github.io/QuoteGenerator/)
+- Elena Markova - [Github](https://github.com/webkwondo/quote-generator), [Viewlive](https://webkwondo.github.io/quote-generator/)
 - Karan Ahir - [GitHub](https://github.com/karanahir9/Quote-Genrator), [ViewLive](https://karanahir9.github.io/Quote-Genrator/)
 - Sarwar Md - [Github](https://github.com/Sarwar-Md/quote_), [Viewlive](https://sarwar-md.github.io/quote_/)
 - Rahul Bakshi - [Github](https://github.com/rahulbakshi4/get-me-a-quote), [ViewLive](https://rahulbakshi4.github.io/get-me-a-quote/)
@@ -46,7 +47,6 @@ Check out all of the submissions below! Well done everyone:
 - Sujanth S - [Github](https://github.com/sujanth21/quote_generator_api), [Viewlive](https://suj-quote-generator.herokuapp.com/api/v1/quotes/random), [Front-end](https://suj-quote-generator.herokuapp.com/)
 - Maxim Klochkov - [Github](https://github.com/eastmann/quote-generator), [Viewlive](https://eastmann.github.io/quote-generator/)
 - Harsh Goswami - [Github](https://github.com/astomak/random_qoute_generator), [ViewLive](https://astomak.github.io/random_qoute_generator/)
-
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
