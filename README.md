@@ -49,6 +49,7 @@ Check out all of the submissions below! Well done everyone:
 - Sujanth S - [Github](https://github.com/sujanth21/quote_generator_api), [Viewlive](https://suj-quote-generator.herokuapp.com/api/v1/quotes/random), [Front-end](https://suj-quote-generator.herokuapp.com/)
 - Maxim Klochkov - [Github](https://github.com/eastmann/quote-generator), [Viewlive](https://eastmann.github.io/quote-generator/)
 - Harsh Goswami - [Github](https://github.com/astomak/random_qoute_generator), [ViewLive](https://astomak.github.io/random_qoute_generator/)
+- Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/QuoteGenerator), [ViewLive](https://gabrielamcarvalho.github.io/QuoteGenerator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -63,6 +64,7 @@ Check out all of the submissions below! Well done everyone:
 - Karan Ahir - [GitHub](https://github.com/karanahir9/Infinity-Scroll) [ViewLive](https://karanahir9.github.io/Infinity-Scroll/)
 - Sarwar Md - [Github](https://github.com/Sarwar-Md/lens.git)
 - Harsh Goswami - [Github](https://github.com/astomak/masonry_image_gallery), [ViewLive](https://astomak.github.io/masonry_image_gallery/)
+- Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/InfiniteDogs), [ViewLive](https://gabrielamcarvalho.github.io/InfiniteDogs/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
@@ -72,13 +74,15 @@ Check out all of the submissions below! Well done everyone:
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-picture-in-picture) [ViewLive](https://ehdgodgka.github.io/js20-picture-in-picture/)
 - Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
-- Rahul Bakshi - [Github](https://github.com/rahulbakshi4/picture-in-pcture), [ViewLive](https://rahulbakshi4.github.io/picture-in-picture/)  
+- Rahul Bakshi - [Github](https://github.com/rahulbakshi4/picture-in-pcture), [ViewLive](https://rahulbakshi4.github.io/picture-in-picture/) 
+- Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/PictureInPicture), [ViewLive](https://gabrielamcarvalho.github.io/PictureInPicture/) 
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
 - Russ Perry - [Github](https://github.com/rperry99/joke-teller)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
 - Sam Kach - [Github](https://github.com/rizamoyi/joke-teller)
+- Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/jokeTeller), [ViewLive](https://gabrielamcarvalho.github.io/jokeTeller/)
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
