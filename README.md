@@ -94,7 +94,7 @@ Check out all of the submissions below! Well done everyone:
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audioplayer)
 - Juan Melara - [Github](https://juanky256.github.io/Music-Player/)
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audio-player/)
-- Hamza Khan - [Github](https://github.com/salderahamza/music-player) [Live](htpps://salderahamza.github.io/music-player)
+- Hamza Khan - [Github](https://github.com/salderahamza/music-player) [Live](https://salderahamza.github.io/music-player)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
@@ -105,7 +105,7 @@ Check out all of the submissions below! Well done everyone:
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
 - Russ Perry - [Github](https://github.com/rperry99/book-keeper)
--
+- Hamza Khan - [Github](https://github.com/salderahamza/bookmark-app)
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
