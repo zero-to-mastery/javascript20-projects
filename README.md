@@ -114,28 +114,28 @@ Check out all of the submissions below! Well done everyone:
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
--
+- Russ Perry - [GitHub](https://github.com/rperry99/Nasa-APOD) [ViewLive](https://rperry99.github.io/Nasa-APOD/)
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
--
+- Russ Perry - [GitHub](https://github.com/rperry99/paint-clone) [ViewLive](https://rperry99.github.io/paint-clone/)
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
--
+- Russ Perry - [GitHub](https://rperry99.github.io/pong-clone/) [ViewLive](https://rperry99.github.io/pong-clone/)
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
--
+- Russ Perry - [GitHub](https://github.com/rperry99/math-sprint) [ViewLive](https://rperry99.github.io/math-sprint/)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
--
+- Russ Perry - [GitHub](https://github.com/rperry99/kanban-board) [ViewLive](https://rperry99.github.io/kanban-board/)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
--
+- Russ Perry - [GitHub](https://github.com/rperry99/calculator) [ViewLive](https://rperry99.github.io/calculator/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
--
+- Russ Perry - [GitHub](https://github.com/rperry99/splash-page) [ViewLive](https://rperry99.github.io/splash-page/)
