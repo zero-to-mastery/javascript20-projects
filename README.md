@@ -56,17 +56,20 @@ Check out all of the submissions below! Well done everyone:
 
 - Russ Perry - [Github](https://github.com/rperry99/joke-teller)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javaScriptProjectTellJoke) [ViewLive](https://jthinlay.github.io/javaScriptProjectTellJoke/)
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit)
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode)
--
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProjectTemplate_dark_light_mode) [ViewLive](https://jthinlay.github.io/javascriptProjectTemplate_dark_light_mode/)
+
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
 - Russ Perry - [Github](https://github.com/rperry99/animation-template)
 - Ozziel Ruiiz [Github](https://ozzielruiz.github.io/animated-template/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProjectAnimatedTemplate) [ViewLive](https://jthinlay.github.io/javascriptProjectAnimatedTemplate/)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
