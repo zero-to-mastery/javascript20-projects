@@ -192,7 +192,7 @@ Check out all of the submissions below! Well done everyone:
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
--
+- Huang YiTing - [Github](https://github.com/yiting76/ricarball) [ViewLive](https://yiting76.github.io/ricarball/)
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
