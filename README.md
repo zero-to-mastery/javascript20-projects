@@ -92,6 +92,7 @@ Check out all of the submissions below! Well done everyone:
 
 - Russ Perry - [Github](https://github.com/rperry99/animation-template)
 - Ozziel Ruiiz [Github](https://ozzielruiz.github.io/animated-template/)
+- Sam Kach - [Github](https://github.com/rizamoyi/animated-template)
 - Soojin - [Github](https://github.com/ehdgodgka/j20-animation) [ViewLive](https://ehdgodgka.github.io/j20-animation/)
 - Ozziel Ruiiz - [Github](https://ozzielruiz.github.io/animated-template/)
 - Roy Wang - [Github](https://github.com/falinwang/portfolio), [View live](https://falinwang.github.io/portfolio/)
