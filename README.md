@@ -9,7 +9,6 @@ Student submissions for the JavaScript 20 projects
 Check out all of the submissions below! Well done everyone:
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
-
 - Teri Eyenike - [Github](https://github.com/Terieyenike/quotegenerator)
 - Russ Perry - [Github](https://github.com/rperry99/quote-generator)
 - Rasika Kshirsagar - [Github](https://github.com/rasika30/quote-generator) [ViewLive](https://rasika30.github.io/quote-generator/)
@@ -162,11 +161,9 @@ Check out all of the submissions below! Well done everyone:
 - Anette - [Github](https://github.com/RedSquirrrel/form-validator) [ViewLive](https://redsquirrrel.github.io/form-validator/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
-
 - Anette [Github](https://github.com/RedSquirrrel/rock-spock) [ViewLive](https://redsquirrrel.github.io/rock-spock/)
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
-
 - Anette [Github](https://github.com/RedSquirrrel/nasa-apod) [ViewLive](https://redsquirrrel.github.io/nasa-apod/)
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
@@ -187,7 +184,7 @@ Check out all of the submissions below! Well done everyone:
 - Grassper - [Github](https://github.com/Grassper/organizer) [ViewLive](https://grassper.github.io/organizer/)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
-
+- @stanimal93 - [GitHub](https://github.com/stanimal93/bubbly-calculator)
 - Anette [Github](https://github.com/RedSquirrrel/calculator) [ViewLive](https://redsquirrrel.github.io/calculator/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
