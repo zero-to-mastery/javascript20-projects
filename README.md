@@ -79,16 +79,19 @@ Check out all of the submissions below! Well done everyone:
 - Russ Perry - [Github](https://github.com/rperry99/joke-teller)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
 - Sam Kach - [Github](https://github.com/rizamoyi/joke-teller)
-
+- Soojin - [Github](https://github.com/ehdgodgka/joke-teller) [ViewLive](https://ehdgodgka.github.io/joke-teller/)
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit)
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode)
 - Sam Kach - [Github](https://github.com/rizamoyi/light-dark-mode)
+- Soojin - [Github](https://github.com/ehdgodgka/js20-dark-and-light) [ViewLive](https://ehdgodgka.github.io/js20-dark-and-light/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
 - Russ Perry - [Github](https://github.com/rperry99/animation-template)
+- Ozziel Ruiiz [Github](https://ozzielruiz.github.io/animated-template/)
+- Soojin - [Github](https://github.com/ehdgodgka/j20-animation) [ViewLive](https://ehdgodgka.github.io/j20-animation/)
 - Ozziel Ruiiz - [Github](https://ozzielruiz.github.io/animated-template/)
 - Roy Wang - [Github](https://github.com/falinwang/portfolio), [View live](https://falinwang.github.io/portfolio/)
 
@@ -96,6 +99,7 @@ Check out all of the submissions below! Well done everyone:
 
 - Russ Perry - [Github](https://github.com/rperry99/navigation-animation)
 - Rick Hallett - [Github](https://github.com/rickhallett/crypto-io) (work in progress! Will be completed by 31/08/2020! [ViewLive](https://rickhallett.github.io/crypto-io-bundled/))
+- Soojin - [Github](https://github.com/ehdgodgka/js20-navigation) [ViewLive](https://ehdgodgka.github.io/js20-navigation/)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
@@ -104,6 +108,7 @@ Check out all of the submissions below! Well done everyone:
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audioplayer)
 - Juan Melara - [Github](https://juanky256.github.io/Music-Player/)
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audio-player/)
+- Soojin - [Github](https://github.com/ehdgodgka/js20-music-player) [ViewLive](https://ehdgodgka.github.io/js20-music-player/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
