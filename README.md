@@ -74,6 +74,7 @@ Check out all of the submissions below! Well done everyone:
 - Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/QuoteGenerator), [ViewLive](https://gabrielamcarvalho.github.io/QuoteGenerator/)
 - Hamza Khan - [GitHub](https://github.com/salderahamza/Quote-Generator), [Live](https://salderahamza.github.io/Quote-Generator/)
 - Alexandru Burghelea - [Github](https://github.com/AlexBMA/quote-generator), [Viewlive](https://alexbma.github.io/quote-generator/)
+- Mayur Varma - [Github](https://github.com/mayurvarma14/quote-generator), [Viewlive](https://mayurvarma14.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
