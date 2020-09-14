@@ -61,7 +61,7 @@ Check out all of the submissions below! Well done everyone:
 - Karan Ahir - [GitHub](https://github.com/karanahir9/Quote-Genrator), [ViewLive](https://karanahir9.github.io/Quote-Genrator/)
 - Sarwar Md - [Github](https://github.com/Sarwar-Md/quote_), [Viewlive](https://sarwar-md.github.io/quote_/)
 - Rahul Bakshi - [Github](https://github.com/rahulbakshi4/get-me-a-quote), [ViewLive](https://rahulbakshi4.github.io/get-me-a-quote/)
-- Gabriel Vasile - [Github](https://github.com/ItsGabeYo/QuoteGenerator), [ViewLive](https://itsgabeyo.github.io/QuoteGenerator/)
+- Gabriel Vasile - [Github](https://github.com/gsvasile/QuoteGenerator), [ViewLive](https://gsvasile.github.io/QuoteGenerator/)
 - Lidia Alonso [Github] (https://github.com/alonso276/quotegenerator), [Viewlive] (https://alonso276.github.io/quotegenerator/)
 - Sujanth S - [Github](https://github.com/sujanth21/quote_generator_api), [Viewlive](https://suj-quote-generator.herokuapp.com/api/v1/quotes/random), [Front-end](https://suj-quote-generator.herokuapp.com/)
 - Maxim Klochkov - [Github](https://github.com/eastmann/quote-generator), [Viewlive](https://eastmann.github.io/quote-generator/)
@@ -106,7 +106,6 @@ Check out all of the submissions below! Well done everyone:
 - Soojin - [Github](https://github.com/ehdgodgka/js20-picture-in-picture) [ViewLive](https://ehdgodgka.github.io/js20-picture-in-picture/)
 - Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
 - Rahul Bakshi - [Github](https://github.com/rahulbakshi4/picture-in-pcture), [ViewLive](https://rahulbakshi4.github.io/picture-in-picture/)
-- Rahul Bakshi - [Github](https://github.com/rahulbakshi4/picture-in-pcture), [ViewLive](https://rahulbakshi4.github.io/picture-in-picture/) 
 - Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/PictureInPicture), [ViewLive](https://gabrielamcarvalho.github.io/PictureInPicture/) 
 - WayneMacMavis - [Github](https://github.com/waynemacmavis/picture-in-picture), [Viewlive](https://waynemacmavis.github.io/picture-in-picture/)
 - Joseph Rice - [GitHub](https://github.com/JericRice/picture-in-picture), [ViewLive](https://jericrice.github.io/picture-in-picture/)
@@ -211,7 +210,6 @@ Check out all of the submissions below! Well done everyone:
 - Anette [Github](https://github.com/RedSquirrrel/math-sprint-game) [ViewLive](https://redsquirrrel.github.io/math-sprint-game/)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
-
 - Marius Bogdanel - [Github](https://github.com/mbogdanel/kanban-board) [ViewLive](https://mbogdanel.github.io/kanban-board/)
 - Anette [Github](https://github.com/RedSquirrrel/kanban-board) [ViewLive](https://redsquirrrel.github.io/kanban-board/)
 - Grassper - [Github](https://github.com/Grassper/organizer) [ViewLive](https://grassper.github.io/organizer/)
