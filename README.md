@@ -38,6 +38,7 @@ Check out all of the submissions below! Well done everyone:
 - Theodorus Clarence - [Github](https://github.com/theodorusclarence/quote-generator), [ViewLive](https://theodorusclarence.github.io/quote-generator/)
 - Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/)
 - Noha El-Boghdady - [Github](https://github.com/nohaelboghdady/QuoteGenerator), [Viewlive](https://nohaelboghdady.github.io/QuoteGenerator/)
+- tzeepee - [Github](https://github.com/tzeepee/zitatengenerator), [Viewlive](https://tzeepee.github.io/zitatengenerator/)
 - Babar Khan - [GitHub](https://github.com/BabarKhann/js-quote-generator), [ViewLink](https://babarkhann.github.io/js-quote-generator/)
 - Lysa Unku-Jones - [Github](https://github.com/Wildelyssa/quote-generator), [ViewLive](wildelyssa.github.io/quote-generator/)
 - Ajit Tiwari - [Github](https://github.com/RandomAlien/Quote-Generator), [Viewlive](https://randomalien.github.io/Quote-Generator/)
