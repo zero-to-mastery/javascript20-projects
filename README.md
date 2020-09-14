@@ -124,6 +124,7 @@ Check out all of the submissions below! Well done everyone:
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
+- Josue Cedeno - [Github](https://github.com/mister-josuecedeno/joke-teller) , [Live](https://mister-josuecedeno.github.io/joke-teller/)
 - Russ Perry - [Github](https://github.com/rperry99/joke-teller)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
 - Sam Kach - [Github](https://github.com/rizamoyi/joke-teller)
