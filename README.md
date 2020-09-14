@@ -39,6 +39,9 @@ Check out all of the submissions below! Well done everyone:
 - Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/)
 - Noha El-Boghdady - [Github](https://github.com/nohaelboghdady/QuoteGenerator), [Viewlive](https://nohaelboghdady.github.io/QuoteGenerator/)
 - Babar Khan - [GitHub](https://github.com/BabarKhann/js-quote-generator), [ViewLink](https://babarkhann.github.io/js-quote-generator/)
+- Lysa Unku-Jones - [Github](https://github.com/Wildelyssa/quote-generator), [ViewLive](wildelyssa.github.io/quote-generator/)
+- Ajit Tiwari - [Github](https://github.com/RandomAlien/Quote-Generator), [Viewlive](https://randomalien.github.io/Quote-Generator/)
+- Tina Noor - [Github](https://github.com/tinaytini/quote-projoect)
 - Sean Demske - [Github](https://github.com/SeanDemske/Quote-Generator) [ViewLive](https://seandemske.github.io/Quote-Generator/)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/quote-generator), [Viewlive](https://alaa140101.github.io/quote-generator/)
 - Guilherme (GuinuxBR) [GitHub](https://github.com/guinuxbr/chucks-jokes), [View Live](https://chucksjokes.netlify.app/)
@@ -56,11 +59,16 @@ Check out all of the submissions below! Well done everyone:
 
 - Russ Perry - [Github](https://github.com/rperry99/infinite-scroll)
 - JayaSree - [Github](https://github.com/Jayasree77/Front-end/tree/master/Infinite%20Scroll) [ViewLive](https://codepen.io/Jayasree_0708/full/ZEQmVEd)
+- Simone Taeggi - [Github](https://github.com/simotae14/infinite-scroll-tae) [ViewLive](https://simotae14.github.io/infinite-scroll-tae/)
 - Teri Eyenike - [Github](https://github.com/Terieyenike/infinity/tree/master) [ViewLive](https://infinit.netlify.app/)
 - Paul Gelario - [Github](https://pauldavid23.github.io/InfiniteScrollAPI/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Unsplashed-Infinite-Scroller)
+- Shawn Gillespie - [Github](https://github.com/ShawnGillespie/unsplash-infinite-scroll) [ViewLive](https://shawngillespie.github.io/unsplash-infinite-scroll)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-infinity-scroll) [ViewLive](https://ehdgodgka.github.io/js20-infinity-scroll/)
 - Sam Kach - [Github](https://github.com/rizamoyi/infinite-scroll)
+- Ajit Tiwari- [Github](https://github.com/RandomAlien/Infinity-Scroller) [ViewLive](https://randomalien.github.io/Infinity-Scroller/)
+- Vlad Flore - [Github](https://vladflore.github.io/infinity-scroll/)
+- Anette - [Github](https://github.com/RedSquirrrel/infinite-scroll) [ViewLive](https://redsquirrrel.github.io/infinite-scroll/)
 - Guilherme (GuinuxBR) [GitHub](https://github.com/guinuxbr/infinite-dogs), [View Live](https://infinitedogs.netlify.app/)
 - Karan Ahir - [GitHub](https://github.com/karanahir9/Infinity-Scroll) [ViewLive](https://karanahir9.github.io/Infinity-Scroll/)
 - Sarwar Md - [Github](https://github.com/Sarwar-Md/lens.git)
@@ -74,6 +82,9 @@ Check out all of the submissions below! Well done everyone:
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-picture-in-picture) [ViewLive](https://ehdgodgka.github.io/js20-picture-in-picture/)
 - Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
+- Shawn Gillespie - [Github](https://github.com/ShawnGillespie/picture-in-picture) [ViewLive](https://shawngillespie.github.io/picture-in-picture/)
+- Vlad Flore - [Github](https://vladflore.github.io/picture-in-picture/)
+- Anette - [Github](https://github.com/RedSquirrrel/picture-in-picture) [ViewLive](https://redsquirrrel.github.io/picture-in-picture/)
 - Rahul Bakshi - [Github](https://github.com/rahulbakshi4/picture-in-pcture), [ViewLive](https://rahulbakshi4.github.io/picture-in-picture/)  
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
@@ -81,18 +92,22 @@ Check out all of the submissions below! Well done everyone:
 - Russ Perry - [Github](https://github.com/rperry99/joke-teller)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
 - Sam Kach - [Github](https://github.com/rizamoyi/joke-teller)
+- Anette - [Github](https://github.com/RedSquirrrel/joke-teller) [ViewLive](https://redsquirrrel.github.io/joke-teller/)
 - Soojin - [Github](https://github.com/ehdgodgka/joke-teller) [ViewLive](https://ehdgodgka.github.io/joke-teller/)
+
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit)
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode)
 - Sam Kach - [Github](https://github.com/rizamoyi/light-dark-mode)
+- Anette - [Github](https://github.com/RedSquirrrel/light-dark-mode) [ViewLive](https://redsquirrrel.github.io/light-dark-mode/)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-dark-and-light) [ViewLive](https://ehdgodgka.github.io/js20-dark-and-light/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
 - Russ Perry - [Github](https://github.com/rperry99/animation-template)
 - Ozziel Ruiiz [Github](https://ozzielruiz.github.io/animated-template/)
+- Anette - [Github](https://github.com/RedSquirrrel/isle-of-wight) [ViewLive](https://redsquirrrel.github.io/isle-of-wight/)
 - Sam Kach - [Github](https://github.com/rizamoyi/animated-template)
 - Soojin - [Github](https://github.com/ehdgodgka/j20-animation) [ViewLive](https://ehdgodgka.github.io/j20-animation/)
 - Ozziel Ruiiz - [Github](https://ozzielruiz.github.io/animated-template/)
@@ -111,32 +126,37 @@ Check out all of the submissions below! Well done everyone:
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audioplayer)
 - Juan Melara - [Github](https://juanky256.github.io/Music-Player/)
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audio-player/)
+- Anette - [Github](https://github.com/RedSquirrrel/music-player) [ViewLive](https://redsquirrrel.github.io/music-player/)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-music-player) [ViewLive](https://ehdgodgka.github.io/js20-music-player/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
 - Russ Perry - [Github](https://github.com/rperry99/custom-countdown)
 - Arianna Choza - [Github](https://github.com/unachoza/countdown) [ViewLive](https://unachoza.github.io/countdown)
+- Anette - [Github](https://github.com/RedSquirrrel/countdown) [ViewLive](https://redsquirrrel.github.io/countdown/)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
 - Russ Perry - [Github](https://github.com/rperry99/book-keeper)
+- Anette - [Github](https://github.com/RedSquirrrel/bookmark-keeper) [ViewLive](https://redsquirrrel.github.io/bookmark-keeper/)
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/video-player/)
+- Anette - [Github](https://github.com/RedSquirrrel/video-player) [ViewLive](https://redsquirrrel.github.io/video-player/)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
 - Brian Smith - [Github](https://github.com/theautoroboto/TheAutoLotto)
+- Anette - [Github](https://github.com/RedSquirrrel/form-validator) [ViewLive](https://redsquirrrel.github.io/form-validator/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
--
+- Anette [Github](https://github.com/RedSquirrrel/rock-spock) [ViewLive](https://redsquirrrel.github.io/rock-spock/)
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
--
+- Anette [Github](https://github.com/RedSquirrrel/nasa-apod) [ViewLive](https://redsquirrrel.github.io/nasa-apod/)
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
@@ -148,16 +168,17 @@ Check out all of the submissions below! Well done everyone:
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
--
+- Anette [Github](https://github.com/RedSquirrrel/math-sprint-game) [ViewLive](https://redsquirrrel.github.io/math-sprint-game/)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
--   Grassper - [Github](https://github.com/Grassper/organizer) [ViewLive](https://grassper.github.io/organizer/)
+- Anette [Github](https://github.com/RedSquirrrel/kanban-board) [ViewLive](https://redsquirrrel.github.io/kanban-board/)
+- Grassper - [Github](https://github.com/Grassper/organizer) [ViewLive](https://grassper.github.io/organizer/)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
--
+- Anette [Github](https://github.com/RedSquirrrel/calculator) [ViewLive](https://redsquirrrel.github.io/calculator/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
--
+- Anette [Github](https://github.com/RedSquirrrel/splash-page) [ViewLive](https://redsquirrrel.github.io/splash-page/)
