@@ -43,6 +43,7 @@ Check out all of the submissions below! Well done everyone:
 - Van Thong - [Github](https://github.com/ThongKun/quote-generator), [ViewLive](https://thongkun.github.io/quote-generator/)
 - Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/)
 - Noha El-Boghdady - [Github](https://github.com/nohaelboghdady/QuoteGenerator), [Viewlive](https://nohaelboghdady.github.io/QuoteGenerator/)
+- Prasath DV - [Github](https://github.com/Prasathdv/ZTM_JS_PROJ01_Quote_Generator), [Viewlive](https://prasathdv.github.io/ZTM_JS_PROJ01_Quote_Generator/)
 - WayneMacMavis - [Github](https://github.com/waynemacmavis/quote-generator), [Viewlive](https://waynemacmavis.github.io/quote-generator/)
 - Joseph Rice - [GitHub](https://github.com/JericRice/quote-generator), [ViewLive](https://jericrice.github.io/quote-generator/)
 - Sarwar Md - [Github](https://github.com/Sarwar-Md/quote_), [Viewlive](https://sarwar-md.github.io/quote_/)
