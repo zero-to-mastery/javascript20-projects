@@ -168,6 +168,7 @@ Check out all of the submissions below! Well done everyone:
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
 - Brian Smith - [Github](https://github.com/theautoroboto/TheAutoLotto)
+- Steve Tollin - [Github](https://github.com/Webistics/Validation-Form) [ViewLive](https://webistics.github.io/Validation-Form/)
 - Anette - [Github](https://github.com/RedSquirrrel/form-validator) [ViewLive](https://redsquirrrel.github.io/form-validator/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
@@ -194,8 +195,10 @@ Check out all of the submissions below! Well done everyone:
 - Grassper - [Github](https://github.com/Grassper/organizer) [ViewLive](https://grassper.github.io/organizer/)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
+- Steve Tollin - [Github](https://github.com/Webistics/Wild-West-Calculator) [View Live](https://webistics.github.io/Wild-West-Calculator/)
 - @stanimal93 - [GitHub](https://github.com/stanimal93/bubbly-calculator)
 - Anette [Github](https://github.com/RedSquirrrel/calculator) [ViewLive](https://redsquirrrel.github.io/calculator/)
+
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
