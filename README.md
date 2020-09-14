@@ -34,21 +34,39 @@ Check out all of the submissions below! Well done everyone:
 - Aadil Rashid Najar - [Github](https://github.com/Aadil-Rashid/Eid-mubarak)
 - Michael Siu - [Github](https://github.com/mics13/QuoteGenerator)
 - Akinghill - [Github](https://github.com/Akinghill/Quote-Machine), [ViewLive](https://akinghill.github.io/Quote-Machine/)
-- Soojin [Github](https://github.com/ehdgodgka/quote-generator), [ViewLive](https://ehdgodgka.github.io/quote-generator/)
+- Soojin - [Github](https://github.com/ehdgodgka/quote-generator), [ViewLive](https://ehdgodgka.github.io/quote-generator/)
 - Theodorus Clarence - [Github](https://github.com/theodorusclarence/quote-generator), [ViewLive](https://theodorusclarence.github.io/quote-generator/)
 - Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/)
 - Noha El-Boghdady - [Github](https://github.com/nohaelboghdady/QuoteGenerator), [Viewlive](https://nohaelboghdady.github.io/QuoteGenerator/)
+- Tina Noor - [Github](https://github.com/tinaytini/quote-projoect)
+- Sean Demske - [Github](https://github.com/SeanDemske/Quote-Generator) [ViewLive](https://seandemske.github.io/Quote-Generator/)
+- Alaa Balbaid - [Github](https://github.com/alaa140101/quote-generator), [Viewlive](https://alaa140101.github.io/quote-generator/)
+- Guilherme (GuinuxBR) [GitHub](https://github.com/guinuxbr/chucks-jokes), [View Live](https://chucksjokes.netlify.app/)
+- Elena Markova - [Github](https://github.com/webkwondo/quote-generator), [Viewlive](https://webkwondo.github.io/quote-generator/)
+- Karan Ahir - [GitHub](https://github.com/karanahir9/Quote-Genrator), [ViewLive](https://karanahir9.github.io/Quote-Genrator/)
+- Sarwar Md - [Github](https://github.com/Sarwar-Md/quote_), [Viewlive](https://sarwar-md.github.io/quote_/)
+- Rahul Bakshi - [Github](https://github.com/rahulbakshi4/get-me-a-quote), [ViewLive](https://rahulbakshi4.github.io/get-me-a-quote/)
+- Gabriel Vasile - [Github](https://github.com/ItsGabeYo/QuoteGenerator), [ViewLive](https://itsgabeyo.github.io/QuoteGenerator/)
+- Lidia Alonso [Github] (https://github.com/alonso276/quotegenerator), [Viewlive] (https://alonso276.github.io/quotegenerator/)
+- Sujanth S - [Github](https://github.com/sujanth21/quote_generator_api), [Viewlive](https://suj-quote-generator.herokuapp.com/api/v1/quotes/random), [Front-end](https://suj-quote-generator.herokuapp.com/)
+- Maxim Klochkov - [Github](https://github.com/eastmann/quote-generator), [Viewlive](https://eastmann.github.io/quote-generator/)
+- Harsh Goswami - [Github](https://github.com/astomak/random_qoute_generator), [ViewLive](https://astomak.github.io/random_qoute_generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
 - Russ Perry - [Github](https://github.com/rperry99/infinite-scroll)
 - JayaSree - [Github](https://github.com/Jayasree77/Front-end/tree/master/Infinite%20Scroll) [ViewLive](https://codepen.io/Jayasree_0708/full/ZEQmVEd)
+- Simone Taeggi - [Github](https://github.com/simotae14/infinite-scroll-tae) [ViewLive](https://simotae14.github.io/infinite-scroll-tae/)
 - Teri Eyenike - [Github](https://github.com/Terieyenike/infinity/tree/master) [ViewLive](https://infinit.netlify.app/)
 - Paul Gelario - [Github](https://pauldavid23.github.io/InfiniteScrollAPI/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Unsplashed-Infinite-Scroller)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-infinity-scroll) [ViewLive](https://ehdgodgka.github.io/js20-infinity-scroll/)
 - Sam Kach - [Github](https://github.com/rizamoyi/infinite-scroll)
 - Anette - [Github](https://github.com/RedSquirrrel/infinite-scroll) [ViewLive](https://redsquirrrel.github.io/infinite-scroll/)
+- Guilherme (GuinuxBR) [GitHub](https://github.com/guinuxbr/infinite-dogs), [View Live](https://infinitedogs.netlify.app/)
+- Karan Ahir - [GitHub](https://github.com/karanahir9/Infinity-Scroll) [ViewLive](https://karanahir9.github.io/Infinity-Scroll/)
+- Sarwar Md - [Github](https://github.com/Sarwar-Md/lens.git)
+- Harsh Goswami - [Github](https://github.com/astomak/masonry_image_gallery), [ViewLive](https://astomak.github.io/masonry_image_gallery/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
@@ -59,6 +77,7 @@ Check out all of the submissions below! Well done everyone:
 - Soojin - [Github](https://github.com/ehdgodgka/js20-picture-in-picture) [ViewLive](https://ehdgodgka.github.io/js20-picture-in-picture/)
 - Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
 - Anette - [Github](https://github.com/RedSquirrrel/picture-in-picture) [ViewLive](https://redsquirrrel.github.io/picture-in-picture/)
+- Rahul Bakshi - [Github](https://github.com/rahulbakshi4/picture-in-pcture), [ViewLive](https://rahulbakshi4.github.io/picture-in-picture/)  
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
@@ -66,6 +85,7 @@ Check out all of the submissions below! Well done everyone:
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
 - Sam Kach - [Github](https://github.com/rizamoyi/joke-teller)
 - Anette - [Github](https://github.com/RedSquirrrel/joke-teller) [ViewLive](https://redsquirrrel.github.io/joke-teller/)
+- Soojin - [Github](https://github.com/ehdgodgka/joke-teller) [ViewLive](https://ehdgodgka.github.io/joke-teller/)
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
@@ -73,17 +93,23 @@ Check out all of the submissions below! Well done everyone:
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode)
 - Sam Kach - [Github](https://github.com/rizamoyi/light-dark-mode)
 - Anette - [Github](https://github.com/RedSquirrrel/light-dark-mode) [ViewLive](https://redsquirrrel.github.io/light-dark-mode/)
+- Soojin - [Github](https://github.com/ehdgodgka/js20-dark-and-light) [ViewLive](https://ehdgodgka.github.io/js20-dark-and-light/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
 - Russ Perry - [Github](https://github.com/rperry99/animation-template)
 - Ozziel Ruiiz [Github](https://ozzielruiz.github.io/animated-template/)
 - Anette - [Github](https://github.com/RedSquirrrel/isle-of-wight) [ViewLive](https://redsquirrrel.github.io/isle-of-wight/)
+- Sam Kach - [Github](https://github.com/rizamoyi/animated-template)
+- Soojin - [Github](https://github.com/ehdgodgka/j20-animation) [ViewLive](https://ehdgodgka.github.io/j20-animation/)
+- Ozziel Ruiiz - [Github](https://ozzielruiz.github.io/animated-template/)
+- Roy Wang - [Github](https://github.com/falinwang/portfolio), [View live](https://falinwang.github.io/portfolio/)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
 - Russ Perry - [Github](https://github.com/rperry99/navigation-animation)
 - Rick Hallett - [Github](https://github.com/rickhallett/crypto-io) (work in progress! Will be completed by 31/08/2020! [ViewLive](https://rickhallett.github.io/crypto-io-bundled/))
+- Soojin - [Github](https://github.com/ehdgodgka/js20-navigation) [ViewLive](https://ehdgodgka.github.io/js20-navigation/)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
@@ -93,6 +119,7 @@ Check out all of the submissions below! Well done everyone:
 - Juan Melara - [Github](https://juanky256.github.io/Music-Player/)
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audio-player/)
 - Anette - [Github](https://github.com/RedSquirrrel/music-player) [ViewLive](https://redsquirrrel.github.io/music-player/)
+- Soojin - [Github](https://github.com/ehdgodgka/js20-music-player) [ViewLive](https://ehdgodgka.github.io/js20-music-player/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
@@ -138,6 +165,7 @@ Check out all of the submissions below! Well done everyone:
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
 - Anette [Github](https://github.com/RedSquirrrel/kanban-board) [ViewLive](https://redsquirrrel.github.io/kanban-board/)
+- Grassper - [Github](https://github.com/Grassper/organizer) [ViewLive](https://grassper.github.io/organizer/)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
