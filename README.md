@@ -60,6 +60,8 @@ Check out all of the submissions below! Well done everyone:
 - Harsh Goswami - [Github](https://github.com/astomak/random_qoute_generator), [ViewLive](https://astomak.github.io/random_qoute_generator/)
 - Hamza Khan - [GitHub](https://github.com/salderahamza/Quote-Generator), [Live](https://salderahamza.github.io/Quote-Generator/)
 
+- Alexandru Burghelea - [Github](https://github.com/AlexBMA/quote-generator), [Viewlive](https://alexbma.github.io/quote-generator/)
+
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
 - Russ Perry - [Github](https://github.com/rperry99/infinite-scroll)
@@ -71,6 +73,7 @@ Check out all of the submissions below! Well done everyone:
 - Shawn Gillespie - [Github](https://github.com/ShawnGillespie/unsplash-infinite-scroll) [ViewLive](https://shawngillespie.github.io/unsplash-infinite-scroll)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-infinity-scroll) [ViewLive](https://ehdgodgka.github.io/js20-infinity-scroll/)
 - Sam Kach - [Github](https://github.com/rizamoyi/infinite-scroll)
+- Alexandru Burghelea - [Github](https://github.com/AlexBMA/infinite-scroll), [Viewlive](https://friendly-kilby-d5109d.netlify.app/)
 - Ajit Tiwari- [Github](https://github.com/RandomAlien/Infinity-Scroller) [ViewLive](https://randomalien.github.io/Infinity-Scroller/)
 - Vlad Flore - [Github](https://vladflore.github.io/infinity-scroll/)
 - Anette - [Github](https://github.com/RedSquirrrel/infinite-scroll) [ViewLive](https://redsquirrrel.github.io/infinite-scroll/)
@@ -88,6 +91,7 @@ Check out all of the submissions below! Well done everyone:
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-picture-in-picture) [ViewLive](https://ehdgodgka.github.io/js20-picture-in-picture/)
 - Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
+- Alexandru Burghelea - [Github](https://github.com/AlexBMA/picture-in-picture), [Viewlive](https://alexbma.github.io/picture-in-picture/)
 - Shawn Gillespie - [Github](https://github.com/ShawnGillespie/picture-in-picture) [ViewLive](https://shawngillespie.github.io/picture-in-picture/)
 - Vlad Flore - [Github](https://vladflore.github.io/picture-in-picture/)
 - Anette - [Github](https://github.com/RedSquirrrel/picture-in-picture) [ViewLive](https://redsquirrrel.github.io/picture-in-picture/)
