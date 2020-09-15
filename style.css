@@ -1,57 +1,129 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 html {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 body {
-  margin: 0;
-  font-family: Bebas Neue, sans-serif;
-  background: whitesmoke;
+    margin: 0;
+    min-height: 100vh;
+    font-family: Montserrat, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f7f3fc;
+    background-image: url("data:image/svg+xml,%3Csvg width='42' height='44' viewBox='0 0 42 44' xmlns='http://www.w3.org/2000/svg'%3E%3Cg id='Page-1' fill='none' fill-rule='evenodd'%3E%3Cg id='brick-wall' fill='%23010101' fill-opacity='0.29'%3E%3Cpath d='M0 0h42v44H0V0zm1 1h40v20H1V1zM0 23h20v20H0V23zm22 0h20v20H22V23z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+
+    background-color: #FFDEE9;
+    background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+    
+
 }
 
-h1 {
-  text-align: center;
-  margin-top: 25px;
-  margin-bottom: 15px;
-  font-size: 40px;
-  letter-spacing: 5px;
+.quote-container {
+    width: auto;
+    max-width: 900px;
+    padding: 20px 30px ;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 10px 10px 10px rgba(0,0,0, 0.2);
+}
+
+.quote-text{
+    font-size: 2.75rem;
+}
+
+.long-quote {
+    font-size: 2rem;
+}
+
+.fa-quote-left {
+    font-size: 4rem;
+}
+
+.quote-author {
+    margin-top: 15px;
+    font-size: 2rem;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.button-container {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    cursor: pointer;
+    font-size: 1.2rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    background: #333;
+    outline: none;
+    padding: 0.5rem 1.8rem;
+    box-shadow: 0 0.3rem rgba(121, 121, 121, 0.65);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+button:hover {
+    filter: brightness(110%);
+    -webkit-filter: brightness(110%);
+}
+
+button:active {
+    transform: translate(0, 0.3rem);
+    -webkit-transform: translate(0, 0.3rem);
+    -moz-transform: translate(0, 0.3rem);
+    -ms-transform: translate(0, 0.3rem);
+    -o-transform: translate(0, 0.3rem);
+    box-shadow: 0 0.1rem rgba(255, 255, 255, 0.65);
+}
+
+.twitter-button:hover {
+    color: #38a1f3;
+}
+
+.fa-twitter {
+    font-size: 1.5rem;
 }
 
 /* Loader */
+
 .loader {
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: rgba(255, 255, 255, 0.8)
-}
-
-.loader img {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-/* Image Container */
-.image-container {
-  margin: 10px 30%;
-}
-
-.image-container img {
-  width: 100%;
-  margin-top: 5px;
-}
-
-/* Media Query: Large Smartphone */
-@media screen and (max-width: 600px) {
-  h1 {
-    font-size: 20px;
+    border: 16px solid #f3f3f3; /* Light grey */
+    border-top: 16px solid #333333; /* Dark Grey */
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
   }
 
-  .image-container {
-    margin: 10px;
-  }
+/* Media Query : Tablet or Smaller*/
+
+@media screen and (max-width: 1000px){
+    .quote-container {
+        margin: auto 10px;
+    }
+
+    .quote-text{
+        font-size: 2.5rem;
+    }
 }
+
