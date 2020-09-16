@@ -9,7 +9,7 @@ Student submissions for the JavaScript 20 projects
 Check out all of the submissions below! Well done everyone:
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
-
+- Gabriel Costa - [Github](https://github.com/Garccosta/quote-generator) [ViewLive](https://garccosta.github.io/quote-generator/)
 - Daniel Narh Kpodo - [Github](https://github.com/danielkpodo/random-quote-generator) [ViewLive](https://danielkpodo.github.io/random-quote-generator/)
 - Teri Eyenike - [Github](https://github.com/Terieyenike/quotegenerator)
 - Russ Perry - [Github](https://github.com/rperry99/quote-generator) | [ViewLive](https://rperry99.github.io/quote-generator/)
@@ -67,6 +67,7 @@ Check out all of the submissions below! Well done everyone:
 - Sujanth S - [Github](https://github.com/sujanth21/quote_generator_api), [Viewlive](https://suj-quote-generator.herokuapp.com/api/v1/quotes/random), [Front-end](https://suj-quote-generator.herokuapp.com/)
 - Maxim Klochkov - [Github](https://github.com/eastmann/quote-generator), [Viewlive](https://eastmann.github.io/quote-generator/)
 - Harsh Goswami - [Github](https://github.com/astomak/random_qoute_generator), [ViewLive](https://astomak.github.io/random_qoute_generator/)
+- Abhishek Rawat - [GitHub](https://github.com/abhishekrawat22/Quote-Generator), [ViewLive](https://abhishekrawat22.github.io/Quote-Generator/)
 - Oscar Ramos - [Github](https://github.com/oscaramos/quote-generator), [Live](https://quote-generator.oscaramos.vercel.app/)
 - Akshay Bhopani - [Github](https://github.com/AKSHAYBHOPANI/quote-generator), [ViewLive](https://akshaybhopani.github.io/quote-generator/)
 - Lalaina Ramarivelo - [Github](https://github.com/kialala/quote-generator), [Viewlive](https://kialala.github.io/quote-generator/)
@@ -75,6 +76,7 @@ Check out all of the submissions below! Well done everyone:
 - Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/QuoteGenerator), [ViewLive](https://gabrielamcarvalho.github.io/QuoteGenerator/)
 - Hamza Khan - [GitHub](https://github.com/salderahamza/Quote-Generator), [Live](https://salderahamza.github.io/Quote-Generator/)
 - Alexandru Burghelea - [Github](https://github.com/AlexBMA/quote-generator), [Viewlive](https://alexbma.github.io/quote-generator/)
+- Mayur Varma - [Github](https://github.com/mayurvarma14/quote-generator), [Viewlive](https://mayurvarma14.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -88,6 +90,7 @@ Check out all of the submissions below! Well done everyone:
 - Shawn Gillespie - [Github](https://github.com/ShawnGillespie/unsplash-infinite-scroll) [ViewLive](https://shawngillespie.github.io/unsplash-infinite-scroll)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-infinity-scroll) [ViewLive](https://ehdgodgka.github.io/js20-infinity-scroll/)
 - Sam Kach - [Github](https://github.com/rizamoyi/infinite-scroll)
+- Alaa - [Github](https://github.com/alaa140101/InfinityScroll) [ViewLive](https://alaa140101.github.io/InfinityScroll/)
 - WayneMacMavis - [Github](https://github.com/waynemacmavis/infinite-scroll), [Viewlive](https://waynemacmavis.github.io/infinite-scroll/)
 - Joseph Rice - [GitHub](https://github.com/JericRice/infinite-scroll), [ViewLive](https://jericrice.github.io/infinite-scroll/)
 - Alexandru Burghelea - [Github](https://github.com/AlexBMA/infinite-scroll), [Viewlive](https://friendly-kilby-d5109d.netlify.app/)
@@ -111,6 +114,7 @@ Check out all of the submissions below! Well done everyone:
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-picture-in-picture) [ViewLive](https://ehdgodgka.github.io/js20-picture-in-picture/)
 - Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
+- Ala Balbaid - [Github](https://github.com/alaa140101/pictureInPicture) [ViewLive](https://alaa140101.github.io/pictureInPicture/)
 - Rahul Bakshi - [Github](https://github.com/rahulbakshi4/picture-in-pcture), [ViewLive](https://rahulbakshi4.github.io/picture-in-picture/)
 - Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/PictureInPicture), [ViewLive](https://gabrielamcarvalho.github.io/PictureInPicture/)
 - WayneMacMavis - [Github](https://github.com/waynemacmavis/picture-in-picture), [Viewlive](https://waynemacmavis.github.io/picture-in-picture/)
@@ -123,18 +127,26 @@ Check out all of the submissions below! Well done everyone:
 - Rahul Bakshi - [Github](https://github.com/rahulbakshi4/picture-in-pcture), [ViewLive](https://rahulbakshi4.github.io/picture-in-picture/)
 - Hamza Khan [Github](https://github.com/salderahamza/picture-in-picture) [Live](https://salderahamza.github.io/picture-in-picture)
 
+
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
 - Russ Perry - [Github](https://github.com/rperry99/joke-teller) | [ViewLive](https://russ-joke-machine.netlify.app/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
 - Sam Kach - [Github](https://github.com/rizamoyi/joke-teller)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javaScriptProjectTellJoke), [ViewLive](https://jthinlay.github.io/javaScriptProjectTellJoke/)
+- Josue Cedeno - [Github](https://github.com/mister-josuecedeno/joke-teller) , [Live](https://mister-josuecedeno.github.io/joke-teller/)
+- Russ Perry - [Github](https://github.com/rperry99/joke-teller)
+- Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
+- Sam Kach - [Github](https://github.com/rizamoyi/joke-teller)
+- Rohan Raj Gautam - [Github](https://github.com/RohanRajGautam/ChuckNorrisJokeGenerator), [ViewLive](https://rohanrajgautam.github.io/ChuckNorrisJokeGenerator/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javaScriptProjectTellJoke), [ViewLive](https://jthinlay.github.io/javaScriptProjectTellJoke/) 
 - Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/jokeTeller), [ViewLive](https://gabrielamcarvalho.github.io/jokeTeller/)
 - Joseph Rice - [GitHub](https://github.com/JericRice/joke-teller), [ViewLive](https://jericrice.github.io/joke-teller/)
 - Wei-Hang Wang - [Github](https://github.com/KalpasWang/joke-teller)
 - Anette - [Github](https://github.com/RedSquirrrel/joke-teller) [ViewLive](https://redsquirrrel.github.io/joke-teller/)
 - Soojin - [Github](https://github.com/ehdgodgka/joke-teller) [ViewLive](https://ehdgodgka.github.io/joke-teller/)
 - Hamza Khan - [Github](https://github.com/salderahamza/robo-joke) , [Live](https://salderahamza.github.io/robo-joke/.)
+
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
@@ -184,6 +196,7 @@ Check out all of the submissions below! Well done everyone:
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
 - Russ Perry - [Github](https://github.com/rperry99/book-keeper) | [ViewLive](https://rperry99.github.io/book-keeper/)
+- Rohan Raj Gautam = [Github](https://github.com/RohanRajGautam/bookList), [ViewLive](https://rohanrajgautam.github.io/bookList/)
 - Anette - [Github](https://github.com/RedSquirrrel/bookmark-keeper) [ViewLive](https://redsquirrrel.github.io/bookmark-keeper/)
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
