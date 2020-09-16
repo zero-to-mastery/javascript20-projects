@@ -89,6 +89,7 @@ Check out all of the submissions below! Well done everyone:
 - Shawn Gillespie - [Github](https://github.com/ShawnGillespie/unsplash-infinite-scroll) [ViewLive](https://shawngillespie.github.io/unsplash-infinite-scroll)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-infinity-scroll) [ViewLive](https://ehdgodgka.github.io/js20-infinity-scroll/)
 - Sam Kach - [Github](https://github.com/rizamoyi/infinite-scroll)
+- Alaa - [Github](https://github.com/alaa140101/InfinityScroll) [ViewLive](https://alaa140101.github.io/InfinityScroll/)
 - WayneMacMavis - [Github](https://github.com/waynemacmavis/infinite-scroll), [Viewlive](https://waynemacmavis.github.io/infinite-scroll/)
 - Joseph Rice - [GitHub](https://github.com/JericRice/infinite-scroll), [ViewLive](https://jericrice.github.io/infinite-scroll/)
 - Alexandru Burghelea - [Github](https://github.com/AlexBMA/infinite-scroll), [Viewlive](https://friendly-kilby-d5109d.netlify.app/)
