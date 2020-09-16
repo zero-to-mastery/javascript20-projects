@@ -101,6 +101,7 @@ Check out all of the submissions below! Well done everyone:
 - Karan Ahir - [GitHub](https://github.com/karanahir9/Infinity-Scroll) [ViewLive](https://karanahir9.github.io/Infinity-Scroll/)
 - Sarwar Md - [Github](https://github.com/Sarwar-Md/lens.git)
 - Harsh Goswami - [Github](https://github.com/astomak/masonry_image_gallery), [ViewLive](https://astomak.github.io/masonry_image_gallery/)
+- Palak Jain - [Github](https://github.com/Palak-coder626/Infinite-scroll), [View Live](https://palak-coder626.github.io/Infinite-scroll/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectInfiniteScroll), [ViewLive](https://jthinlay.github.io/JavaScriptProjectInfiniteScroll/)
 - Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/InfiniteDogs), [ViewLive](https://gabrielamcarvalho.github.io/InfiniteDogs/)
 - Hamza Khan - [Github](https://github.com/salderahamza/Image-Scroll) , [Live](https://salderahamza.github.io/Image-Scroll/)
