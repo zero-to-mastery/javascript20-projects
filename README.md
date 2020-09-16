@@ -129,6 +129,7 @@ Check out all of the submissions below! Well done everyone:
 - Russ Perry - [Github](https://github.com/rperry99/joke-teller)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
 - Sam Kach - [Github](https://github.com/rizamoyi/joke-teller)
+- Rohan Raj Gautam - [Github](https://github.com/RohanRajGautam/ChuckNorrisJokeGenerator), [ViewLive](https://rohanrajgautam.github.io/ChuckNorrisJokeGenerator/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javaScriptProjectTellJoke), [ViewLive](https://jthinlay.github.io/javaScriptProjectTellJoke/) 
 - Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/jokeTeller), [ViewLive](https://gabrielamcarvalho.github.io/jokeTeller/)
 - Joseph Rice - [GitHub](https://github.com/JericRice/joke-teller), [ViewLive](https://jericrice.github.io/joke-teller/)
@@ -136,6 +137,7 @@ Check out all of the submissions below! Well done everyone:
 - Anette - [Github](https://github.com/RedSquirrrel/joke-teller) [ViewLive](https://redsquirrrel.github.io/joke-teller/)
 - Soojin - [Github](https://github.com/ehdgodgka/joke-teller) [ViewLive](https://ehdgodgka.github.io/joke-teller/)
 - Hamza Khan - [Github](https://github.com/salderahamza/robo-joke) , [Live](https://salderahamza.github.io/robo-joke/.)
+
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
@@ -185,6 +187,7 @@ Check out all of the submissions below! Well done everyone:
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
 - Russ Perry - [Github](https://github.com/rperry99/book-keeper)
+- Rohan Raj Gautam = [Github](https://github.com/RohanRajGautam/bookList), [ViewLive](https://rohanrajgautam.github.io/bookList/)
 - Anette - [Github](https://github.com/RedSquirrrel/bookmark-keeper) [ViewLive](https://redsquirrrel.github.io/bookmark-keeper/)
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
