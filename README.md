@@ -113,6 +113,7 @@ Check out all of the submissions below! Well done everyone:
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-picture-in-picture) [ViewLive](https://ehdgodgka.github.io/js20-picture-in-picture/)
 - Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
+- Ala Balbaid - [Github](https://github.com/alaa140101/pictureInPicture) [ViewLive](https://alaa140101.github.io/pictureInPicture/)
 - Rahul Bakshi - [Github](https://github.com/rahulbakshi4/picture-in-pcture), [ViewLive](https://rahulbakshi4.github.io/picture-in-picture/)
 - Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/PictureInPicture), [ViewLive](https://gabrielamcarvalho.github.io/PictureInPicture/) 
 - WayneMacMavis - [Github](https://github.com/waynemacmavis/picture-in-picture), [Viewlive](https://waynemacmavis.github.io/picture-in-picture/)
@@ -124,6 +125,7 @@ Check out all of the submissions below! Well done everyone:
 - Anette - [Github](https://github.com/RedSquirrrel/picture-in-picture) [ViewLive](https://redsquirrrel.github.io/picture-in-picture/)
 - Rahul Bakshi - [Github](https://github.com/rahulbakshi4/picture-in-pcture), [ViewLive](https://rahulbakshi4.github.io/picture-in-picture/)  
 - Hamza Khan [Github](https://github.com/salderahamza/picture-in-picture) [Live](https://salderahamza.github.io/picture-in-picture)
+
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
