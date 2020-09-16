@@ -1,4 +1,4 @@
-# javascript20-projects
+# javascript20-projectsi
 
 Student submissions for the JavaScript 20 projects
 
@@ -98,7 +98,6 @@ Check out all of the submissions below! Well done everyone:
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
 - Russ Perry - [Github](https://github.com/rperry99/book-keeper)
--
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
