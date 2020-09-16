@@ -126,7 +126,7 @@ Check out all of the submissions below! Well done everyone:
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
--
+- Sarwar MD - [Github](https://github.com/Sarwar-Md/just-paint)  [View live](https://sarwar-md.github.io/just-paint/)
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
