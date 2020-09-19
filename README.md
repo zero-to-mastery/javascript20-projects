@@ -78,7 +78,8 @@ Check out all of the submissions below! Well done everyone:
 - Hamza Khan - [GitHub](https://github.com/salderahamza/Quote-Generator), [Live](https://salderahamza.github.io/Quote-Generator/)
 - Alexandru Burghelea - [Github](https://github.com/AlexBMA/quote-generator), [Viewlive](https://alexbma.github.io/quote-generator/)
 - Anuj Kr Prasad - [Github](https://github.com/prasadanuj36/quote-generator.io), [Live](https://prasadanuj36.github.io/quote-generator.io/)
-- Mayur Varma - [Github](https://github.com/mayurvarma14/quote-generator), [Viewlive](https://mayurvarma14.github.io/quote-generator/)
+- Mayur Varma - [Github](https://github.com/mayurvarma14/quote-generator), [Viewlive](https://mayurvarma14.github.io/quote-generator/)  
+- Gaurav Shinde - [Github](https://github.com/Gaurav29Shinde/Quote-Generator), [ViewLive](https://gaurav29shinde.github.io/Quote-Generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
