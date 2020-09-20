@@ -216,7 +216,7 @@ Check out all of the submissions below! Well done everyone:
 - Hamza Khan - [Github](https://github.com/salderahamza/music-player) [Live](https://salderahamza.github.io/music-player/)
 - Anette - [Github](https://github.com/RedSquirrrel/music-player) [ViewLive](https://redsquirrrel.github.io/music-player/)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-music-player) [ViewLive](https://ehdgodgka.github.io/js20-music-player/)
-- Hamza Khan - [Github](https://github.com/salderahamza/music-player) [Live](htpps://salderahamza.github.io/music-player)
+- Hamza Khan - [Github](https://github.com/salderahamza/music-player) [Live](https://salderahamza.github.io/music-player)
 >>>>>>> ec7ef9e21e1f00ca38fdc2d686429cd93e637ce1
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
@@ -226,7 +226,7 @@ Check out all of the submissions below! Well done everyone:
 <<<<<<< HEAD
 - Hamza Khan - [Github](https://github.com/salderahamza/countdown) [Live](https://salderahamza.github.io/countdown)
 =======
-- Hamza Khan - [Github] (https://github.com/salderahamza/countdown) [Live](https://salderahamza.github.io/countdown/)
+- Hamza Khan - [Github](https://github.com/salderahamza/countdown) [Live](https://salderahamza.github.io/countdown/)
 >>>>>>> ec7ef9e21e1f00ca38fdc2d686429cd93e637ce1
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
