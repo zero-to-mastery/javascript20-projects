@@ -75,6 +75,7 @@ Check out all of the submissions below! Well done everyone:
 
 - Russ Perry - [Github](https://github.com/rperry99/navigation-animation)
 - Rick Hallett - [Github](https://github.com/rickhallett/crypto-io) (work in progress! Will be completed by 31/08/2020! [ViewLive](https://rickhallett.github.io/crypto-io-bundled/))
+- Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectAnimatedNav [ViewLive](https://jthinlay.github.io/JavaScriptProjectAnimatedNav/))
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
