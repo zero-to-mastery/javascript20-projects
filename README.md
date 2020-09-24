@@ -223,19 +223,17 @@ Check out all of the submissions below! Well done everyone:
 
 - Russ Perry - [Github](https://github.com/rperry99/custom-countdown) | [ViewLive](https://rperry99.github.io/custom-countdown/)
 - Arianna Choza - [Github](https://github.com/unachoza/countdown) [ViewLive](https://unachoza.github.io/countdown)
-<<<<<<< HEAD
 - Hamza Khan - [Github](https://github.com/salderahamza/countdown) [Live](https://salderahamza.github.io/countdown)
 =======
-- Hamza Khan - [Github](https://github.com/salderahamza/countdown) [Live](https://salderahamza.github.io/countdown/)
->>>>>>> ec7ef9e21e1f00ca38fdc2d686429cd93e637ce1
+- Hamza Khan - [Github](https://github.com/salderahamza/countdown) [Live](https://salderahamza.github.io/countdown)
+
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
 - Russ Perry - [Github](https://github.com/rperry99/book-keeper)
-<<<<<<< HEAD
 - Hamza Khan - [Github](https://github.com/salderahamza/bookmark-app)
 =======
-- Hamza Khan - [Github](https://github.com/salderahamza/bookmark-app) [Live](https://salderahamza.github.io/bookmark-app/)
+- Hamza Khan - [Github](https://github.com/salderahamza/bookmark-app) [Live](https://salderahamza.github.io/bookmark-app)
 - Anette - [Github](https://github.com/RedSquirrrel/countdown) [ViewLive](https://redsquirrrel.github.io/countdown/)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
@@ -243,18 +241,16 @@ Check out all of the submissions below! Well done everyone:
 - Russ Perry - [Github](https://github.com/rperry99/book-keeper) | [ViewLive](https://rperry99.github.io/book-keeper/)
 - Rohan Raj Gautam = [Github](https://github.com/RohanRajGautam/bookList), [ViewLive](https://rohanrajgautam.github.io/bookList/)
 - Anette - [Github](https://github.com/RedSquirrrel/bookmark-keeper) [ViewLive](https://redsquirrrel.github.io/bookmark-keeper/)
->>>>>>> ec7ef9e21e1f00ca38fdc2d686429cd93e637ce1
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/video-player/)
-<<<<<<< HEAD
 - Hamza Khan - [Github](https://github.com/salderahamza/video-player)
 =======
 - Hamza Khan - [Github](https://github.com/salderahamza/video-player/)
-- Anette - [Github](https://github.com/RedSquirrrel/video-player) [ViewLive](https://redsquirrrel.github.io/video-player/)
+- Anette - [Github](https://github.com/RedSquirrrel/video-player) [ViewLive](https://redsquirrrel.github.io/video-player)
 - Russ Perry - [Github](https://github.com/rperry99/video-player) | [ViewLive](https://rperry99.github.io/video-player/)
->>>>>>> ec7ef9e21e1f00ca38fdc2d686429cd93e637ce1
+
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
@@ -268,6 +264,7 @@ Check out all of the submissions below! Well done everyone:
 
 - Anette [Github](https://github.com/RedSquirrrel/rock-spock) [ViewLive](https://redsquirrrel.github.io/rock-spock/)
 - Russ Perry - [Github](https://github.com/rperry99/spock-rock-game) | [ViewLive](https://rperry99.github.io/spock-rock-game/)
+- Hamza Khan [Github](https://github.com/salderahamza/spock-rock-game) [Live](https://salderahamza.github.io/spock-rock-game)
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
