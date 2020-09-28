@@ -9,6 +9,7 @@ Student submissions for the JavaScript 20 projects
 Check out all of the submissions below! Well done everyone:
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/quote-generator) [View Live](https://mister-josuecedeno.github.io/quote-generator/)
 - Gabriel Costa - [Github](https://github.com/Garccosta/quote-generator) [ViewLive](https://garccosta.github.io/quote-generator/)
 - Daniel Narh Kpodo - [Github](https://github.com/danielkpodo/random-quote-generator) [ViewLive](https://danielkpodo.github.io/random-quote-generator/)
@@ -79,6 +80,7 @@ Check out all of the submissions below! Well done everyone:
 - Alexandru Burghelea - [Github](https://github.com/AlexBMA/quote-generator), [Viewlive](https://alexbma.github.io/quote-generator/)
 - Anuj Kr Prasad - [Github](https://github.com/prasadanuj36/quote-generator.io), [Live](https://prasadanuj36.github.io/quote-generator.io/)
 - Mayur Varma - [Github](https://github.com/mayurvarma14/quote-generator), [Viewlive](https://mayurvarma14.github.io/quote-generator/)
+- Umberto Di Napoli - [Github](https://github.com/Khelthos/simple-quote-generator), [Viewlive](https://khelthos.github.io/simple-quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -144,7 +146,7 @@ Check out all of the submissions below! Well done everyone:
 - Hamza Khan - [Github](https://github.com/salderahamza/robo-joke) [Live](https://salderahamza.github.io/robo-joke/)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Joke-Teller) [ViewLive](https://alaa140101.github.io/Joke-Teller/)
 - Rohan Raj Gautam - [Github](https://github.com/RohanRajGautam/ChuckNorrisJokeGenerator), [ViewLive](https://rohanrajgautam.github.io/ChuckNorrisJokeGenerator/)
-- Jampa Thinlay - [Github](https://github.com/jthinlay/javaScriptProjectTellJoke), [ViewLive](https://jthinlay.github.io/javaScriptProjectTellJoke/) 
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javaScriptProjectTellJoke), [ViewLive](https://jthinlay.github.io/javaScriptProjectTellJoke/)
 - Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/jokeTeller), [ViewLive](https://gabrielamcarvalho.github.io/jokeTeller/)
 - Joseph Rice - [GitHub](https://github.com/JericRice/joke-teller), [ViewLive](https://jericrice.github.io/joke-teller/)
 - Wei-Hang Wang - [Github](https://github.com/KalpasWang/joke-teller)
