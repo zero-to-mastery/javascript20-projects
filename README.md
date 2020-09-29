@@ -285,7 +285,7 @@ Check out all of the submissions below! Well done everyone:
 
 - Anette [Github](https://github.com/RedSquirrrel/math-sprint-game) [ViewLive](https://redsquirrrel.github.io/math-sprint-game/)
 - Russ Perry - [Github](https://github.com/rperry99/math-sprint) | [ViewLive](https://rperry99.github.io/math-sprint/)
-
+- Hamza Khan - [Github](https://github.com/salderahamza/math-sprint)
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
 - Marius Bogdanel - [Github](https://github.com/mbogdanel/kanban-board) [ViewLive](https://mbogdanel.github.io/kanban-board/)
