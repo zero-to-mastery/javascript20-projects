@@ -115,7 +115,6 @@ Check out all of the submissions below! Well done everyone:
 - Alexander Suero - [Github](https://github.com/alexandersuerof/Picture-in-Picture) [ViewLive](https://alexandersuerof.github.io/Picture-in-Picture/)
 - Yiying Jie - [Github](https://github.com/yjie28/jsp-picture-in-picture) [ViewLive](https://yjie28.github.io/jsp-picture-in-picture/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
-- Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectPictureInPicture) [ViewLive](https://jthinlay.github.io/JavaScriptProjectPictureInPicture/)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-picture-in-picture) [ViewLive](https://ehdgodgka.github.io/js20-picture-in-picture/)
 - Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
 - Hamza Khan - [Github](https://github.com/salderahamza/picture-in-picture) [Live](https://salderahamza.github.io/picture-in-picture/)
@@ -131,6 +130,7 @@ Check out all of the submissions below! Well done everyone:
 - Anette - [Github](https://github.com/RedSquirrrel/picture-in-picture) [ViewLive](https://redsquirrrel.github.io/picture-in-picture/)
 - Rahul Bakshi - [Github](https://github.com/rahulbakshi4/picture-in-pcture), [ViewLive](https://rahulbakshi4.github.io/picture-in-picture/)
 - Hamza Khan [Github](https://github.com/salderahamza/picture-in-picture) [Live](https://salderahamza.github.io/picture-in-picture)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectPictureInPicture) [ViewLive](https://jthinlay.github.io/JavaScriptProjectPictureInPicture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
@@ -169,7 +169,6 @@ Check out all of the submissions below! Well done everyone:
 
 - Russ Perry - [Github](https://github.com/rperry99/animation-template) | [ViewLive](https://rperry99.github.io/animation-template/)
 - Ozziel Ruiiz [Github](https://ozzielruiz.github.io/animated-template/)
-- Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProjectAnimatedTemplate) [ViewLive](https://jthinlay.github.io/javascriptProjectAnimatedTemplate/)
 - Hamza Khan - [Github](https://github.com/salderahamza/page-animation) [Live](https://salderahamza.github.io/pae-animation/)
 - Anette - [Github](https://github.com/RedSquirrrel/isle-of-wight) [ViewLive](https://redsquirrrel.github.io/isle-of-wight/)
 - Sam Kach - [Github](https://github.com/rizamoyi/animated-template)
@@ -177,15 +176,16 @@ Check out all of the submissions below! Well done everyone:
 - Ozziel Ruiiz - [Github](https://ozzielruiz.github.io/animated-template/)
 - Roy Wang - [Github](https://github.com/falinwang/portfolio), [View live](https://falinwang.github.io/portfolio/)
 - Hamza Khan [GitHub](https://github.io/salderahamza/page-animation) [Live](https://salderahamza.github.io/page-animation)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProjectAnimatedTemplate) [ViewLive](https://jthinlay.github.io/javascriptProjectAnimatedTemplate/)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
 - Russ Perry - [Github](https://github.com/rperry99/navigation-animation) | [ViewLive](https://rperry99.github.io/navigation-animation/)
 - Rick Hallett - [Github](https://github.com/rickhallett/crypto-io) (work in progress! Will be completed by 31/08/2020! [ViewLive](https://rickhallett.github.io/crypto-io-bundled/))
-- Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectAnimatedNav [ViewLive](https://jthinlay.github.io/JavaScriptProjectAnimatedNav/))
 - Hamza Khan - [Github](https://github.com/salderhamza/menu-navigation) [Live](https://salderahamza.github.io/menu-navigation/)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-navigation) [ViewLive](https://ehdgodgka.github.io/js20-navigation/)
 - Hamza Khan - [Github](https://github.com/salderahamza/menu-navigation) [Live](https://salderahamza.github.io/menu-navigation)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectAnimatedNav [ViewLive](https://jthinlay.github.io/JavaScriptProjectAnimatedNav/))
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
@@ -197,6 +197,7 @@ Check out all of the submissions below! Well done everyone:
 - Anette - [Github](https://github.com/RedSquirrrel/music-player) [ViewLive](https://redsquirrrel.github.io/music-player/)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-music-player) [ViewLive](https://ehdgodgka.github.io/js20-music-player/)
 - Hamza Khan - [Github](https://github.com/salderahamza/music-player) [Live](htpps://salderahamza.github.io/music-player)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectMusicPlayer) [Live](https://jthinlay.github.io/JavaScriptProjectMusicPlayer/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
@@ -272,3 +273,4 @@ Check out all of the submissions below! Well done everyone:
 
 - Anette [Github](https://github.com/RedSquirrrel/splash-page) [ViewLive](https://redsquirrrel.github.io/splash-page/)
 - Russ Perry - [Github](https://github.com/rperry99/splash-page) | [ViewLive](https://rperry99.github.io/splash-page/)
+
