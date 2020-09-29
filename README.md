@@ -108,6 +108,7 @@ Check out all of the submissions below! Well done everyone:
 - Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectInfiniteScroll), [ViewLive](https://jthinlay.github.io/JavaScriptProjectInfiniteScroll/)
 - Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/InfiniteDogs), [ViewLive](https://gabrielamcarvalho.github.io/InfiniteDogs/)
 - Hamza Khan - [Github](https://github.com/salderahamza/Image-Scroll) , [Live](https://salderahamza.github.io/Image-Scroll/)
+- Yifang Di - [Github](https://github.com/YvonneD/infinite-scroll-images), [Viewlive](https://yvonned.github.io/infinite-scroll-images/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
