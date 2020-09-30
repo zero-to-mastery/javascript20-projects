@@ -81,6 +81,7 @@ Check out all of the submissions below! Well done everyone:
 - Alexandru Burghelea - [Github](https://github.com/AlexBMA/quote-generator), [Viewlive](https://alexbma.github.io/quote-generator/)
 - Anuj Kr Prasad - [Github](https://github.com/prasadanuj36/quote-generator.io), [Live](https://prasadanuj36.github.io/quote-generator.io/)
 - Mayur Varma - [Github](https://github.com/mayurvarma14/quote-generator), [Viewlive](https://mayurvarma14.github.io/quote-generator/)
+- Yudan Zhai - [Github](https://github.com/yudanZ/quote-generator), [Viewlive](https://yudanz.github.io/quote-generator/)
 
 - Constantin Unterkofler - [Github](https://github.com/conuko/Quote-Generator), [Viewlive](https://conuko.github.io/Quote-Generator/)
 
@@ -111,6 +112,7 @@ Check out all of the submissions below! Well done everyone:
 - Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectInfiniteScroll), [ViewLive](https://jthinlay.github.io/JavaScriptProjectInfiniteScroll/)
 - Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/InfiniteDogs), [ViewLive](https://gabrielamcarvalho.github.io/InfiniteDogs/)
 - Hamza Khan - [Github](https://github.com/salderahamza/Image-Scroll) , [Live](https://salderahamza.github.io/Image-Scroll/)
+- Yudan Zhai - [Github](https://github.com/yudanZ/infinite-scroll) , [Live](https://yudanz.github.io/infinite-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
@@ -155,6 +157,7 @@ Check out all of the submissions below! Well done everyone:
 - Anette - [Github](https://github.com/RedSquirrrel/joke-teller) [ViewLive](https://redsquirrrel.github.io/joke-teller/)
 - Soojin - [Github](https://github.com/ehdgodgka/joke-teller) [ViewLive](https://ehdgodgka.github.io/joke-teller/)
 - Hamza Khan - [Github](https://github.com/salderahamza/robo-joke) , [Live](https://salderahamza.github.io/robo-joke/.)
+- Yudan Zhai - [Github](https://github.com/yudanZ/joke-teller) , [Live](https://yudanz.github.io/joke-teller/)
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
@@ -232,6 +235,7 @@ Check out all of the submissions below! Well done everyone:
 - Steve Tollin - [Github](https://github.com/Webistics/Validation-Form) [ViewLive](https://webistics.github.io/Validation-Form/)
 - Anette - [Github](https://github.com/RedSquirrrel/form-validator) [ViewLive](https://redsquirrrel.github.io/form-validator/)
 - Russ Perry - [Github](https://github.com/rperry99/form-validation) | [ViewLive](https://rperry99.github.io/form-validation/)
+- Yudan Zhai - [Github](https://github.com/yudanZ/form-validation) | [ViewLive](https://yudanz.github.io/form-validation/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
