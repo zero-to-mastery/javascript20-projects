@@ -9,6 +9,7 @@ Student submissions for the JavaScript 20 projects
 Check out all of the submissions below! Well done everyone:
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+
 - Olena Ageyeva - [Github](https://github.com/olena-ageyeva/quote-generator) [Live](https://olena-ageyeva.github.io/quote-generator/)
 - Arpit Alne - [Github](https://github.com/arpit-alne/Quotes-Generator.git)
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/quote-generator) [View Live](https://mister-josuecedeno.github.io/quote-generator/)
@@ -81,6 +82,7 @@ Check out all of the submissions below! Well done everyone:
 - Alexandru Burghelea - [Github](https://github.com/AlexBMA/quote-generator), [Viewlive](https://alexbma.github.io/quote-generator/)
 - Anuj Kr Prasad - [Github](https://github.com/prasadanuj36/quote-generator.io), [Live](https://prasadanuj36.github.io/quote-generator.io/)
 - Mayur Varma - [Github](https://github.com/mayurvarma14/quote-generator), [Viewlive](https://mayurvarma14.github.io/quote-generator/)
+- Umberto Di Napoli - [Github](https://github.com/Khelthos/simple-quote-generator), [Viewlive](https://khelthos.github.io/simple-quote-generator/)
 - Yifang Di - [Github](https://github.com/YvonneD/quote-generator), [Viewlive](https://yvonned.github.io/quote-generator/)
 - Yudan Zhai - [Github](https://github.com/yudanZ/quote-generator), [Viewlive](https://yudanz.github.io/quote-generator/)
 - Constantin Unterkofler - [Github](https://github.com/conuko/Quote-Generator), [Viewlive](https://conuko.github.io/Quote-Generator/)
