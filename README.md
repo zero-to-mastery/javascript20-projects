@@ -80,6 +80,8 @@ Check out all of the submissions below! Well done everyone:
 - Anuj Kr Prasad - [Github](https://github.com/prasadanuj36/quote-generator.io), [Live](https://prasadanuj36.github.io/quote-generator.io/)
 - Mayur Varma - [Github](https://github.com/mayurvarma14/quote-generator), [Viewlive](https://mayurvarma14.github.io/quote-generator/)
 
+- Constantin Unterkofler - [Github](https://github.com/conuko/Quote-Generator), [Viewlive](https://conuko.github.io/Quote-Generator/)
+
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/infinite-scroll) [ViewLive](https://mister-josuecedeno.github.io/infinite-scroll/)
