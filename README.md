@@ -9,8 +9,8 @@ Student submissions for the JavaScript 20 projects
 Check out all of the submissions below! Well done everyone:
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
-
 - Olena Ageyeva - [Github](https://github.com/olena-ageyeva/quote-generator) [Live](https://olena-ageyeva.github.io/quote-generator/)
+- Arpit Alne - [Github](https://github.com/arpit-alne/Quotes-Generator.git)
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/quote-generator) [View Live](https://mister-josuecedeno.github.io/quote-generator/)
 - Gabriel Costa - [Github](https://github.com/Garccosta/quote-generator) [ViewLive](https://garccosta.github.io/quote-generator/)
 - Daniel Narh Kpodo - [Github](https://github.com/danielkpodo/random-quote-generator) [ViewLive](https://danielkpodo.github.io/random-quote-generator/)
@@ -81,6 +81,8 @@ Check out all of the submissions below! Well done everyone:
 - Alexandru Burghelea - [Github](https://github.com/AlexBMA/quote-generator), [Viewlive](https://alexbma.github.io/quote-generator/)
 - Anuj Kr Prasad - [Github](https://github.com/prasadanuj36/quote-generator.io), [Live](https://prasadanuj36.github.io/quote-generator.io/)
 - Mayur Varma - [Github](https://github.com/mayurvarma14/quote-generator), [Viewlive](https://mayurvarma14.github.io/quote-generator/)
+
+- Constantin Unterkofler - [Github](https://github.com/conuko/Quote-Generator), [Viewlive](https://conuko.github.io/Quote-Generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -159,6 +161,7 @@ Check out all of the submissions below! Well done everyone:
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit)
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode) | [ViewLive](https://rperry99.github.io/light-dark-mode/index.html)
 - Sam Kach - [Github](https://github.com/rizamoyi/light-dark-mode)
+- Alaa Balbaid - [Github](https://github.com/alaa140101/lightDarkMode) [ViewLive](https://alaa140101.github.io/lightDarkMode/)
 - Hamza Khan - [Github](https://github.com/salderahamza/light-dark-mode) [Live](https://salderahamza.github.io/light-dark-mode/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProjectTemplate_dark_light_mode), [ViewLive](https://jthinlay.github.io/javascriptProjectTemplate_dark_light_mode/)
 - Austin Hill - [Github](https://github.com/Akinghill/markdown-previewer-LD) [ViewLive](https://akinghill.github.io/markdown-previewer-LD/)
@@ -196,6 +199,7 @@ Check out all of the submissions below! Well done everyone:
 - Anette - [Github](https://github.com/RedSquirrrel/music-player) [ViewLive](https://redsquirrrel.github.io/music-player/)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-music-player) [ViewLive](https://ehdgodgka.github.io/js20-music-player/)
 - Hamza Khan - [Github](https://github.com/salderahamza/music-player) [Live](htpps://salderahamza.github.io/music-player)
+- Alaa Balbaid - [Github]https://github.com/alaa140101/Music-Player) [Live](https://alaa140101.github.io/Music-Player/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
