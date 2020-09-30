@@ -9,6 +9,8 @@ Student submissions for the JavaScript 20 projects
 Check out all of the submissions below! Well done everyone:
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+- Olena Ageyeva - [Github](https://github.com/olena-ageyeva/quote-generator) [Live](https://olena-ageyeva.github.io/quote-generator/)
+- Arpit Alne - [Github](https://github.com/arpit-alne/Quotes-Generator.git)
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/quote-generator) [View Live](https://mister-josuecedeno.github.io/quote-generator/)
 - Gabriel Costa - [Github](https://github.com/Garccosta/quote-generator) [ViewLive](https://garccosta.github.io/quote-generator/)
 - Daniel Narh Kpodo - [Github](https://github.com/danielkpodo/random-quote-generator) [ViewLive](https://danielkpodo.github.io/random-quote-generator/)
@@ -80,6 +82,8 @@ Check out all of the submissions below! Well done everyone:
 - Anuj Kr Prasad - [Github](https://github.com/prasadanuj36/quote-generator.io), [Live](https://prasadanuj36.github.io/quote-generator.io/)
 - Mayur Varma - [Github](https://github.com/mayurvarma14/quote-generator), [Viewlive](https://mayurvarma14.github.io/quote-generator/)
 - Yifang Di - [Github](https://github.com/YvonneD/quote-generator), [Viewlive](https://yvonned.github.io/quote-generator/)
+- Yudan Zhai - [Github](https://github.com/yudanZ/quote-generator), [Viewlive](https://yudanz.github.io/quote-generator/)
+- Constantin Unterkofler - [Github](https://github.com/conuko/Quote-Generator), [Viewlive](https://conuko.github.io/Quote-Generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -109,6 +113,7 @@ Check out all of the submissions below! Well done everyone:
 - Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/InfiniteDogs), [ViewLive](https://gabrielamcarvalho.github.io/InfiniteDogs/)
 - Hamza Khan - [Github](https://github.com/salderahamza/Image-Scroll) , [Live](https://salderahamza.github.io/Image-Scroll/)
 - Yifang Di - [Github](https://github.com/YvonneD/infinite-scroll-images), [Viewlive](https://yvonned.github.io/infinite-scroll-images/)
+- Yudan Zhai - [Github](https://github.com/yudanZ/infinite-scroll) , [Live](https://yudanz.github.io/infinite-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
@@ -147,19 +152,21 @@ Check out all of the submissions below! Well done everyone:
 - Hamza Khan - [Github](https://github.com/salderahamza/robo-joke) [Live](https://salderahamza.github.io/robo-joke/)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Joke-Teller) [ViewLive](https://alaa140101.github.io/Joke-Teller/)
 - Rohan Raj Gautam - [Github](https://github.com/RohanRajGautam/ChuckNorrisJokeGenerator), [ViewLive](https://rohanrajgautam.github.io/ChuckNorrisJokeGenerator/)
-- Jampa Thinlay - [Github](https://github.com/jthinlay/javaScriptProjectTellJoke), [ViewLive](https://jthinlay.github.io/javaScriptProjectTellJoke/) 
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javaScriptProjectTellJoke), [ViewLive](https://jthinlay.github.io/javaScriptProjectTellJoke/)
 - Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/jokeTeller), [ViewLive](https://gabrielamcarvalho.github.io/jokeTeller/)
 - Joseph Rice - [GitHub](https://github.com/JericRice/joke-teller), [ViewLive](https://jericrice.github.io/joke-teller/)
 - Wei-Hang Wang - [Github](https://github.com/KalpasWang/joke-teller)
 - Anette - [Github](https://github.com/RedSquirrrel/joke-teller) [ViewLive](https://redsquirrrel.github.io/joke-teller/)
 - Soojin - [Github](https://github.com/ehdgodgka/joke-teller) [ViewLive](https://ehdgodgka.github.io/joke-teller/)
 - Hamza Khan - [Github](https://github.com/salderahamza/robo-joke) , [Live](https://salderahamza.github.io/robo-joke/.)
+- Yudan Zhai - [Github](https://github.com/yudanZ/joke-teller) , [Live](https://yudanz.github.io/joke-teller/)
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit)
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode) | [ViewLive](https://rperry99.github.io/light-dark-mode/index.html)
 - Sam Kach - [Github](https://github.com/rizamoyi/light-dark-mode)
+- Alaa Balbaid - [Github](https://github.com/alaa140101/lightDarkMode) [ViewLive](https://alaa140101.github.io/lightDarkMode/)
 - Hamza Khan - [Github](https://github.com/salderahamza/light-dark-mode) [Live](https://salderahamza.github.io/light-dark-mode/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProjectTemplate_dark_light_mode), [ViewLive](https://jthinlay.github.io/javascriptProjectTemplate_dark_light_mode/)
 - Austin Hill - [Github](https://github.com/Akinghill/markdown-previewer-LD) [ViewLive](https://akinghill.github.io/markdown-previewer-LD/)
@@ -197,6 +204,7 @@ Check out all of the submissions below! Well done everyone:
 - Anette - [Github](https://github.com/RedSquirrrel/music-player) [ViewLive](https://redsquirrrel.github.io/music-player/)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-music-player) [ViewLive](https://ehdgodgka.github.io/js20-music-player/)
 - Hamza Khan - [Github](https://github.com/salderahamza/music-player) [Live](htpps://salderahamza.github.io/music-player)
+- Alaa Balbaid - [Github]https://github.com/alaa140101/Music-Player) [Live](https://alaa140101.github.io/Music-Player/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
@@ -229,6 +237,7 @@ Check out all of the submissions below! Well done everyone:
 - Steve Tollin - [Github](https://github.com/Webistics/Validation-Form) [ViewLive](https://webistics.github.io/Validation-Form/)
 - Anette - [Github](https://github.com/RedSquirrrel/form-validator) [ViewLive](https://redsquirrrel.github.io/form-validator/)
 - Russ Perry - [Github](https://github.com/rperry99/form-validation) | [ViewLive](https://rperry99.github.io/form-validation/)
+- Yudan Zhai - [Github](https://github.com/yudanZ/form-validation) | [ViewLive](https://yudanz.github.io/form-validation/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
