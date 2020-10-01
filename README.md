@@ -9,24 +9,7 @@ Student submissions for the [JavaScript 20 Projects Course](https://academy.zero
 Check out all of the submissions below! Well done everyone!
 
 #### Contents
- [Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-Scroll---original-github) | [Picture in Picture](#Picture-in-Picture---original-github)
- - [Joke Teller](#---original-github)
- - [Light/Dark Mode](#---original-github)
- - [Animated Template](#---original-github)
- - [Navigation Nation](#---original-github)
- - [Music Player](#---original-github)
- - [Custom Countdown](#---original-github)
- - [Book Keeper](#---original-github)
- - [Video Player](#---original-github)
- - [Form Validator](#---original-github)
- - [Rock Spock](#---original-github)
- - [NASA APOD](#---original-github)
- - [Paint Clone](#---original-github)
- - [Pong](#---original-github)
- - [Math Sprint Game](#---original-github)
- - [Drag and Drop](#---original-github)
- - [Calculator](#---original-github)
- - [Splash Pag](#---original-github)
+ [Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-Scroll---original-github) | [Picture in Picture](#Picture-in-Picture---original-github) | [Joke Teller](#Joke-Teller---original-github) | [Light/Dark Mode](#Light/Dark-Mode---original-github) | [Animated Template](#Animated-Template---original-github) | [Navigation Nation](#Navigation-Nation---original-github) | [Music Player](#Music-Player---original-github) | [Custom Countdown](#Custom-Countdown---original-github) | [Book Keeper](#Book-Keeper---original-github) | [Video Player](#Video-Player---original-github) | [Form Validator](#Form-Validator---original-github) | [Rock Spock](#Rock-Spock---original-github) | [NASA APOD](#NASA-APOD---original-github) | [Paint Clone](#Paint-Clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#Math-Sprint-Game---original-github) | [Drag and Drop](#Drag-and-Drop---original-github) | [Calculator](#Calculator---original-github) | [Splash Page](#Splash-Page---original-github)
  
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
