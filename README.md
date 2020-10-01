@@ -87,6 +87,7 @@ Check out all of the submissions below! Well done everyone:
 - Gaurav Shinde - [Github](https://github.com/Gaurav29Shinde/Quote-Generator), [ViewLive](https://gaurav29shinde.github.io/Quote-Generator/)
 - Anuj Kr Prasad - [Github](https://github.com/prasadanuj36/quote-generator.io), [Live](https://prasadanuj36.github.io/quote-generator/)
 - Mayur Varma - [Github](https://github.com/mayurvarma14/quote-generator), [Viewlive](https://mayurvarma14.github.io/quote-generator/)
+- Suraj Sankarsingh - [Github](https://github.com/SurajSankarsingh), [Viewlive](https://surajsankarsingh.github.io/quote-generator/)
 - Umberto Di Napoli - [Github](https://github.com/Khelthos/simple-quote-generator), [Viewlive](https://khelthos.github.io/simple-quote-generator/)
 - Yifang Di - [Github](https://github.com/YvonneD/quote-generator), [Viewlive](https://yvonned.github.io/quote-generator/)
 - Yudan Zhai - [Github](https://github.com/yudanZ/quote-generator), [Viewlive](https://yudanz.github.io/quote-generator/)
