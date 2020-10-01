@@ -162,6 +162,7 @@ Check out all of the submissions below! Well done everyone:
 - Anette - [Github](https://github.com/RedSquirrrel/joke-teller) [ViewLive](https://redsquirrrel.github.io/joke-teller/)
 - Soojin - [Github](https://github.com/ehdgodgka/joke-teller) [ViewLive](https://ehdgodgka.github.io/joke-teller/)
 - Hamza Khan - [Github](https://github.com/salderahamza/robo-joke) , [Live](https://salderahamza.github.io/robo-joke/.)
+- Palak Jain - [Github](https://github.com/Palak-coder626/Joke-Teller), [ViewLive](https://palak-coder626.github.io/Joke-Teller/)
 - Yudan Zhai - [Github](https://github.com/yudanZ/joke-teller) , [Live](https://yudanz.github.io/joke-teller/)
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
