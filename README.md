@@ -9,6 +9,7 @@ Student submissions for the JavaScript 20 projects
 Check out all of the submissions below! Well done everyone:
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+
 - Wesley Campbell - [Github](https://github.com/WPBC/quote-generator) [View Live](https://wpbc.github.io/quote-generator/)
 - Olena Ageyeva - [Github](https://github.com/olena-ageyeva/quote-generator) [Live](https://olena-ageyeva.github.io/quote-generator/)
 - Arpit Alne - [Github](https://github.com/arpit-alne/Quotes-Generator.git)
@@ -117,6 +118,7 @@ Check out all of the submissions below! Well done everyone:
 - Anuj Kumar Prasad - [Github](https://github.com/prasadanuj36/infinity-scroll) , [Live](https://prasadanuj36.github.io/infinity-scroll/)
 - Yifang Di - [Github](https://github.com/YvonneD/infinite-scroll-images), [Viewlive](https://yvonned.github.io/infinite-scroll-images/)
 - Yudan Zhai - [Github](https://github.com/yudanZ/infinite-scroll) , [Live](https://yudanz.github.io/infinite-scroll/)
+- Umberto Di Napoli - [Github](https://github.com/Khelthos/unsplash-infinite-scroll) , [Live](https://khelthos.github.io/unsplash-infinite-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
