@@ -9,6 +9,8 @@ Student submissions for the JavaScript 20 projects
 Check out all of the submissions below! Well done everyone:
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+
+- Siddhant(favorite option) - [Github](https://github.com/lannisterrr/QuotesWithFav) [View Live](https://lannisterrr.github.io/QuotesWithFav/)
 - Wesley Campbell - [Github](https://github.com/WPBC/quote-generator) [View Live](https://wpbc.github.io/quote-generator/)
 - Olena Ageyeva - [Github](https://github.com/olena-ageyeva/quote-generator) [Live](https://olena-ageyeva.github.io/quote-generator/)
 - Arpit Alne - [Github](https://github.com/arpit-alne/Quotes-Generator.git)
