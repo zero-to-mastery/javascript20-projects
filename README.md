@@ -1,16 +1,39 @@
 # javascript20-projects
 
-Student submissions for the JavaScript 20 projects
+Student submissions for the [JavaScript 20 Projects Course](https://academy.zerotomastery.io/p/javascript-projects)
 
 - Add your name and project to the list below by submitting a Pull Request!
 
 ## Submissions:
 
-Check out all of the submissions below! Well done everyone:
+Check out all of the submissions below! Well done everyone!
+
+#### Contents
+ - [Quote Generator](#)
+ - [Infinity Scroll](#)
+ - [Picture in Picture](#)
+ - [Joke Teller](#)
+ - [Light/Dark Mode](#)
+ - [Animated Template](#)
+ - [Navigation Nation](#)
+ - [Music Player](#)
+ - [Custom Countdown](#)
+ - [Book Keeper](#)
+ - [Video Player](#)
+ - [Form Validator](#)
+ - [Rock Spock](#)
+ - [NASA APOD](#)
+ - [Paint Clone](#)
+ - [Pong](#)
+ - [Math Sprint Game](#)
+ - [Drag and Drop](#)
+ - [Calculator](#)
+ - [Splash Pag](#)
+ 
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
-- Siddhant(favorite option) - [Github](https://github.com/lannisterrr/QuotesWithFav) [View Live](https://lannisterrr.github.io/QuotesWithFav/)
+- Siddhant - [Github](https://github.com/lannisterrr/QuotesWithFav) [View Live](https://lannisterrr.github.io/QuotesWithFav/)
 - Wesley Campbell - [Github](https://github.com/WPBC/quote-generator) [View Live](https://wpbc.github.io/quote-generator/)
 - Olena Ageyeva - [Github](https://github.com/olena-ageyeva/quote-generator) [Live](https://olena-ageyeva.github.io/quote-generator/)
 - Arpit Alne - [Github](https://github.com/arpit-alne/Quotes-Generator.git)
@@ -233,12 +256,6 @@ Check out all of the submissions below! Well done everyone:
 - Russ Perry - [Github](https://github.com/rperry99/book-keeper)
 - Hamza Khan - [Github](https://github.com/salderahamza/bookmark-app) [Live](https://salderahamza.github.io/bookmark-app/)
 - Anette - [Github](https://github.com/RedSquirrrel/countdown) [ViewLive](https://redsquirrrel.github.io/countdown/)
-
-### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
-
-- Russ Perry - [Github](https://github.com/rperry99/book-keeper) | [ViewLive](https://rperry99.github.io/book-keeper/)
-- Rohan Raj Gautam = [Github](https://github.com/RohanRajGautam/bookList), [ViewLive](https://rohanrajgautam.github.io/bookList/)
-- Anette - [Github](https://github.com/RedSquirrrel/bookmark-keeper) [ViewLive](https://redsquirrrel.github.io/bookmark-keeper/)
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
