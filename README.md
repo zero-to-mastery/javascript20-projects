@@ -129,6 +129,7 @@ Check out all of the submissions below! Well done everyone!
 - Anuj Kumar Prasad - [Github](https://github.com/prasadanuj36/infinity-scroll) , [Live](https://prasadanuj36.github.io/infinity-scroll/)
 - Yifang Di - [Github](https://github.com/YvonneD/infinite-scroll-images), [Viewlive](https://yvonned.github.io/infinite-scroll-images/)
 - Yudan Zhai - [Github](https://github.com/yudanZ/infinite-scroll) , [Live](https://yudanz.github.io/infinite-scroll/)
+- Umberto Di Napoli - [Github](https://github.com/Khelthos/unsplash-infinite-scroll) , [Live](https://khelthos.github.io/unsplash-infinite-scroll/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/infinite-scroll), [Viewlive](https://Carls13.github.io/20-javascript-projects/infinite-scroll)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
