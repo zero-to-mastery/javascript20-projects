@@ -241,6 +241,7 @@ Check out all of the submissions below! Well done everyone!
 - Arianna Choza - [Github](https://github.com/unachoza/countdown) [ViewLive](https://unachoza.github.io/countdown)
 - Hamza Khan - [Github] (https://github.com/salderahamza/countdown) [Live](https://salderahamza.github.io/countdown/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/custom-countdown), [Viewlive](https://Carls13.github.io/20-javascript-projects/custom-countdown)
+- Alaa Balbaid - [Github](https://github.com/alaa140101/Custom-Countdown), [Viewlive](https://alaa140101.github.io/Custom-Countdown/)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
