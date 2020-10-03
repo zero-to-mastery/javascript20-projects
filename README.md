@@ -50,7 +50,6 @@ Check out all of the submissions below! Well done everyone:
 - Soojin - [Github](https://github.com/ehdgodgka/js20-infinity-scroll) [ViewLive](https://ehdgodgka.github.io/js20-infinity-scroll/)
 - Sam Kach - [Github](https://github.com/rizamoyi/infinite-scroll)
 
-
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
 - Russ Perry - [Github](https://github.com/rperry99/picture-in-picture)
@@ -59,7 +58,7 @@ Check out all of the submissions below! Well done everyone:
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-picture-in-picture) [ViewLive](https://ehdgodgka.github.io/js20-picture-in-picture/)
 - Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
-
+- Altamas khan - [Github](https://github.com/Altamas2049) [viewLIve](https://picturepicture.netlify.app/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
