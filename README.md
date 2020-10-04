@@ -99,7 +99,7 @@ Check out all of the submissions below! Well done everyone!
 - Constantin Unterkofler - [Github](https://github.com/conuko/Quote-Generator), [Viewlive](https://conuko.github.io/Quote-Generator/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/quote-generator), [Viewlive](https://Carls13.github.io/20-javascript-projects/quote-generator)
 - Harshil Sheth - [Github](https://github.com/funpractice), [Viewlive](https://funpractice.github.io/quotegenerator/)
-
+- Harry Manchanda - Vanilla JS: [Github](https://github.com/IamManchanda/vanillajs-quote-generator), [Viewlive](https://vanillajs-quote-generator.vercel.app/); Vue.js: [Github](https://github.com/IamManchanda/vue3-quote-generator), [Viewlive](https://vue3-quote-generator.vercel.app/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -136,6 +136,7 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/infinite-scroll), [Viewlive](https://Carls13.github.io/20-javascript-projects/infinite-scroll)
 - krittiyaclark - [Github](https://github.com/krittiyaclark/mini-projects/tree/main/quote-generator)
 - Altamas khan - [Github](https://github.com/Altamas2049/quote-generator),[viewlive](https://altamas2049.github.io/Infinite-Scroll/)
+
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/js20-picture-in-picture) [ViewLive](https://mister-josuecedeno.github.io/js20-picture-in-picture/)
