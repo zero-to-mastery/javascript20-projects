@@ -98,6 +98,7 @@ Check out all of the submissions below! Well done everyone!
 - Constantin Unterkofler - [Github](https://github.com/conuko/Quote-Generator), [Viewlive](https://conuko.github.io/Quote-Generator/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/quote-generator), [Viewlive](https://Carls13.github.io/20-javascript-projects/quote-generator)
 - Harshil Sheth - [Github](https://github.com/funpractice), [Viewlive](https://funpractice.github.io/quotegenerator/)
+- Pratham Goyal - [Github Code](https://github.com/TheRealTechWiz/TheRealTechWiz.github.io/tree/master/project/Quote%20Generator), [View Live](https://prathamgoyal.tech/project/Quote%20Generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
