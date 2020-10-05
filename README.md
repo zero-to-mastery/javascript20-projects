@@ -208,12 +208,9 @@ Check out all of the submissions below! Well done everyone!
 - Ozziel Ruiiz - [Github](https://ozzielruiz.github.io/animated-template/)
 - Roy Wang - [Github](https://github.com/falinwang/portfolio), [View live](https://falinwang.github.io/portfolio/)
 - Hamza Khan [GitHub](https://github.io/salderahamza/page-animation) [Live](https://salderahamza.github.io/page-animation)
-<<<<<<< HEAD
 - Alaa Balbaid [GitHub](https://github.com/alaa140101/animated) [Live](https://alaa140101.github.io/animated/)
-=======
 - WayneMacMavis - [Github](https://github.com/waynemacmavis/animated-template), [Viewlive](https://waynemacmavis.github.io/animated-template/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/animated-template), [Viewlive](https://Carls13.github.io/20-javascript-projects/animated-template)
->>>>>>> cad64e0f792086c8c32d44b98ae83784c5507cbc
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
