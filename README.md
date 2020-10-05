@@ -55,6 +55,7 @@ Check out all of the submissions below! Well done everyone!
 - Van Thong - [Github](https://github.com/ThongKun/quote-generator), [ViewLive](https://thongkun.github.io/quote-generator/)
 - Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator), [ViewLive](https://pechaprasanna.github.io/quote-generator/)
 - Noha El-Boghdady - [Github](https://github.com/nohaelboghdady/QuoteGenerator), [Viewlive](https://nohaelboghdady.github.io/QuoteGenerator/)
+- Altamas Khan -[Github](https://github.com/Altamas2049/quote-generator),[viewlive](https://altamas2049.github.io/quote-generator/)
 - Mario Serrano- [Github](https://github.com/makadown/quote-generator), [Viewlive](https://makadown.github.io/quote-generator/)
 - Prasath DV - [Github](https://github.com/Prasathdv/ZTM_JS_PROJ01_Quote_Generator), [Viewlive](https://prasathdv.github.io/ZTM_JS_PROJ01_Quote_Generator/)
 - WayneMacMavis - [Github](https://github.com/waynemacmavis/quote-generator), [Viewlive](https://waynemacmavis.github.io/quote-generator/)
@@ -98,6 +99,7 @@ Check out all of the submissions below! Well done everyone!
 - Constantin Unterkofler - [Github](https://github.com/conuko/Quote-Generator), [Viewlive](https://conuko.github.io/Quote-Generator/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/quote-generator), [Viewlive](https://Carls13.github.io/20-javascript-projects/quote-generator)
 
+
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/infinite-scroll) [ViewLive](https://mister-josuecedeno.github.io/infinite-scroll/)
@@ -132,6 +134,9 @@ Check out all of the submissions below! Well done everyone!
 - Umberto Di Napoli - [Github](https://github.com/Khelthos/unsplash-infinite-scroll) , [Live](https://khelthos.github.io/unsplash-infinite-scroll/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/infinite-scroll), [Viewlive](https://Carls13.github.io/20-javascript-projects/infinite-scroll)
 
+=======
+- krittiyaclark - [Github](https://github.com/krittiyaclark/mini-projects/tree/main/quote-generator)
+- Altamas khan - [Github](https://github.com/Altamas2049/quote-generator),[viewlive](https://altamas2049.github.io/Infinite-Scroll/)
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/js20-picture-in-picture) [ViewLive](https://mister-josuecedeno.github.io/js20-picture-in-picture/)
@@ -141,6 +146,7 @@ Check out all of the submissions below! Well done everyone!
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-picture-in-picture) [ViewLive](https://ehdgodgka.github.io/js20-picture-in-picture/)
 - Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
+
 - Hamza Khan - [Github](https://github.com/salderahamza/picture-in-picture) [Live](https://salderahamza.github.io/picture-in-picture/)
 - Ala Balbaid - [Github](https://github.com/alaa140101/pictureInPicture) [ViewLive](https://alaa140101.github.io/pictureInPicture/)
 - Rahul Bakshi - [Github](https://github.com/rahulbakshi4/picture-in-pcture), [ViewLive](https://rahulbakshi4.github.io/picture-in-picture/)
@@ -156,6 +162,8 @@ Check out all of the submissions below! Well done everyone!
 - Hamza Khan [Github](https://github.com/salderahamza/picture-in-picture) [Live](https://salderahamza.github.io/picture-in-picture)
 - Yifang Di - [Github](https://github.com/YvonneD/picture-in-picture), [Viewlive](https://yvonned.github.io/picture-in-picture/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/picture-in-picture), [Viewlive](https://Carls13.github.io/20-javascript-projects/picture-in-picture)
+- Umberto Di Napoli - [Github](https://github.com/Khelthos/pic-ic-pic), [Viewlive](https://khelthos.github.io/pic-ic-pic/)
+- Altamas khan - [Github](https://github.com/Altamas2049/quote-generator),[viewlive](https://picturepicture.netlify.app/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
