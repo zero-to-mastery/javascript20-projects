@@ -197,6 +197,7 @@ Check out all of the submissions below! Well done everyone!
 - Hamza Khan - [GitHub](https://github.com/salderahamza/light-dark-mode), [Live](https://salderahamza.github.io/light-dark-mode)
 - WayneMacMavis - [Github](https://github.com/waynemacmavis/light-dark-mode), [Viewlive](https://waynemacmavis.github.io/light-dark-mode/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/light-dark-mode), [Viewlive](https://Carls13.github.io/20-javascript-projects/light-dark-mode)
+- Yifang Di - [Github](https://github.com/YvonneD/dark-light-mode), [Viewlive](https://yvonned.github.io/dark-light-mode/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
