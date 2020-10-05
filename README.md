@@ -66,6 +66,7 @@ Check out all of the submissions below! Well done everyone!
 - Lysa Unku-Jones - [Github](https://github.com/Wildelyssa/quote-generator), [ViewLive](wildelyssa.github.io/quote-generator/)
 - Ajit Tiwari - [Github](https://github.com/RandomAlien/Quote-Generator), [Viewlive](https://randomalien.github.io/Quote-Generator/)
 - Tina Noor - [Github](https://github.com/tinaytini/quote-projoect)
+- Joe Giuffrida - [Github](https://github.com/joegiuffrida/quote-generator)
 - Sean Demske - [Github](https://github.com/SeanDemske/Quote-Generator) [ViewLive](https://seandemske.github.io/Quote-Generator/)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/quote-generator), [Viewlive](https://alaa140101.github.io/quote-generator/)
 - Guilherme (GuinuxBR) [GitHub](https://github.com/guinuxbr/chucks-jokes), [View Live](https://chucksjokes.netlify.app/)
