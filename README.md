@@ -223,6 +223,7 @@ Check out all of the submissions below! Well done everyone!
 - Hamza Khan - [Github](https://github.com/salderahamza/menu-navigation) [Live](https://salderahamza.github.io/menu-navigation)
 - WayneMacMavis - [Github](https://github.com/waynemacmavis/navigation-nation), [Viewlive](https://waynemacmavis.github.io/navigation-nation/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/animated-navigation), [Viewlive](https://Carls13.github.io/20-javascript-projects/animated-navigation)
+- Yifang Di - [Github](https://github.com/YvonneD/animated-navigation), [Viewlive](https://yvonned.github.io/animated-navigation/)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
