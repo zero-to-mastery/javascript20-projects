@@ -162,7 +162,9 @@ Check out all of the submissions below! Well done everyone!
 - Yifang Di - [Github](https://github.com/YvonneD/picture-in-picture), [Viewlive](https://yvonned.github.io/picture-in-picture/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/picture-in-picture), [Viewlive](https://Carls13.github.io/20-javascript-projects/picture-in-picture)
 - Umberto Di Napoli - [Github](https://github.com/Khelthos/pic-ic-pic), [Viewlive](https://khelthos.github.io/pic-ic-pic/)
+- Akshay Bhopani [Github](https://github.com/AKSHAYBHOPANI/PIP), [Live](https://akshaybhopani.github.io/PIP/)
 - Altamas khan - [Github](https://github.com/Altamas2049/quote-generator),[viewlive](https://picturepicture.netlify.app/)
+
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
