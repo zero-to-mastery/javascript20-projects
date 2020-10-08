@@ -99,6 +99,7 @@ Check out all of the submissions below! Well done everyone!
 - Constantin Unterkofler - [Github](https://github.com/conuko/Quote-Generator), [Viewlive](https://conuko.github.io/Quote-Generator/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/quote-generator), [Viewlive](https://Carls13.github.io/20-javascript-projects/quote-generator)
 - Harshil Sheth - [Github](https://github.com/funpractice), [Viewlive](https://funpractice.github.io/quotegenerator/)
+- Harry Manchanda - Vanilla JS: [Github](https://github.com/IamManchanda/vanillajs-quote-generator), [Viewlive](https://vanillajs-quote-generator.vercel.app/); Vue.js: [Github](https://github.com/IamManchanda/vue3-quote-generator), [Viewlive](https://vue3-quote-generator.vercel.app/)
 - Pratham Goyal - [Github Code](https://github.com/TheRealTechWiz/TheRealTechWiz.github.io/tree/master/project/Quote%20Generator), [View Live](https://prathamgoyal.tech/project/Quote%20Generator/)
 - Sam Macdonald - [Github](https://github.com/sammacdonald94), [Viewlive](https://sammacdonald94.github.io/quote-generator/)
 - Sarathkumar - [Github](https://github.com/saratkumar17mss040/RandomQuoteMachine), [Viewlive](http://developer-quotes.surge.sh/)
@@ -138,7 +139,6 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/infinite-scroll), [Viewlive](https://Carls13.github.io/20-javascript-projects/infinite-scroll)
 - krittiyaclark - [Github](https://github.com/krittiyaclark/mini-projects/tree/main/quote-generator)
 - Altamas khan - [Github](https://github.com/Altamas2049/quote-generator),[viewlive](https://altamas2049.github.io/Infinite-Scroll/)
-
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
