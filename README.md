@@ -100,6 +100,9 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/quote-generator), [Viewlive](https://Carls13.github.io/20-javascript-projects/quote-generator)
 - Harshil Sheth - [Github](https://github.com/funpractice), [Viewlive](https://funpractice.github.io/quotegenerator/)
 - Harry Manchanda - Vanilla JS: [Github](https://github.com/IamManchanda/vanillajs-quote-generator), [Viewlive](https://vanillajs-quote-generator.vercel.app/); Vue.js: [Github](https://github.com/IamManchanda/vue3-quote-generator), [Viewlive](https://vue3-quote-generator.vercel.app/)
+- Pratham Goyal - [Github Code](https://github.com/TheRealTechWiz/TheRealTechWiz.github.io/tree/master/project/Quote%20Generator), [View Live](https://prathamgoyal.tech/project/Quote%20Generator/)
+- Sam Macdonald - [Github](https://github.com/sammacdonald94), [Viewlive](https://sammacdonald94.github.io/quote-generator/)
+- Sarathkumar - [Github](https://github.com/saratkumar17mss040/RandomQuoteMachine), [Viewlive](http://developer-quotes.surge.sh/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -163,7 +166,9 @@ Check out all of the submissions below! Well done everyone!
 - Yifang Di - [Github](https://github.com/YvonneD/picture-in-picture), [Viewlive](https://yvonned.github.io/picture-in-picture/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/picture-in-picture), [Viewlive](https://Carls13.github.io/20-javascript-projects/picture-in-picture)
 - Umberto Di Napoli - [Github](https://github.com/Khelthos/pic-ic-pic), [Viewlive](https://khelthos.github.io/pic-ic-pic/)
+- Akshay Bhopani [Github](https://github.com/AKSHAYBHOPANI/PIP), [Live](https://akshaybhopani.github.io/PIP/)
 - Altamas khan - [Github](https://github.com/Altamas2049/quote-generator),[viewlive](https://picturepicture.netlify.app/)
+
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
@@ -216,6 +221,7 @@ Check out all of the submissions below! Well done everyone!
 - Ozziel Ruiiz - [Github](https://ozzielruiz.github.io/animated-template/)
 - Roy Wang - [Github](https://github.com/falinwang/portfolio), [View live](https://falinwang.github.io/portfolio/)
 - Hamza Khan [GitHub](https://github.io/salderahamza/page-animation) [Live](https://salderahamza.github.io/page-animation)
+- Alaa Balbaid [GitHub](https://github.com/alaa140101/animated) [Live](https://alaa140101.github.io/animated/)
 - WayneMacMavis - [Github](https://github.com/waynemacmavis/animated-template), [Viewlive](https://waynemacmavis.github.io/animated-template/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/animated-template), [Viewlive](https://Carls13.github.io/20-javascript-projects/animated-template)
 
