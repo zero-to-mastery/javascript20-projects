@@ -105,6 +105,7 @@ Check out all of the submissions below! Well done everyone!
 - Pratham Goyal - [Github Code](https://github.com/TheRealTechWiz/TheRealTechWiz.github.io/tree/master/project/Quote%20Generator), [View Live](https://prathamgoyal.tech/project/Quote%20Generator/)
 - Sam Macdonald - [Github](https://github.com/sammacdonald94), [Viewlive](https://sammacdonald94.github.io/quote-generator/)
 - Sarathkumar - [Github](https://github.com/saratkumar17mss040/RandomQuoteMachine), [Viewlive](http://developer-quotes.surge.sh/)
+- Sasi Patterson - [Github](https://github.com/sasimapatterson/quote-generator), [Viewlive](https://sasimapatterson.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
