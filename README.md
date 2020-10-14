@@ -262,6 +262,7 @@ Check out all of the submissions below! Well done everyone!
 - Hamza Khan - [Github](https://github.com/salderahamza/video-player/)
 - Anette - [Github](https://github.com/RedSquirrrel/video-player) [ViewLive](https://redsquirrrel.github.io/video-player/)
 - Russ Perry - [Github](https://github.com/rperry99/video-player) | [ViewLive](https://rperry99.github.io/video-player/)
+- Yifang Di - [Github](https://github.com/YvonneD/video-player), [Viewlive](https://yvonned.github.io/video-player/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/video-player), [Viewlive](https://Carls13.github.io/20-javascript-projects/video-player)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
