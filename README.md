@@ -104,6 +104,7 @@ Check out all of the submissions below! Well done everyone!
 - Harry Manchanda - Vanilla JS: [Github](https://github.com/IamManchanda/vanillajs-quote-generator), [Viewlive](https://vanillajs-quote-generator.vercel.app/); Vue.js: [Github](https://github.com/IamManchanda/vue3-quote-generator), [Viewlive](https://vue3-quote-generator.vercel.app/)
 - Pratham Goyal - [Github Code](https://github.com/TheRealTechWiz/TheRealTechWiz.github.io/tree/master/project/Quote%20Generator), [View Live](https://prathamgoyal.tech/project/Quote%20Generator/)
 - Sam Macdonald - [Github](https://github.com/sammacdonald94), [Viewlive](https://sammacdonald94.github.io/quote-generator/)
+- Evgeny Pletnev - [Github](https://github.com/epletnev/random-quote-machine), [Viewlive](https://epletnev.github.io/random-quote-machine/)
 - Sarathkumar - [Github](https://github.com/saratkumar17mss040/RandomQuoteMachine), [Viewlive](http://developer-quotes.surge.sh/)
 - Sasi Patterson - [Github](https://github.com/sasimapatterson/quote-generator), [Viewlive](https://sasimapatterson.github.io/quote-generator/)
 - Yash Lad - [Github](https://github.com/yashlad681/Quote-Generator) | [View Live](https://yashlad681.github.io/Quote-Generator/)
