@@ -106,6 +106,9 @@ Check out all of the submissions below! Well done everyone!
 - Sam Macdonald - [Github](https://github.com/sammacdonald94), [Viewlive](https://sammacdonald94.github.io/quote-generator/)
 - Sarathkumar - [Github](https://github.com/saratkumar17mss040/RandomQuoteMachine), [Viewlive](http://developer-quotes.surge.sh/)
 - Sasi Patterson - [Github](https://github.com/sasimapatterson/quote-generator), [Viewlive](https://sasimapatterson.github.io/quote-generator/)
+- Yash Lad - [Github](https://github.com/yashlad681/Quote-Generator) | [View Live](https://yashlad681.github.io/Quote-Generator/)
+- Ramon Cordova - [Github](https://github.com/Ramonf98/quote-generator), [Viewlive](https://ramonf98.github.io/quote-generator/)
+- Kunal Prakash - [Github](https://github.com/kunalprakash1309/quote-generator), [Viewlive](https://kunalprakash1309.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -219,6 +222,8 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/light-dark-mode), [Viewlive](https://Carls13.github.io/20-javascript-projects/light-dark-mode)
 - Oscar Ramos - [Github](https://github.com/oscaramos/light-dark-mode), [Live](https://light-dark-mode-one.vercel.app/)
 - Yifang Di - [Github](https://github.com/YvonneD/dark-light-mode), [Viewlive](https://yvonned.github.io/dark-light-mode/)
+- Palak Jain - [Github](https://github.com/Palak-coder626/dark-light-mode), [ViewLive](https://palak-coder626.github.io/dark-light-mode/)
+- Nishant Pandey - [Github](https://github.com/mrpandey1/PortFolio-web), [Viewlive](https://nishantportfolio.netlify.app/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
@@ -246,6 +251,7 @@ Check out all of the submissions below! Well done everyone!
 - WayneMacMavis - [Github](https://github.com/waynemacmavis/navigation-nation), [Viewlive](https://waynemacmavis.github.io/navigation-nation/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/animated-navigation), [Viewlive](https://Carls13.github.io/20-javascript-projects/animated-navigation)
 - Yifang Di - [Github](https://github.com/YvonneD/animated-navigation), [Viewlive](https://yvonned.github.io/animated-navigation/)
+- Alaa Balbaid - [Github](https://github.com/alaa140101/Navigation-Nation) [Live](https://alaa140101.github.io/Navigation-Nation/)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
@@ -268,7 +274,6 @@ Check out all of the submissions below! Well done everyone!
 - Arianna Choza - [Github](https://github.com/unachoza/countdown) [ViewLive](https://unachoza.github.io/countdown)
 - Hamza Khan - [Github] (https://github.com/salderahamza/countdown) [Live](https://salderahamza.github.io/countdown/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/custom-countdown), [Viewlive](https://Carls13.github.io/20-javascript-projects/custom-countdown)
-- Alaa Balbaid - [Github](https://github.com/alaa140101/Custom-Countdown), [Viewlive](https://alaa140101.github.io/Custom-Countdown/)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
@@ -276,6 +281,8 @@ Check out all of the submissions below! Well done everyone!
 - Hamza Khan - [Github](https://github.com/salderahamza/bookmark-app) [Live](https://salderahamza.github.io/bookmark-app/)
 - Anette - [Github](https://github.com/RedSquirrrel/countdown) [ViewLive](https://redsquirrrel.github.io/countdown/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/bookmark), [Viewlive](https://Carls13.github.io/20-javascript-projects/bookmark)
+- Alaa Balbaid - [Github](https://github.com/alaa140101/Book-Keeper), [Viewlive](https://alaa140101.github.io/Book-Keeper/)
+
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
