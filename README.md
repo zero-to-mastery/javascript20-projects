@@ -220,6 +220,7 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/light-dark-mode), [Viewlive](https://Carls13.github.io/20-javascript-projects/light-dark-mode)
 - Oscar Ramos - [Github](https://github.com/oscaramos/light-dark-mode), [Live](https://light-dark-mode-one.vercel.app/)
 - Yifang Di - [Github](https://github.com/YvonneD/dark-light-mode), [Viewlive](https://yvonned.github.io/dark-light-mode/)
+- Palak Jain - [Github](https://github.com/Palak-coder626/dark-light-mode), [ViewLive](https://palak-coder626.github.io/dark-light-mode/)
 - Nishant Pandey - [Github](https://github.com/mrpandey1/PortFolio-web), [Viewlive](https://nishantportfolio.netlify.app/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
