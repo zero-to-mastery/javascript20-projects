@@ -148,6 +148,7 @@ Check out all of the submissions below! Well done everyone!
 - krittiyaclark - [Github](https://github.com/krittiyaclark/mini-projects/tree/main/quote-generator)
 - Altamas khan - [Github](https://github.com/Altamas2049/quote-generator),[viewlive](https://altamas2049.github.io/Infinite-Scroll/)
 - Harry Manchanda - [Github](https://github.com/IamManchanda/vanillajs-infinite-scroll), [Viewlive](https://vanillajs-infinite-scroll.vercel.app/)
+- Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Infinite-Scroll) | [Viewlive](https://krungleviciute.github.io/Infinite-Scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
@@ -179,6 +180,7 @@ Check out all of the submissions below! Well done everyone!
 - Altamas khan - [Github](https://github.com/Altamas2049/quote-generator),[viewlive](https://picturepicture.netlify.app/)
 - Oscar Ramos - [Github](https://github.com/oscaramos/picture-in-picture), [Live](https://oscaramos.github.io/picture-in-picture/)
 - Harry Manchanda - [Github](https://github.com/IamManchanda/vanillajs-picture-in-picture), [Viewlive](https://vanillajs-picture-in-picture.vercel.app/)
+- Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Picture-In-Picture) | [ViewLive](https://krungleviciute.github.io/Picture-In-Picture/)
 
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
