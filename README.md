@@ -210,6 +210,7 @@ Check out all of the submissions below! Well done everyone!
 - Oscar Ramos - [Github](https://github.com/oscaramos/joke-teller), [Live](https://joke-teller-five.vercel.app/)
 - Yifang Di - [Github](https://github.com/YvonneD/joke-teller), [Viewlive](https://yvonned.github.io/joke-teller/)
 - Umberto Di Napoli - [Github](https://github.com/Khelthos/joke-teller), [Viewlive](https://khelthos.github.io/joke-teller/)
+- Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Joke-Teller) | [ViewLive](https://krungleviciute.github.io/Joke-Teller/)
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
