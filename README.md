@@ -13,7 +13,8 @@ Check out all of the submissions below! Well done everyone!
 [Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-Scroll---original-github) | [Picture in Picture](#Picture-in-Picture---original-github) | [Joke Teller](#Joke-Teller---original-github) | [Light/Dark Mode](#Light/Dark-Mode---original-github) | [Animated Template](#Animated-Template---original-github) | [Navigation Nation](#Navigation-Nation---original-github) | [Music Player](#Music-Player---original-github) | [Custom Countdown](#Custom-Countdown---original-github) | [Book Keeper](#Book-Keeper---original-github) | [Video Player](#Video-Player---original-github) | [Form Validator](#Form-Validator---original-github) | [Rock Spock](#Rock-Spock---original-github) | [NASA APOD](#NASA-APOD---original-github) | [Paint Clone](#Paint-Clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#Math-Sprint-Game---original-github) | [Drag and Drop](#Drag-and-Drop---original-github) | [Calculator](#Calculator---original-github) | [Splash Page](#Splash-Page---original-github)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
-- Naim Uddin - [Github] (https://github.com/Naim365/quote-generator) [view Live] (https://naim365.github.io/quote-generator/)
+- Cassio Groh - [Github](https://github.com/cassiogroh/Quote-Generator) [view Live](https://cassiogroh.github.io/Quote-Generator/)
+- Naim Uddin - [Github](https://github.com/Naim365/quote-generator) [view Live](https://naim365.github.io/quote-generator/)
 - Siddhant - [Github](https://github.com/lannisterrr/QuotesWithFav) [View Live](https://lannisterrr.github.io/QuotesWithFav/)
 - Wesley Campbell - [Github](https://github.com/WPBC/quote-generator) [View Live](https://wpbc.github.io/quote-generator/)
 - Olena Ageyeva - [Github](https://github.com/olena-ageyeva/quote-generator) [Live](https://olena-ageyeva.github.io/quote-generator/)
@@ -75,7 +76,7 @@ Check out all of the submissions below! Well done everyone!
 - Sarwar Md - [Github](https://github.com/Sarwar-Md/quote_), [Viewlive](https://sarwar-md.github.io/quote_/)
 - Rahul Bakshi - [Github](https://github.com/rahulbakshi4/get-me-a-quote), [ViewLive](https://rahulbakshi4.github.io/get-me-a-quote/)
 - Gabriel Vasile - [Github](https://github.com/gsvasile/QuoteGenerator), [ViewLive](https://gsvasile.github.io/QuoteGenerator/)
-- Lidia Alonso [Github] (https://github.com/alonso276/quotegenerator), [Viewlive] (https://alonso276.github.io/quotegenerator/)
+- Lidia Alonso [Github](https://github.com/alonso276/quotegenerator), [Viewlive](https://alonso276.github.io/quotegenerator/)
 - Sujanth S - [Github](https://github.com/sujanth21/quote_generator_api), [Viewlive](https://suj-quote-generator.herokuapp.com/api/v1/quotes/random), [Front-end](https://suj-quote-generator.herokuapp.com/)
 - Maxim Klochkov - [Github](https://github.com/eastmann/quote-generator), [Viewlive](https://eastmann.github.io/quote-generator/)
 - Harsh Goswami - [Github](https://github.com/astomak/random_qoute_generator), [ViewLive](https://astomak.github.io/random_qoute_generator/)
@@ -269,7 +270,7 @@ Check out all of the submissions below! Well done everyone!
 - Soojin - [Github](https://github.com/ehdgodgka/js20-music-player) [ViewLive](https://ehdgodgka.github.io/js20-music-player/)
 - Hamza Khan - [Github](https://github.com/salderahamza/music-player) [Live](htpps://salderahamza.github.io/music-player)
 - WayneMacMavis - [Github](https://github.com/waynemacmavis/music-player), [Viewlive](https://waynemacmavis.github.io/music-player/)
-- Alaa Balbaid - [Github]https://github.com/alaa140101/Music-Player) [Live](https://alaa140101.github.io/Music-Player/)
+- Alaa Balbaid - [Github](https://github.com/alaa140101/Music-Player) [Live](https://alaa140101.github.io/Music-Player/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/music-player), [Viewlive](https://Carls13.github.io/20-javascript-projects/music-player)
 - Oscar Ramos - [Github](https://github.com/oscaramos/music-player), [Live](https://music-player-azure.vercel.app/)
 
@@ -277,7 +278,7 @@ Check out all of the submissions below! Well done everyone!
 
 - Russ Perry - [Github](https://github.com/rperry99/custom-countdown) | [ViewLive](https://rperry99.github.io/custom-countdown/)
 - Arianna Choza - [Github](https://github.com/unachoza/countdown) [ViewLive](https://unachoza.github.io/countdown)
-- Hamza Khan - [Github] (https://github.com/salderahamza/countdown) [Live](https://salderahamza.github.io/countdown/)
+- Hamza Khan - [Github](https://github.com/salderahamza/countdown) [Live](https://salderahamza.github.io/countdown/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/custom-countdown), [Viewlive](https://Carls13.github.io/20-javascript-projects/custom-countdown)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
