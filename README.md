@@ -244,17 +244,16 @@ Check out all of the submissions below! Well done everyone!
 - Russ Perry - [Github](https://github.com/rperry99/custom-countdown) | [ViewLive](https://rperry99.github.io/custom-countdown/)
 - Arianna Choza - [Github](https://github.com/unachoza/countdown) [ViewLive](https://unachoza.github.io/countdown)
 - Hamza Khan - [Github] (https://github.com/salderahamza/countdown) [Live](https://salderahamza.github.io/countdown/)
-- Yifang Di - [Github](https://github.com/YvonneD/custom-countdown), [Viewlive](https://yvonned.github.io/custom-countdown/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/custom-countdown), [Viewlive](https://Carls13.github.io/20-javascript-projects/custom-countdown)
-
+- Yifang Di - [Github](https://github.com/YvonneD/custom-countdown), [Viewlive](https://yvonned.github.io/custom-countdown/)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
 - Russ Perry - [Github](https://github.com/rperry99/book-keeper)
 - Hamza Khan - [Github](https://github.com/salderahamza/bookmark-app) [Live](https://salderahamza.github.io/bookmark-app/)
 - Anette - [Github](https://github.com/RedSquirrrel/countdown) [ViewLive](https://redsquirrrel.github.io/countdown/)
+- Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/bookmark), [Viewlive](https://Carls13.github.io/20-javascript-projects/bookmark)、
 - Yifang Di - [Github](https://github.com/YvonneD/bookmark), [Viewlive](https://yvonned.github.io/bookmark/)
-- Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/bookmark), [Viewlive](https://Carls13.github.io/20-javascript-projects/bookmark)
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
@@ -262,8 +261,8 @@ Check out all of the submissions below! Well done everyone!
 - Hamza Khan - [Github](https://github.com/salderahamza/video-player/)
 - Anette - [Github](https://github.com/RedSquirrrel/video-player) [ViewLive](https://redsquirrrel.github.io/video-player/)
 - Russ Perry - [Github](https://github.com/rperry99/video-player) | [ViewLive](https://rperry99.github.io/video-player/)
-- Yifang Di - [Github](https://github.com/YvonneD/video-player), [Viewlive](https://yvonned.github.io/video-player/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/video-player), [Viewlive](https://Carls13.github.io/20-javascript-projects/video-player)
+- Yifang Di - [Github](https://github.com/YvonneD/video-player), [Viewlive](https://yvonned.github.io/video-player/)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
@@ -273,16 +272,15 @@ Check out all of the submissions below! Well done everyone!
 - Russ Perry - [Github](https://github.com/rperry99/form-validation) | [ViewLive](https://rperry99.github.io/form-validation/)
 - Shreyash Singh - [Github](https://github.com/cyborg7459/formValidation) | [ViewLive](https://cyborg7459.github.io/formValidation/)
 - Yudan Zhai - [Github](https://github.com/yudanZ/form-validation) | [ViewLive](https://yudanz.github.io/form-validation/)
-- Yifang Di - [Github](https://github.com/YvonneD/form-validation), [Viewlive](https://yvonned.github.io/form-validation/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/form-validation), [Viewlive](https://Carls13.github.io/20-javascript-projects/form-validation)
+- Yifang Di - [Github](https://github.com/YvonneD/form-validation), [Viewlive](https://yvonned.github.io/form-validation/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
-- Yifang Di - [Github](https://github.com/YvonneD/spock-rock-game), [Viewlive](https://yvonned.github.io/spock-rock-game/)
 - Anette [Github](https://github.com/RedSquirrrel/rock-spock) [ViewLive](https://redsquirrrel.github.io/rock-spock/)
 - Russ Perry - [Github](https://github.com/rperry99/spock-rock-game) | [ViewLive](https://rperry99.github.io/spock-rock-game/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/spock-rock-game), [Viewlive](https://Carls13.github.io/20-javascript-projects/spock-rock-game)
-
+- Yifang Di - [Github](https://github.com/YvonneD/spock-rock-game), [Viewlive](https://yvonned.github.io/spock-rock-game/)
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
