@@ -112,6 +112,9 @@ Check out all of the submissions below! Well done everyone!
 - Ramon Cordova - [Github](https://github.com/Ramonf98/quote-generator), [Viewlive](https://ramonf98.github.io/quote-generator/)
 - Kunal Prakash - [Github](https://github.com/kunalprakash1309/quote-generator), [Viewlive](https://kunalprakash1309.github.io/quote-generator/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Quote-Generator) | [View Live](https://krungleviciute.github.io/Quote-Generator/)
+- Cleon Barretto - [GitHub](https://github.com/cleonb/random-quote-generator) | [Live](https://cleonb.github.io/random-quote-generator/)
+
+
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -274,6 +277,8 @@ Check out all of the submissions below! Well done everyone!
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Music-Player) [Live](https://alaa140101.github.io/Music-Player/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/music-player), [Viewlive](https://Carls13.github.io/20-javascript-projects/music-player)
 - Oscar Ramos - [Github](https://github.com/oscaramos/music-player), [Live](https://music-player-azure.vercel.app/)
+- Cleon Barretto - [GitHub](https://github.com/cleonb/music-player) | [Live](https://cleonb.github.io/music-player/)
+
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
@@ -356,7 +361,7 @@ Check out all of the submissions below! Well done everyone!
 - Anette [Github](https://github.com/RedSquirrrel/calculator) [ViewLive](https://redsquirrrel.github.io/calculator/)
 - Russ Perry - [Github](https://github.com/rperry99/calculator) | [ViewLive](https://rperry99.github.io/calculator/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/calculator), [Viewlive](https://Carls13.github.io/20-javascript-projects/calculator)
--
+- Cleon Barretto - [GitHub](https://github.com/cleonb/calculator) | [Live](https://cleonb.github.io/calculator/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
