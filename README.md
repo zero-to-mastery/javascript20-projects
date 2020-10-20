@@ -312,6 +312,7 @@ Check out all of the submissions below! Well done everyone!
 - Shreyash Singh - [Github](https://github.com/cyborg7459/formValidation) | [ViewLive](https://cyborg7459.github.io/formValidation/)
 - Yudan Zhai - [Github](https://github.com/yudanZ/form-validation) | [ViewLive](https://yudanz.github.io/form-validation/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/form-validation), [Viewlive](https://Carls13.github.io/20-javascript-projects/form-validation)
+- Alaa Balbaid - [Github](https://github.com/alaa140101/Form-Validator), [Viewlive](https://alaa140101.github.io/Form-Validator/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
