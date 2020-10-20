@@ -230,6 +230,7 @@ Check out all of the submissions below! Well done everyone!
 - Yifang Di - [Github](https://github.com/YvonneD/dark-light-mode), [Viewlive](https://yvonned.github.io/dark-light-mode/)
 - Palak Jain - [Github](https://github.com/Palak-coder626/dark-light-mode), [ViewLive](https://palak-coder626.github.io/dark-light-mode/)
 - Nishant Pandey - [Github](https://github.com/mrpandey1/PortFolio-web), [Viewlive](https://nishantportfolio.netlify.app/)
+- Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/light-dark-mode) | [Viewlive](https://krungleviciute.github.io/light-dark-mode/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
