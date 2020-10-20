@@ -112,6 +112,7 @@ Check out all of the submissions below! Well done everyone!
 - Ramon Cordova - [Github](https://github.com/Ramonf98/quote-generator), [Viewlive](https://ramonf98.github.io/quote-generator/)
 - Kunal Prakash - [Github](https://github.com/kunalprakash1309/quote-generator), [Viewlive](https://kunalprakash1309.github.io/quote-generator/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Quote-Generator) | [View Live](https://krungleviciute.github.io/Quote-Generator/)
+-Kushal Jaiswal - [Github] (https://github.com/kudy01/Quote-Generator) | [View Live](https://kudy01.github.io/Quote-Generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -182,7 +183,7 @@ Check out all of the submissions below! Well done everyone!
 - Oscar Ramos - [Github](https://github.com/oscaramos/picture-in-picture), [Live](https://oscaramos.github.io/picture-in-picture/)
 - Harry Manchanda - [Github](https://github.com/IamManchanda/vanillajs-picture-in-picture), [Viewlive](https://vanillajs-picture-in-picture.vercel.app/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Picture-In-Picture) | [ViewLive](https://krungleviciute.github.io/Picture-In-Picture/)
--Kushal Jaiswal - [Github] (https://github.com/kudy01/Quote-Generator)
+
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
