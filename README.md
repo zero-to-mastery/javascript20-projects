@@ -114,6 +114,7 @@ Check out all of the submissions below! Well done everyone!
 - Ramon Cordova - [Github](https://github.com/Ramonf98/quote-generator), [Viewlive](https://ramonf98.github.io/quote-generator/)
 - Kunal Prakash - [Github](https://github.com/kunalprakash1309/quote-generator), [Viewlive](https://kunalprakash1309.github.io/quote-generator/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Quote-Generator) | [View Live](https://krungleviciute.github.io/Quote-Generator/)
+- Kushal Jaiswal - [Github](https://github.com/kudy01/Quote-Generator) | [View Live](https://kudy01.github.io/Quote-Generator/)
 - Eboreime Rhoda - [Github](https://github.com/ivioje/Blog/tree/Quotes-generator) | [View Live](https://ivioje-quote-generator.netlify.app/)
 - Chintan Patel - [Github](https://github.com/chintans357/quote-generator) | [View Live](https://chintans357.github.io/quote-generator/)
 
