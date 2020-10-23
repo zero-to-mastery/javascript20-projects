@@ -157,6 +157,7 @@ Check out all of the submissions below! Well done everyone!
 - Harry Manchanda - [Github](https://github.com/IamManchanda/vanillajs-infinite-scroll), [Viewlive](https://vanillajs-infinite-scroll.vercel.app/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Infinite-Scroll) | [Viewlive](https://krungleviciute.github.io/Infinite-Scroll/)
 - Meghal Donde - [Github](https://github.com/meghaldonde/infinite-scroll.github.io/) | [Viewlive](https://meghaldonde.github.io/infinite-scroll.github.io/)
+- Chintan Patel - [Github](https://github.com/chintans357/infinite-scroll) | [View Live](https://chintans357.github.io/infinite-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
