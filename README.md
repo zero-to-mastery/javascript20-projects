@@ -287,6 +287,7 @@ Check out all of the submissions below! Well done everyone!
 - Oscar Ramos - [Github](https://github.com/oscaramos/music-player), [Live](https://music-player-azure.vercel.app/)
 - Yifang Di - [Github](https://github.com/YvonneD/music-player), [Viewlive](https://yvonned.github.io/music-player/)
 - Meghal Donde - [Github](https://github.com/meghaldonde/music-player), [Live](https://meghaldonde.github.io/music-player/)
+- Cleon Barretto - [Github](https://github.com/cleonb/music-player.git) [Live](https://cleonb.github.io/music-player/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
@@ -327,6 +328,7 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/form-validation), [Viewlive](https://Carls13.github.io/20-javascript-projects/form-validation)
 - Yifang Di - [Github](https://github.com/YvonneD/form-validation), [Viewlive](https://yvonned.github.io/form-validation/)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Form-Validator), [Viewlive](https://alaa140101.github.io/Form-Validator/)
+- Cleon Barretto - [Github](https://github.com/cleonb/form-validator.git) [Live](https://cleonb.github.io/form-validator/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
@@ -377,7 +379,7 @@ Check out all of the submissions below! Well done everyone!
 - Anette [Github](https://github.com/RedSquirrrel/calculator) [ViewLive](https://redsquirrrel.github.io/calculator/)
 - Russ Perry - [Github](https://github.com/rperry99/calculator) | [ViewLive](https://rperry99.github.io/calculator/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/calculator), [Viewlive](https://Carls13.github.io/20-javascript-projects/calculator)
--
+- Cleon B -[Github](https://github.com/cleonb/calculator.git) [Live](https://cleonb.github.io/calculator/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
