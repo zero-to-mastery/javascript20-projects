@@ -218,6 +218,7 @@ Check out all of the submissions below! Well done everyone!
 - Yifang Di - [Github](https://github.com/YvonneD/joke-teller), [Viewlive](https://yvonned.github.io/joke-teller/)
 - Umberto Di Napoli - [Github](https://github.com/Khelthos/joke-teller), [Viewlive](https://khelthos.github.io/joke-teller/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Joke-Teller) | [ViewLive](https://krungleviciute.github.io/Joke-Teller/)
+- Meghal Donde - [Github](https://github.com/meghaldonde/joke-teller.github.io) | [ViewLive](https://meghaldonde.github.io/joke-teller.github.io/)
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
@@ -312,7 +313,6 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/video-player), [Viewlive](https://Carls13.github.io/20-javascript-projects/video-player)
 - PuneetAsnani12 - [Github](https://github.com/PuneetAsnani12/custom-video-player/)
 - Yifang Di - [Github](https://github.com/YvonneD/video-player), [Viewlive](https://yvonned.github.io/video-player/)
-
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
