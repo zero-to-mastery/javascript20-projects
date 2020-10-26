@@ -364,6 +364,7 @@ Check out all of the submissions below! Well done everyone!
 - Russ Perry - [Github](https://github.com/rperry99/kanban-board) | [ViewLive](https://rperry99.github.io/kanban-board/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/drag-and-drop), [Viewlive](https://Carls13.github.io/20-javascript-projects/drag-and-drop)
 - SquadTeemo - [Github](https://github.com/SquadTeemo/kanban-board) [ViewLive](https://squadteemo.github.io/kanban-board/)
+- Yifang Di - [Github](https://github.com/YvonneD/drag-and-drop-board) [ViewLive](https://yvonned.github.io/drag-and-drop-board/)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
