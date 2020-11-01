@@ -362,6 +362,7 @@ Check out all of the submissions below! Well done everyone!
 - Anette [Github](https://github.com/RedSquirrrel/math-sprint-game) [ViewLive](https://redsquirrrel.github.io/math-sprint-game/)
 - Russ Perry - [Github](https://github.com/rperry99/math-sprint) | [ViewLive](https://rperry99.github.io/math-sprint/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/math-sprint), [Viewlive](https://Carls13.github.io/20-javascript-projects/math-sprint)
+- Alaa Balbaid - [Github](https://github.com/alaa140101/Math-Sprint-Game), [Viewlive](https://alaa140101.github.io/Math-Sprint-Game/)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
