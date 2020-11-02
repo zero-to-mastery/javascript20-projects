@@ -357,6 +357,7 @@ Check out all of the submissions below! Well done everyone!
 - Huang YiTing - [Github](https://github.com/yiting76/ricarball) [ViewLive](https://yiting76.github.io/ricarball/)
 - Russ Perry - [Github](https://github.com/rperry99/pong-clone) | [ViewLive](https://rperry99.github.io/pong-clone/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/pong), [Viewlive](https://Carls13.github.io/20-javascript-projects/pong)
+- Yifang Di - [Github](https://github.com/YvonneD/pong), [Viewlive](https://yvonned.github.io/pong/)
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
