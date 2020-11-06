@@ -118,6 +118,7 @@ Check out all of the submissions below! Well done everyone!
 - Eboreime Rhoda - [Github](https://github.com/ivioje/Blog/tree/Quotes-generator) | [View Live](https://ivioje-quote-generator.netlify.app/)
 - Chintan Patel - [Github](https://github.com/chintans357/quote-generator) | [View Live](https://chintans357.github.io/quote-generator/)
 - Brent Beers - [Github](https://github.com/chironjon/quote-generator) | [View Live](https://chironjon.github.io/quote-generator/)
+- Deedee Namale - [Github](https://github.com/Dee-glitch/Quote-generator) | [View Live](https://dee-glitch.github.io/Quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -159,6 +160,7 @@ Check out all of the submissions below! Well done everyone!
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Infinite-Scroll) | [Viewlive](https://krungleviciute.github.io/Infinite-Scroll/)
 - Meghal Donde - [Github](https://github.com/meghaldonde/infinite-scroll.github.io/) | [Viewlive](https://meghaldonde.github.io/infinite-scroll.github.io/)
 - Chintan Patel - [Github](https://github.com/chintans357/infinite-scroll) | [View Live](https://chintans357.github.io/infinite-scroll/)
+- Deedee Namale - [Github](https://github.com/Dee-glitch/Infinite-Sneakers) | [View Live](https://dee-glitch.github.io/Infinite-Sneakers/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
