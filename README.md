@@ -159,6 +159,8 @@ Check out all of the submissions below! Well done everyone!
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Infinite-Scroll) | [Viewlive](https://krungleviciute.github.io/Infinite-Scroll/)
 - Meghal Donde - [Github](https://github.com/meghaldonde/infinite-scroll.github.io/) | [Viewlive](https://meghaldonde.github.io/infinite-scroll.github.io/)
 - Chintan Patel - [Github](https://github.com/chintans357/infinite-scroll) | [View Live](https://chintans357.github.io/infinite-scroll/)
+- Karthikeyan - [Github](https://github.com/skarthikeyan96/Infinity-Scroll)
+
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
