@@ -362,12 +362,14 @@ Check out all of the submissions below! Well done everyone!
 - Sarwar MD - [Github](https://github.com/Sarwar-Md/just-paint) [View live](https://sarwar-md.github.io/just-paint/)
 - Russ Perry - [Github](https://github.com/rperry99/paint-clone) | [ViewLive](https://rperry99.github.io/paint-clone/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/paint-clone), [Viewlive](https://Carls13.github.io/20-javascript-projects/paint-clone)
+- Yifang Di - [Github](https://github.com/YvonneD/paint-clone) [ViewLive](https://yvonned.github.io/paint-clone/)
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
 - Huang YiTing - [Github](https://github.com/yiting76/ricarball) [ViewLive](https://yiting76.github.io/ricarball/)
 - Russ Perry - [Github](https://github.com/rperry99/pong-clone) | [ViewLive](https://rperry99.github.io/pong-clone/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/pong), [Viewlive](https://Carls13.github.io/20-javascript-projects/pong)
+- Yifang Di - [Github](https://github.com/YvonneD/pong), [Viewlive](https://yvonned.github.io/pong/)
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
@@ -401,3 +403,4 @@ Check out all of the submissions below! Well done everyone!
 - Anette [Github](https://github.com/RedSquirrrel/splash-page) [ViewLive](https://redsquirrrel.github.io/splash-page/)
 - Russ Perry - [Github](https://github.com/rperry99/splash-page) | [ViewLive](https://rperry99.github.io/splash-page/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/splash-page), [Viewlive](https://Carls13.github.io/20-javascript-projects/splash-page)
+- Yifang Di - [Github](https://github.com/YvonneD/splash-page), [Viewlive](https://yvonned.github.io/splash-page/)
