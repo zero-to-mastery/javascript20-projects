@@ -119,6 +119,7 @@ Check out all of the submissions below! Well done everyone!
 - Chintan Patel - [Github](https://github.com/chintans357/quote-generator) | [View Live](https://chintans357.github.io/quote-generator/)
 - Brent Beers - [Github](https://github.com/chironjon/quote-generator) | [View Live](https://chironjon.github.io/quote-generator/)
 - Anja Khan - [Github](https://github.com/anjakhan/quote-generator) | [View Live](https://anjakhan.github.io/quote-generator/)
+- Joel Rajesh - [Github](https://github.com/joelshejar/quote-generator) | [View Live](https://joelshejar.github.io/quote-generator/)
 - EyeOfAthena - [Github](https://github.com/EyeOfAthena/quote-generator) | [View Live](https://eyeofathena.github.io/quote-generator/)
 - Brent Beers - [Github](https://github.com/sulekha-1209/inspire-quote-generator) | [View Live](https://sulekha-1209.github.io/inspire-quote-generator/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/quoteGenerator) | [View Live](https://youmorcant.github.io/quoteGenerator/)
@@ -196,6 +197,7 @@ Check out all of the submissions below! Well done everyone!
 - Oscar Ramos - [Github](https://github.com/oscaramos/picture-in-picture), [Live](https://oscaramos.github.io/picture-in-picture/)
 - Harry Manchanda - [Github](https://github.com/IamManchanda/vanillajs-picture-in-picture), [Viewlive](https://vanillajs-picture-in-picture.vercel.app/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Picture-In-Picture) | [ViewLive](https://krungleviciute.github.io/Picture-In-Picture/)
+- Simone Taeggi - [Github](https://github.com/simotae14/picture-in-picture-tae) | [ViewLive](https://simotae14.github.io/picture-in-picture-tae/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/picture-in-picture) | [View Live](https://youmorcant.github.io/picture-in-picture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
@@ -227,11 +229,12 @@ Check out all of the submissions below! Well done everyone!
 - Umberto Di Napoli - [Github](https://github.com/Khelthos/joke-teller), [Viewlive](https://khelthos.github.io/joke-teller/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Joke-Teller) | [ViewLive](https://krungleviciute.github.io/Joke-Teller/)
 - Meghal Donde - [Github](https://github.com/meghaldonde/joke-teller.github.io) | [ViewLive](https://meghaldonde.github.io/joke-teller.github.io/)
+- Simone Taeggi - [Github](https://github.com/simotae14/joke-teller-tae) | [ViewLive](https://simotae14.github.io/joke-teller-tae/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/joke-teller) | [View Live](https://youmorcant.github.io/joke-teller/)
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
-- Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit)
+- Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit) | [ViewLive](https://reefit.netlify.app)
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode) | [ViewLive](https://rperry99.github.io/light-dark-mode/index.html)
 - Sam Kach - [Github](https://github.com/rizamoyi/light-dark-mode)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/lightDarkMode) [ViewLive](https://alaa140101.github.io/lightDarkMode/)
@@ -249,6 +252,7 @@ Check out all of the submissions below! Well done everyone!
 - Nishant Pandey - [Github](https://github.com/mrpandey1/PortFolio-web), [Viewlive](https://nishantportfolio.netlify.app/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/light-dark-mode) | [Viewlive](https://krungleviciute.github.io/light-dark-mode/)
 - Umberto Di Napoli - [Github](https://github.com/Khelthos/light-dark-mode), [Viewlive](https://khelthos.github.io/light-dark-mode/)
+- Simone Taeggi - [Github](https://github.com/simotae14/light-dark-mode-tae) | [ViewLive](https://simotae14.github.io/light-dark-mode-tae/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/light-dark-mode) | [View Live](https://youmorcant.github.io/light-dark-mode/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
@@ -377,6 +381,7 @@ Check out all of the submissions below! Well done everyone!
 - Anette [Github](https://github.com/RedSquirrrel/math-sprint-game) [ViewLive](https://redsquirrrel.github.io/math-sprint-game/)
 - Russ Perry - [Github](https://github.com/rperry99/math-sprint) | [ViewLive](https://rperry99.github.io/math-sprint/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/math-sprint), [Viewlive](https://Carls13.github.io/20-javascript-projects/math-sprint)
+- Alaa Balbaid - [Github](https://github.com/alaa140101/Math-Sprint-Game), [Viewlive](https://alaa140101.github.io/Math-Sprint-Game/)
 - Yifang Di - [Github](https://github.com/YvonneD/math-sprint-game), [Viewlive](https://yvonned.github.io/math-sprint-game/)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
