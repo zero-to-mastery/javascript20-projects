@@ -13,7 +13,6 @@ Check out all of the submissions below! Well done everyone!
 [Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-Scroll---original-github) | [Picture in Picture](#Picture-in-Picture---original-github) | [Joke Teller](#Joke-Teller---original-github) | [Light/Dark Mode](#Light/Dark-Mode---original-github) | [Animated Template](#Animated-Template---original-github) | [Navigation Nation](#Navigation-Nation---original-github) | [Music Player](#Music-Player---original-github) | [Custom Countdown](#Custom-Countdown---original-github) | [Book Keeper](#Book-Keeper---original-github) | [Video Player](#Video-Player---original-github) | [Form Validator](#Form-Validator---original-github) | [Rock Spock](#Rock-Spock---original-github) | [NASA APOD](#NASA-APOD---original-github) | [Paint Clone](#Paint-Clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#Math-Sprint-Game---original-github) | [Drag and Drop](#Drag-and-Drop---original-github) | [Calculator](#Calculator---original-github) | [Splash Page](#Splash-Page---original-github)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
-
 - Vimarsh Thapa - [Github](https://github.com/VimarshThapa/quotes-generator) [view Live](https://vimarshthapa.github.io/quotes-generator/)
 - Naim Uddin - [Github](https://github.com/Naim365/quote-generator) [view Live](https://naim365.github.io/quote-generator/)
 - Siddhant - [Github](https://github.com/lannisterrr/QuotesWithFav) [View Live](https://lannisterrr.github.io/QuotesWithFav/)
@@ -118,6 +117,12 @@ Check out all of the submissions below! Well done everyone!
 - Eboreime Rhoda - [Github](https://github.com/ivioje/Blog/tree/Quotes-generator) | [View Live](https://ivioje-quote-generator.netlify.app/)
 - Chintan Patel - [Github](https://github.com/chintans357/quote-generator) | [View Live](https://chintans357.github.io/quote-generator/)
 - Brent Beers - [Github](https://github.com/chironjon/quote-generator) | [View Live](https://chironjon.github.io/quote-generator/)
+- Robin Burrage - [Github](https://github.com/RBurrage/quote-generator) [view Live](https://rburrage.github.io/quote-generator/)
+- Anja Khan - [Github](https://github.com/anjakhan/quote-generator) | [View Live](https://anjakhan.github.io/quote-generator/)
+- Joel Rajesh - [Github](https://github.com/joelshejar/quote-generator) | [View Live](https://joelshejar.github.io/quote-generator/)
+- EyeOfAthena - [Github](https://github.com/EyeOfAthena/quote-generator) | [View Live](https://eyeofathena.github.io/quote-generator/)
+- Brent Beers - [Github](https://github.com/sulekha-1209/inspire-quote-generator) | [View Live](https://sulekha-1209.github.io/inspire-quote-generator/)
+- Sam Morgan - [Github](https://github.com/YouMorCant/quoteGenerator) | [View Live](https://youmorcant.github.io/quoteGenerator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -159,6 +164,7 @@ Check out all of the submissions below! Well done everyone!
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Infinite-Scroll) | [Viewlive](https://krungleviciute.github.io/Infinite-Scroll/)
 - Meghal Donde - [Github](https://github.com/meghaldonde/infinite-scroll.github.io/) | [Viewlive](https://meghaldonde.github.io/infinite-scroll.github.io/)
 - Chintan Patel - [Github](https://github.com/chintans357/infinite-scroll) | [View Live](https://chintans357.github.io/infinite-scroll/)
+- Sam Morgan - [Github](https://github.com/YouMorCant/infinite-scroll) | [View Live](https://youmorcant.github.io/infinite-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
@@ -191,6 +197,8 @@ Check out all of the submissions below! Well done everyone!
 - Oscar Ramos - [Github](https://github.com/oscaramos/picture-in-picture), [Live](https://oscaramos.github.io/picture-in-picture/)
 - Harry Manchanda - [Github](https://github.com/IamManchanda/vanillajs-picture-in-picture), [Viewlive](https://vanillajs-picture-in-picture.vercel.app/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Picture-In-Picture) | [ViewLive](https://krungleviciute.github.io/Picture-In-Picture/)
+- Simone Taeggi - [Github](https://github.com/simotae14/picture-in-picture-tae) | [ViewLive](https://simotae14.github.io/picture-in-picture-tae/)
+- Sam Morgan - [Github](https://github.com/YouMorCant/picture-in-picture) | [View Live](https://youmorcant.github.io/picture-in-picture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
@@ -198,7 +206,7 @@ Check out all of the submissions below! Well done everyone!
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
 - Sam Kach - [Github](https://github.com/rizamoyi/joke-teller)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javaScriptProjectTellJoke), [ViewLive](https://jthinlay.github.io/javaScriptProjectTellJoke/)
-- Josue Cedeno - [Github](https://github.com/mister-josuecedeno/joke-teller) , [Live](https://mister-josuecedeno.github.io/joke-teller/)
+- Josue Cedeno - [Github](https://github.com/mister-josuecedeno/js30-joke-teller) | [View Live](https://mister-josuecedeno.github.io/js30-joke-teller/)
 - Russ Perry - [Github](https://github.com/rperry99/joke-teller)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
 - Sam Kach - [Github](https://github.com/rizamoyi/joke-teller)
@@ -221,10 +229,12 @@ Check out all of the submissions below! Well done everyone!
 - Umberto Di Napoli - [Github](https://github.com/Khelthos/joke-teller), [Viewlive](https://khelthos.github.io/joke-teller/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Joke-Teller) | [ViewLive](https://krungleviciute.github.io/Joke-Teller/)
 - Meghal Donde - [Github](https://github.com/meghaldonde/joke-teller.github.io) | [ViewLive](https://meghaldonde.github.io/joke-teller.github.io/)
+- Simone Taeggi - [Github](https://github.com/simotae14/joke-teller-tae) | [ViewLive](https://simotae14.github.io/joke-teller-tae/)
+- Sam Morgan - [Github](https://github.com/YouMorCant/joke-teller) | [View Live](https://youmorcant.github.io/joke-teller/)
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
-- Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit)
+- Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit) | [ViewLive](https://reefit.netlify.app)
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode) | [ViewLive](https://rperry99.github.io/light-dark-mode/index.html)
 - Sam Kach - [Github](https://github.com/rizamoyi/light-dark-mode)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/lightDarkMode) [ViewLive](https://alaa140101.github.io/lightDarkMode/)
@@ -242,6 +252,8 @@ Check out all of the submissions below! Well done everyone!
 - Nishant Pandey - [Github](https://github.com/mrpandey1/PortFolio-web), [Viewlive](https://nishantportfolio.netlify.app/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/light-dark-mode) | [Viewlive](https://krungleviciute.github.io/light-dark-mode/)
 - Umberto Di Napoli - [Github](https://github.com/Khelthos/light-dark-mode), [Viewlive](https://khelthos.github.io/light-dark-mode/)
+- Simone Taeggi - [Github](https://github.com/simotae14/light-dark-mode-tae) | [ViewLive](https://simotae14.github.io/light-dark-mode-tae/)
+- Sam Morgan - [Github](https://github.com/YouMorCant/light-dark-mode) | [View Live](https://youmorcant.github.io/light-dark-mode/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
@@ -258,6 +270,7 @@ Check out all of the submissions below! Well done everyone!
 - WayneMacMavis - [Github](https://github.com/waynemacmavis/animated-template), [Viewlive](https://waynemacmavis.github.io/animated-template/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/animated-template), [Viewlive](https://Carls13.github.io/20-javascript-projects/animated-template)
 - Yifang Di - [Github](https://github.com/YvonneD/animated-template), [Viewlive](https://yvonned.github.io/animated-template/)
+- Sam Morgan - [Github](https://github.com/YouMorCant/animated-template) | [View Live](https://youmorcant.github.io/animated-template/)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
@@ -270,6 +283,7 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/animated-navigation), [Viewlive](https://Carls13.github.io/20-javascript-projects/animated-navigation)
 - Yifang Di - [Github](https://github.com/YvonneD/animated-navigation), [Viewlive](https://yvonned.github.io/animated-navigation/)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Navigation-Nation) [Live](https://alaa140101.github.io/Navigation-Nation/)
+- Sam Morgan - [Github](https://github.com/YouMorCant/animation-navigation) | [View Live](https://youmorcant.github.io/animation-navigation/)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
@@ -288,6 +302,7 @@ Check out all of the submissions below! Well done everyone!
 - Yifang Di - [Github](https://github.com/YvonneD/music-player), [Viewlive](https://yvonned.github.io/music-player/)
 - Meghal Donde - [Github](https://github.com/meghaldonde/music-player), [Live](https://meghaldonde.github.io/music-player/)
 - Cleon Barretto - [Github](https://github.com/cleonb/music-player.git) [Live](https://cleonb.github.io/music-player/)
+- Sam Morgan - [Github](https://github.com/YouMorCant/music-player) | [View Live](https://youmorcant.github.io/music-player/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
@@ -296,6 +311,7 @@ Check out all of the submissions below! Well done everyone!
 - Hamza Khan - [Github](https://github.com/salderahamza/countdown) [Live](https://salderahamza.github.io/countdown/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/custom-countdown), [Viewlive](https://Carls13.github.io/20-javascript-projects/custom-countdown)
 - Yifang Di - [Github](https://github.com/YvonneD/custom-countdown), [Viewlive](https://yvonned.github.io/custom-countdown/)
+- Sam Morgan - [Github](https://github.com/YouMorCant/custom-countdown) | [View Live](https://youmorcant.github.io/custom-countdown/)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
@@ -344,24 +360,29 @@ Check out all of the submissions below! Well done everyone!
 - Russ Perry - [Github](https://github.com/rperry99/Nasa-APOD) | [ViewLive](https://rperry99.github.io/Nasa-APOD/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/nasa-api-pictures), [Viewlive](https://Carls13.github.io/20-javascript-projects/nasa-api-pictures)
 - Yifang Di - [Github](https://github.com/YvonneD/NASA-pictures), [Viewlive](https://yvonned.github.io/NASA-pictures/)
+- Alaa Balbaid - [Github](https://github.com/alaa140101/NASA-APOD), [Viewlive](https://alaa140101.github.io/NASA-APOD/)
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
 - Sarwar MD - [Github](https://github.com/Sarwar-Md/just-paint) [View live](https://sarwar-md.github.io/just-paint/)
 - Russ Perry - [Github](https://github.com/rperry99/paint-clone) | [ViewLive](https://rperry99.github.io/paint-clone/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/paint-clone), [Viewlive](https://Carls13.github.io/20-javascript-projects/paint-clone)
+- Yifang Di - [Github](https://github.com/YvonneD/paint-clone) [ViewLive](https://yvonned.github.io/paint-clone/)
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
 - Huang YiTing - [Github](https://github.com/yiting76/ricarball) [ViewLive](https://yiting76.github.io/ricarball/)
 - Russ Perry - [Github](https://github.com/rperry99/pong-clone) | [ViewLive](https://rperry99.github.io/pong-clone/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/pong), [Viewlive](https://Carls13.github.io/20-javascript-projects/pong)
+- Yifang Di - [Github](https://github.com/YvonneD/pong), [Viewlive](https://yvonned.github.io/pong/)
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
 - Anette [Github](https://github.com/RedSquirrrel/math-sprint-game) [ViewLive](https://redsquirrrel.github.io/math-sprint-game/)
 - Russ Perry - [Github](https://github.com/rperry99/math-sprint) | [ViewLive](https://rperry99.github.io/math-sprint/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/math-sprint), [Viewlive](https://Carls13.github.io/20-javascript-projects/math-sprint)
+- Alaa Balbaid - [Github](https://github.com/alaa140101/Math-Sprint-Game), [Viewlive](https://alaa140101.github.io/Math-Sprint-Game/)
+- Yifang Di - [Github](https://github.com/YvonneD/math-sprint-game), [Viewlive](https://yvonned.github.io/math-sprint-game/)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
@@ -371,6 +392,8 @@ Check out all of the submissions below! Well done everyone!
 - Russ Perry - [Github](https://github.com/rperry99/kanban-board) | [ViewLive](https://rperry99.github.io/kanban-board/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/drag-and-drop), [Viewlive](https://Carls13.github.io/20-javascript-projects/drag-and-drop)
 - SquadTeemo - [Github](https://github.com/SquadTeemo/kanban-board) [ViewLive](https://squadteemo.github.io/kanban-board/)
+- Alaa Balbaid - [Github](https://github.com/alaa140101/Drag-n-Drop) [ViewLive](https://alaa140101.github.io/Drag-n-Drop/)
+- Yifang Di - [Github](https://github.com/YvonneD/drag-and-drop-board) [ViewLive](https://yvonned.github.io/drag-and-drop-board/)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
@@ -381,9 +404,11 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/calculator), [Viewlive](https://Carls13.github.io/20-javascript-projects/calculator)
 - Cleon B -[Github](https://github.com/cleonb/calculator.git) [Live](https://cleonb.github.io/calculator/)
 - Constantin U -[Github](https://github.com/conuko/Calculator) [Live](https://conuko.github.io/Calculator/)
+- Yifang Di - [Github](https://github.com/YvonneD/calculator), [Viewlive](https://yvonned.github.io/calculator/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
 - Anette [Github](https://github.com/RedSquirrrel/splash-page) [ViewLive](https://redsquirrrel.github.io/splash-page/)
 - Russ Perry - [Github](https://github.com/rperry99/splash-page) | [ViewLive](https://rperry99.github.io/splash-page/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/splash-page), [Viewlive](https://Carls13.github.io/20-javascript-projects/splash-page)
+- Yifang Di - [Github](https://github.com/YvonneD/splash-page), [Viewlive](https://yvonned.github.io/splash-page/)
