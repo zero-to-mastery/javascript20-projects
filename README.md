@@ -118,6 +118,7 @@ Check out all of the submissions below! Well done everyone!
 - Eboreime Rhoda - [Github](https://github.com/ivioje/Blog/tree/Quotes-generator) | [View Live](https://ivioje-quote-generator.netlify.app/)
 - Chintan Patel - [Github](https://github.com/chintans357/quote-generator) | [View Live](https://chintans357.github.io/quote-generator/)
 - Brent Beers - [Github](https://github.com/chironjon/quote-generator) | [View Live](https://chironjon.github.io/quote-generator/)
+- Joel Rajesh - [Github](https://github.com/joelshejar/quote-generator) | [View Live](https://joelshejar.github.io/quote-generator/)
 - EyeOfAthena - [Github](https://github.com/EyeOfAthena/quote-generator) | [View Live](https://eyeofathena.github.io/quote-generator/)
 - Brent Beers - [Github](https://github.com/sulekha-1209/inspire-quote-generator) | [View Live](https://sulekha-1209.github.io/inspire-quote-generator/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/quoteGenerator) | [View Live](https://youmorcant.github.io/quoteGenerator/)
