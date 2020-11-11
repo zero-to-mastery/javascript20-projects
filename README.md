@@ -195,6 +195,7 @@ Check out all of the submissions below! Well done everyone!
 - Oscar Ramos - [Github](https://github.com/oscaramos/picture-in-picture), [Live](https://oscaramos.github.io/picture-in-picture/)
 - Harry Manchanda - [Github](https://github.com/IamManchanda/vanillajs-picture-in-picture), [Viewlive](https://vanillajs-picture-in-picture.vercel.app/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Picture-In-Picture) | [ViewLive](https://krungleviciute.github.io/Picture-In-Picture/)
+- Simone Taeggi - [Github](https://github.com/simotae14/picture-in-picture-tae) | [ViewLive](https://simotae14.github.io/picture-in-picture-tae/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/picture-in-picture) | [View Live](https://youmorcant.github.io/picture-in-picture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
@@ -226,6 +227,7 @@ Check out all of the submissions below! Well done everyone!
 - Umberto Di Napoli - [Github](https://github.com/Khelthos/joke-teller), [Viewlive](https://khelthos.github.io/joke-teller/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Joke-Teller) | [ViewLive](https://krungleviciute.github.io/Joke-Teller/)
 - Meghal Donde - [Github](https://github.com/meghaldonde/joke-teller.github.io) | [ViewLive](https://meghaldonde.github.io/joke-teller.github.io/)
+- Simone Taeggi - [Github](https://github.com/simotae14/joke-teller-tae) | [ViewLive](https://simotae14.github.io/joke-teller-tae/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/joke-teller) | [View Live](https://youmorcant.github.io/joke-teller/)
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
@@ -248,6 +250,7 @@ Check out all of the submissions below! Well done everyone!
 - Nishant Pandey - [Github](https://github.com/mrpandey1/PortFolio-web), [Viewlive](https://nishantportfolio.netlify.app/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/light-dark-mode) | [Viewlive](https://krungleviciute.github.io/light-dark-mode/)
 - Umberto Di Napoli - [Github](https://github.com/Khelthos/light-dark-mode), [Viewlive](https://khelthos.github.io/light-dark-mode/)
+- Simone Taeggi - [Github](https://github.com/simotae14/light-dark-mode-tae) | [ViewLive](https://simotae14.github.io/light-dark-mode-tae/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/light-dark-mode) | [View Live](https://youmorcant.github.io/light-dark-mode/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
