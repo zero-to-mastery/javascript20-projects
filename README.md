@@ -118,6 +118,7 @@ Check out all of the submissions below! Well done everyone!
 - Eboreime Rhoda - [Github](https://github.com/ivioje/Blog/tree/Quotes-generator) | [View Live](https://ivioje-quote-generator.netlify.app/)
 - Chintan Patel - [Github](https://github.com/chintans357/quote-generator) | [View Live](https://chintans357.github.io/quote-generator/)
 - Brent Beers - [Github](https://github.com/chironjon/quote-generator) | [View Live](https://chironjon.github.io/quote-generator/)
+– Brandon Galloway – [Github](https://github.com/thingetoo/random-quote-generator) | [View Live](https://thingetoo.github.io/random-quote-generator/)
 - Harsh Khilawala - [Github](https://github.com/HarshKhilawala/Quote-Generator) | [View Live](https://harshkhilawala.github.io/Quote-Generator/)
 - Apurba Panja - [Github](https://github.com/iapurba/quote-generator) | [View Live](https://iapurba.github.io/quote-generator/)
 - Deedee Namale - [Github](https://github.com/Dee-glitch/Quote-generator) | [View Live](https://dee-glitch.github.io/Quote-generator/)
