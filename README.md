@@ -166,6 +166,7 @@ Check out all of the submissions below! Well done everyone!
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Infinite-Scroll) | [Viewlive](https://krungleviciute.github.io/Infinite-Scroll/)
 - Meghal Donde - [Github](https://github.com/meghaldonde/infinite-scroll.github.io/) | [Viewlive](https://meghaldonde.github.io/infinite-scroll.github.io/)
 - Chintan Patel - [Github](https://github.com/chintans357/infinite-scroll) | [View Live](https://chintans357.github.io/infinite-scroll/)
+- Karthikeyan - [Github](https://github.com/skarthikeyan96/Infinity-Scroll)
 - Deedee Namale - [Github](https://github.com/Dee-glitch/Infinite-Sneakers) | [View Live](https://dee-glitch.github.io/Infinite-Sneakers/)
 - Joel Rajesh - [Github](https://github.com/joelshejar/infinite-scroll) | [View Live](https://joelshejar.github.io/infinite-scroll/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/infinite-scroll) | [View Live](https://youmorcant.github.io/infinite-scroll/)
@@ -179,7 +180,6 @@ Check out all of the submissions below! Well done everyone!
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Picture-in-Picture)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-picture-in-picture) [ViewLive](https://ehdgodgka.github.io/js20-picture-in-picture/)
 - Sam Kach - [Github](https://github.com/rizamoyi/picture-in-picture)
-
 - Hamza Khan - [Github](https://github.com/salderahamza/picture-in-picture) [Live](https://salderahamza.github.io/picture-in-picture/)
 - Ala Balbaid - [Github](https://github.com/alaa140101/pictureInPicture) [ViewLive](https://alaa140101.github.io/pictureInPicture/)
 - Rahul Bakshi - [Github](https://github.com/rahulbakshi4/picture-in-pcture), [ViewLive](https://rahulbakshi4.github.io/picture-in-picture/)
