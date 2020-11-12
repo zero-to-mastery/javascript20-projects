@@ -274,6 +274,7 @@ Check out all of the submissions below! Well done everyone!
 - WayneMacMavis - [Github](https://github.com/waynemacmavis/animated-template), [Viewlive](https://waynemacmavis.github.io/animated-template/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/animated-template), [Viewlive](https://Carls13.github.io/20-javascript-projects/animated-template)
 - Yifang Di - [Github](https://github.com/YvonneD/animated-template), [Viewlive](https://yvonned.github.io/animated-template/)
+- Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Animated-Template) | [View Live](https://krungleviciute.github.io/Animated-Template/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/animated-template) | [View Live](https://youmorcant.github.io/animated-template/)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
@@ -287,6 +288,7 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/animated-navigation), [Viewlive](https://Carls13.github.io/20-javascript-projects/animated-navigation)
 - Yifang Di - [Github](https://github.com/YvonneD/animated-navigation), [Viewlive](https://yvonned.github.io/animated-navigation/)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Navigation-Nation) [Live](https://alaa140101.github.io/Navigation-Nation/)
+- Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Animated-Navigation) | [View Live](https://krungleviciute.github.io/Animated-Navigation/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/animation-navigation) | [View Live](https://youmorcant.github.io/animation-navigation/)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
@@ -305,6 +307,7 @@ Check out all of the submissions below! Well done everyone!
 - Oscar Ramos - [Github](https://github.com/oscaramos/music-player), [Live](https://music-player-azure.vercel.app/)
 - Yifang Di - [Github](https://github.com/YvonneD/music-player), [Viewlive](https://yvonned.github.io/music-player/)
 - Meghal Donde - [Github](https://github.com/meghaldonde/music-player), [Live](https://meghaldonde.github.io/music-player/)
+- Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/music-player) | [View Live](https://krungleviciute.github.io/music-player/)
 - Cleon Barretto - [Github](https://github.com/cleonb/music-player.git) [Live](https://cleonb.github.io/music-player/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/music-player) | [View Live](https://youmorcant.github.io/music-player/)
 
