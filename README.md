@@ -130,7 +130,7 @@ Check out all of the submissions below! Well done everyone!
 - Sam Morgan - [Github](https://github.com/YouMorCant/quoteGenerator) | [View Live](https://youmorcant.github.io/quoteGenerator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
-
+- Gabriel Habibulin - [Github](https://github.com/GabrielHangor/InfiniteScrollApp) [view Live](https://gabrielhangor.github.io/InfiniteScrollApp/)
 - Vimarsh Thapa - [Github](https://github.com/VimarshThapa/infinity-scroll) [view Live](https://vimarshthapa.github.io/infinity-scroll/)
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/infinite-scroll) [ViewLive](https://mister-josuecedeno.github.io/infinite-scroll/)
 - Russ Perry - [Github](https://github.com/rperry99/infinite-scroll) | [ViewLive](https://russ-infinite-scroll.netlify.app/)
