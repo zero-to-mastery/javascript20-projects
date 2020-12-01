@@ -4,19 +4,16 @@ const authorText = document.getElementById('author');
 const twitterBtn = document.getElementById('twitter');
 const newQuoteBtn = document.getElementById('new-quote');
 const loader = document.getElementById('loader');
-
     function showLoadSpinner(){
         loader.hidden = false;
         quoteContainer.hidden = true;
     }
-
    function removeLoadSpinner(){
        if(!loader.hidden){
            quoteContainer.hidden = false;
            loader.hidden = true;
        } 
    }
-
 async function getQuoteFromAPI() {
 
     showLoadSpinner();
@@ -40,9 +37,7 @@ async function getQuoteFromAPI() {
             quoteText.classList.remove('long-quote')
         }
         quoteText.innerText = data.quoteText;
- 
     removeLoadSpinner();
-
     }catch(error) {
         getQuoteFromAPI();
         console.log("Whoops, no quote", error);
