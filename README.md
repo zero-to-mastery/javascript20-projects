@@ -159,7 +159,7 @@ Check out all of the submissions below! Well done everyone:
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode) | [ViewLive](https://rperry99.github.io/light-dark-mode/index.html)
 - Sam Kach - [Github](https://github.com/rizamoyi/light-dark-mode)
 - Hamza Khan - [Github](https://github.com/salderahamza/light-dark-mode) [Live](https://salderahamza.github.io/light-dark-mode/)
-- Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProjectTemplate_dark_light_mode), [ViewLive](https://jthinlay.github.io/javascriptProjectTemplate_dark_light_mode/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProjectTemplate_dark_light_mode),[ViewLive](https://jthinlay.github.io/javascriptProjectTemplate_dark_light_mode/)
 - Austin Hill - [Github](https://github.com/Akinghill/markdown-previewer-LD) [ViewLive](https://akinghill.github.io/markdown-previewer-LD/)
 - Anette - [Github](https://github.com/RedSquirrrel/light-dark-mode) [ViewLive](https://redsquirrrel.github.io/light-dark-mode/)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-dark-and-light) [ViewLive](https://ehdgodgka.github.io/js20-dark-and-light/)
@@ -204,7 +204,7 @@ Check out all of the submissions below! Well done everyone:
 - Russ Perry - [Github](https://github.com/rperry99/custom-countdown) | [ViewLive](https://rperry99.github.io/custom-countdown/)
 - Arianna Choza - [Github](https://github.com/unachoza/countdown) [ViewLive](https://unachoza.github.io/countdown)
 - Hamza Khan - [Github] (https://github.com/salderahamza/countdown) [Live](https://salderahamza.github.io/countdown/)
-- Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProjectCountdown) [Live](https://jthinlay.github.io/javascriptProjectCountdown/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProjectCountdown) [ViewLive](https://jthinlay.github.io/javascriptProjectCountdown/)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
