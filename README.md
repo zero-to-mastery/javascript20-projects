@@ -177,6 +177,7 @@ Check out all of the submissions below! Well done everyone!
 - Deedee Namale - [Github](https://github.com/Dee-glitch/Infinite-Sneakers) | [View Live](https://dee-glitch.github.io/Infinite-Sneakers/)
 - Joel Rajesh - [Github](https://github.com/joelshejar/infinite-scroll) | [View Live](https://joelshejar.github.io/infinite-scroll/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/infinite-scroll) | [View Live](https://youmorcant.github.io/infinite-scroll/)
+- Yasir Shariff - [Github](https://github.com/itsyaasir/infinite-scroll) | [View Live](https://itsyaasir.github.io/infinite-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/PictureInPicture) [view Live](https://gabrielhangor.github.io/PictureInPicture/)
@@ -210,6 +211,7 @@ Check out all of the submissions below! Well done everyone!
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Picture-In-Picture) | [ViewLive](https://krungleviciute.github.io/Picture-In-Picture/)
 - Simone Taeggi - [Github](https://github.com/simotae14/picture-in-picture-tae) | [ViewLive](https://simotae14.github.io/picture-in-picture-tae/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/picture-in-picture) | [View Live](https://youmorcant.github.io/picture-in-picture/)
+- Yasir Shariff - [Github](https://github.com/itsyaasir/picture-in-picture)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/JokeRobotApp) [view Live](https://gabrielhangor.github.io/JokeRobotApp/)
