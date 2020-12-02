@@ -330,6 +330,7 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/custom-countdown), [Viewlive](https://Carls13.github.io/20-javascript-projects/custom-countdown)
 - Yifang Di - [Github](https://github.com/YvonneD/custom-countdown), [Viewlive](https://yvonned.github.io/custom-countdown/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/custom-countdown) | [View Live](https://youmorcant.github.io/custom-countdown/)
+- Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/countdown) | [View Live](https://krungleviciute.github.io/countdown/)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
@@ -339,6 +340,7 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/bookmark), [Viewlive](https://Carls13.github.io/20-javascript-projects/bookmark)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Book-Keeper), [Viewlive](https://alaa140101.github.io/Book-Keeper/)
 - Yifang Di - [Github](https://github.com/YvonneD/bookmark), [Viewlive](https://yvonned.github.io/bookmark/)
+- Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Bookmarks-Storage) | [View Live](https://krungleviciute.github.io/Bookmarks-Storage/)
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
@@ -350,6 +352,7 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/video-player), [Viewlive](https://Carls13.github.io/20-javascript-projects/video-player)
 - PuneetAsnani12 - [Github](https://github.com/PuneetAsnani12/custom-video-player/)
 - Yifang Di - [Github](https://github.com/YvonneD/video-player), [Viewlive](https://yvonned.github.io/video-player/)
+- Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Video-Player) | [View Live](https://krungleviciute.github.io/Video-Player/)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
@@ -363,6 +366,7 @@ Check out all of the submissions below! Well done everyone!
 - Yifang Di - [Github](https://github.com/YvonneD/form-validation), [Viewlive](https://yvonned.github.io/form-validation/)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Form-Validator), [Viewlive](https://alaa140101.github.io/Form-Validator/)
 - Cleon Barretto - [Github](https://github.com/cleonb/form-validator.git) [Live](https://cleonb.github.io/form-validator/)
+- Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Form-validator) | [View Live](https://krungleviciute.github.io/Form-validator/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
