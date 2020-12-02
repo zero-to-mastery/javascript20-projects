@@ -13,6 +13,7 @@ Check out all of the submissions below! Well done everyone!
 [Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-Scroll---original-github) | [Picture in Picture](#Picture-in-Picture---original-github) | [Joke Teller](#Joke-Teller---original-github) | [Light/Dark Mode](#Light/Dark-Mode---original-github) | [Animated Template](#Animated-Template---original-github) | [Navigation Nation](#Navigation-Nation---original-github) | [Music Player](#Music-Player---original-github) | [Custom Countdown](#Custom-Countdown---original-github) | [Book Keeper](#Book-Keeper---original-github) | [Video Player](#Video-Player---original-github) | [Form Validator](#Form-Validator---original-github) | [Rock Spock](#Rock-Spock---original-github) | [NASA APOD](#NASA-APOD---original-github) | [Paint Clone](#Paint-Clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#Math-Sprint-Game---original-github) | [Drag and Drop](#Drag-and-Drop---original-github) | [Calculator](#Calculator---original-github) | [Splash Page](#Splash-Page---original-github)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+- HackerdX - [Github](https://github.com/HackerdX/AV-Quote-Generator) [view Live](https://hackerdx.github.io/AV-Quote-Generator/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/Quote-Generator) [view Live](https://gabrielhangor.github.io/Quote-Generator/)
 - Vimarsh Thapa - [Github](https://github.com/VimarshThapa/quotes-generator) [view Live](https://vimarshthapa.github.io/quotes-generator/)
 - Naim Uddin - [Github](https://github.com/Naim365/quote-generator) [view Live](https://naim365.github.io/quote-generator/)
@@ -118,7 +119,8 @@ Check out all of the submissions below! Well done everyone!
 - Eboreime Rhoda - [Github](https://github.com/ivioje/Blog/tree/Quotes-generator) | [View Live](https://ivioje-quote-generator.netlify.app/)
 - Chintan Patel - [Github](https://github.com/chintans357/quote-generator) | [View Live](https://chintans357.github.io/quote-generator/)
 - Brent Beers - [Github](https://github.com/chironjon/quote-generator) | [View Live](https://chironjon.github.io/quote-generator/)
-– Brandon Galloway – [Github](https://github.com/thingetoo/random-quote-generator) | [View Live](https://thingetoo.github.io/random-quote-generator/)
+- Cam Jackson - [Github](https://github.com/CamJackson-Dev/quoteGenerator) | [View Live](https://camjackson-dev.github.io/quoteGenerator/)
+- Brandon Galloway – [Github](https://github.com/thingetoo/random-quote-generator) | [View Live](https://thingetoo.github.io/random-quote-generator/)
 - Harsh Khilawala - [Github](https://github.com/HarshKhilawala/Quote-Generator) | [View Live](https://harshkhilawala.github.io/Quote-Generator/)
 - Apurba Panja - [Github](https://github.com/iapurba/quote-generator) | [View Live](https://iapurba.github.io/quote-generator/)
 - Deedee Namale - [Github](https://github.com/Dee-glitch/Quote-generator) | [View Live](https://dee-glitch.github.io/Quote-generator/)
@@ -129,9 +131,11 @@ Check out all of the submissions below! Well done everyone!
 - Brent Beers - [Github](https://github.com/sulekha-1209/inspire-quote-generator) | [View Live](https://sulekha-1209.github.io/inspire-quote-generator/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/quoteGenerator) | [View Live](https://youmorcant.github.io/quoteGenerator/)
 - Christopher Rimes - [Github](https://github.com/chris-rimes/Bible-Verses-Quote-Generator) | [View Live](https://chris-rimes.github.io/Bible-Verses-Quote-Generator/)
+- Ryder He - [Github](https://github.com/RyderHe/quote_generator/) | [View Live](https://ryderhe.github.io/quote_generator/)
+- Laura Hutt - [Github](https://github.com/Lauratheexplorer/quote-generator) | [View Live](https://lauratheexplorer.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
-
+- Gabriel Habibulin - [Github](https://github.com/GabrielHangor/InfiniteCats) [view Live](https://gabrielhangor.github.io/InfiniteCats/)
 - Vimarsh Thapa - [Github](https://github.com/VimarshThapa/infinity-scroll) [view Live](https://vimarshthapa.github.io/infinity-scroll/)
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/infinite-scroll) [ViewLive](https://mister-josuecedeno.github.io/infinite-scroll/)
 - Russ Perry - [Github](https://github.com/rperry99/infinite-scroll) | [ViewLive](https://russ-infinite-scroll.netlify.app/)
@@ -175,9 +179,10 @@ Check out all of the submissions below! Well done everyone!
 - Deedee Namale - [Github](https://github.com/Dee-glitch/Infinite-Sneakers) | [View Live](https://dee-glitch.github.io/Infinite-Sneakers/)
 - Joel Rajesh - [Github](https://github.com/joelshejar/infinite-scroll) | [View Live](https://joelshejar.github.io/infinite-scroll/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/infinite-scroll) | [View Live](https://youmorcant.github.io/infinite-scroll/)
+- Yasir Shariff - [Github](https://github.com/itsyaasir/infinite-scroll) | [View Live](https://itsyaasir.github.io/infinite-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
-
+- Gabriel Habibulin - [Github](https://github.com/GabrielHangor/PictureInPicture) [view Live](https://gabrielhangor.github.io/PictureInPicture/)
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/js20-picture-in-picture) [ViewLive](https://mister-josuecedeno.github.io/js20-picture-in-picture/)
 - Russ Perry - [Github](https://github.com/rperry99/picture-in-picture) | [ViewLive](https://rperry99.github.io/picture-in-picture/)
 - Alexander Suero - [Github](https://github.com/alexandersuerof/Picture-in-Picture) [ViewLive](https://alexandersuerof.github.io/Picture-in-Picture/)
@@ -208,9 +213,10 @@ Check out all of the submissions below! Well done everyone!
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Picture-In-Picture) | [ViewLive](https://krungleviciute.github.io/Picture-In-Picture/)
 - Simone Taeggi - [Github](https://github.com/simotae14/picture-in-picture-tae) | [ViewLive](https://simotae14.github.io/picture-in-picture-tae/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/picture-in-picture) | [View Live](https://youmorcant.github.io/picture-in-picture/)
+- Yasir Shariff - [Github](https://github.com/itsyaasir/picture-in-picture)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
-
+- Gabriel Habibulin - [Github](https://github.com/GabrielHangor/JokeRobotApp) [view Live](https://gabrielhangor.github.io/JokeRobotApp/)
 - Russ Perry - [Github](https://github.com/rperry99/joke-teller) | [ViewLive](https://russ-joke-machine.netlify.app/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
 - Sam Kach - [Github](https://github.com/rizamoyi/joke-teller)
