@@ -130,6 +130,7 @@ Check out all of the submissions below! Well done everyone!
 - EyeOfAthena - [Github](https://github.com/EyeOfAthena/quote-generator) | [View Live](https://eyeofathena.github.io/quote-generator/)
 - Brent Beers - [Github](https://github.com/sulekha-1209/inspire-quote-generator) | [View Live](https://sulekha-1209.github.io/inspire-quote-generator/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/quoteGenerator) | [View Live](https://youmorcant.github.io/quoteGenerator/)
+- Brandon Galloway - [Github](https://github.com/thingetoo/quote-generator2) | [View Live](thingetoo.github.io/quote-generator2/)
 - Christopher Rimes - [Github](https://github.com/chris-rimes/Bible-Verses-Quote-Generator) | [View Live](https://chris-rimes.github.io/Bible-Verses-Quote-Generator/)
 - Ryder He - [Github](https://github.com/RyderHe/quote_generator/) | [View Live](https://ryderhe.github.io/quote_generator/)
 - Laura Hutt - [Github](https://github.com/Lauratheexplorer/quote-generator) | [View Live](https://lauratheexplorer.github.io/quote-generator/)
@@ -180,6 +181,8 @@ Check out all of the submissions below! Well done everyone!
 - Joel Rajesh - [Github](https://github.com/joelshejar/infinite-scroll) | [View Live](https://joelshejar.github.io/infinite-scroll/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/infinite-scroll) | [View Live](https://youmorcant.github.io/infinite-scroll/)
 - Yasir Shariff - [Github](https://github.com/itsyaasir/infinite-scroll) | [View Live](https://itsyaasir.github.io/infinite-scroll/)
+
+- Brandon Galloway - [Github](https://github.com/thingetoo/almost-unlimited-pictures) | [View Live](https://thingetoo.github.io/almost-unlimited-pictures/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/PictureInPicture) [view Live](https://gabrielhangor.github.io/PictureInPicture/)
