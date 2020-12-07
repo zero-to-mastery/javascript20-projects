@@ -56,7 +56,7 @@ Check out all of the submissions below! Well done everyone:
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audioplayer)
 
 - Keshav Naganathan - [View Code](/https://github.com/DevKesh/Music-Player)
-  [Click here to go to app](/https://the-music-player.netlify.app/)
+  [Click here to see app](/https://the-music-player.netlify.app/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
