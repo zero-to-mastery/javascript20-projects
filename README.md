@@ -135,6 +135,7 @@ Check out all of the submissions below! Well done everyone!
 - Christopher Rimes - [Github](https://github.com/chris-rimes/Bible-Verses-Quote-Generator) | [View Live](https://chris-rimes.github.io/Bible-Verses-Quote-Generator/)
 - Ryder He - [Github](https://github.com/RyderHe/quote_generator/) | [View Live](https://ryderhe.github.io/quote_generator/)
 - Laura Hutt - [Github](https://github.com/Lauratheexplorer/quote-generator) | [View Live](https://lauratheexplorer.github.io/quote-generator/)
+- Hasan Patel - [Github](https://github.com/TheSeer507) | [View Live](https://theseer507.github.io/Quote-Generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/InfiniteCats) [view Live](https://gabrielhangor.github.io/InfiniteCats/)
