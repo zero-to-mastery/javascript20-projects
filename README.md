@@ -308,6 +308,9 @@ Check out all of the submissions below! Well done everyone!
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
+
+- Russ Perry - [Github](https://github.com/rperry99/javascript-music-player)
+- vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/javascript20-projects)
 - Russ Perry - [Github](https://github.com/rperry99/javascript-music-player) | [ViewLive](https://rperry99.github.io/javascript-music-player/)
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audioplayer)
 - Juan Melara - [Github](https://juanky256.github.io/Music-Player/)
@@ -325,6 +328,9 @@ Check out all of the submissions below! Well done everyone!
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/music-player) | [View Live](https://krungleviciute.github.io/music-player/)
 - Cleon Barretto - [Github](https://github.com/cleonb/music-player.git) [Live](https://cleonb.github.io/music-player/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/music-player) | [View Live](https://youmorcant.github.io/music-player/)
+
+- Keshav Naganathan - [View Code](/https://github.com/DevKesh/Music-Player)
+  [Click here to see app](/https://the-music-player.netlify.app/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
