@@ -144,6 +144,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
+- Devtinator - [Github](https://github.com/Devtinator/Infinity-Scroll) [View Live](https://devtinator.github.io/Infinity-Scroll/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/InfiniteCats) [view Live](https://gabrielhangor.github.io/InfiniteCats/)
 - Vimarsh Thapa - [Github](https://github.com/VimarshThapa/infinity-scroll) [view Live](https://vimarshthapa.github.io/infinity-scroll/)
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/infinite-scroll) [ViewLive](https://mister-josuecedeno.github.io/infinite-scroll/)
