@@ -14,7 +14,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
--Devtinator - [Github](https://github.com/Devtinator/Random-Quote-Generator) [View Live](https://devtinator.github.io/Random-Quote-Generator)
+-Devtinator - [Github](https://github.com/Devtinator/Random-Quote-Generator) | [View Live](https://devtinator.github.io/Random-Quote-Generator)
 
 - KasibhatlaMidhun - [Github](https://github.com/KasibhatlaMidhun/quotegenerator) [view Live](https://kasibhatlamidhun.github.io/quotegenerator/)
 - Mauricio Paternina - [Github](https://github.com/spaceinvadev/vanilla-js-random-projects/tree/main/projects/quote-generator) [Live Demo](https://js-small-random-projects.netlify.app/)
@@ -144,7 +144,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
-- Devtinator - [Github](https://github.com/Devtinator/Infinity-Scroll) [View Live](https://devtinator.github.io/Infinity-Scroll/)
+- Devtinator - [Github](https://github.com/Devtinator/Infinity-Scroll) | [View Live](https://devtinator.github.io/Infinity-Scroll/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/InfiniteCats) [view Live](https://gabrielhangor.github.io/InfiniteCats/)
 - Vimarsh Thapa - [Github](https://github.com/VimarshThapa/infinity-scroll) [view Live](https://vimarshthapa.github.io/infinity-scroll/)
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/infinite-scroll) [ViewLive](https://mister-josuecedeno.github.io/infinite-scroll/)
@@ -195,6 +195,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
+- Devtinator - [Github](https://github.com/Devtinator/Picture-in-Picture) | [View Live](https://devtinator.github.io/Picture-in-Picture/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/PictureInPicture) [view Live](https://gabrielhangor.github.io/PictureInPicture/)
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/js20-picture-in-picture) [ViewLive](https://mister-josuecedeno.github.io/js20-picture-in-picture/)
 - Russ Perry - [Github](https://github.com/rperry99/picture-in-picture) | [ViewLive](https://rperry99.github.io/picture-in-picture/)
@@ -230,6 +231,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
+- Devtinator - [Github](https://github.com/Devtinator/Joke-Teller) | [View Live](https://devtinator.github.io/Joke-Teller/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/JokeRobotApp) [view Live](https://gabrielhangor.github.io/JokeRobotApp/)
 - Russ Perry - [Github](https://github.com/rperry99/joke-teller) | [ViewLive](https://russ-joke-machine.netlify.app/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
@@ -263,6 +265,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Light/Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
+- Devtinator - [Github](https://github.com/Devtinator/LIght-and-DArk-Mode) | [View LIve](https://devtinator.github.io/LIght-and-DArk-Mode/)
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit) | [ViewLive](https://reefit.netlify.app)
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode) | [ViewLive](https://rperry99.github.io/light-dark-mode/index.html)
 - Sam Kach - [Github](https://github.com/rizamoyi/light-dark-mode)
