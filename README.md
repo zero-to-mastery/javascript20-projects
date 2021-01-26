@@ -289,6 +289,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
+- Devtinator - [Github](https://github.com/Devtinator/Animated-Website) | [ViewLive](https://devtinator.github.io/Animated-Website/)
 - Russ Perry - [Github](https://github.com/rperry99/animation-template) | [ViewLive](https://rperry99.github.io/animation-template/)
 - Ozziel Ruiiz [Github](https://ozzielruiz.github.io/animated-template/)
 - Hamza Khan - [Github](https://github.com/salderahamza/page-animation) [Live](https://salderahamza.github.io/pae-animation/)
@@ -307,6 +308,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
+- Devtinator - [Github](https://github.com/Devtinator/Animated-Navigation) | [ViewLive](https://devtinator.github.io/Animated-Navigation/)
 - Russ Perry - [Github](https://github.com/rperry99/navigation-animation) | [ViewLive](https://rperry99.github.io/navigation-animation/)
 - Rick Hallett - [Github](https://github.com/rickhallett/crypto-io) (work in progress! Will be completed by 31/08/2020! [ViewLive](https://rickhallett.github.io/crypto-io-bundled/))
 - Hamza Khan - [Github](https://github.com/salderhamza/menu-navigation) [Live](https://salderahamza.github.io/menu-navigation/)
@@ -321,6 +323,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
+- Devtinator - [Github](https://github.com/Devtinator/Music-Player) | [ViewLive](https://devtinator.github.io/Music-Player/)
 - Russ Perry - [Github](https://github.com/rperry99/javascript-music-player)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/javascript20-projects)
 - Russ Perry - [Github](https://github.com/rperry99/javascript-music-player) | [ViewLive](https://rperry99.github.io/javascript-music-player/)
