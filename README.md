@@ -407,6 +407,7 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/nasa-api-pictures), [Viewlive](https://Carls13.github.io/20-javascript-projects/nasa-api-pictures)
 - Yifang Di - [Github](https://github.com/YvonneD/NASA-pictures), [Viewlive](https://yvonned.github.io/NASA-pictures/)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/NASA-APOD), [Viewlive](https://alaa140101.github.io/NASA-APOD/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-project-nasaPictureOftheDay), [Viewlive](https://jthinlay.github.io/javascript-project-nasaPictureOftheDay//)
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
