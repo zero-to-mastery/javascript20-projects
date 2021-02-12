@@ -224,7 +224,9 @@ Check out all of the submissions below! Well done everyone!
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Picture-In-Picture) | [ViewLive](https://krungleviciute.github.io/Picture-In-Picture/)
 - Simone Taeggi - [Github](https://github.com/simotae14/picture-in-picture-tae) | [ViewLive](https://simotae14.github.io/picture-in-picture-tae/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/picture-in-picture) | [View Live](https://youmorcant.github.io/picture-in-picture/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectPictureInPicture) | [View Live](https://jthinlay.github.io/JavaScriptProjectPictureInPicture/)
 - Yasir Shariff - [Github](https://github.com/itsyaasir/picture-in-picture)
+
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/JokeRobotApp) [view Live](https://gabrielhangor.github.io/JokeRobotApp/)
@@ -301,6 +303,7 @@ Check out all of the submissions below! Well done everyone!
 - Yifang Di - [Github](https://github.com/YvonneD/animated-template), [Viewlive](https://yvonned.github.io/animated-template/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Animated-Template) | [View Live](https://krungleviciute.github.io/Animated-Template/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/animated-template) | [View Live](https://youmorcant.github.io/animated-template/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProjectAnimatedTemplate) | [View Live](https://jthinlay.github.io/javascriptProjectAnimatedTemplate/)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
@@ -337,6 +340,7 @@ Check out all of the submissions below! Well done everyone!
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/music-player) | [View Live](https://krungleviciute.github.io/music-player/)
 - Cleon Barretto - [Github](https://github.com/cleonb/music-player.git) [Live](https://cleonb.github.io/music-player/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/music-player) | [View Live](https://youmorcant.github.io/music-player/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectMusicPlayer) | [View Live](https://jthinlay.github.io/JavaScriptProjectMusicPlayer/)
 
 - Keshav Naganathan - [View Code](/https://github.com/DevKesh/Music-Player)
   [Click here to see app](/https://the-music-player.netlify.app/)
@@ -356,7 +360,9 @@ Check out all of the submissions below! Well done everyone!
 - Yifang Di - [Github](https://github.com/YvonneD/custom-countdown), [Viewlive](https://yvonned.github.io/custom-countdown/)
 - Apurba Panja - [Github] (https://github.com/iapurba/custom-countdown), [View Live](https://iapurba.github.io/custom-countdown/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/custom-countdown) | [View Live](https://youmorcant.github.io/custom-countdown/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProjectCountdown) | [View Live](https://jthinlay.github.io/javascriptProjectCountdown/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/countdown) | [View Live](https://krungleviciute.github.io/countdown/)
+
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
@@ -366,7 +372,9 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/bookmark), [Viewlive](https://Carls13.github.io/20-javascript-projects/bookmark)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Book-Keeper), [Viewlive](https://alaa140101.github.io/Book-Keeper/)
 - Yifang Di - [Github](https://github.com/YvonneD/bookmark), [Viewlive](https://yvonned.github.io/bookmark/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectBookmarkApp) | [ViewLive](https://jthinlay.github.io/JavaScriptProjectBookmarkApp/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Bookmarks-Storage) | [View Live](https://krungleviciute.github.io/Bookmarks-Storage/)
+
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
@@ -378,7 +386,9 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/video-player), [Viewlive](https://Carls13.github.io/20-javascript-projects/video-player)
 - PuneetAsnani12 - [Github](https://github.com/PuneetAsnani12/custom-video-player/)
 - Yifang Di - [Github](https://github.com/YvonneD/video-player), [Viewlive](https://yvonned.github.io/video-player/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javaScript-Project-video), [Viewlive](https://jthinlay.github.io/javaScript-Project-video/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Video-Player) | [View Live](https://krungleviciute.github.io/Video-Player/)
+
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
@@ -401,6 +411,7 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/spock-rock-game), [Viewlive](https://Carls13.github.io/20-javascript-projects/spock-rock-game)
 - Yifang Di - [Github](https://github.com/YvonneD/spock-rock-game), [Viewlive](https://yvonned.github.io/spock-rock-game/)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Spock-Rock-Game), [Viewlive](https://alaa140101.github.io/Spock-Rock-Game/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProject-rockPaperScissorsGame), [Viewlive](https://jthinlay.github.io/javascriptProject-rockPaperScissorsGame/)
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
@@ -409,6 +420,7 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/nasa-api-pictures), [Viewlive](https://Carls13.github.io/20-javascript-projects/nasa-api-pictures)
 - Yifang Di - [Github](https://github.com/YvonneD/NASA-pictures), [Viewlive](https://yvonned.github.io/NASA-pictures/)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/NASA-APOD), [Viewlive](https://alaa140101.github.io/NASA-APOD/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-project-nasaPictureOftheDay), [Viewlive](https://jthinlay.github.io/javascript-project-nasaPictureOftheDay//)
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
