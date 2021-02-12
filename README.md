@@ -335,6 +335,8 @@ Check out all of the submissions below! Well done everyone!
 
 - Keshav Naganathan - [View Code](/https://github.com/DevKesh/Music-Player)
   [Click here to see app](/https://the-music-player.netlify.app/)
+  
+ - Palak Jain - [Github](https://github.com/Palak-coder626) , [View Live](https://palak-coder626.github.io/Music-Player/)
 
 - Keshav Naganathan - [View Code](https://github.com/DevKesh/Music-Player)
 
