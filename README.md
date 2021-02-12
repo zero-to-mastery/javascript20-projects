@@ -308,8 +308,7 @@ Check out all of the submissions below! Well done everyone!
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Animated-Navigation) | [View Live](https://krungleviciute.github.io/Animated-Navigation/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/animation-navigation) | [View Live](https://youmorcant.github.io/animation-navigation/)
 
-### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
-
+### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player
 
 - Russ Perry - [Github](https://github.com/rperry99/javascript-music-player)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/javascript20-projects)
@@ -333,6 +332,10 @@ Check out all of the submissions below! Well done everyone!
 
 - Keshav Naganathan - [View Code](/https://github.com/DevKesh/Music-Player)
   [Click here to see app](/https://the-music-player.netlify.app/)
+
+- Keshav Naganathan - [View Code](https://github.com/DevKesh/Music-Player)
+
+                    - [Click here](https://the-music-player.netlify.app/) for     live app
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
