@@ -469,6 +469,8 @@ Check out all of the submissions below! Well done everyone!
 - Yifang Di - [Github](https://github.com/YvonneD/calculator), [Viewlive](https://yvonned.github.io/calculator/)
 - Cindy McReynolds - [Github](https://github.com/Cindy452/Calculator), [Viewlive](https://cindy452.github.io/Calculator/)
 
+- bintouski - [Github](https://github.com/bintou123-ski/Calculator), [Viewlive](https:/bintou123-ski.github.io/Calculator)
+
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
 - Anette [Github](https://github.com/RedSquirrrel/splash-page) [ViewLive](https://redsquirrrel.github.io/splash-page/)
@@ -476,3 +478,5 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/splash-page), [Viewlive](https://Carls13.github.io/20-javascript-projects/splash-page)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Splash-Page), [Viewlive](https://alaa140101.github.io/Splash-Page/)
 - Yifang Di - [Github](https://github.com/YvonneD/splash-page), [Viewlive](https://yvonned.github.io/splash-page/)
+
+- 
