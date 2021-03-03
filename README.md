@@ -144,6 +144,7 @@ Check out all of the submissions below! Well done everyone!
 - Colombo RIccardo - [Github](https://github.com/ColomboRiccardo/quote-generator) | [View Live](https://colomboriccardo.github.io/quote-generator/)
 - Miracoy- [Github](https://github.com/miracoly/ztm-jwp-quote-generator) | [View Live](https://miracoly.github.io/ztm-jwp-quote-generator/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/quote-generator) | [View Live](https://ariellinfy.github.io/quote-generator/)
+- Julie Dumbrique - [Github](https://isjules.github.io/quotegenerator/) | [View Live](https://isjules.github.io/quotegenerator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
