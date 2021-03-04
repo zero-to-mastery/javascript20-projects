@@ -197,6 +197,8 @@ Check out all of the submissions below! Well done everyone!
 - Brandon Galloway - [Github](https://github.com/thingetoo/almost-unlimited-pictures) | [View Live](https://thingetoo.github.io/almost-unlimited-pictures/)
 - Bhairavi Shah - [Github](https://github.com/Bhairavi-shah/Infinite-Scroll) | [View Live](https://bhairavi-shah.github.io/Infinite-Scroll/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/infinite-scroll) | [View Live](https://ariellinfy.github.io/infinite-scroll/)
+- Julie Dumbrique - [Github](https://github.com/isjules/infinite-scroll.git) | [View Live](https://isjules.github.io/infinite-scroll/)
+
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
