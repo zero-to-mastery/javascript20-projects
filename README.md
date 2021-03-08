@@ -237,7 +237,7 @@ Check out all of the submissions below! Well done everyone!
 - Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectPictureInPicture) | [View Live](https://jthinlay.github.io/JavaScriptProjectPictureInPicture/)
 - Yasir Shariff - [Github](https://github.com/itsyaasir/picture-in-picture)
 - Ariel Lin - [Github](https://github.com/ariellinfy/picture-in-picture) | [View Live](https://ariellinfy.github.io/picture-in-picture/)
-- Julie Dumbrique - [Github](https://github.com/isjules/picture-in-picture.git) | [View Live](isjules.github.io/picture-in-picture/)
+- Julie Dumbrique - [Github](https://github.com/isjules/picture-in-picture.git) | [View Live](https://isjules.github.io/picture-in-picture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
@@ -273,7 +273,7 @@ Check out all of the submissions below! Well done everyone!
 - Simone Taeggi - [Github](https://github.com/simotae14/joke-teller-tae) | [ViewLive](https://simotae14.github.io/joke-teller-tae/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/joke-teller) | [View Live](https://youmorcant.github.io/joke-teller/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/joke-teller) | [View Live](https://ariellinfy.github.io/joke-teller/)
-- Julie Dumbrique - [Github](https://github.com/isjules/joke-teller.git) | [View Live](iisjules.github.io/joke-teller/)
+- Julie Dumbrique - [Github](https://github.com/isjules/joke-teller.git) | [View Live](https://isjules.github.io/joke-teller/)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
@@ -300,6 +300,7 @@ Check out all of the submissions below! Well done everyone!
 - Sam Morgan - [Github](https://github.com/YouMorCant/light-dark-mode) | [View Live](https://youmorcant.github.io/light-dark-mode/)
 - Lingxiao Huang - [Github](https://github.com/JasonHuang1213/Dark-light-mode) | [View Live](https://jasonhuang1213.github.io/Dark-light-mode/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/light-dark-mode) | [View Live](https://ariellinfy.github.io/light-dark-mode/)
+- Julie Dumbrique - [Github](https://github.com/isjules/light-dark-mode.git) | [View Live](https://isjules.github.io/light-dark-mode/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
