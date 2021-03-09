@@ -322,6 +322,7 @@ Check out all of the submissions below! Well done everyone!
 - Sam Morgan - [Github](https://github.com/YouMorCant/animated-template) | [View Live](https://youmorcant.github.io/animated-template/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProjectAnimatedTemplate) | [View Live](https://jthinlay.github.io/javascriptProjectAnimatedTemplate/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/animated-template) | [View Live](https://ariellinfy.github.io/animated-template/)
+- Julie Dumbrique - [Github](https://github.com/isjules/animated-template.git) | [View Live](https://isjules.github.io/animated-template/)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
