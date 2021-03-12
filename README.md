@@ -464,6 +464,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
+- Khalil Shakhi (Farsi) - [Github](https://github.com/shakhi95/kanban-board) | [Demo](https://shakhi95.github.io/kanban-board/)
 - Marius Bogdanel - [Github](https://github.com/mbogdanel/kanban-board) [ViewLive](https://mbogdanel.github.io/kanban-board/)
 - Anette [Github](https://github.com/RedSquirrrel/kanban-board) [ViewLive](https://redsquirrrel.github.io/kanban-board/)
 - Grassper - [Github](https://github.com/Grassper/organizer) [ViewLive](https://grassper.github.io/organizer/)
