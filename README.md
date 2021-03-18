@@ -397,6 +397,7 @@ Check out all of the submissions below! Well done everyone!
 - Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectBookmarkApp) | [ViewLive](https://jthinlay.github.io/JavaScriptProjectBookmarkApp/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Bookmarks-Storage) | [View Live](https://krungleviciute.github.io/Bookmarks-Storage/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/book-keeper) | [View Live](https://ariellinfy.github.io/book-keeper/)
+- Julie Dumbrique - [Github](https://github.com/isjules/bookmark-app.git) | [View Live](https://isjules.github.io/bookmark-app/)
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
