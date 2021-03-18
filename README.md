@@ -412,6 +412,7 @@ Check out all of the submissions below! Well done everyone!
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javaScript-Project-video), [Viewlive](https://jthinlay.github.io/javaScript-Project-video/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Video-Player) | [View Live](https://krungleviciute.github.io/Video-Player/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/video-player) | [View Live](https://ariellinfy.github.io/video-player/)
+- Julie Dumbrique - [Github](https://github.com/isjules/custom-video-player.git) | [View Live](https://isjules.github.io/custom-video-player/)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
