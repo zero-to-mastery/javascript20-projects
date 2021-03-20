@@ -428,6 +428,7 @@ Check out all of the submissions below! Well done everyone!
 - Cleon Barretto - [Github](https://github.com/cleonb/form-validator.git) [Live](https://cleonb.github.io/form-validator/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Form-validator) | [View Live](https://krungleviciute.github.io/Form-validator/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/form-validator) | [View Live](https://ariellinfy.github.io/form-validator/)
+- Julie Dumbrique - [Github](https://github.com/isjules/form-validation.git) | [View Live](https://isjules.github.io/form-validation/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
