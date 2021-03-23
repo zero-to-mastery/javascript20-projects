@@ -439,7 +439,7 @@ Check out all of the submissions below! Well done everyone!
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Spock-Rock-Game), [Viewlive](https://alaa140101.github.io/Spock-Rock-Game/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProject-rockPaperScissorsGame), [Viewlive](https://jthinlay.github.io/javascriptProject-rockPaperScissorsGame/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/spock-rock-game) | [View Live](https://ariellinfy.github.io/spock-rock-game/)
-- Julie Dumbrique - [Github](https://github.com/isjules/spock-rock-game.git) | [View Live](https://isjules.github.io/spock-rock-game/)
+- Julie Dumbrique - [Github](https://github.com/isjules/rock-spock.git) | [View Live](https://isjules.github.io/rock-spock/)
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
