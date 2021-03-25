@@ -476,6 +476,7 @@ Check out all of the submissions below! Well done everyone!
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Math-Sprint-Game), [Viewlive](https://alaa140101.github.io/Math-Sprint-Game/)
 - Yifang Di - [Github](https://github.com/YvonneD/math-sprint-game), [Viewlive](https://yvonned.github.io/math-sprint-game/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/math-sprint-game) | [View Live](https://ariellinfy.github.io/math-sprint-game/)
+- Julie Dumbrique - [Github](https://github.com/isjules/math-sprint-game.git) | [View Live](https://isjules.github.io/math-sprint-game/)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
