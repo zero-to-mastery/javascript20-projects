@@ -506,6 +506,7 @@ Check out all of the submissions below! Well done everyone!
 - Cindy McReynolds - [Github](https://github.com/Cindy452/Calculator), [Viewlive](https://cindy452.github.io/Calculator/)
 - bintouski - [Github](https://github.com/bintou123-ski/Calculator), [Viewlive](https:/bintou123-ski.github.io/Calculator)
 - Ariel Lin - [Github](https://github.com/ariellinfy/calculator) | [View Live](https://ariellinfy.github.io/calculator/)
+- Julie Dumbrique - [Github](https://github.com/isjules/calculator.git) | [View Live](https://isjules.github.io/calculator/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
