@@ -516,3 +516,4 @@ Check out all of the submissions below! Well done everyone!
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Splash-Page), [Viewlive](https://alaa140101.github.io/Splash-Page/)
 - Yifang Di - [Github](https://github.com/YvonneD/splash-page), [Viewlive](https://yvonned.github.io/splash-page/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/splash-page) | [View Live](https://ariellinfy.github.io/splash-page/)
+- Julie Dumbrique - [Github](https://github.com/isjules/splash-page.git) | [View Live](https://isjules.github.io/splash-page/)
