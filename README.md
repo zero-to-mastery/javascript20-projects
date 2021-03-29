@@ -459,6 +459,7 @@ Check out all of the submissions below! Well done everyone!
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/paint-clone), [Viewlive](https://Carls13.github.io/20-javascript-projects/paint-clone)
 - Yifang Di - [Github](https://github.com/YvonneD/paint-clone) [ViewLive](https://yvonned.github.io/paint-clone/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/paint-clone) | [View Live](https://ariellinfy.github.io/paint-clone/)
+- Julie Dumbrique - [Github](https://github.com/isjules/paint-clone.git) | [View Live](https://isjules.github.io/paint-clone/)
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
