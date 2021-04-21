@@ -237,6 +237,7 @@ Check out all of the submissions below! Well done everyone!
 - Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectPictureInPicture) | [View Live](https://jthinlay.github.io/JavaScriptProjectPictureInPicture/)
 - Yasir Shariff - [Github](https://github.com/itsyaasir/picture-in-picture)
 - Ariel Lin - [Github](https://github.com/ariellinfy/picture-in-picture) | [View Live](https://ariellinfy.github.io/picture-in-picture/)
+- Alberto Gonzalez - [Github](https://github.com/ajsaenz1091/picture-in-picture) | [view Live](https://ajsaenz1091.github.io/picture-in-picture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
