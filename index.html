@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+
+    <link rel="stylesheet" href="styles.css">
+    <title>Quote Generator</title>
+</head>
+<body>
+    <header>
+        <div>Quote Generator</div>
+    </header>
+    <div class="quote-container" id="quote-container">
+
+        <!-- quote -->
+        <div class="quote-text">
+            <i class="fas fa-quote-left"></i>
+            <span id="quote">
+            </span>
+            <!--                 What you are is what you have been. What you'll be is what you do now.
+ -->
+            <i class="fas fa-quote-right"></i>
+
+        </div>
+
+        <!-- author -->
+        <div class="quote-author">
+            <span id="author"></span>
+        </div>
+
+        <!-- buttons -->
+        <div class="button-container">
+            <button class="twitter-button" id="twitter" title="Tweet this!">
+                <i class="fab fa-twitter"></i>
+            </button>
+            <button id="new-quote">New Quote</button>
+        </div>
+
+    </div>
+
+    <!-- loader -->
+    <div class="loader" id='loader'></div>
+
+    <script src='localQuotes.js'></script>
+    <script src="script.js"></script>
+</body>
+</html>
