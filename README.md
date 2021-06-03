@@ -476,6 +476,7 @@ Check out all of the submissions below! Well done everyone!
 - Yifang Di - [Github](https://github.com/YvonneD/drag-and-drop-board) [ViewLive](https://yvonned.github.io/drag-and-drop-board/)
 - Cindy McReynolds - [Github](https://github.com/Cindy452/Kanban-Board) [ViewLive](https://cindy452.github.io/Kanban-Board/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/drag-and-drop) | [View Live](https://ariellinfy.github.io/drag-and-drop/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/JavascriptProjectDragAndDrop) | [View Live](https://jthinlay.github.io/JavascriptProjectDragAndDrop/)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
