@@ -156,6 +156,7 @@ Check out all of the submissions below! Well done everyone!
 - Ido Barnea - [Github](https://github.com/barbareshet/quoteGeneretor) | [View Live](https://barbareshet.github.io/quoteGeneretor/)
 - Colombo RIccardo - [Github](https://github.com/ColomboRiccardo/quote-generator) | [View Live](https://colomboriccardo.github.io/quote-generator/)
 - Miracoy- [Github](https://github.com/miracoly/ztm-jwp-quote-generator) | [View Live](https://miracoly.github.io/ztm-jwp-quote-generator/)
+- David Gasch - [Github](https://github.com/dgasch512/quoteInspire) | [View Live](https://dgasch512.github.io/quoteInspire/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/quote-generator) | [View Live](https://ariellinfy.github.io/quote-generator/)
 - Julie Dumbrique - [Github](https://github.com/isjules/quotegenerator.git) | [View Live](https://isjules.github.io/quotegenerator/)
 - Elder Pinto - [Github](https://elderpintto.github.io/quote-generator/) | [View Live](https://elderpintto.github.io/quote-generator/)
@@ -272,6 +273,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/picture-in-picture.git) | [View Live](https://isjules.github.io/picture-in-picture/)
 - Alberto Gonzalez - [Github](https://github.com/ajsaenz1091/picture-in-picture) | [view Live](https://ajsaenz1091.github.io/picture-in-picture/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+
 
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
