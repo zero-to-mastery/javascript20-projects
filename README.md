@@ -158,6 +158,7 @@ Check out all of the submissions below! Well done everyone!
 - Miracoy- [Github](https://github.com/miracoly/ztm-jwp-quote-generator) | [View Live](https://miracoly.github.io/ztm-jwp-quote-generator/)
 - David Gasch - [Github](https://github.com/dgasch512/quoteInspire) | [View Live](https://dgasch512.github.io/quoteInspire/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/quote-generator) | [View Live](https://ariellinfy.github.io/quote-generator/)
+- Charles Loges IV - [Github](https://github.com/cloges4/Quote-Generator) | [View Live](https://cl4-quotegen.netlify.app/)
 - Julie Dumbrique - [Github](https://github.com/isjules/quotegenerator.git) | [View Live](https://isjules.github.io/quotegenerator/)
 - Elder Pinto - [Github](https://elderpintto.github.io/quote-generator/) | [View Live](https://elderpintto.github.io/quote-generator/)
 - Thomas Sprotte - [Github](https://github.com/JustTom77/ChuckNorris-Joke-Generator) | [View Live](https://justtom77.github.io/ChuckNorris-Joke-Generator/)
