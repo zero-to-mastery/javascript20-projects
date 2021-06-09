@@ -362,6 +362,7 @@ Check out all of the submissions below! Well done everyone!
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Animated-Navigation) | [View Live](https://krungleviciute.github.io/Animated-Navigation/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/animation-navigation) | [View Live](https://youmorcant.github.io/animation-navigation/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/animated-navigation) | [View Live](https://ariellinfy.github.io/animated-navigation/)
+- Mahendra - [Github](https://github.com/hendrasob/Animated-Navigation) | [View Live](https://hendrasob.github.io/Animated-Navigation/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
