@@ -29,6 +29,7 @@ Check out all of the submissions below! Well done everyone!
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/quote-generator) [View Live](https://mister-josuecedeno.github.io/quote-generator/)
 - Gabriel Costa - [Github](https://github.com/Garccosta/quote-generator) [ViewLive](https://garccosta.github.io/quote-generator/)
 - Cassio Groh - [Github](https://github.com/cassiogroh/Quote-Generator)
+- Shivam Dhyani - [Github](https://github.com/Shivam-Dhyani/Quote-Genetator) | [Live Demo](https://shivam-dhyani.github.io/Quote-Genetator/)
 - Daniel Narh Kpodo - [Github](https://github.com/danielkpodo/random-quote-generator) [ViewLive](https://danielkpodo.github.io/random-quote-generator/)
 - Teri Eyenike - [Github](https://github.com/Terieyenike/quotegenerator)
 - Russ Perry - [Github](https://github.com/rperry99/quote-generator) | [ViewLive](https://rperry99.github.io/quote-generator/)
@@ -147,6 +148,9 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/quote-generator) | [View Live](https://ariellinfy.github.io/quote-generator/)
 - Thomas Sprotte - [Github](https://github.com/JustTom77/ChuckNorris-Joke-Generator) | [View Live](https://justtom77.github.io/ChuckNorris-Joke-Generator/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Hau Vu - [Github](https://github.com/hauvudev/quote-generator)
+- KingDavid [Github](https://github.com/ronalking182)
+  [View live](https://github.com/ronalking182/Quote-Generator)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -201,6 +205,7 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/infinite-scroll) | [View Live](https://ariellinfy.github.io/infinite-scroll/)
 - Elder Pinto - [Github](https://github.com/ElderPintto/infinite-scroll) | [View Live](https://elderpintto.github.io/infinite-scroll/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
