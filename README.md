@@ -147,6 +147,7 @@ Check out all of the submissions below! Well done everyone!
 - Miracoy- [Github](https://github.com/miracoly/ztm-jwp-quote-generator) | [View Live](https://miracoly.github.io/ztm-jwp-quote-generator/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/quote-generator) | [View Live](https://ariellinfy.github.io/quote-generator/)
 - Thomas Sprotte - [Github](https://github.com/JustTom77/ChuckNorris-Joke-Generator) | [View Live](https://justtom77.github.io/ChuckNorris-Joke-Generator/)
+- Tiamiyu Sikiru Abidemi - [Github](https://github.com/AbidemiT/quote-generator) | [View Live](https://abidemiquotegenerator.netlify.app/)
 - Siyovush Kadyrov - [Github](https://github.com/SYOM29/quote-generator) | [Live Demo](https://syom29.github.io/quote-generator/)
 - Anthony Keel - [Github](https://github.com/Anthony-Keel) |[view Live](https://anthony-keel.github.io/QuoteGenerator/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
