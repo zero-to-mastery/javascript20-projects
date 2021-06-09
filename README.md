@@ -529,4 +529,6 @@ Check out all of the submissions below! Well done everyone!
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Splash-Page), [Viewlive](https://alaa140101.github.io/Splash-Page/)
 - Yifang Di - [Github](https://github.com/YvonneD/splash-page), [Viewlive](https://yvonned.github.io/splash-page/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/splash-page) | [View Live](https://ariellinfy.github.io/splash-page/)
+- Tobias Rauer - [Github](https://github.com/prototowb/habitual-splash-page) | [View Live](https://prototowb.github.io/habitual-splash-page/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+
