@@ -10,7 +10,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Contents
 
-[Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-scroll---original-github) | [Picture in Picture](#picture-in-picture---original-github) | [Joke Teller](#joke-teller---original-github) | [Light/Dark Mode](#light-dark-mode---original-github) | [Animated Template](#animated-template---original-github) | [Navigation Nation](#navigation-nation---original-github) | [Music Player](#music-player---original-github) | [Custom Countdown](#custom-countdown---original-github) | [Book Keeper](#book-keeper---original-github) | [Video Player](#video-player---original-github) | [Form Validator](#form-validator---original-github) | [Rock Spock](#rock-spock---original-github) | [NASA APOD](#nasa-apod---original-github) | [Paint Clone](#paint-clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#math-sprint-game---original-github) | [Drag and Drop](#drag-and-drop---original-github) | [Calculator](#calculator---original-github) | [Splash Page](#splash-page---original-github) | [Todo List](#todo-list---original-github)
+[Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-scroll---original-github) | [Picture in Picture](#picture-in-picture---original-github) | [Joke Teller](#joke-teller---original-github) | [Light/Dark Mode](#light-dark-mode---original-github) | [Animated Template](#animated-template---original-github) | [Navigation Nation](#navigation-nation---original-github) | [Music Player](#music-player---original-github) | [Custom Countdown](#custom-countdown---original-github) | [Book Keeper](#book-keeper---original-github) | [Video Player](#video-player---original-github) | [Form Validator](#form-validator---original-github) | [Rock Spock](#rock-spock---original-github) | [NASA APOD](#nasa-apod---original-github) | [Paint Clone](#paint-clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#math-sprint-game---original-github) | [Drag and Drop](#drag-and-drop---original-github) | [Calculator](#calculator---original-github) | [Splash Page](#splash-page---original-github) | [Pig Game](#pig-game---original-github)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
@@ -522,7 +522,7 @@ Check out all of the submissions below! Well done everyone!
 - @stanimal93 - [GitHub](https://github.com/stanimal93/bubbly-calculator)
 - Anette [Github](https://github.com/RedSquirrrel/calculator) [ViewLive](https://redsquirrrel.github.io/calculator/)
 - Russ Perry - [Github](https://github.com/rperry99/calculator) | [ViewLive](https://rperry99.github.io/calculator/)
-- Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/calculator), [Viewlive](https://Carls13.github.io/20-javascript-projects/calculator)
+- Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/calculator), [Viewlive](https://Carls13.github.io/20-javascript-projects/calculator)s
 - Cleon B -[Github](https://github.com/cleonb/calculator.git) [Live](https://cleonb.github.io/calculator/)
 - Alaa Balbaid -[Github](https://github.com/alaa140101/Calculator) [Live](https://alaa140101.github.io/Calculator/)
 - Constantin U -[Github](https://github.com/conuko/Calculator) [Live](https://conuko.github.io/Calculator/)
@@ -542,8 +542,12 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/splash-page) | [View Live](https://ariellinfy.github.io/splash-page/)
 
 
+### Pig Game - Original: [Github](https://github.com/DeepakRawat24/pig-game)
+- DeepakRawat24 - [Github](https://github.com/DeepakRawat24/pig-game) | [View Live](https://pig-game-rho.vercel.app/)
+
 ### Todo List - Original: [Github](https://github.com/JacintoDesign/todo-list)
 
 - Ayman A. [Github](https://github.com/aymanxdev/shopping-list-ejs)
 - Tobias Rauer - [Github](https://github.com/prototowb/habitual-splash-page) | [View Live](https://prototowb.github.io/habitual-splash-page/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+
