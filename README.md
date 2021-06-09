@@ -452,6 +452,7 @@ Check out all of the submissions below! Well done everyone!
 - Cleon Barretto - [Github](https://github.com/cleonb/form-validator.git) [Live](https://cleonb.github.io/form-validator/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Form-validator) | [View Live](https://krungleviciute.github.io/Form-validator/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/form-validator) | [View Live](https://ariellinfy.github.io/form-validator/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptFormValidation) | [View Live](https://jthinlay.github.io/JavaScriptFormValidation/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
@@ -502,6 +503,7 @@ Check out all of the submissions below! Well done everyone!
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Math-Sprint-Game), [Viewlive](https://alaa140101.github.io/Math-Sprint-Game/)
 - Yifang Di - [Github](https://github.com/YvonneD/math-sprint-game), [Viewlive](https://yvonned.github.io/math-sprint-game/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/math-sprint-game) | [View Live](https://ariellinfy.github.io/math-sprint-game/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-project-mathSprintGame) | [View Live](https://jthinlay.github.io/javascript-project-mathSprintGame/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
@@ -517,7 +519,9 @@ Check out all of the submissions below! Well done everyone!
 - Yifang Di - [Github](https://github.com/YvonneD/drag-and-drop-board) [ViewLive](https://yvonned.github.io/drag-and-drop-board/)
 - Cindy McReynolds - [Github](https://github.com/Cindy452/Kanban-Board) [ViewLive](https://cindy452.github.io/Kanban-Board/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/drag-and-drop) | [View Live](https://ariellinfy.github.io/drag-and-drop/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/JavascriptProjectDragAndDrop) | [View Live](https://jthinlay.github.io/JavascriptProjectDragAndDrop/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
