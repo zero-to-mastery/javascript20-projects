@@ -438,6 +438,7 @@ Check out all of the submissions below! Well done everyone!
 - Sam Morgan - [Github](https://github.com/YouMorCant/custom-countdown) | [View Live](https://youmorcant.github.io/custom-countdown/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProjectCountdown) | [View Live](https://jthinlay.github.io/javascriptProjectCountdown/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/countdown) | [View Live](https://krungleviciute.github.io/countdown/)
+- Sherry Liao - [Github](https://github.com/sherryliao21/custom-countdown-frontend-only) | [View Live](https://sherryliao21.github.io/custom-countdown-frontend-only/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/custom-countdown) | [View Live](https://ariellinfy.github.io/custom-countdown/)
 - Julie Dumbrique - [Github](https://github.com/isjules/custom-countdown.git) | [View Live](https://isjules.github.io/custom-countdown/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
