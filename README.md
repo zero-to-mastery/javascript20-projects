@@ -13,6 +13,7 @@ Check out all of the submissions below! Well done everyone!
 [Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-scroll---original-github) | [Picture in Picture](#picture-in-picture---original-github) | [Joke Teller](#joke-teller---original-github) | [Light/Dark Mode](#light-dark-mode---original-github) | [Animated Template](#animated-template---original-github) | [Navigation Nation](#navigation-nation---original-github) | [Music Player](#music-player---original-github) | [Custom Countdown](#custom-countdown---original-github) | [Book Keeper](#book-keeper---original-github) | [Video Player](#video-player---original-github) | [Form Validator](#form-validator---original-github) | [Rock Spock](#rock-spock---original-github) | [NASA APOD](#nasa-apod---original-github) | [Paint Clone](#paint-clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#math-sprint-game---original-github) | [Drag and Drop](#drag-and-drop---original-github) | [Calculator](#calculator---original-github) | [Splash Page](#splash-page---original-github)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+
 - Julian Sosa - [Github](https://github.com/hijuliancode/js-20-projects/tree/main/01-quote-generator) | [Live Demo](https://hijuliancode.github.io/js-20-projects/01-quote-generator/index.html)
 - Kevin Choi - [Github](https://kevinyc-dri.github.io/template-test/)
 - KasibhatlaMidhun - [Github](https://github.com/KasibhatlaMidhun/quotegenerator) [view Live](https://kasibhatlamidhun.github.io/quotegenerator/)
@@ -28,6 +29,7 @@ Check out all of the submissions below! Well done everyone!
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/quote-generator) [View Live](https://mister-josuecedeno.github.io/quote-generator/)
 - Gabriel Costa - [Github](https://github.com/Garccosta/quote-generator) [ViewLive](https://garccosta.github.io/quote-generator/)
 - Cassio Groh - [Github](https://github.com/cassiogroh/Quote-Generator)
+- Shivam Dhyani - [Github](https://github.com/Shivam-Dhyani/Quote-Genetator) | [Live Demo](https://shivam-dhyani.github.io/Quote-Genetator/)
 - Daniel Narh Kpodo - [Github](https://github.com/danielkpodo/random-quote-generator) [ViewLive](https://danielkpodo.github.io/random-quote-generator/)
 - Teri Eyenike - [Github](https://github.com/Terieyenike/quotegenerator)
 - Russ Perry - [Github](https://github.com/rperry99/quote-generator) | [ViewLive](https://rperry99.github.io/quote-generator/)
@@ -146,6 +148,10 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/quote-generator) | [View Live](https://ariellinfy.github.io/quote-generator/)
 - Thomas Sprotte - [Github](https://github.com/JustTom77/ChuckNorris-Joke-Generator) | [View Live](https://justtom77.github.io/ChuckNorris-Joke-Generator/)
 - Hau Vu - [Github](https://github.com/hauvudev/quote-generator)
+- KingDavid [Github](https://github.com/ronalking182)
+  [View live](https://github.com/ronalking182/Quote-Generator)
+
+
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/InfiniteCats) [view Live](https://gabrielhangor.github.io/InfiniteCats/)
@@ -198,7 +204,6 @@ Check out all of the submissions below! Well done everyone!
 - Bhairavi Shah - [Github](https://github.com/Bhairavi-shah/Infinite-Scroll) | [View Live](https://bhairavi-shah.github.io/Infinite-Scroll/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/infinite-scroll) | [View Live](https://ariellinfy.github.io/infinite-scroll/)
 - Elder Pinto - [Github](https://github.com/ElderPintto/infinite-scroll) | [View Live](https://elderpintto.github.io/infinite-scroll/)
-
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
