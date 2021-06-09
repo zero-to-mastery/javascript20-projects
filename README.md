@@ -146,6 +146,7 @@ Check out all of the submissions below! Well done everyone!
 - Colombo RIccardo - [Github](https://github.com/ColomboRiccardo/quote-generator) | [View Live](https://colomboriccardo.github.io/quote-generator/)
 - Miracoy- [Github](https://github.com/miracoly/ztm-jwp-quote-generator) | [View Live](https://miracoly.github.io/ztm-jwp-quote-generator/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/quote-generator) | [View Live](https://ariellinfy.github.io/quote-generator/)
+- Elder Pinto - [Github](https://elderpintto.github.io/quote-generator/) | [View Live](https://elderpintto.github.io/quote-generator/)
 - Thomas Sprotte - [Github](https://github.com/JustTom77/ChuckNorris-Joke-Generator) | [View Live](https://justtom77.github.io/ChuckNorris-Joke-Generator/)
 - Alberto Gonzalez - [Github](https://github.com/ajsaenz1091/quote-generator) | [view Live](https://ajsaenz1091.github.io/quote-generator/)
 - Tiamiyu Sikiru Abidemi - [Github](https://github.com/AbidemiT/quote-generator) | [View Live](https://abidemiquotegenerator.netlify.app/)
@@ -155,6 +156,7 @@ Check out all of the submissions below! Well done everyone!
 - Hau Vu - [Github](https://github.com/hauvudev/quote-generator)
 - KingDavid [Github](https://github.com/ronalking182)
   [View live](https://github.com/ronalking182/Quote-Generator)
+
 
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
