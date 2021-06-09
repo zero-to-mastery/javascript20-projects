@@ -23,6 +23,7 @@ Check out all of the submissions below! Well done everyone!
 - Vimarsh Thapa - [Github](https://github.com/VimarshThapa/quotes-generator) [view Live](https://vimarshthapa.github.io/quotes-generator/)
 - Naim Uddin - [Github](https://github.com/Naim365/quote-generator) [view Live](https://naim365.github.io/quote-generator/)
 - Siddhant - [Github](https://github.com/lannisterrr/QuotesWithFav) [View Live](https://lannisterrr.github.io/QuotesWithFav/)
+- Akil Mahmod Tipu - [Github](https://github.com/akiltipu/quotes-generator) | [Live Demo](https://akiltipu.github.io/quotes-generator/)
 - Wesley Campbell - [Github](https://github.com/WPBC/quote-generator) [View Live](https://wpbc.github.io/quote-generator/)
 - Olena Ageyeva - [Github](https://github.com/olena-ageyeva/quote-generator) [Live](https://olena-ageyeva.github.io/quote-generator/)
 - Arpit Alne - [Github](https://github.com/arpit-alne/Quotes-Generator.git)
