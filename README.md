@@ -13,8 +13,9 @@ Check out all of the submissions below! Well done everyone!
 [Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-scroll---original-github) | [Picture in Picture](#picture-in-picture---original-github) | [Joke Teller](#joke-teller---original-github) | [Light/Dark Mode](#light-dark-mode---original-github) | [Animated Template](#animated-template---original-github) | [Navigation Nation](#navigation-nation---original-github) | [Music Player](#music-player---original-github) | [Custom Countdown](#custom-countdown---original-github) | [Book Keeper](#book-keeper---original-github) | [Video Player](#video-player---original-github) | [Form Validator](#form-validator---original-github) | [Rock Spock](#rock-spock---original-github) | [NASA APOD](#nasa-apod---original-github) | [Paint Clone](#paint-clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#math-sprint-game---original-github) | [Drag and Drop](#drag-and-drop---original-github) | [Calculator](#calculator---original-github) | [Splash Page](#splash-page---original-github) | [Pig Game](#pig-game---original-github)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+
 - Paco Alvarez - [Github](https://github.com/pacoalvarez1/01.-Quote-Generator) | [View Live](https://pacoalvarez1.github.io/01.-Quote-Generator/)
--Devtinator - [Github](https://github.com/Devtinator/Random-Quote-Generator) | [View Live](https://devtinator.github.io/Random-Quote-Generator)
+  -Devtinator - [Github](https://github.com/Devtinator/Random-Quote-Generator) | [View Live](https://devtinator.github.io/Random-Quote-Generator)
 - Gonca Negis - [Github](https://github.com/celeis/random-quote-generator) | [Live Demo](https://celeis.github.io/random-quote-generator/)
 - Mohammed-Aymen Benadra - [Github](https://github.com/aymenBenadra/modern-quote-generator) | [Live Demo](https://benadra.me/modern-quote-generator)
 - Stephen Anokwulu - [Github](https://github.com/Stephenanokz/Quote-Generator) [Live Demo](https://stephenanokz.github.io/Quote-Generator/)
@@ -150,9 +151,10 @@ Check out all of the submissions below! Well done everyone!
 - Hasan Patel - [Github](https://github.com/TheSeer507) | [View Live](https://theseer507.github.io/Quote-Generator/)
 - Lu Jin - [Github](https://github.com/jinlulu/quotes-generator) | [View Live](http://jinlulus.com/quotes-generator/)
 - Andrew Talle - [Github](https://github.com/ogAndrew/quote-generator) | [View Live](https://ogandrew.github.io/quote-generator/)
-
+- Janell Huyck - [Github](https://github.com/Janell-Huyck/quote-generator) | [View Live](https://janell-huyck.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
+
 - Devtinator - [Github](https://github.com/Devtinator/Infinity-Scroll) | [View Live](https://devtinator.github.io/Infinity-Scroll/)
 - Ido Barnea - [Github](https://github.com/barbareshet/quoteGeneretor) | [View Live](https://barbareshet.github.io/quoteGeneretor/)
 - Colombo RIccardo - [Github](https://github.com/ColomboRiccardo/quote-generator) | [View Live](https://colomboriccardo.github.io/quote-generator/)
@@ -169,9 +171,7 @@ Check out all of the submissions below! Well done everyone!
 - Anthony Keel - [Github](https://github.com/Anthony-Keel) |[view Live](https://anthony-keel.github.io/QuoteGenerator/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Hau Vu - [Github](https://github.com/hauvudev/quote-generator)
-- KingDavid [Github](https://github.com/ronalking182)
-  [View live](https://github.com/ronalking182/Quote-Generator)
-
+- KingDavid [Github](https://github.com/ronalking182) | [View live](https://github.com/ronalking182/Quote-Generator)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -230,7 +230,7 @@ Check out all of the submissions below! Well done everyone!
 - Thomas Sprotte [Github](https://github.com/JustTom77/InfiniteScroll-Images) | [View Live](https://justtom77.github.io/InfiniteScroll-Images/)
 - Elder Pinto - [Github](https://github.com/ElderPintto/infinite-scroll) | [View Live](https://elderpintto.github.io/infinite-scroll/)
 - Alberto Gonzalez - [Github](https://github.com/ajsaenz1091/infinite-scroll) | [view Live](https://ajsaenz1091.github.io/infinite-scroll/)
--Anthony Keel -[Github](https://github.com/Anthony-Keel/Infinity-scroll) | [View Live](https://anthony-keel.github.io/Infinity-scroll/)
+  -Anthony Keel -[Github](https://github.com/Anthony-Keel/Infinity-scroll) | [View Live](https://anthony-keel.github.io/Infinity-scroll/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
@@ -276,8 +276,6 @@ Check out all of the submissions below! Well done everyone!
 - Alberto Gonzalez - [Github](https://github.com/ajsaenz1091/picture-in-picture) | [view Live](https://ajsaenz1091.github.io/picture-in-picture/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 
-
-
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
 - Devtinator - [Github](https://github.com/Devtinator/Joke-Teller) | [View Live](https://devtinator.github.io/Joke-Teller/)
@@ -318,8 +316,6 @@ Check out all of the submissions below! Well done everyone!
 - Akshay Bhopani - [Github](https://github.com/AKSHAYBHOPANI/JokeTeller) | [View Live](https://akshaybhopani.github.io/JokeTeller/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 
-
-
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
 - Devtinator - [Github](https://github.com/Devtinator/LIght-and-DArk-Mode) | [View LIve](https://devtinator.github.io/LIght-and-DArk-Mode/)
@@ -350,7 +346,6 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/light-dark-mode.git) | [View Live](https://isjules.github.io/light-dark-mode/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 
-
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
 - Devtinator - [Github](https://github.com/Devtinator/Animated-Website) | [ViewLive](https://devtinator.github.io/Animated-Website/)
@@ -374,7 +369,6 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/animated-template) | [View Live](https://ariellinfy.github.io/animated-template/)
 - Julie Dumbrique - [Github](https://github.com/isjules/animated-template.git) | [View Live](https://isjules.github.io/animated-template/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
-
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
@@ -426,7 +420,6 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/music-player) | [View Live](https://ariellinfy.github.io/music-player/)
 - Julie Dumbrique - [Github](https://github.com/isjules/music-player.git) | [View Live](https://isjules.github.io/music-player/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
-
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
@@ -515,9 +508,8 @@ Check out all of the submissions below! Well done everyone!
 - Alaa Balbaid - [Github](https://github.com/alaa140101/NASA-APOD), [Viewlive](https://alaa140101.github.io/NASA-APOD/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-project-nasaPictureOftheDay), [Viewlive](https://jthinlay.github.io/javascript-project-nasaPictureOftheDay//)
 - Ariel Lin - [Github](https://github.com/ariellinfy/nasa-apod) | [View Live](https://ariellinfy.github.io/nasa-apod/)
-- Julie Dumbrique - [Github](https://github.com/isjules/nasa-apod.git) | [View Live]( https://isjules.github.io/nasa-apod/)
+- Julie Dumbrique - [Github](https://github.com/isjules/nasa-apod.git) | [View Live](https://isjules.github.io/nasa-apod/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
-
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
@@ -539,7 +531,6 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/pong-game.git) | [View Live](https://isjules.github.io/pong-game/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 
-
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
 - Anette [Github](https://github.com/RedSquirrrel/math-sprint-game) [ViewLive](https://redsquirrrel.github.io/math-sprint-game/)
@@ -551,7 +542,6 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/math-sprint-game.git) | [View Live](https://isjules.github.io/math-sprint-game/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-project-mathSprintGame) | [View Live](https://jthinlay.github.io/javascript-project-mathSprintGame/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
-
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
@@ -598,8 +588,8 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/splash-page) | [View Live](https://ariellinfy.github.io/splash-page/)
 - Julie Dumbrique - [Github](https://github.com/isjules/splash-page.git) | [View Live](https://isjules.github.io/splash-page/)
 
-
 ### Pig Game - Original: [Github](https://github.com/DeepakRawat24/pig-game)
+
 - DeepakRawat24 - [Github](https://github.com/DeepakRawat24/pig-game) | [View Live](https://pig-game-rho.vercel.app/)
 
 ### Todo List - Original: [Github](https://github.com/JacintoDesign/todo-list)
