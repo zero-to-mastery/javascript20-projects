@@ -235,6 +235,7 @@ Check out all of the submissions below! Well done everyone!
 - Alberto Gonzalez - [Github](https://github.com/ajsaenz1091/infinite-scroll) | [view Live](https://ajsaenz1091.github.io/infinite-scroll/)
 - Anthony Keel -[Github](https://github.com/Anthony-Keel/Infinity-scroll) | [View Live](https://anthony-keel.github.io/Infinity-scroll/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- TaraByte79 - [Github](https://github.com/TaraByte79/infinite-scroll) | [View Live](https://tarabyte79.github.io/infinite-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
