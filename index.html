@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Light/Dark Mode</title>
+    <link
+      rel="icon"
+      type="img/png"
+      href="https://www.google.com/s2/u/0/favicons?domain=css-tricks.com"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- Dark Mode Switch -->
+    <div class="theme-switch-wrapper">
+      <span id="toggle-icon">
+        <span class="toggle-text">Light Mode</span>
+        <i class="fas fa-sun"></i>
+      </span>
+      <label class="theme-switch">
+        <input type="checkbox" />
+        <div class="slider round"></div>
+      </label>
+    </div>
+    <!-- Navigation -->
+    <nav id="nav">
+      <a href="#home">HOME</a>
+      <a href="#about">ABOUT</a>
+      <a href="#projects">PROJECTS</a>
+      <a href="#contact">CONTACT</a>
+    </nav>
+    <!-- Home Section -->
+    <section id="home">
+      <div class="title-group">
+        <h1>Custom Title Here</h1>
+        <h2>Welcome to your website!</h2>
+      </div>
+    </section>
+    <!-- About Section -->
+    <section id="about">
+      <h1>Undraw Illustrations</h1>
+      <div class="about-container">
+        <div class="image-container">
+          <h2>Web Innovation</h2>
+          <img
+            src="img/undraw_proud_coder_light.svg"
+            alt="Proud Coder"
+            id="image1"
+          />
+        </div>
+        <div class="image-container">
+          <h2>Problem Solving</h2>
+          <img
+            src="img/undraw_feeling_proud_light.svg"
+            alt="Feeling Proud"
+            id="image2"
+          />
+        </div>
+        <div class="image-container">
+          <h2>High Concept</h2>
+          <img
+            src="img/undraw_conceptual_idea_light.svg"
+            alt="Conceptual Idea"
+            id="image3"
+          />
+        </div>
+      </div>
+    </section>
+    <!-- Projects Section -->
+    <section id="projects">
+      <h1>Buttons</h1>
+      <div class="buttons">
+        <button class="primary">Primary</button>
+        <button class="secondary">Secondary</button>
+        <button class="primary" disabled>Disabled</button>
+        <button class="outline">Outline</button>
+        <button class="secondary outline">Alt Outline</button>
+        <button class="outline" disabled>Disabled</button>
+      </div>
+      <div class="text-box" id="text-box">
+        <p>
+          Lorem ipsum dolor amet consectetur adipisicing elit. Voluptatibus
+          magnam sit alias eos ducimus expedita quam, corporis, blanditiis vel
+          facilis, animi adipisci? Nemo enim quisquam maiores minima, qui omnis.
+          Accusamus! Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Dolorem magnam accusamus qui, ab voluptates reprehenderit rerum quo
+          mollitia libero asperiores doloremque dolores, nihil repellat
+          doloribus perspiciatis magni dolore dolorum ipsam!
+        </p>
+      </div>
+    </section>
+    <!-- Contact Section -->
+    <section id="contact">
+      <div class="social-icons">
+        <i class="fab fa-github"></i>
+        <i class="fab fa-codepen"></i>
+        <i class="fab fa-linkedin-in"></i>
+        <i class="fab fa-medium"></i>
+        <i class="fab fa-instagram"></i>
+        <i class="fab fa-youtube"></i>
+      </div>
+    </section>
+    <!-- Script -->
+    <script src="script.js"></script>
+  </body>
+</html>
