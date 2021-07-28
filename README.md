@@ -603,6 +603,8 @@ Check out all of the submissions below! Well done everyone!
 - Yifang Di - [Github](https://github.com/YvonneD/splash-page), [Viewlive](https://yvonned.github.io/splash-page/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/splash-page) | [View Live](https://ariellinfy.github.io/splash-page/)
 - Julie Dumbrique - [Github](https://github.com/isjules/splash-page.git) | [View Live](https://isjules.github.io/splash-page/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-splash-paga) | [View Live](https://jthinlay.github.io/javascript-splash-paga/)
+
 
 ### Pig Game - Original: [Github](https://github.com/DeepakRawat24/pig-game)
 
