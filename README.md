@@ -532,6 +532,8 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/paint-clone) | [View Live](https://ariellinfy.github.io/paint-clone/)
 - Julie Dumbrique - [Github](https://github.com/isjules/paint-clone.git) | [View Live](https://isjules.github.io/paint-clone/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-canvas-paint) | [View Live](https://jthinlay.github.io/javascript-canvas-paint/)
+
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
@@ -589,6 +591,7 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/calculator) | [View Live](https://ariellinfy.github.io/calculator/)
 - Julie Dumbrique - [Github](https://github.com/isjules/calculator.git) | [View Live](https://isjules.github.io/calculator/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-calculator) | [View Live](https://jthinlay.github.io/javascript-calculator/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
@@ -599,6 +602,8 @@ Check out all of the submissions below! Well done everyone!
 - Yifang Di - [Github](https://github.com/YvonneD/splash-page), [Viewlive](https://yvonned.github.io/splash-page/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/splash-page) | [View Live](https://ariellinfy.github.io/splash-page/)
 - Julie Dumbrique - [Github](https://github.com/isjules/splash-page.git) | [View Live](https://isjules.github.io/splash-page/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-splash-paga) | [View Live](https://jthinlay.github.io/javascript-splash-paga/)
+
 
 ### Pig Game - Original: [Github](https://github.com/DeepakRawat24/pig-game)
 
