@@ -573,6 +573,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/drag-and-drop.git) | [View Live](https://isjules.github.io/drag-and-drop/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/JavascriptProjectDragAndDrop) | [View Live](https://jthinlay.github.io/JavascriptProjectDragAndDrop/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Placide FOLEU - [Github](https://github.com/rigole/Task-manager) | [View Live](https://rigole.github.io/Task-manager/)
 
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
