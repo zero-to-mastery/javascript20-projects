@@ -179,6 +179,7 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Hau Vu - [Github](https://github.com/hauvudev/quote-generator)
 - KingDavid [Github](https://github.com/ronalking182) | [View live](https://github.com/ronalking182/Quote-Generator)
+- KingDavid [Github](https://github.com/caofontaine) | [View live](https://caofontaine.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
