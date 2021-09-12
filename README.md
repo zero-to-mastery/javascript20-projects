@@ -575,7 +575,7 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
-
+- Aishwar Malviya (Sindbad) - [Github](https://aishwarode17.github.io/calculatorApp/) | [View Live](https://aishwarode17.github.io/calculatorApp/)
 - Steve Tollin - [Github](https://github.com/Webistics/Wild-West-Calculator) [View Live](https://webistics.github.io/Wild-West-Calculator/)
 - @stanimal93 - [GitHub](https://github.com/stanimal93/bubbly-calculator)
 - Anette [Github](https://github.com/RedSquirrrel/calculator) [ViewLive](https://redsquirrrel.github.io/calculator/)
