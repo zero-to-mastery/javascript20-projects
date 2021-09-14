@@ -159,6 +159,7 @@ Check out all of the submissions below! Well done everyone!
 - Lu Jin - [Github](https://github.com/jinlulu/quotes-generator) | [View Live](http://jinlulus.com/quotes-generator/)
 - Andrew Talle - [Github](https://github.com/ogAndrew/quote-generator) | [View Live](https://ogandrew.github.io/quote-generator/)
 - Janell Huyck - [Github](https://github.com/Janell-Huyck/quote-generator) | [View Live](https://janell-huyck.github.io/quote-generator/)
+- Laura Smith [Github](https://github.com/laurana88/quote-generator) | [Live](https://laurana88.github.io/quote-generator/)
 - bergstenarn - [Github](https://github.com/bergstenarn/quote-generator) | [View Live](https://bergstenarn.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
@@ -181,6 +182,7 @@ Check out all of the submissions below! Well done everyone!
 - Hau Vu - [Github](https://github.com/hauvudev/quote-generator)
 - KingDavid [Github](https://github.com/ronalking182) | [View live](https://github.com/ronalking182/Quote-Generator)
 - Ezeniel Rios - [Github](https://github.com/ezenielrios/Quote-Generator) | [View Live] (https://ezenielrios.github.io/Quote-Generator/)
+
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
