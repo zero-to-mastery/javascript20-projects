@@ -18,6 +18,7 @@ Check out all of the submissions below! Well done everyone!
 - Rupam Gogoi - [Github](https://github.com/RupamG/simple-quiz) | [View Live](https://quick-quiz-app.netlify.app/)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+- Aviv Elad - [Github](https://github.com/aviv7385/randomQuote) | [Live Demo](https://aviv7385.github.io/randomQuote/)
 -Maya Pun - [Github]( https://github.com/mayapun/quote-generator.git ) | [View Live] (http://127.0.0.1:5500/quote-generator/index.html)
 - Paco Alvarez - [Github](https://github.com/pacoalvarez1/01.-Quote-Generator) | [View Live](https://pacoalvarez1.github.io/01.-Quote-Generator/)
   -Devtinator - [Github](https://github.com/Devtinator/Random-Quote-Generator) | [View Live](https://devtinator.github.io/Random-Quote-Generator)
