@@ -162,6 +162,7 @@ Check out all of the submissions below! Well done everyone!
 - Laura Smith [Github](https://github.com/laurana88/quote-generator) | [Live](https://laurana88.github.io/quote-generator/)
 - bergstenarn - [Github](https://github.com/bergstenarn/quote-generator) | [View Live](https://bergstenarn.github.io/quote-generator/)
 - TaraByte79 - [Github](https://github.com/TaraByte79) | [View Live](https://tarabyte79.github.io/quote-generator/)
+- Yashasvi Tiwari - [GitHub](https://github.com/yashasvitiwari01/quote-generator) | [View Live] (https://yashasvitiwari01.github.io/quote-generator/)  
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
