@@ -10,10 +10,16 @@ Check out all of the submissions below! Well done everyone!
 
 ### Contents
 
+[Simple Quiz App](#simple-quiz-app--original-github) |
 [Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-scroll---original-github) | [Picture in Picture](#picture-in-picture---original-github) | [Joke Teller](#joke-teller---original-github) | [Light/Dark Mode](#light-dark-mode---original-github) | [Animated Template](#animated-template---original-github) | [Navigation Nation](#navigation-nation---original-github) | [Music Player](#music-player---original-github) | [Custom Countdown](#custom-countdown---original-github) | [Book Keeper](#book-keeper---original-github) | [Video Player](#video-player---original-github) | [Form Validator](#form-validator---original-github) | [Rock Spock](#rock-spock---original-github) | [NASA APOD](#nasa-apod---original-github) | [Paint Clone](#paint-clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#math-sprint-game---original-github) | [Drag and Drop](#drag-and-drop---original-github) | [Calculator](#calculator---original-github) | [Splash Page](#splash-page---original-github) | [Pig Game](#pig-game---original-github)
 
-### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+### Simple Quiz App - Original: [Github](https://github.com/RupamG/simple-quiz)
 
+- Rupam Gogoi - [Github](https://github.com/RupamG/simple-quiz) | [View Live](https://quick-quiz-app.netlify.app/)
+
+### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+- Aviv Elad - [Github](https://github.com/aviv7385/randomQuote) | [Live Demo](https://aviv7385.github.io/randomQuote/)
+-Maya Pun - [Github]( https://github.com/mayapun/quote-generator.git ) | [View Live] (http://127.0.0.1:5500/quote-generator/index.html)
 - Paco Alvarez - [Github](https://github.com/pacoalvarez1/01.-Quote-Generator) | [View Live](https://pacoalvarez1.github.io/01.-Quote-Generator/)
   -Devtinator - [Github](https://github.com/Devtinator/Random-Quote-Generator) | [View Live](https://devtinator.github.io/Random-Quote-Generator)
 - Gonca Negis - [Github](https://github.com/celeis/random-quote-generator) | [Live Demo](https://celeis.github.io/random-quote-generator/)
@@ -153,6 +159,11 @@ Check out all of the submissions below! Well done everyone!
 - Lu Jin - [Github](https://github.com/jinlulu/quotes-generator) | [View Live](http://jinlulus.com/quotes-generator/)
 - Andrew Talle - [Github](https://github.com/ogAndrew/quote-generator) | [View Live](https://ogandrew.github.io/quote-generator/)
 - Janell Huyck - [Github](https://github.com/Janell-Huyck/quote-generator) | [View Live](https://janell-huyck.github.io/quote-generator/)
+- Laura Smith [Github](https://github.com/laurana88/quote-generator) | [Live](https://laurana88.github.io/quote-generator/)
+- bergstenarn - [Github](https://github.com/bergstenarn/quote-generator) | [View Live](https://bergstenarn.github.io/quote-generator/)
+- TaraByte79 - [Github](https://github.com/TaraByte79) | [View Live](https://tarabyte79.github.io/quote-generator/)
+- Ezeniel Rios - [Github](https://github.com/ezenielrios/Quote-Generator) | [View Live] (https://ezenielrios.github.io/Quote-Generator/)
+
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -234,6 +245,7 @@ Check out all of the submissions below! Well done everyone!
 - Alberto Gonzalez - [Github](https://github.com/ajsaenz1091/infinite-scroll) | [view Live](https://ajsaenz1091.github.io/infinite-scroll/)
 - Anthony Keel -[Github](https://github.com/Anthony-Keel/Infinity-scroll) | [View Live](https://anthony-keel.github.io/Infinity-scroll/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- bergstenarn - [Github](https://github.com/bergstenarn/infinity-scroll) | [View Live](https://bergstenarn.github.io/infinity-scroll/index.html)
 - TaraByte79 - [Github](https://github.com/TaraByte79/infinite-scroll) | [View Live](https://tarabyte79.github.io/infinite-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
@@ -526,6 +538,7 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/paint-clone) | [View Live](https://ariellinfy.github.io/paint-clone/)
 - Julie Dumbrique - [Github](https://github.com/isjules/paint-clone.git) | [View Live](https://isjules.github.io/paint-clone/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-canvas-paint) | [View Live](https://jthinlay.github.io/javascript-canvas-paint/)
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
@@ -583,6 +596,7 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/calculator) | [View Live](https://ariellinfy.github.io/calculator/)
 - Julie Dumbrique - [Github](https://github.com/isjules/calculator.git) | [View Live](https://isjules.github.io/calculator/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-calculator) | [View Live](https://jthinlay.github.io/javascript-calculator/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
@@ -593,6 +607,8 @@ Check out all of the submissions below! Well done everyone!
 - Yifang Di - [Github](https://github.com/YvonneD/splash-page), [Viewlive](https://yvonned.github.io/splash-page/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/splash-page) | [View Live](https://ariellinfy.github.io/splash-page/)
 - Julie Dumbrique - [Github](https://github.com/isjules/splash-page.git) | [View Live](https://isjules.github.io/splash-page/)
+- Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-splash-paga) | [View Live](https://jthinlay.github.io/javascript-splash-paga/)
+
 
 ### Pig Game - Original: [Github](https://github.com/DeepakRawat24/pig-game)
 
