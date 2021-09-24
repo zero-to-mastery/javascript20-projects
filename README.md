@@ -18,8 +18,9 @@ Check out all of the submissions below! Well done everyone!
 - Rupam Gogoi - [Github](https://github.com/RupamG/simple-quiz) | [View Live](https://quick-quiz-app.netlify.app/)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+
 - Nu'man - [Github](https://github.com/numanharith/js20-quote-generator) | [View Live](https://numanharith.github.io/js20-quote-generator/)
-- Maya Pun - [Github]( https://github.com/mayapun/quote-generator.git ) | [View Live] (http://127.0.0.1:5500/quote-generator/index.html)
+- Maya Pun - [Github](https://github.com/mayapun/quote-generator.git) | [View Live] (http://127.0.0.1:5500/quote-generator/index.html)
 - Aviv Elad - [Github](https://github.com/aviv7385/randomQuote) | [Live Demo](https://aviv7385.github.io/randomQuote/)
 - Paco Alvarez - [Github](https://github.com/pacoalvarez1/01.-Quote-Generator) | [View Live](https://pacoalvarez1.github.io/01.-Quote-Generator/)
 - Devtinator - [Github](https://github.com/Devtinator/Random-Quote-Generator) | [View Live](https://devtinator.github.io/Random-Quote-Generator)
@@ -163,8 +164,9 @@ Check out all of the submissions below! Well done everyone!
 - Laura Smith [Github](https://github.com/laurana88/quote-generator) | [Live](https://laurana88.github.io/quote-generator/)
 - bergstenarn - [Github](https://github.com/bergstenarn/quote-generator) | [View Live](https://bergstenarn.github.io/quote-generator/)
 - TaraByte79 - [Github](https://github.com/TaraByte79) | [View Live](https://tarabyte79.github.io/quote-generator/)
-- Yashasvi Tiwari - [GitHub](https://github.com/yashasvitiwari01/quote-generator) | [View Live] (https://yashasvitiwari01.github.io/quote-generator/)  
+- Yashasvi Tiwari - [GitHub](https://github.com/yashasvitiwari01/quote-generator) | [View Live] (https://yashasvitiwari01.github.io/quote-generator/)
 - vitwits - [Github](https://github.com/vitwits/Quote-Generator) | [View Live](https://vitwits.github.io/Quote-Generator/)
+- Cleon Barretto - [Github](https://github.com/cleonb/random-quote-generator) | [View Live](https://cleonb.github.io/random-quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -585,6 +587,7 @@ Check out all of the submissions below! Well done everyone!
 - Placide FOLEU - [Github](https://github.com/rigole/Task-manager) | [View Live](https://rigole.github.io/Task-manager/)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
+
 - Aishwar Malviya (Sindbad) - [Github](https://aishwarode17.github.io/calculatorApp/) | [View Live](https://aishwarode17.github.io/calculatorApp/)
 - Steve Tollin - [Github](https://github.com/Webistics/Wild-West-Calculator) [View Live](https://webistics.github.io/Wild-West-Calculator/)
 - @stanimal93 - [GitHub](https://github.com/stanimal93/bubbly-calculator)
@@ -613,7 +616,6 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/splash-page) | [View Live](https://ariellinfy.github.io/splash-page/)
 - Julie Dumbrique - [Github](https://github.com/isjules/splash-page.git) | [View Live](https://isjules.github.io/splash-page/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-splash-paga) | [View Live](https://jthinlay.github.io/javascript-splash-paga/)
-
 
 ### Pig Game - Original: [Github](https://github.com/DeepakRawat24/pig-game)
 
