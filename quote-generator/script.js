@@ -1,64 +1,67 @@
-const quoteContainer = document.getElementById('quote-container');
-const quoteText = document.getElementById('quote');
-const authorText = document.getElementById('author');
-const twitterBtn = document.getElementById('twitter');
-const newQuoteBtn = document.getElementById('new-quote');
+const quoteContainer= document.getElementById('quote-container');
+const quoteText= document.getElementById('quote');
+const quoteAuthor= document.getElementById('author');
+const twitterBtn= document.getElementById('twitter');
+const newQuoteBtn= document.getElementById('new-quote');
 const loader = document.getElementById('loader');
+// Store Quotes
+let apiQuotes= [];
 
-// Show Loading
+// show loader
 function loading() {
-    loader.hidden = false;
-    quoteContainer.hidden = true;
+   loader.hidden = false;
+   quoteContainer.hidden = true;
 }
 
-// Hide Loading
+// hide loader
 function complete() {
-    if (!loader.hidden) {
-        quoteContainer.hidden = false;
-        loader.hidden = true;
-    }
+  quoteContainer.hidden = false;
+  loader.hidden = true;
 }
 
-// Get Quote From API
-async function getQuote() {
+// Get New Quote
+function newQuote() {
     loading();
-    const proxyUrl = 'https://whispering-tor-04671.herokuapp.com/'
-    const apiUrl = 'http://api.forismatic.com/api/1.0/?method=getQuote&lang=en&format=json';
-    try {
-        const response = await fetch(proxyUrl + apiUrl);
-        const data = await response.json();
-        // If Author is blank, add 'Unknown'
-        if (data.quoteAuthor === '') {
-            authorText.innerText = 'Unknown';
-        } else {
-            authorText.innerText = data.quoteAuthor;
-        }
-        // Reduce font size for long quotes
-        if (data.quoteText.length > 120) {
-            quoteText.classList.add('long-quote');
-        } else {
-            quoteText.classList.remove('long-quote');
-        }
-        quoteText.innerText = data.quoteText;
-        // Stop Loader, Show Quote
-        complete();
-    } catch (error) {
-        getQuote();
+    const quote = apiQuotes[Math.floor(Math.random() * apiQuotes.length)];
+    // check if author unknown
+    if(!quote.author){
+      quoteAuthor .textContent = "Unknown";
+    }else{
+      quoteAuthor .textContent = quote.author;
     }
+    // check quote length
+    if(quote.length > 100){
+      quoteText.classList.add("long-quote");
+    }else{
+      quoteText.classList.remove("long-quote"); 
+    }
+      quoteText.textContent = quote.text;
+      complete();
+    }
+
+async function getQuotes() {
+    loading();
+    const apiUrl= 'https://type.fit/api/quotes';
+    try{
+       const res= await fetch(apiUrl);
+       apiQuotes= await res.json();
+       newQuote();
+    }catch (error){
+        alert('Something went wrong!');
+    }
+    
 }
 
-// Tweet Quote
+// tweet quotes
 function tweetQuote() {
-    const quote = quoteText.innerText;
-    const author = authorText.innerText;
-    const twitterUrl = `https://twitter.com/intent/tweet?text=${quote} - ${author}`;
+    const twitterUrl = `https://twitter.com/intent/tweet?text=${quoteText.textContent} - ${quoteAuthor.textContent}`;
     window.open(twitterUrl, '_blank');
 }
 
-// Event Listeners
-newQuoteBtn.addEventListener('click', getQuote);
+// EventListeners
+newQuoteBtn.addEventListener('click', newQuote);
 twitterBtn.addEventListener('click', tweetQuote);
 
 // On Load
-getQuote();
+getQuotes();
 
