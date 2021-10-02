@@ -1,0 +1,105 @@
+@import url(http://fonts.googleapis.com/css?family=Rokkitt);
+body{
+    background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
+}
+h2{
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-size: 3rem;
+
+}
+h1 {
+    font-family:'Rokkitt', serif;
+    text-align: center;
+	color:#fff;
+	font-size:35px;
+}
+ul {
+    list-style: none;
+}
+li {
+    font-family:'Rokkitt', serif;
+    font-size: 2em;
+	color: brown;
+}
+input[type=radio] {
+    border: 0px;
+    width: 20px;
+    height: 2em;
+
+}
+p {
+    font-family:'Rokkitt', serif;
+}
+/* Quiz Classes */
+ .quizContainer {
+    background-image: linear-gradient(to top, #5f72bd 0%, #9b23ea 100%);
+    border-radius: 8px;
+    width: 75%;
+    margin: auto;
+	margin-top: 80px;
+    padding-top: 5px;
+    /*-moz-box-shadow: 10px 10px 5px #888;
+    -webkit-box-shadow: 10px 10px 5px #888;
+    box-shadow: 10px 10px 5px #888;*/
+    position: relative;
+}
+.nextButton {
+    /*box-shadow: 3px 3px 5px #888;*/
+    border-radius: 6px;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    background-color:#cc0000;
+    /*clear: both;*/
+    color:#fff;
+    font-family:'Rokkitt', serif;
+	font-weight:bold;
+    position: relative;
+    margin: auto;
+    padding-top: 20px;
+}
+.nextButton:hover{
+    color: black;
+    background-color: lightcyan;
+}
+.question {
+    font-family:'Rokkitt', serif;
+    font-size: 2em;
+    width: 90%;
+    height: auto;
+    margin: auto;
+    border-radius: 6px;
+    background-color:#f2f205;
+    text-align: center;
+	color:black;
+}
+.quizMessage {
+    background-color: palegreen;
+    border-radius: 6px;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    padding: 2px;
+    font-family:'Rokkitt', serif;
+    color: red;
+    font-weight: bold;
+}
+.choiceList {
+    font-family: Courier, serif;
+    color: blueviolet;
+}
+.result {
+    width: 35%;
+    height: auto;;
+    border-radius: 6px;
+    background-color: palegreen;
+    margin: auto;
+	margin-bottom:35px;
+    text-align: center;
+    font-family:'Rokkitt', serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+/* End of Quiz Classes */
