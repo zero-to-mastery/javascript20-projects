@@ -4,6 +4,8 @@ Student submissions for the [JavaScript 20 Projects Course](https://academy.zero
 
 - Add your name and project to the list below by submitting a Pull Request!
 
+**DO NOT** add your projects directly to this repository
+
 ## Submissions:
 
 Check out all of the submissions below! Well done everyone!
