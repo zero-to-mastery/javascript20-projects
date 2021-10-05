@@ -4,6 +4,8 @@ Student submissions for the [JavaScript 20 Projects Course](https://academy.zero
 
 - Add your name and project to the list below by submitting a Pull Request!
 
+**DO NOT** add your projects directly to this repository
+
 ## Submissions:
 
 Check out all of the submissions below! Well done everyone!
@@ -19,8 +21,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
-Ibrahim - [Github](https://github.com/piincher/quote-generator-) | [View Live] (https://piincher.github.io/quote-generator-/)
-
+- Ibrahim - [Github](https://github.com/piincher/quote-generator-) | [View Live] (https://piincher.github.io/quote-generator-/)
 - Nu'man - [Github](https://github.com/numanharith/js20-quote-generator) | [View Live](https://numanharith.github.io/js20-quote-generator/)
 - Maya Pun - [Github](https://github.com/mayapun/quote-generator.git) | [View Live] (http://127.0.0.1:5500/quote-generator/index.html)
 - Aviv Elad - [Github](https://github.com/aviv7385/randomQuote) | [Live Demo](https://aviv7385.github.io/randomQuote/)
@@ -168,6 +169,7 @@ Ibrahim - [Github](https://github.com/piincher/quote-generator-) | [View Live] (
 - TaraByte79 - [Github](https://github.com/TaraByte79) | [View Live](https://tarabyte79.github.io/quote-generator/)
 - Yashasvi Tiwari - [GitHub](https://github.com/yashasvitiwari01/quote-generator) | [View Live] (https://yashasvitiwari01.github.io/quote-generator/)
 - vitwits - [Github](https://github.com/vitwits/Quote-Generator) | [View Live](https://vitwits.github.io/Quote-Generator/)
+- Cleon Barretto - [Github](https://github.com/cleonb/random-quote-generator) | [View Live](https://cleonb.github.io/random-quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
