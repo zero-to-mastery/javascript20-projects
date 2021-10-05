@@ -251,6 +251,7 @@ Ibrahim - [Github](https://github.com/piincher/quote-generator-) | [View Live] (
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - bergstenarn - [Github](https://github.com/bergstenarn/infinity-scroll) | [View Live](https://bergstenarn.github.io/infinity-scroll/index.html)
 - TaraByte79 - [Github](https://github.com/TaraByte79/infinite-scroll) | [View Live](https://tarabyte79.github.io/infinite-scroll/)
+- Caofontaine - [Github](https://github.com/caofontaine/infinity-scroll) | [View Live](https://caofontaine.github.io/infinity-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
