@@ -623,9 +623,13 @@ Ibrahim - [Github](https://github.com/piincher/quote-generator-) | [View Live] (
 
 - DeepakRawat24 - [Github](https://github.com/DeepakRawat24/pig-game) | [View Live](https://pig-game-rho.vercel.app/)
 
+### Tic Tac Toe Game - Original: [Github](https://github.com/KishorBalgi/JavaScript-Tic-Tac-Toe-Game)
+
+- Kishor Balgi - [Github](https://github.com/KishorBalgi/JavaScript-Tic-Tac-Toe-Game) | [View Live](https://kishorbalgi.github.io/JavaScript-Tic-Tac-Toe-Game/)
+
 ### Todo List - Original: [Github](https://github.com/JacintoDesign/todo-list)
 
 - Ayman A. [Github](https://github.com/aymanxdev/shopping-list-ejs)
 - Tobias Rauer - [Github](https://github.com/prototowb/habitual-splash-page) | [View Live](https://prototowb.github.io/habitual-splash-page/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
-- Kishor Balgi [Github](https://github.com/KishorBalgi/To-do-list) | [View Live](https://kishorbalgi.github.io/To-do-list/)
+- Kishor Balgi - [Github](https://github.com/KishorBalgi/To-do-list) | [View Live](https://kishorbalgi.github.io/To-do-list/)
