@@ -18,6 +18,7 @@ Check out all of the submissions below! Well done everyone!
 ### Simple Quiz App - Original: [Github](https://github.com/RupamG/simple-quiz)
 
 - Rupam Gogoi - [Github](https://github.com/RupamG/simple-quiz) | [View Live](https://quick-quiz-app.netlify.app/)
+- Nayana Thapa - [Github](https://github.com/nayana-thapa/quizApp) | [View Live](https://nayana-thapa.github.io/quizApp/)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
