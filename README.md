@@ -625,6 +625,7 @@ Check out all of the submissions below! Well done everyone!
 ### Pig Game - Original: [Github](https://github.com/DeepakRawat24/pig-game)
 
 - DeepakRawat24 - [Github](https://github.com/DeepakRawat24/pig-game) | [View Live](https://pig-game-rho.vercel.app/)
+- Alkka Wilson - [Github](https://github.com/alkka/Dice-roll-game)
 
 ### Todo List - Original: [Github](https://github.com/JacintoDesign/todo-list)
 
