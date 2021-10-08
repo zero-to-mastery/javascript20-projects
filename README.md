@@ -19,6 +19,7 @@ Check out all of the submissions below! Well done everyone!
 
 - Rupam Gogoi - [Github](https://github.com/RupamG/simple-quiz) | [View Live](https://quick-quiz-app.netlify.app/)
 - Nayana Thapa - [Github](https://github.com/nayana-thapa/quizApp) | [View Live](https://nayana-thapa.github.io/quizApp/)
+- Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/quiz-app/)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
@@ -193,6 +194,7 @@ Check out all of the submissions below! Well done everyone!
 - KingDavid [Github](https://github.com/ronalking182) | [View live](https://github.com/ronalking182/Quote-Generator)
 - Ezeniel Rios - [Github](https://github.com/ezenielrios/Quote-Generator) | [View Live] (https://ezenielrios.github.io/Quote-Generator/)
 - Caofontaine [Github](https://github.com/caofontaine) | [View live](https://caofontaine.github.io/quote-generator/)
+- Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://react-infinite-scrolling-7xs1twt63-astrogeek77.vercel.app/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -465,6 +467,7 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/custom-countdown) | [View Live](https://ariellinfy.github.io/custom-countdown/)
 - Julie Dumbrique - [Github](https://github.com/isjules/custom-countdown.git) | [View Live](https://isjules.github.io/custom-countdown/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/new-year-countdown/)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
