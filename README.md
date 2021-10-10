@@ -200,7 +200,6 @@ Check out all of the submissions below! Well done everyone!
 
 - Gonca Negis - [Github](https://github.com/celeis/infinite-scroll) | [Live Demo](https://celeis.github.io/infinite-scroll/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/InfiniteCats) [view Live](https://gabrielhangor.github.io/InfiniteCats/)
-
 - Vimarsh Thapa - [Github](https://github.com/VimarshThapa/infinity-scroll) [view Live](https://vimarshthapa.github.io/infinity-scroll/)
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/infinite-scroll) [ViewLive](https://mister-josuecedeno.github.io/infinite-scroll/)
 - Russ Perry - [Github](https://github.com/rperry99/infinite-scroll) | [ViewLive](https://russ-infinite-scroll.netlify.app/)
@@ -630,11 +629,16 @@ Check out all of the submissions below! Well done everyone!
 ### Pig Game - Original: [Github](https://github.com/DeepakRawat24/pig-game)
 
 - DeepakRawat24 - [Github](https://github.com/DeepakRawat24/pig-game) | [View Live](https://pig-game-rho.vercel.app/)
+- Alkka Wilson - [Github](https://github.com/alkka/Dice-roll-game)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Web_Projects_2020/Project%20Dice%20Game/)
+
+### Tic Tac Toe Game - Original: [Github](https://github.com/KishorBalgi/JavaScript-Tic-Tac-Toe-Game)
+
+- Kishor Balgi - [Github](https://github.com/KishorBalgi/JavaScript-Tic-Tac-Toe-Game) | [View Live](https://kishorbalgi.github.io/JavaScript-Tic-Tac-Toe-Game/)
 
 ### Todo List - Original: [Github](https://github.com/JacintoDesign/todo-list)
 
 - Ayman A. [Github](https://github.com/aymanxdev/shopping-list-ejs)
 - Tobias Rauer - [Github](https://github.com/prototowb/habitual-splash-page) | [View Live](https://prototowb.github.io/habitual-splash-page/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
-- Kishor Balgi [Github](https://github.com/KishorBalgi/To-do-list) | [View Live](https://kishorbalgi.github.io/To-do-list/)
+- Kishor Balgi - [Github](https://github.com/KishorBalgi/To-do-list) | [View Live](https://kishorbalgi.github.io/To-do-list/)
