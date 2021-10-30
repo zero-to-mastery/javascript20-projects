@@ -33,6 +33,7 @@ Check out all of the submissions below! Well done everyone!
 - Mohammed-Aymen Benadra - [Github](https://github.com/aymenBenadra/modern-quote-generator) | [Live Demo](https://benadra.me/modern-quote-generator)
 - Stephen Anokwulu - [Github](https://github.com/Stephenanokz/Quote-Generator) [Live Demo](https://stephenanokz.github.io/Quote-Generator/)
 - Julian Sosa - [Github](https://github.com/hijuliancode/js-20-projects/tree/main/01-quote-generator) | [Live Demo](https://hijuliancode.github.io/js-20-projects/01-quote-generator/index.html)
+- Jonathan Reeves - [Github](https://github.com/RedHoodJT1988/async-quote-generator) [Live Demo](https://redhoodjt1988.github.io/async-quote-generator/)
 - Kevin Choi - [Github](https://kevinyc-dri.github.io/template-test/)
 - KasibhatlaMidhun - [Github](https://github.com/KasibhatlaMidhun/quotegenerator) [view Live](https://kasibhatlamidhun.github.io/quotegenerator/)
 - Mauricio Paternina - [Github](https://github.com/spaceinvadev/vanilla-js-random-projects/tree/main/projects/quote-generator) [Live Demo](https://js-small-random-projects.netlify.app/)
@@ -172,6 +173,7 @@ Check out all of the submissions below! Well done everyone!
 - Yashasvi Tiwari - [GitHub](https://github.com/yashasvitiwari01/quote-generator) | [View Live] (https://yashasvitiwari01.github.io/quote-generator/)
 - vitwits - [Github](https://github.com/vitwits/Quote-Generator) | [View Live](https://vitwits.github.io/Quote-Generator/)
 - Cleon Barretto - [Github](https://github.com/cleonb/random-quote-generator) | [View Live](https://cleonb.github.io/random-quote-generator/)
+- Jonathan Reeves - [Github](https://github.com/RedHoodJT1988/async-quote-generator) [Live Demo](https://redhoodjt1988.github.io/infinite-scroll/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -258,6 +260,7 @@ Check out all of the submissions below! Well done everyone!
 - bergstenarn - [Github](https://github.com/bergstenarn/infinity-scroll) | [View Live](https://bergstenarn.github.io/infinity-scroll/index.html)
 - TaraByte79 - [Github](https://github.com/TaraByte79/infinite-scroll) | [View Live](https://tarabyte79.github.io/infinite-scroll/)
 - Caofontaine - [Github](https://github.com/caofontaine/infinity-scroll) | [View Live](https://caofontaine.github.io/infinity-scroll/)
+- Jonathan Reeves - [Github](https://github.com/RedHoodJT1988/infinite-scroll) | [View Live](https://redhoodjt1988.github.io/infinite-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
