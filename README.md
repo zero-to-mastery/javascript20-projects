@@ -618,6 +618,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/calculator.git) | [View Live](https://isjules.github.io/calculator/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-calculator) | [View Live](https://jthinlay.github.io/javascript-calculator/)
+- Md Ashad - [Github](https://github.com/AshXD007/Iphone-Calculator) | [View Live](https://ashxd-iphonecalculator.netlify.app/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
