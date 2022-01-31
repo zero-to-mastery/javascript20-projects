@@ -23,6 +23,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/quote-generator-v1.0) | [Live Demo](https://dwightmckenzie.github.io/quote-generator-v1.0/)
 - Ibrahim - [Github](https://github.com/piincher/quote-generator-) | [View Live] (https://piincher.github.io/quote-generator-/)
 - Nu'man - [Github](https://github.com/numanharith/js20-quote-generator) | [View Live](https://numanharith.github.io/js20-quote-generator/)
 - Maya Pun - [Github](https://github.com/mayapun/quote-generator.git) | [View Live] (http://127.0.0.1:5500/quote-generator/index.html)
@@ -174,7 +175,6 @@ Check out all of the submissions below! Well done everyone!
 - vitwits - [Github](https://github.com/vitwits/Quote-Generator) | [View Live](https://vitwits.github.io/Quote-Generator/)
 - Cleon Barretto - [Github](https://github.com/cleonb/random-quote-generator) | [View Live](https://cleonb.github.io/random-quote-generator/)
 - Jonathan Reeves - [Github](https://github.com/RedHoodJT1988/async-quote-generator) [Live Demo](https://redhoodjt1988.github.io/infinite-scroll/)
-- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/quote-generator-v1.0) | [Live Demo](https://dwightmckenzie.github.io/quote-generator-v1.0/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
