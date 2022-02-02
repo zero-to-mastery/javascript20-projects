@@ -23,6 +23,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Quote-Generator) [Live Demo](dz-levelzero.github.io/quote-generator/)
 - Ibrahim - [Github](https://github.com/piincher/quote-generator-) | [View Live] (https://piincher.github.io/quote-generator-/)
 - Nu'man - [Github](https://github.com/numanharith/js20-quote-generator) | [View Live](https://numanharith.github.io/js20-quote-generator/)
 - Maya Pun - [Github](https://github.com/mayapun/quote-generator.git) | [View Live] (http://127.0.0.1:5500/quote-generator/index.html)
@@ -177,6 +178,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Infinity-Scroll) [Live Demo](dz-levelzero.github.io/infinity-scroll/)
 - Devtinator - [Github](https://github.com/Devtinator/Infinity-Scroll) | [View Live](https://devtinator.github.io/Infinity-Scroll/)
 - Ido Barnea - [Github](https://github.com/barbareshet/quoteGeneretor) | [View Live](https://barbareshet.github.io/quoteGeneretor/)
 - Colombo RIccardo - [Github](https://github.com/ColomboRiccardo/quote-generator) | [View Live](https://colomboriccardo.github.io/quote-generator/)
@@ -264,6 +266,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Picture-in-Picture) [Live Demo](dz-levelzero.github.io/picture-in-picture/)
 - Devtinator - [Github](https://github.com/Devtinator/Picture-in-Picture) | [View Live](https://devtinator.github.io/Picture-in-Picture/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/PictureInPicture) [view Live](https://gabrielhangor.github.io/PictureInPicture/)
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/js20-picture-in-picture) [ViewLive](https://mister-josuecedeno.github.io/js20-picture-in-picture/)
@@ -307,6 +310,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Joke-Teller) [Live Demo](dz-levelzero.github.io/joke-teller/)
 - Devtinator - [Github](https://github.com/Devtinator/Joke-Teller) | [View Live](https://devtinator.github.io/Joke-Teller/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/JokeRobotApp) [view Live](https://gabrielhangor.github.io/JokeRobotApp/)
 - Russ Perry - [Github](https://github.com/rperry99/joke-teller) | [ViewLive](https://russ-joke-machine.netlify.app/)
@@ -347,6 +351,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Dark-Mode) [Live Demo](dz-levelzero.github.io/dark-mode/)
 - Devtinator - [Github](https://github.com/Devtinator/LIght-and-DArk-Mode) | [View LIve](https://devtinator.github.io/LIght-and-DArk-Mode/)
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit) | [ViewLive](https://reefit.netlify.app)
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode) | [ViewLive](https://rperry99.github.io/light-dark-mode/index.html)
@@ -378,6 +383,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Template-Animation) [Live Demo](https://dz-levelzero.github.io/Template-Animation/)
 - Devtinator - [Github](https://github.com/Devtinator/Animated-Website) | [ViewLive](https://devtinator.github.io/Animated-Website/)
 - Russ Perry - [Github](https://github.com/rperry99/animation-template) | [ViewLive](https://rperry99.github.io/animation-template/)
 - Ozziel Ruiiz [Github](https://ozzielruiz.github.io/animated-template/)
@@ -402,6 +408,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Animated-Nav) [Live Demo](dz-levelzero.github.io/animated-nav/)
 - Devtinator - [Github](https://github.com/Devtinator/Animated-Navigation) | [ViewLive](https://devtinator.github.io/Animated-Navigation/)
 - Russ Perry - [Github](https://github.com/rperry99/navigation-animation) | [ViewLive](https://rperry99.github.io/navigation-animation/)
 - Rick Hallett - [Github](https://github.com/rickhallett/crypto-io) (work in progress! Will be completed by 31/08/2020! [ViewLive](https://rickhallett.github.io/crypto-io-bundled/))
@@ -422,6 +429,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Koran-Player) [Live Demo](dz-levelzero.github.io/koran-player/)
 - Devtinator - [Github](https://github.com/Devtinator/Music-Player) | [ViewLive](https://devtinator.github.io/Music-Player/)
 - Russ Perry - [Github](https://github.com/rperry99/javascript-music-player)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/javascript20-projects)
@@ -454,6 +462,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Countdown) [Live Demo](dz-levelzero.github.io/countdown/)
 - Russ Perry - [Github](https://github.com/rperry99/custom-countdown) | [ViewLive](https://rperry99.github.io/custom-countdown/)
 - Arianna Choza - [Github](https://github.com/unachoza/countdown) [ViewLive](https://unachoza.github.io/countdown)
 - Hamza Khan - [Github](https://github.com/salderahamza/countdown) [Live](https://salderahamza.github.io/countdown/)
@@ -474,6 +483,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Bookmark) [Live Demo](dz-levelzero.github.io/bookmark/)
 - Russ Perry - [Github](https://github.com/rperry99/book-keeper)
 - Hasan Cobanoglu - [Github](https://github.com/hasancbngl/JsWeb20Projects/tree/master/10-bookmark-app) | [View Live](https://hasancbngl.github.io/js20webprojects/)
 - Hamza Khan - [Github](https://github.com/salderahamza/bookmark-app) [Live](https://salderahamza.github.io/bookmark-app/)
@@ -489,6 +499,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Video-Player) [Live Demo](dz-levelzero.github.io/video-player/)
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/video-player/)
 - Hamza Khan - [Github](https://github.com/salderahamza/video-player/)
 - Anette - [Github](https://github.com/RedSquirrrel/video-player) [ViewLive](https://redsquirrrel.github.io/video-player/)
@@ -505,6 +516,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Form-Validator) [Live Demo](dz-levelzero.github.io/form-validator/)
 - Brian Smith - [Github](https://github.com/theautoroboto/TheAutoLotto)
 - Steve Tollin - [Github](https://github.com/Webistics/Validation-Form) [ViewLive](https://webistics.github.io/Validation-Form/)
 - Anette - [Github](https://github.com/RedSquirrrel/form-validator) [ViewLive](https://redsquirrrel.github.io/form-validator/)
@@ -524,6 +536,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Rock-Paper-Scissors-Lizard-Spock-GAME) [Live Demo](https://dz-levelzero.github.io/Rock-Paper-Scissors-Lizard-Spock-GAME/)
 - Anette [Github](https://github.com/RedSquirrrel/rock-spock) [ViewLive](https://redsquirrrel.github.io/rock-spock/)
 - Russ Perry - [Github](https://github.com/rperry99/spock-rock-game) | [ViewLive](https://rperry99.github.io/spock-rock-game/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/spock-rock-game), [Viewlive](https://Carls13.github.io/20-javascript-projects/spock-rock-game)
@@ -537,6 +550,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/NASA-APOD-API) [Live Demo](dz-levelzero.github.io/nasa-apod-api/)
 - Anette [Github](https://github.com/RedSquirrrel/nasa-apod) [ViewLive](https://redsquirrrel.github.io/nasa-apod/)
 - Russ Perry - [Github](https://github.com/rperry99/Nasa-APOD) | [ViewLive](https://rperry99.github.io/Nasa-APOD/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/nasa-api-pictures), [Viewlive](https://Carls13.github.io/20-javascript-projects/nasa-api-pictures)
@@ -549,6 +563,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Paint-Clone) [Live Demo](dz-levelzero.github.io/paint-clone/)
 - Sarwar MD - [Github](https://github.com/Sarwar-Md/just-paint) [View live](https://sarwar-md.github.io/just-paint/)
 - Russ Perry - [Github](https://github.com/rperry99/paint-clone) | [ViewLive](https://rperry99.github.io/paint-clone/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/paint-clone), [Viewlive](https://Carls13.github.io/20-javascript-projects/paint-clone)
@@ -560,6 +575,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Pong-Game) [Live Demo](dz-levelzero.github.io/pong-game/)
 - Huang YiTing - [Github](https://github.com/yiting76/ricarball) [ViewLive](https://yiting76.github.io/ricarball/)
 - Russ Perry - [Github](https://github.com/rperry99/pong-clone) | [ViewLive](https://rperry99.github.io/pong-clone/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/pong), [Viewlive](https://Carls13.github.io/20-javascript-projects/pong)
@@ -570,6 +586,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Math-Sprint-Game) [Live Demo](dz-levelzero.github.io/math-sprint-game/)
 - Anette [Github](https://github.com/RedSquirrrel/math-sprint-game) [ViewLive](https://redsquirrrel.github.io/math-sprint-game/)
 - Russ Perry - [Github](https://github.com/rperry99/math-sprint) | [ViewLive](https://rperry99.github.io/math-sprint/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/math-sprint), [Viewlive](https://Carls13.github.io/20-javascript-projects/math-sprint)
@@ -582,6 +599,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Kanban-Board) [Live Demo](dz-levelzero.github.io/kanban-board/)
 - Khalil Shakhi (Farsi) - [Github](https://github.com/shakhi95/kanban-board) | [Demo](https://shakhi95.github.io/kanban-board/)
 - Marius Bogdanel - [Github](https://github.com/mbogdanel/kanban-board) [ViewLive](https://mbogdanel.github.io/kanban-board/)
 - Anette [Github](https://github.com/RedSquirrrel/kanban-board) [ViewLive](https://redsquirrrel.github.io/kanban-board/)
@@ -600,6 +618,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Calculator) [Live Demo](dz-levelzero.github.io/calculator/)
 - Aishwar Malviya (Sindbad) - [Github](https://aishwarode17.github.io/calculatorApp/) | [View Live](https://aishwarode17.github.io/calculatorApp/)
 - Siddharth Agrawal - [Github](https://github.com/siddharth329/calculator)
 - Steve Tollin - [Github](https://github.com/Webistics/Wild-West-Calculator) [View Live](https://webistics.github.io/Wild-West-Calculator/)
@@ -621,6 +640,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
+- Sami TEMIMI - [Github](https://github.com/Dz-LevelZero/Splash-Page) [Live Demo](dz-levelzero.github.io/splash-page/)
 - Anette [Github](https://github.com/RedSquirrrel/splash-page) [ViewLive](https://redsquirrrel.github.io/splash-page/)
 - Russ Perry - [Github](https://github.com/rperry99/splash-page) | [ViewLive](https://rperry99.github.io/splash-page/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/splash-page), [Viewlive](https://Carls13.github.io/20-javascript-projects/splash-page)
