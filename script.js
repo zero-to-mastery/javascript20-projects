@@ -21,23 +21,16 @@ async function getQuotesFromApi() {
         const resp = await fetch(apiUrl);
         apiQuotes = await resp.json();
         getRandomQuote()
-    } catch (err) {
-        console.log(err)
-    }
+    } catch (err) {console.log(err)}
 }
 function getRandomQuote() {
-    loading();
+    showLoadingSpinner();
     const randomNum = apiQuotes[Math.floor(Math.random() * Math.floor(apiQuotes.length))];
-    if(!randomNum.author){
-        author.textContent = "Russell WetBrick";
-    } else {
-        author.textContent = `${randomNum.author}`
-    }
-    if(randomNum.text.length > 50) {
-        quote.classList.add('long-quote')
-    } else {
-        quote.classList.remove('long-quote')
-    }
+    if (!randomNum.author) author.textContent = "Russell WetBrick";
+     else author.textContent = `${randomNum.author}`
+    
+    if (randomNum.text.length > 50) quote.classList.add('long-quote');
+    else quote.classList.remove('long-quote');
     quote.textContent = `${randomNum.text}`
     removeLoadingSpinner();
 }
