@@ -1,0 +1,285 @@
+ $m-01: #3c4359;
+ $m-02: #546c8c;
+ $m-03: #7ea1bf;
+ $m-04: #bacbd9;
+ $m-05: #bf80a9;
+ 
+ @import url("https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap");
+ 
+ body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    width: 100%;
+    background-color: $m-01;
+ }
+ .loader-container{
+   //  width: 100%;
+   //  height: 100%;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+   .content {
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   width: 300px;
+   height: 300px;
+   position: fixed;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+   .planet {
+      width: 65%;
+      height: 65%;
+      background-color: $m-02;
+      border-radius: 100%;
+      position: absolute;
+      display: flex;
+      align-items: center;
+      transform-origin: center center;
+      box-shadow: inset 2px -10px 0px rgba(0, 0, 0, 0.1);
+      animation: planet 5s ease infinite alternate;
+
+      @keyframes planet {
+         0% {
+            transform: rotate(10deg);
+         }
+
+         100% {
+            transform: rotate(-10deg);
+         }
+      }
+
+      /* planet ring */
+      .ring {
+         position: absolute;
+         width: 300px;
+         height: 300px;
+         border-radius: 100%;
+         background-color: $m-04;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         transform-origin: 33% center;
+         box-shadow: 2px -10px 0px rgba(0, 0, 0, 0.1),
+            inset -5px -10px 0px rgba(0, 0, 0, 0.1);
+         animation: ring 3s ease infinite;
+
+         @keyframes ring {
+            0% {
+               transform: rotateX(110deg) rotateZ(0deg) translate(-50px, 5px);
+            }
+
+            100% {
+               transform: rotateX(110deg) rotateZ(360deg) translate(-50px, 5px);
+            }
+         }
+
+         /* small ball */
+         &:before {
+            content: "";
+            position: absolute;
+            width: 10px;
+            height: 30px;
+            border-radius: 100%;
+            background-color: $m-03;
+            z-index: 2;
+            left: calc(0px - 5px);
+            box-shadow: inset -3px 3px 0px rgba(0, 0, 0, 0.2);
+         }
+
+         /* inner ring */
+         &:after {
+            content: "";
+            position: absolute;
+            width: 240px;
+            height: 240px;
+            border-radius: 100%;
+            background-color: $m-03;
+            box-shadow: inset 2px -10px 0px rgba(0, 0, 0, 0.1);
+         }
+      }
+
+      /* to cover the back of the ring */
+      .cover-ring {
+         position: absolute;
+         width: 100%;
+         height: 50%;
+         border-bottom-left-radius: 80%;
+         border-bottom-right-radius: 80%;
+         border-top-left-radius: 100px;
+         border-top-right-radius: 100px;
+         transform: translate(0px, -17px);
+         background-color: $m-02;
+         z-index: 2;
+         box-shadow: inset 0px -2px 0px rgba(0, 0, 0, 0.1);
+      }
+
+      /* planet spots */
+      .spots {
+         width: 100%;
+         height: 100%;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         position: absolute;
+         z-index: 2;
+
+         span {
+            width: 30px;
+            height: 30px;
+            background-color: $m-01;
+            position: absolute;
+            border-radius: 100%;
+            box-shadow: inset -2px 3px 0px rgba(0, 0, 0, 0.3);
+            animation: dots 5s ease infinite alternate;
+
+            @keyframes dots {
+               0% {
+                  box-shadow: inset -3px 3px 0px rgba(0, 0, 0, 0.3);
+               }
+               100% {
+                  box-shadow: inset 3px 3px 0px rgba(0, 0, 0, 0.3);
+               }
+            }
+
+            &:nth-child(1) {
+               top: 20px;
+               right: 50px;
+            }
+
+            &:nth-child(2) {
+               top: 40px;
+               left: 50px;
+               width: 15px;
+               height: 15px;
+            }
+
+            &:nth-child(3) {
+               top: 80px;
+               left: 20px;
+               width: 25px;
+               height: 25px;
+            }
+
+            &:nth-child(4) {
+               top: 80px;
+               left: 90px;
+               width: 40px;
+               height: 40px;
+            }
+
+            &:nth-child(5) {
+               top: 160px;
+               left: 70px;
+               width: 15px;
+               height: 15px;
+            }
+
+            &:nth-child(6) {
+               top: 165px;
+               left: 125px;
+               width: 10px;
+               height: 10px;
+            }
+
+            &:nth-child(7) {
+               top: 90px;
+               left: 150px;
+               width: 15px;
+               height: 15px;
+            }
+         }
+      }
+   }
+
+   p {
+      color: $m-04;
+      font-size: 25px;
+      z-index: 2;
+      position: absolute;
+      bottom: -20px;
+      font-family: "Roboto Mono", monospace;
+      animation: text 4s ease infinite;
+      width: 100px;
+      text-align: center;
+
+      @keyframes text {
+         0% {
+            transform: translateX(-30px);
+            letter-spacing: 0px;
+            color: $m-04;
+         }
+
+         25% {
+            letter-spacing: 3px;
+            color: $m-03;
+         }
+
+         50% {
+            transform: translateX(30px);
+            letter-spacing: 0px;
+            color: $m-04;
+         }
+
+         75% {
+            letter-spacing: 3px;
+            color: $m-03;
+         }
+
+         100% {
+            transform: translateX(-30px);
+            letter-spacing: 0px;
+            color: $m-04;
+         }
+      }
+   }
+}
+}
+ .page-container{
+   width: 100%;
+   height: 100%;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   h1{
+      text-align: center;
+      letter-spacing: 2px;
+      font-family: "Roboto Mono", monospace;
+      border-bottom: 4px solid $m-02;
+    }
+   .images-container{ 
+      align-self: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      width: 550px;
+      @media screen and(max-width: 600px){
+         width: 350px;
+      }
+      a{
+         align-self: center;
+      }
+      img{
+      align-self: center;
+      padding: 5px;
+      width: 500px;
+      height: 500px;
+      @media screen and(max-width: 600px){
+         width: 300px;
+         height: 300px;
+      }     
+      }
+   }
+ }
+ #images-container.loading,
+ #images-title.loading{
+    filter: blur(13px)
+ }

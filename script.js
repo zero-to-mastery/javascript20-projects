@@ -1,45 +1,82 @@
-const quote = document.getElementById('quote');
-const author = document.getElementById('author');
-const twitter = document.getElementById('twitter');
-const quoteContainer = document.getElementById('quote-container');
-const loader = document.querySelector('.loader');
+const imgContainer = document.getElementById('images-container');
+const title = document.getElementById('images-title')
+const loader = document.getElementById('loader');
 
 function showLoadingSpinner() {
-    loader.hidden = false;
-    quoteContainer.hidden = true;
+    loader.style.display = 'block';
+    imgContainer.classList.add('loading');
+    title.classList.add('loading');
 }
 function removeLoadingSpinner() {
-    loader.hidden = true;
-    quoteContainer.hidden = false;
+    loader.style.display = 'none';
+    imgContainer.classList.remove('loading');
+    title.classList.remove('loading');
+
 }
 
-let apiQuotes = [];
-async function getQuotesFromApi() {
+//helper function wchich sets attributes
+function setsAttributes(i, attr){
+    for(const key in attr){
+        i.setAttribute(key, attr[key])
+    }
+}
+
+// appending new anchors with images to imgContainer
+function displayPhotos() {
     showLoadingSpinner();
-    const apiUrl = 'https://type.fit/api/quotes';
+    apiPics.forEach((pic) => {
+        const a = document.createElement('a');
+        setsAttributes(a, {
+            href : pic.links.html,
+            target : '_blank'
+        })
+
+        const img = document.createElement('img');
+        setsAttributes(img, {
+            src : pic.urls.regular,
+            alt : pic.location.title || pic.alt_description || pic.description || "Unsplash image",
+            title : pic.location.title || pic.alt_description || pic.description || "Unsplash image"
+        })
+
+        img.classList.add('img');
+
+        a.appendChild(img)
+        imgContainer.appendChild(a)
+    })
+}
+
+let apiPics = [];
+
+async function getPhotos() {
+    showLoadingSpinner();
+    const count = 30;
+    const myKey = 'My_Access_Key_Here'
+    const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${myKey}&count=${count}`
     try {
         const resp = await fetch(apiUrl);
-        apiQuotes = await resp.json();
-        getRandomQuote()
+        apiPics = await resp.json();
+        displayPhotos()
     } catch (err) {console.log(err)}
-}
-function getRandomQuote() {
-    showLoadingSpinner();
-    const randomNum = apiQuotes[Math.floor(Math.random() * Math.floor(apiQuotes.length))];
-    if (!randomNum.author) author.textContent = "Russell WetBrick";
-     else author.textContent = `${randomNum.author}`
-    
-    if (randomNum.text.length > 50) quote.classList.add('long-quote');
-    else quote.classList.remove('long-quote');
-    quote.textContent = `${randomNum.text}`
     removeLoadingSpinner();
 }
 
-function tweetQuote() {
-    const twitterUrl = `https://twitter.com/intent/tweet?text=${quote.textContent} - ${author.textContent}`;
-    window.open(twitterUrl, '_blank')
+const isInViewport = function (ele) {
+    const rect = ele.getBoundingClientRect();
+    return (
+        rect.top >= 0 &&
+        rect.left >= 0 &&
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+    );
+};
+
+function getMorePics() {
+    const a = imgContainer.lastChild;
+    if (isInViewport(a)) {
+        getPhotos();
+    }
 }
 
-getQuotesFromApi();
-document.getElementById('new-quote').addEventListener('click', getRandomQuote)
-twitter.addEventListener('click',tweetQuote)
+//on load
+getPhotos();
+window.addEventListener('scroll', getMorePics)
