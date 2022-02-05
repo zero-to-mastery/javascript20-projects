@@ -1,25 +1,37 @@
-let video = document.getElementById('video');
-const pipBtn = document.getElementById('start')
+const button = document.getElementById('btn');
+const audioElement = document.getElementById('audio');
+// enable/disable btn
+function toggleButton() {
+    button.disabled = !button.disabled;
+ }
 
-// Prompt to select media stream, pass it to video elem and then play it after loaded data
-async function startCapture(displayMediaOptions) {
-    try {
-      const mediaStream = await navigator.mediaDevices.getDisplayMedia(displayMediaOptions);
-      video.srcObject = mediaStream;
-      video.onloadedmetadata = () => {
-          video.play()
-      }
-    } catch(err) {
-      console.error("Error: " + err);
+  
+function updateUI (data) {
+    VoiceRSS.speech({
+        key: 'key',
+        src: data.setup + data.delivery || data.joke,
+        hl: 'en-us',
+        r: 0, 
+        c: 'mp3',
+        f: '44khz_16bit_stereo',
+        ssml: false
+    });
+}
+
+button.addEventListener('click', async () => {
+    try{
+    JokeAPI.getJokes({
+        jokeType: "single"
+      })
+        .then((r) => r.json())
+        .then((data) => {
+          updateUI(data);
+        })
+    toggleButton();
     }
-  }
-
-pipBtn.addEventListener('click', async () => {
-    //disable button
-    pipBtn.disabled = true;
-    // Start Picture in picture
-    await video.requestPictureInPicture();
-    // reset button
-    pipBtn.disabled = false;
+        catch(err){
+            console.log('błąd', err)
+        }
 })
-startCapture();
+//enables audio when it ends playing
+audioElement.addEventListener('ended',toggleButton)

@@ -1,127 +1,62 @@
+/* ROBOT.GIF from Giphy - https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY */
 
 html {
   box-sizing: border-box;
 }
 
-body {
-  background: #444;
-  margin: 0;
+body{
+  margin:0;
   padding: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100vw;
+  box-sizing: border-box;
+  background: #45badd;
+}
+
+.container{
   height: 100vh;
-}
-
-video{
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-.play-btn,
-.stop-btn {
-  width: 100px;
-  height: 100px;
-  margin : 10px 10px 10px 30px;
-  background: radial-gradient( rgba(47, 1, 255, 0.8) 60%, rgba(255, 255, 255, 1) 62%);
-  border-radius: 50%;
-  position: relative;
-  display: block;
-
-  box-shadow: 0px 0px 25px 3px rgba(47, 1, 255, 0.8);
-}
-
-/* triangle */
-.play-btn::after {
-  content: "";
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  -webkit-transform: translateX(-40%) translateY(-50%);
-  transform: translateX(-40%) translateY(-50%);
-  transform-origin: center center;
-  width: 0;
-  height: 0;
-  border-top: 15px solid transparent;
-  border-bottom: 15px solid transparent;
-  border-left: 25px solid #fff;
-  z-index: 100;
-  -webkit-transition: all 400ms cubic-bezier(0.55, 0.055, 0.675, 0.19);
-  transition: all 400ms cubic-bezier(0.55, 0.055, 0.675, 0.19);
-}
-
-/* .stop-btn{
+  width: 100vw;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-}
-i{
-  font-size: 40px;
-  color: whitesmoke
-} */
-
-/* pulse wave */
-.play-btn:before,
-.stop-btn:before {
-  content: "";
-  position: absolute;
-  width: 150%;
-  height: 150%;
-  -webkit-animation-delay: 0s;
-  animation-delay: 0s;
-  -webkit-animation: pulsate1 2s;
-  animation: pulsate1 2s;
-  -webkit-animation-direction: forwards;
-  animation-direction: forwards;
-  -webkit-animation-iteration-count: infinite;
-  animation-iteration-count: infinite;
-  -webkit-animation-timing-function: steps;
-  animation-timing-function: steps;
-  opacity: 1;
-  border-radius: 50%;
-  border: 5px solid rgba(255, 255, 255, .75);
-  top: -30%;
-  left: -30%;
-  background: rgba(198, 16, 0, 0);
+  background: url('./robot.gif');
+  background-size: contain;
+  background-position: left center;
+  background-repeat: no-repeat;
 }
 
-@-webkit-keyframes pulsate1 {
-  0% {
-    -webkit-transform: scale(0.6);
-    transform: scale(0.6);
-    opacity: 1;
-    box-shadow: inset 0px 0px 25px 3px rgba(255, 255, 255, 0.75), 0px 0px 25px 10px rgba(255, 255, 255, 0.75);
-  }
-  100% {
-    -webkit-transform: scale(1);
-    transform: scale(1);
-    opacity: 0;
-    box-shadow: none;
-
-  }
+button{
+  cursor: pointer;
+  outline: none;
+  width: 200px;
+  height: 50px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: white;
+  background: #ff3482;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 2px 2px 20px 10px rgba(0, 0, 0, 0.2); 
 }
 
-@keyframes pulsate1 {
-  0% {
-    -webkit-transform: scale(0.6);
-    transform: scale(0.6);
-    opacity: 1;
-    box-shadow: inset 0px 0px 25px 3px rgba(255, 255, 255, 0.75), 0px 0px 25px 10px rgba(255, 255, 255, 0.75);
-  }
-  100% {
-    -webkit-transform: scale(1, 1);
-    transform: scale(1);
-    opacity: 0;
-    box-shadow: none;
-
-  }
+button:hover{
+  filter: brightness(0.75);
 }
 
-/* .log{
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  color: aqua;
-} */
+button:active{
+  transform: scale(0.96)
+}
+
+button:disabled{
+  cursor:default;
+  filter: brightness(0.3);
+}
+
+@media screen and (max-width: 1000px) {
+  .container{
+    background-size: cover;
+    background-position: center center;
+  }
+  button{
+    box-shadow: 5px 5px 30px 20px rgba(0, 0, 0, 0.5); 
+  }
+}
