@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Kufam&display=swap');
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Kufam', sans-serif, monospace;
+  background: white;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  font-size: 40px;
+  letter-spacing: 5px;
+}
+
+/* Loader */
+.loader {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.loader img {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.loader span {
+  position: fixed;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -65%);
+}
+
+/* Image Container */
+.image-container {
+  margin: 10px 30%;
+}
+
+.image-container img {
+  width: 100%;
+  margin-top: 5px;
+}
+
+/* Media Query - Large Smartphone */
+@media screen and (max-width:600px) {
+  h1{
+    font-size: 20px;
+  }
+  .image-container{
+    margin: 10px;
+  }
+}
