@@ -23,6 +23,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+- Curtis Warcup - [Github](https://github.com/Cwarcup) | [Live Demo](https://cwarcup.github.io/dad-quotes/)
 - Ibrahim - [Github](https://github.com/piincher/quote-generator-) | [View Live] (https://piincher.github.io/quote-generator-/)
 - Nu'man - [Github](https://github.com/numanharith/js20-quote-generator) | [View Live](https://numanharith.github.io/js20-quote-generator/)
 - Maya Pun - [Github](https://github.com/mayapun/quote-generator.git) | [View Live] (http://127.0.0.1:5500/quote-generator/index.html)
@@ -177,6 +178,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
+- Curtis Warcup - [Github](https://github.com/Cwarcup) | [View Live ](https://cwarcup.github.io/infinite_scroll/)
 - Devtinator - [Github](https://github.com/Devtinator/Infinity-Scroll) | [View Live](https://devtinator.github.io/Infinity-Scroll/)
 - Ido Barnea - [Github](https://github.com/barbareshet/quoteGeneretor) | [View Live](https://barbareshet.github.io/quoteGeneretor/)
 - Colombo RIccardo - [Github](https://github.com/ColomboRiccardo/quote-generator) | [View Live](https://colomboriccardo.github.io/quote-generator/)
