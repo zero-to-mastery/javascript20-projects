@@ -425,6 +425,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/navigation-nation.git) | [View Live](https://isjules.github.io/navigation-nation/)
 - Mahendra - [Github](https://github.com/hendrasob/Animated-Navigation) | [View Live](https://hendrasob.github.io/Animated-Navigation/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/animated-nav-1.0) | [View Live](https://dwightmckenzie.github.io/animated-nav-1.0/)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
