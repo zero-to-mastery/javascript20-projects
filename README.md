@@ -458,6 +458,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/music-player.git) | [View Live](https://isjules.github.io/music-player/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/music-player/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/music-player-1.0) | [View Live](https://dwightmckenzie.github.io/music-player-1.0/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
