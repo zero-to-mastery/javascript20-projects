@@ -174,6 +174,7 @@ Check out all of the submissions below! Well done everyone!
 - vitwits - [Github](https://github.com/vitwits/Quote-Generator) | [View Live](https://vitwits.github.io/Quote-Generator/)
 - Cleon Barretto - [Github](https://github.com/cleonb/random-quote-generator) | [View Live](https://cleonb.github.io/random-quote-generator/)
 - Jonathan Reeves - [Github](https://github.com/RedHoodJT1988/async-quote-generator) [Live Demo](https://redhoodjt1988.github.io/infinite-scroll/)
+- Pete Vermeulen - [Github](https://github.com/PeterVermeulen01123/quotegenerator) [Live Demo](https://petervermeulen01123.github.io/quotegenerator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -261,6 +262,7 @@ Check out all of the submissions below! Well done everyone!
 - TaraByte79 - [Github](https://github.com/TaraByte79/infinite-scroll) | [View Live](https://tarabyte79.github.io/infinite-scroll/)
 - Caofontaine - [Github](https://github.com/caofontaine/infinity-scroll) | [View Live](https://caofontaine.github.io/infinity-scroll/)
 - Jonathan Reeves - [Github](https://github.com/RedHoodJT1988/infinite-scroll) | [View Live](https://redhoodjt1988.github.io/infinite-scroll/)
+- Pete Vermeulen - [Github](https://github.com/PeterVermeulen01123/infinite-scroll) | [View Live](https://petervermeulen01123.github.io/infinite-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
