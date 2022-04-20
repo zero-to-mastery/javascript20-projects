@@ -175,6 +175,7 @@ Check out all of the submissions below! Well done everyone!
 - Cleon Barretto - [Github](https://github.com/cleonb/random-quote-generator) | [View Live](https://cleonb.github.io/random-quote-generator/)
 - Jonathan Reeves - [Github](https://github.com/RedHoodJT1988/async-quote-generator) [Live Demo](https://redhoodjt1988.github.io/infinite-scroll/)
 - Pete Vermeulen - [Github](https://github.com/PeterVermeulen01123/quotegenerator) [Live Demo](https://petervermeulen01123.github.io/quotegenerator/)
+- Tawsif Haque - [Github](https://github.com/Iftee97/Quote_Generator) [Live Demo](https://iftee97.github.io/Quote_Generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
