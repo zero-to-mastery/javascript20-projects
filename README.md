@@ -495,6 +495,7 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/book-keeper) | [View Live](https://ariellinfy.github.io/book-keeper/)
 - Julie Dumbrique - [Github](https://github.com/isjules/bookmark-app.git) | [View Live](https://isjules.github.io/bookmark-app/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/bookmark-app-1.0) | [View Live](https://dwightmckenzie.github.io/bookmark-app-1.0/)
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
