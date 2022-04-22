@@ -27,6 +27,7 @@ Check out all of the submissions below! Well done everyone!
 - Nu'man - [Github](https://github.com/numanharith/js20-quote-generator) | [View Live](https://numanharith.github.io/js20-quote-generator/)
 - Maya Pun - [Github](https://github.com/mayapun/quote-generator.git) | [View Live](http://127.0.0.1:5500/quote-generator/index.html)
 - Aviv Elad - [Github](https://github.com/aviv7385/randomQuote) | [Live Demo](https://aviv7385.github.io/randomQuote/)
+-Sunday Pat
 - Paco Alvarez - [Github](https://github.com/pacoalvarez1/01.-Quote-Generator) | [View Live](https://pacoalvarez1.github.io/01.-Quote-Generator/)
 - Devtinator - [Github](https://github.com/Devtinator/Random-Quote-Generator) | [View Live](https://devtinator.github.io/Random-Quote-Generator)
 - Gonca Negis - [Github](https://github.com/celeis/random-quote-generator) | [Live Demo](https://celeis.github.io/random-quote-generator/)
