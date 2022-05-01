@@ -182,7 +182,8 @@ Check out all of the submissions below! Well done everyone!
 - Juanjo Guirao - [Github](https://github.com/freenrg/js-20projects-quote-generator) | [View Live](https://freenrg.github.io/js-20projects-quote-generator/)
 - Johann LEHUEDE - [Github](https://github.com/JohannLHD/Quote-generator) | [View Live](https://johannlhd.github.io/Quote-generator/)
 - Pete Vermeulen - [Github](https://github.com/PeterVermeulen01123/quotegenerator) [Live Demo](https://petervermeulen01123.github.io/quotegenerator/)
-gg
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/quote-generator-1.0) | [View Live](https://dwightmckenzie.github.io/quote-generator-1.0/)
+
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -206,8 +207,8 @@ gg
 - Ezeniel Rios - [Github](https://github.com/ezenielrios/Quote-Generator) | [View Live](https://ezenielrios.github.io/Quote-Generator/)
 - Caofontaine [Github](https://github.com/caofontaine) | [View live](https://caofontaine.github.io/quote-generator/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://react-infinite-scrolling-7xs1twt63-astrogeek77.vercel.app/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/infinite-scroll-1.0) | [View Live](https://dwightmckenzie.github.io/infinite-scroll-1.0/)
 - Rahul - [Github](https://github.com/rachirah/infiniteImg) || [Go live](https://rachirah.github.io/infiniteImg/)
-
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -318,6 +319,7 @@ gg
 - Julie Dumbrique - [Github](https://github.com/isjules/picture-in-picture.git) | [View Live](https://isjules.github.io/picture-in-picture/)
 - Alberto Gonzalez - [Github](https://github.com/ajsaenz1091/picture-in-picture) | [view Live](https://ajsaenz1091.github.io/picture-in-picture/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/pic-in-pic-1.0) | [View Live](https://dwightmckenzie.github.io/pic-in-pic-1.0/)
 - Rahul - [Github](https://github.com/rachirah/beliveYourSelf) || [Go Live](https://rachirah.github.io/beliveYourSelf/)
 - bergstenarn - [Github](https://github.com/bergstenarn/picture-in-picture) | [View Live](https://bergstenarn.github.io/picture-in-picture/index.html)
 
@@ -361,6 +363,7 @@ gg
 - Julie Dumbrique - [Github](https://github.com/isjules/joke-teller.git) | [View Live](https://isjules.github.io/joke-teller/)
 - Akshay Bhopani - [Github](https://github.com/AKSHAYBHOPANI/JokeTeller) | [View Live](https://akshaybhopani.github.io/JokeTeller/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/joke-teller-1.0) | [View Live](https://dwightmckenzie.github.io/joke-teller-1.0/)
 - Rahul - [Github](https://github.com/rachirah/VirtualAgent) || [Go Live with](https://rachirah.github.io/VirtualAgent/)
 - bergstenarn - [Github](https://github.com/bergstenarn/joke-teller) | [View Live](https://bergstenarn.github.io/joke-teller/index.html)
 
@@ -394,6 +397,7 @@ gg
 - Ariel Lin - [Github](https://github.com/ariellinfy/light-dark-mode) | [View Live](https://ariellinfy.github.io/light-dark-mode/)
 - Julie Dumbrique - [Github](https://github.com/isjules/light-dark-mode.git) | [View Live](https://isjules.github.io/light-dark-mode/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/light-dark-mode-1.0) | [View Live](https://dwightmckenzie.github.io/light-dark-mode-1.0/)
 - Rahul - [Github](https://github.com/rachirah/website) || [Go Live](https://rachirah.github.io/website/)
 - bergstenarn - [Github](https://github.com/bergstenarn/light-dark-mode) | [View Live](https://bergstenarn.github.io/light-dark-mode/index.html)
 
@@ -420,6 +424,7 @@ gg
 - Ariel Lin - [Github](https://github.com/ariellinfy/animated-template) | [View Live](https://ariellinfy.github.io/animated-template/)
 - Julie Dumbrique - [Github](https://github.com/isjules/animated-template.git) | [View Live](https://isjules.github.io/animated-template/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/animated-template-1.0) | [View Live](https://dwightmckenzie.github.io/animated-template-1.0/)
 - bergstenarn - [Github](https://github.com/bergstenarn/animated-template) | [View Live](https://bergstenarn.github.io/animated-template/index.html)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
@@ -441,6 +446,7 @@ gg
 - Julie Dumbrique - [Github](https://github.com/isjules/navigation-nation.git) | [View Live](https://isjules.github.io/navigation-nation/)
 - Mahendra - [Github](https://github.com/hendrasob/Animated-Navigation) | [View Live](https://hendrasob.github.io/Animated-Navigation/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/animated-nav-1.0) | [View Live](https://dwightmckenzie.github.io/animated-nav-1.0/)
 - bergstenarn - [Github](https://github.com/bergstenarn/navigation-nation) | [View Live](https://bergstenarn.github.io/navigation-nation/index.html)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
@@ -476,6 +482,7 @@ gg
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/music-player/)
 - bergstenarn - [Github](https://github.com/bergstenarn/music-player) | [View Live](https://bergstenarn.github.io/music-player/index.html)
 - Sridarshan - [Github](https://github.com/sridarshan-webjava/Music-Player) | [View Live](https://sridarshan-webjava.github.io/Music-Player/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/music-player-1.0) | [View Live](https://dwightmckenzie.github.io/music-player-1.0/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
@@ -496,6 +503,7 @@ gg
 - Julie Dumbrique - [Github](https://github.com/isjules/custom-countdown.git) | [View Live](https://isjules.github.io/custom-countdown/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/new-year-countdown/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/custom-countdown-1.0) | [View Live](https://dwightmckenzie.github.io/custom-countdown-1.0/)
 - bergstenarn - [Github](https://github.com/bergstenarn/custom-countdown) | [View Live](https://bergstenarn.github.io/custom-countdown/index.html)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
@@ -512,6 +520,7 @@ gg
 - Ariel Lin - [Github](https://github.com/ariellinfy/book-keeper) | [View Live](https://ariellinfy.github.io/book-keeper/)
 - Julie Dumbrique - [Github](https://github.com/isjules/bookmark-app.git) | [View Live](https://isjules.github.io/bookmark-app/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/bookmark-app-1.0) | [View Live](https://dwightmckenzie.github.io/bookmark-app-1.0/)
 - bergstenarn - [Github](https://github.com/bergstenarn/book-keeper) | [View Live](https://bergstenarn.github.io/book-keeper/index.html)
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
