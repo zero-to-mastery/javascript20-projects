@@ -696,6 +696,8 @@ Check out all of the submissions below! Well done everyone!
 
 ### Tic Tac Toe Game - Original: [Github](https://github.com/KishorBalgi/JavaScript-Tic-Tac-Toe-Game)
 
+- Milan Sachani - [Github](https://github.com/Milan-960/Tic-Tac-Toe-Game) | [View Live](https://tic-tac-toem.netlify.app/)
+
 - Kishor Balgi - [Github](https://github.com/KishorBalgi/JavaScript-Tic-Tac-Toe-Game) | [View Live](https://kishorbalgi.github.io/JavaScript-Tic-Tac-Toe-Game/)
 
 ### Todo List - Original: [Github](https://github.com/JacintoDesign/todo-list)
