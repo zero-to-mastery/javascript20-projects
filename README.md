@@ -516,6 +516,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/custom-countdown.git) | [View Live](https://isjules.github.io/custom-countdown/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/new-year-countdown/)
+- Eesuola Ayotunde - [Github](https://github.com/E-tim/countDownTimer) | [View Live](https://confident-swanson-9e5557.netlify.app/)
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/custom-countdown-1.0) | [View Live](https://dwightmckenzie.github.io/custom-countdown-1.0/)
 - bergstenarn - [Github](https://github.com/bergstenarn/custom-countdown) | [View Live](https://bergstenarn.github.io/custom-countdown/index.html)
 
