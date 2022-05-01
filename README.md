@@ -306,7 +306,8 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/picture-in-picture.git) | [View Live](https://isjules.github.io/picture-in-picture/)
 - Alberto Gonzalez - [Github](https://github.com/ajsaenz1091/picture-in-picture) | [view Live](https://ajsaenz1091.github.io/picture-in-picture/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
-- Vectoras - [Github](https://github.com/Caofontaine/picture-in-picture) | [View Live](https://caofontaine.github.io/picture-in-picture/)
+- bergstenarn - [Github](https://github.com/bergstenarn/picture-in-picture) | [View Live](https://bergstenarn.github.io/picture-in-picture/index.html)
+
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
@@ -347,6 +348,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/joke-teller.git) | [View Live](https://isjules.github.io/joke-teller/)
 - Akshay Bhopani - [Github](https://github.com/AKSHAYBHOPANI/JokeTeller) | [View Live](https://akshaybhopani.github.io/JokeTeller/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- bergstenarn - [Github](https://github.com/bergstenarn/joke-teller) | [View Live](https://bergstenarn.github.io/joke-teller/index.html)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
@@ -378,6 +380,7 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/light-dark-mode) | [View Live](https://ariellinfy.github.io/light-dark-mode/)
 - Julie Dumbrique - [Github](https://github.com/isjules/light-dark-mode.git) | [View Live](https://isjules.github.io/light-dark-mode/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- bergstenarn - [Github](https://github.com/bergstenarn/light-dark-mode) | [View Live](https://bergstenarn.github.io/light-dark-mode/index.html)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
@@ -402,6 +405,7 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/animated-template) | [View Live](https://ariellinfy.github.io/animated-template/)
 - Julie Dumbrique - [Github](https://github.com/isjules/animated-template.git) | [View Live](https://isjules.github.io/animated-template/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- bergstenarn - [Github](https://github.com/bergstenarn/animated-template) | [View Live](https://bergstenarn.github.io/animated-template/index.html)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
@@ -422,6 +426,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/navigation-nation.git) | [View Live](https://isjules.github.io/navigation-nation/)
 - Mahendra - [Github](https://github.com/hendrasob/Animated-Navigation) | [View Live](https://hendrasob.github.io/Animated-Navigation/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- bergstenarn - [Github](https://github.com/bergstenarn/navigation-nation) | [View Live](https://bergstenarn.github.io/navigation-nation/index.html)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
@@ -454,6 +459,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/music-player.git) | [View Live](https://isjules.github.io/music-player/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/music-player/)
+- bergstenarn - [Github](https://github.com/bergstenarn/music-player) | [View Live](https://bergstenarn.github.io/music-player/index.html)
 - Sridarshan - [Github](https://github.com/sridarshan-webjava/Music-Player) | [View Live](https://sridarshan-webjava.github.io/Music-Player/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
@@ -475,6 +481,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/custom-countdown.git) | [View Live](https://isjules.github.io/custom-countdown/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/new-year-countdown/)
+- bergstenarn - [Github](https://github.com/bergstenarn/custom-countdown) | [View Live](https://bergstenarn.github.io/custom-countdown/index.html)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
@@ -490,6 +497,7 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/book-keeper) | [View Live](https://ariellinfy.github.io/book-keeper/)
 - Julie Dumbrique - [Github](https://github.com/isjules/bookmark-app.git) | [View Live](https://isjules.github.io/bookmark-app/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- bergstenarn - [Github](https://github.com/bergstenarn/book-keeper) | [View Live](https://bergstenarn.github.io/book-keeper/index.html)
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
@@ -506,6 +514,7 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/video-player) | [View Live](https://ariellinfy.github.io/video-player/)
 - Julie Dumbrique - [Github](https://github.com/isjules/custom-video-player.git) | [View Live](https://isjules.github.io/custom-video-player/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- bergstenarn - [Github](https://github.com/bergstenarn/video-player) | [View Live](https://bergstenarn.github.io/video-player/index.html)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
@@ -525,6 +534,7 @@ Check out all of the submissions below! Well done everyone!
 - Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptFormValidation) | [View Live](https://jthinlay.github.io/JavaScriptFormValidation/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Glassmorphism/form-validator/)
+- bergstenarn - [Github](https://github.com/bergstenarn/form-validator) | [View Live](https://bergstenarn.github.io/form-validator/index.html)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
@@ -538,6 +548,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/rock-spock.git) | [View Live](https://isjules.github.io/rock-spock/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - FOLEU Placide - [Github](https://github.com/rigole/Spock-Rock-Game) | [View Live](https://rigole.github.io/Spock-Rock-Game/)
+- bergstenarn - [Github](https://github.com/bergstenarn/spock-rock-game) | [View Live](https://bergstenarn.github.io/spock-rock-game/index.html)
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
@@ -550,6 +561,7 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/nasa-apod) | [View Live](https://ariellinfy.github.io/nasa-apod/)
 - Julie Dumbrique - [Github](https://github.com/isjules/nasa-apod.git) | [View Live](https://isjules.github.io/nasa-apod/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- bergstenarn - [Github](https://github.com/bergstenarn/nasa-apod) | [View Live](https://bergstenarn.github.io/nasa-apod/index.html)
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
@@ -561,6 +573,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/paint-clone.git) | [View Live](https://isjules.github.io/paint-clone/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-canvas-paint) | [View Live](https://jthinlay.github.io/javascript-canvas-paint/)
+- bergstenarn - [Github](https://github.com/bergstenarn/paint-clone) | [View Live](https://bergstenarn.github.io/paint-clone/index.html)
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
@@ -571,6 +584,7 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/pong) | [View Live](https://ariellinfy.github.io/pong/)
 - Julie Dumbrique - [Github](https://github.com/isjules/pong-game.git) | [View Live](https://isjules.github.io/pong-game/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- bergstenarn - [Github](https://github.com/bergstenarn/pong) | [View Live](https://bergstenarn.github.io/pong/index.html)
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
@@ -583,6 +597,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/math-sprint-game.git) | [View Live](https://isjules.github.io/math-sprint-game/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-project-mathSprintGame) | [View Live](https://jthinlay.github.io/javascript-project-mathSprintGame/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- bergstenarn - [Github](https://github.com/bergstenarn/math-sprint-game) | [View Live](https://bergstenarn.github.io/math-sprint-game/index.html)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
@@ -601,6 +616,7 @@ Check out all of the submissions below! Well done everyone!
 - Jampa Thinlay - [Github](https://github.com/jthinlay/JavascriptProjectDragAndDrop) | [View Live](https://jthinlay.github.io/JavascriptProjectDragAndDrop/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Placide FOLEU - [Github](https://github.com/rigole/Task-manager) | [View Live](https://rigole.github.io/Task-manager/)
+- bergstenarn - [Github](https://github.com/bergstenarn/drag-and-drop) | [View Live](https://bergstenarn.github.io/drag-and-drop/index.html)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
@@ -622,6 +638,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/calculator.git) | [View Live](https://isjules.github.io/calculator/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-calculator) | [View Live](https://jthinlay.github.io/javascript-calculator/)
+- bergstenarn - [Github](https://github.com/bergstenarn/calculator) | [View Live](https://bergstenarn.github.io/calculator/index.html)
 - Md Ashad - [Github](https://github.com/AshXD007/Iphone-Calculator) | [View Live](https://ashxd-iphonecalculator.netlify.app/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
@@ -634,6 +651,7 @@ Check out all of the submissions below! Well done everyone!
 - Ariel Lin - [Github](https://github.com/ariellinfy/splash-page) | [View Live](https://ariellinfy.github.io/splash-page/)
 - Julie Dumbrique - [Github](https://github.com/isjules/splash-page.git) | [View Live](https://isjules.github.io/splash-page/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-splash-paga) | [View Live](https://jthinlay.github.io/javascript-splash-paga/)
+- bergstenarn - [Github](https://github.com/bergstenarn/splash-page) | [View Live](https://bergstenarn.github.io/splash-page/index.html)
 
 ### Pig Game - Original: [Github](https://github.com/DeepakRawat24/pig-game)
 
