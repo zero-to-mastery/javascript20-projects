@@ -211,6 +211,7 @@ gg
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
+- Patrick Ganhiwa - [Github](https://github.com/Pats101/Infinit-Scroll) | [Live Demo](https://pats101.github.io/Infinit-Scroll/)
 - Gonca Negis - [Github](https://github.com/celeis/infinite-scroll) | [Live Demo](https://celeis.github.io/infinite-scroll/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/InfiniteCats) [view Live](https://gabrielhangor.github.io/InfiniteCats/)
 - Vimarsh Thapa - [Github](https://github.com/VimarshThapa/infinity-scroll) [view Live](https://vimarshthapa.github.io/infinity-scroll/)
