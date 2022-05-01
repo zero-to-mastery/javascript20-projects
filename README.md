@@ -431,6 +431,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
+- Patrick Ganhiwa - [Github](https://github.com/Pats101/animated-navigation) | [View Live Demo](https://pats101.github.io/animated-navigation/)
 - Devtinator - [Github](https://github.com/Devtinator/Animated-Navigation) | [ViewLive](https://devtinator.github.io/Animated-Navigation/)
 - Russ Perry - [Github](https://github.com/rperry99/navigation-animation) | [ViewLive](https://rperry99.github.io/navigation-animation/)
 - Rick Hallett - [Github](https://github.com/rickhallett/crypto-io) (work in progress! Will be completed by 31/08/2020! [ViewLive](https://rickhallett.github.io/crypto-io-bundled/))
