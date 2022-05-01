@@ -34,6 +34,7 @@ Check out all of the submissions below! Well done everyone!
 - Mohammed-Aymen Benadra - [Github](https://github.com/aymenBenadra/modern-quote-generator) | [Live Demo](https://benadra.me/modern-quote-generator)
 - Stephen Anokwulu - [Github](https://github.com/Stephenanokz/Quote-Generator) [Live Demo](https://stephenanokz.github.io/Quote-Generator/)
 - Julian Sosa - [Github](https://github.com/hijuliancode/js-20-projects/tree/main/01-quote-generator) | [Live Demo](https://hijuliancode.github.io/js-20-projects/01-quote-generator/index.html)
+- Rahul-[Github](https://github.com/rachirah/breif) | [Go Live](https://rachirah.github.io/breif/)
 - Jonathan Reeves - [Github](https://github.com/RedHoodJT1988/async-quote-generator) [Live Demo](https://redhoodjt1988.github.io/async-quote-generator/)
 - Kevin Choi - [Github](https://kevinyc-dri.github.io/template-test/)
 - KasibhatlaMidhun - [Github](https://github.com/KasibhatlaMidhun/quotegenerator) [view Live](https://kasibhatlamidhun.github.io/quotegenerator/)
@@ -201,6 +202,7 @@ gg
 - Ezeniel Rios - [Github](https://github.com/ezenielrios/Quote-Generator) | [View Live](https://ezenielrios.github.io/Quote-Generator/)
 - Caofontaine [Github](https://github.com/caofontaine) | [View live](https://caofontaine.github.io/quote-generator/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://react-infinite-scrolling-7xs1twt63-astrogeek77.vercel.app/)
+- Rahul - [Github](https://github.com/rachirah/infiniteImg) || [Go live](https://rachirah.github.io/infiniteImg/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -309,8 +311,8 @@ gg
 - Julie Dumbrique - [Github](https://github.com/isjules/picture-in-picture.git) | [View Live](https://isjules.github.io/picture-in-picture/)
 - Alberto Gonzalez - [Github](https://github.com/ajsaenz1091/picture-in-picture) | [view Live](https://ajsaenz1091.github.io/picture-in-picture/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Rahul - [Github](https://github.com/rachirah/beliveYourSelf) || [Go Live](https://rachirah.github.io/beliveYourSelf/)
 - bergstenarn - [Github](https://github.com/bergstenarn/picture-in-picture) | [View Live](https://bergstenarn.github.io/picture-in-picture/index.html)
-
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
@@ -351,6 +353,7 @@ gg
 - Julie Dumbrique - [Github](https://github.com/isjules/joke-teller.git) | [View Live](https://isjules.github.io/joke-teller/)
 - Akshay Bhopani - [Github](https://github.com/AKSHAYBHOPANI/JokeTeller) | [View Live](https://akshaybhopani.github.io/JokeTeller/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Rahul - [Github](https://github.com/rachirah/VirtualAgent) || [Go Live with](https://rachirah.github.io/VirtualAgent/)
 - bergstenarn - [Github](https://github.com/bergstenarn/joke-teller) | [View Live](https://bergstenarn.github.io/joke-teller/index.html)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
@@ -383,6 +386,7 @@ gg
 - Ariel Lin - [Github](https://github.com/ariellinfy/light-dark-mode) | [View Live](https://ariellinfy.github.io/light-dark-mode/)
 - Julie Dumbrique - [Github](https://github.com/isjules/light-dark-mode.git) | [View Live](https://isjules.github.io/light-dark-mode/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
+- Rahul - [Github](https://github.com/rachirah/website) || [Go Live](https://rachirah.github.io/website/)
 - bergstenarn - [Github](https://github.com/bergstenarn/light-dark-mode) | [View Live](https://bergstenarn.github.io/light-dark-mode/index.html)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
