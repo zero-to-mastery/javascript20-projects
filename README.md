@@ -23,6 +23,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+- Rossco - [Github](https://github.com/rmchardie/quote-generator) | [Live Demo](https://rmchardie.github.io/quote-generator/)
 - Curtis Warcup - [Github](https://github.com/Cwarcup) | [Live Demo](https://cwarcup.github.io/dad-quotes/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/inspiring-quote-generator) | [View Live Demo](https://pats101.github.io/inspiring-quote-generator/)
 - Monther- [Github] (https://github.com/muntherabdellatif/quote-generator) | [View Live](https://muntherabdellatif.github.io/quote-generator/)
