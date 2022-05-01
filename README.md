@@ -23,6 +23,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+- Roxanne - [Github](https://github.com/roxanneweber/quote-generator) | [Demo](https://rw-js-quote-generator.netlify.app/)
 - Rossco - [Github](https://github.com/rmchardie/quote-generator) | [Live Demo](https://rmchardie.github.io/quote-generator/)
 - Curtis Warcup - [Github](https://github.com/Cwarcup) | [Live Demo](https://cwarcup.github.io/dad-quotes/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/inspiring-quote-generator) | [View Live Demo](https://pats101.github.io/inspiring-quote-generator/)
@@ -697,7 +698,6 @@ Check out all of the submissions below! Well done everyone!
 ### Tic Tac Toe Game - Original: [Github](https://github.com/KishorBalgi/JavaScript-Tic-Tac-Toe-Game)
 
 - Milan Sachani - [Github](https://github.com/Milan-960/Tic-Tac-Toe-Game) | [View Live](https://tic-tac-toem.netlify.app/)
-
 - Kishor Balgi - [Github](https://github.com/KishorBalgi/JavaScript-Tic-Tac-Toe-Game) | [View Live](https://kishorbalgi.github.io/JavaScript-Tic-Tac-Toe-Game/)
 
 ### Todo List - Original: [Github](https://github.com/JacintoDesign/todo-list)
