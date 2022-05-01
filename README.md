@@ -198,6 +198,7 @@ Check out all of the submissions below! Well done everyone!
 - Ezeniel Rios - [Github](https://github.com/ezenielrios/Quote-Generator) | [View Live] (https://ezenielrios.github.io/Quote-Generator/)
 - Caofontaine [Github](https://github.com/caofontaine) | [View live](https://caofontaine.github.io/quote-generator/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://react-infinite-scrolling-7xs1twt63-astrogeek77.vercel.app/)
+- Alinda Byamukama - [Github](https://github.com/alindaByamukama/infinity-scroller) | [View Live](https://alindabyamukama.github.io/infinity-scroller/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
