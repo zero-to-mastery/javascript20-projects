@@ -24,8 +24,8 @@ Check out all of the submissions below! Well done everyone!
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/inspiring-quote-generator) | [View Live Demo](https://pats101.github.io/inspiring-quote-generator/)
-- Monther- [Github] (https://github.com/muntherabdellatif/quote-generator) | [View Live] (https://muntherabdellatif.github.io/quote-generator/)
-- Ibrahim - [Github](https://github.com/piincher/quote-generator-) | [View Live] (https://piincher.github.io/quote-generator-/)
+- Monther- [Github] (https://github.com/muntherabdellatif/quote-generator) | [View Live](https://muntherabdellatif.github.io/quote-generator/)
+- Ibrahim - [Github](https://github.com/piincher/quote-generator-) | [View Live](https://piincher.github.io/quote-generator-/)
 - Nu'man - [Github](https://github.com/numanharith/js20-quote-generator) | [View Live](https://numanharith.github.io/js20-quote-generator/)
 - Maya Pun - [Github](https://github.com/mayapun/quote-generator.git) | [View Live](http://127.0.0.1:5500/quote-generator/index.html)
 - Aviv Elad - [Github](https://github.com/aviv7385/randomQuote) | [Live Demo](https://aviv7385.github.io/randomQuote/)
@@ -177,13 +177,13 @@ Check out all of the submissions below! Well done everyone!
 - vitwits - [Github](https://github.com/vitwits/Quote-Generator) | [View Live](https://vitwits.github.io/Quote-Generator/)
 - Cleon Barretto - [Github](https://github.com/cleonb/random-quote-generator) | [View Live](https://cleonb.github.io/random-quote-generator/)
 - Jonathan Reeves - [Github](https://github.com/RedHoodJT1988/async-quote-generator) [Live Demo](https://redhoodjt1988.github.io/infinite-scroll/)
+- chen yuhao - [Github](https://github.com/cyhfe/quote-generator) | [View Live](https://cyh-quote-genertor.netlify.app/)
 - Erik Hunter - [Github](https://github.com/Ej1seven/Quote-Generator) [Live Demo](https://ej1seven.github.io/Quote-Generator/)
 - Keith Warren - [Github](https://github.com/KeWa-io/quote-generator) | [View Live](https://kewa-io.github.io/quote-generator/)
 - Juanjo Guirao - [Github](https://github.com/freenrg/js-20projects-quote-generator) | [View Live](https://freenrg.github.io/js-20projects-quote-generator/)
 - Johann LEHUEDE - [Github](https://github.com/JohannLHD/Quote-generator) | [View Live](https://johannlhd.github.io/Quote-generator/)
 - Pete Vermeulen - [Github](https://github.com/PeterVermeulen01123/quotegenerator) [Live Demo](https://petervermeulen01123.github.io/quotegenerator/)
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/quote-generator-1.0) | [View Live](https://dwightmckenzie.github.io/quote-generator-1.0/)
-
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
