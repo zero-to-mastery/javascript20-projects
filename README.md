@@ -176,6 +176,7 @@ Check out all of the submissions below! Well done everyone!
 - vitwits - [Github](https://github.com/vitwits/Quote-Generator) | [View Live](https://vitwits.github.io/Quote-Generator/)
 - Cleon Barretto - [Github](https://github.com/cleonb/random-quote-generator) | [View Live](https://cleonb.github.io/random-quote-generator/)
 - Jonathan Reeves - [Github](https://github.com/RedHoodJT1988/async-quote-generator) [Live Demo](https://redhoodjt1988.github.io/infinite-scroll/)
+- Erik Hunter - [Github](https://github.com/Ej1seven/Quote-Generator) [Live Demo](https://ej1seven.github.io/Quote-Generator/)
 - Keith Warren - [Github](https://github.com/KeWa-io/quote-generator) | [View Live](https://kewa-io.github.io/quote-generator/)
 - Juanjo Guirao - [Github](https://github.com/freenrg/js-20projects-quote-generator) | [View Live](https://freenrg.github.io/js-20projects-quote-generator/)
 - Johann LEHUEDE - [Github](https://github.com/JohannLHD/Quote-generator) | [View Live](https://johannlhd.github.io/Quote-generator/)
