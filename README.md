@@ -309,7 +309,7 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Caofontaine/picture-in-picture) | [View Live](https://caofontaine.github.io/picture-in-picture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
-
+- Felipe Ranghetti [Github](https://github.com/FelipeRTT/jokeTeller) | [View Live](felipertt.github.io/joketeller/)
 - Devtinator - [Github](https://github.com/Devtinator/Joke-Teller) | [View Live](https://devtinator.github.io/Joke-Teller/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/JokeRobotApp) [view Live](https://gabrielhangor.github.io/JokeRobotApp/)
 - Russ Perry - [Github](https://github.com/rperry99/joke-teller) | [ViewLive](https://russ-joke-machine.netlify.app/)
