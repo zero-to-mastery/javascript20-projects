@@ -464,6 +464,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
+- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/music-player) | [ViewLive](https://pats101.github.io/music-player/)
 - Devtinator - [Github](https://github.com/Devtinator/Music-Player) | [ViewLive](https://devtinator.github.io/Music-Player/)
 - Russ Perry - [Github](https://github.com/rperry99/javascript-music-player)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/javascript20-projects)
