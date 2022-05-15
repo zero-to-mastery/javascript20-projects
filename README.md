@@ -539,6 +539,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
+- Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/video-player/tree/master) | [View Live](https://pats101.github.io/video-player/)
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/video-player/)
 - Hamza Khan - [Github](https://github.com/salderahamza/video-player/)
 - Anette - [Github](https://github.com/RedSquirrrel/video-player) [ViewLive](https://redsquirrrel.github.io/video-player/)
