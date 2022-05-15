@@ -603,6 +603,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
+- Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/ms-paint-clone) | [View Live](https://pats101.github.io/ms-paint-clone/)
 - Sarwar MD - [Github](https://github.com/Sarwar-Md/just-paint) [View live](https://sarwar-md.github.io/just-paint/)
 - Russ Perry - [Github](https://github.com/rperry99/paint-clone) | [ViewLive](https://rperry99.github.io/paint-clone/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/paint-clone), [Viewlive](https://Carls13.github.io/20-javascript-projects/paint-clone)
