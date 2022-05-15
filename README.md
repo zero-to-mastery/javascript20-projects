@@ -576,6 +576,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
+- Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/spock-rock-game) | [View Live](https://pats101.github.io/spock-rock-game/)
 - Anette [Github](https://github.com/RedSquirrrel/rock-spock) [ViewLive](https://redsquirrrel.github.io/rock-spock/)
 - Russ Perry - [Github](https://github.com/rperry99/spock-rock-game) | [ViewLive](https://rperry99.github.io/spock-rock-game/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/spock-rock-game), [Viewlive](https://Carls13.github.io/20-javascript-projects/spock-rock-game)
