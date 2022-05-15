@@ -499,6 +499,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
+- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/the-countdown) | [ViewLive](https://pats101.github.io/the-countdown/)
 - Russ Perry - [Github](https://github.com/rperry99/custom-countdown) | [ViewLive](https://rperry99.github.io/custom-countdown/)
 - Arianna Choza - [Github](https://github.com/unachoza/countdown) [ViewLive](https://unachoza.github.io/countdown)
 - Hamza Khan - [Github](https://github.com/salderahamza/countdown) [Live](https://salderahamza.github.io/countdown/)
