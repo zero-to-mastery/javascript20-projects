@@ -682,6 +682,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
+- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/splash-page) | [Viewlive](https://pats101.github.io/splash-page/)
 - Anette [Github](https://github.com/RedSquirrrel/splash-page) [ViewLive](https://redsquirrrel.github.io/splash-page/)
 - Russ Perry - [Github](https://github.com/rperry99/splash-page) | [ViewLive](https://rperry99.github.io/splash-page/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/splash-page), [Viewlive](https://Carls13.github.io/20-javascript-projects/splash-page)
