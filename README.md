@@ -658,6 +658,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
+- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/simple-calculator) | [ViewLive](https://pats101.github.io/simple-calculator/)
 - Aishwar Malviya (Sindbad) - [Github](https://aishwarode17.github.io/calculatorApp/) | [View Live](https://aishwarode17.github.io/calculatorApp/)
 - Siddharth Agrawal - [Github](https://github.com/siddharth329/calculator)
 - Steve Tollin - [Github](https://github.com/Webistics/Wild-West-Calculator) [View Live](https://webistics.github.io/Wild-West-Calculator/)
