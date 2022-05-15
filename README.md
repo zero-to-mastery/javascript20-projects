@@ -590,6 +590,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
+- Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/the-nasa-sci-pic) | [View Live](https://pats101.github.io/the-nasa-sci-pic/)
 - Anette [Github](https://github.com/RedSquirrrel/nasa-apod) [ViewLive](https://redsquirrrel.github.io/nasa-apod/)
 - Russ Perry - [Github](https://github.com/rperry99/Nasa-APOD) | [ViewLive](https://rperry99.github.io/Nasa-APOD/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/nasa-api-pictures), [Viewlive](https://Carls13.github.io/20-javascript-projects/nasa-api-pictures)
