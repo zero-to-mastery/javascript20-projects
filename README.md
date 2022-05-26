@@ -23,9 +23,13 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+- Pete Donaghy - [Github](https://github.com/TriplePP/Quote-generator) | [Demo](https://graceful-horse-6709ef.netlify.app/)
+- Roxanne - [Github](https://github.com/roxanneweber/quote-generator) | [Demo](https://rw-js-quote-generator.netlify.app/)
+- Rossco - [Github](https://github.com/rmchardie/quote-generator) | [Live Demo](https://rmchardie.github.io/quote-generator/)
+- Curtis Warcup - [Github](https://github.com/Cwarcup) | [Live Demo](https://cwarcup.github.io/dad-quotes/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/inspiring-quote-generator) | [View Live Demo](https://pats101.github.io/inspiring-quote-generator/)
-- Monther- [Github] (https://github.com/muntherabdellatif/quote-generator) | [View Live] (https://muntherabdellatif.github.io/quote-generator/)
-- Ibrahim - [Github](https://github.com/piincher/quote-generator-) | [View Live] (https://piincher.github.io/quote-generator-/)
+- Monther- [Github] (https://github.com/muntherabdellatif/quote-generator) | [View Live](https://muntherabdellatif.github.io/quote-generator/)
+- Ibrahim - [Github](https://github.com/piincher/quote-generator-) | [View Live](https://piincher.github.io/quote-generator-/)
 - Nu'man - [Github](https://github.com/numanharith/js20-quote-generator) | [View Live](https://numanharith.github.io/js20-quote-generator/)
 - Maya Pun - [Github](https://github.com/mayapun/quote-generator.git) | [View Live](http://127.0.0.1:5500/quote-generator/index.html)
 - Aviv Elad - [Github](https://github.com/aviv7385/randomQuote) | [Live Demo](https://aviv7385.github.io/randomQuote/)
@@ -177,15 +181,22 @@ Check out all of the submissions below! Well done everyone!
 - vitwits - [Github](https://github.com/vitwits/Quote-Generator) | [View Live](https://vitwits.github.io/Quote-Generator/)
 - Cleon Barretto - [Github](https://github.com/cleonb/random-quote-generator) | [View Live](https://cleonb.github.io/random-quote-generator/)
 - Jonathan Reeves - [Github](https://github.com/RedHoodJT1988/async-quote-generator) [Live Demo](https://redhoodjt1988.github.io/infinite-scroll/)
+- Bannoth Trishul Naik - [Github](https://github.com/trishulnaik/js_20/tree/quote_generator) | [View Live](https://quote_generator--papaya-cajeta-c44217.netlify.app/)
+- Sara Abraham - [Github](https://github.com/saraabraham) | [View Live](https://saraabraham.github.io/Quote-Generator/)
+- Martin Shindarski - [Github](https://github.com/MaRtenkata/quote-generator)
+- Tomer Baranes - [GitHub](https://github.com/TomerBaranes/js20-quote-generator) [View Live](https://tomerbaranes.github.io/js20-quote-generator/)
+- chen yuhao - [Github](https://github.com/cyhfe/quote-generator) | [View Live](https://cyh-quote-genertor.netlify.app/)
 - Erik Hunter - [Github](https://github.com/Ej1seven/Quote-Generator) [Live Demo](https://ej1seven.github.io/Quote-Generator/)
 - Keith Warren - [Github](https://github.com/KeWa-io/quote-generator) | [View Live](https://kewa-io.github.io/quote-generator/)
 - Juanjo Guirao - [Github](https://github.com/freenrg/js-20projects-quote-generator) | [View Live](https://freenrg.github.io/js-20projects-quote-generator/)
 - Johann LEHUEDE - [Github](https://github.com/JohannLHD/Quote-generator) | [View Live](https://johannlhd.github.io/Quote-generator/)
 - Pete Vermeulen - [Github](https://github.com/PeterVermeulen01123/quotegenerator) [Live Demo](https://petervermeulen01123.github.io/quotegenerator/)
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/quote-generator-1.0) | [View Live](https://dwightmckenzie.github.io/quote-generator-1.0/)
+- Andre Chetan - [Github](https://github.com/AndreiChetan/Quote-Generator) | [View Live](https://andreichetan.github.io/Quote-Generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
+- Curtis Warcup - [Github](https://github.com/Cwarcup) | [View Live ](https://cwarcup.github.io/infinite_scroll/)
 - Devtinator - [Github](https://github.com/Devtinator/Infinity-Scroll) | [View Live](https://devtinator.github.io/Infinity-Scroll/)
 - Ido Barnea - [Github](https://github.com/barbareshet/quoteGeneretor) | [View Live](https://barbareshet.github.io/quoteGeneretor/)
 - Colombo RIccardo - [Github](https://github.com/ColomboRiccardo/quote-generator) | [View Live](https://colomboriccardo.github.io/quote-generator/)
@@ -368,6 +379,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
+- Patrick Ganhiwa - [Github](https://github.com/Pats101/light-and-dark-mode) | [View Live Demo](https://pats101.github.io/light-and-dark-mode/)
 - Devtinator - [Github](https://github.com/Devtinator/LIght-and-DArk-Mode) | [View LIve](https://devtinator.github.io/LIght-and-DArk-Mode/)
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit) | [ViewLive](https://reefit.netlify.app)
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode) | [ViewLive](https://rperry99.github.io/light-dark-mode/index.html)
@@ -401,6 +413,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
+- Patrick Ganhiwa [Github](https://github.com/Pats101/animated-template)| [View Live Demo](https://pats101.github.io/animated-template/)
 - Devtinator - [Github](https://github.com/Devtinator/Animated-Website) | [ViewLive](https://devtinator.github.io/Animated-Website/)
 - Russ Perry - [Github](https://github.com/rperry99/animation-template) | [ViewLive](https://rperry99.github.io/animation-template/)
 - Ozziel Ruiiz [Github](https://ozzielruiz.github.io/animated-template/)
@@ -427,6 +440,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
+- Patrick Ganhiwa - [Github](https://github.com/Pats101/animated-navigation) | [View Live Demo](https://pats101.github.io/animated-navigation/)
 - Devtinator - [Github](https://github.com/Devtinator/Animated-Navigation) | [ViewLive](https://devtinator.github.io/Animated-Navigation/)
 - Russ Perry - [Github](https://github.com/rperry99/navigation-animation) | [ViewLive](https://rperry99.github.io/navigation-animation/)
 - Rick Hallett - [Github](https://github.com/rickhallett/crypto-io) (work in progress! Will be completed by 31/08/2020! [ViewLive](https://rickhallett.github.io/crypto-io-bundled/))
@@ -501,6 +515,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/custom-countdown.git) | [View Live](https://isjules.github.io/custom-countdown/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/new-year-countdown/)
+- Eesuola Ayotunde - [Github](https://github.com/E-tim/countDownTimer) | [View Live](https://confident-swanson-9e5557.netlify.app/)
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/custom-countdown-1.0) | [View Live](https://dwightmckenzie.github.io/custom-countdown-1.0/)
 - bergstenarn - [Github](https://github.com/bergstenarn/custom-countdown) | [View Live](https://bergstenarn.github.io/custom-countdown/index.html)
 
@@ -662,6 +677,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/calculator.git) | [View Live](https://isjules.github.io/calculator/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-calculator) | [View Live](https://jthinlay.github.io/javascript-calculator/)
+- Pranav Pillai - [Github](https://github.com/pranav1597/CalC) | [View Live](https://pranav1597.github.io/CalC/)
 - bergstenarn - [Github](https://github.com/bergstenarn/calculator) | [View Live](https://bergstenarn.github.io/calculator/index.html)
 - Md Ashad - [Github](https://github.com/AshXD007/Iphone-Calculator) | [View Live](https://ashxd-iphonecalculator.netlify.app/)
 
@@ -685,12 +701,12 @@ Check out all of the submissions below! Well done everyone!
 
 ### Tic Tac Toe Game - Original: [Github](https://github.com/KishorBalgi/JavaScript-Tic-Tac-Toe-Game)
 
+- Milan Sachani - [Github](https://github.com/Milan-960/Tic-Tac-Toe-Game) | [View Live](https://tic-tac-toem.netlify.app/)
 - Kishor Balgi - [Github](https://github.com/KishorBalgi/JavaScript-Tic-Tac-Toe-Game) | [View Live](https://kishorbalgi.github.io/JavaScript-Tic-Tac-Toe-Game/)
 
 ### Todo List - Original: [Github](https://github.com/JacintoDesign/todo-list)
 
 - Ayman A. [Github](https://github.com/aymanxdev/shopping-list-ejs)
-- Tobias Rauer - [Github](https://github.com/prototowb/habitual-splash-page) | [View Live](https://prototowb.github.io/habitual-splash-page/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Kishor Balgi - [Github](https://github.com/KishorBalgi/To-do-list) | [View Live](https://kishorbalgi.github.io/To-do-list/)
 - Gurjeet Singh Virdee - [Github](https://github.com/gurjeetsinghvirdee/Todo-app) | [View Live](https://todo-app-9da99.web.app/)
