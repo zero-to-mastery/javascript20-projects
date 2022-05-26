@@ -572,6 +572,7 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - FOLEU Placide - [Github](https://github.com/rigole/Spock-Rock-Game) | [View Live](https://rigole.github.io/Spock-Rock-Game/)
 - bergstenarn - [Github](https://github.com/bergstenarn/spock-rock-game) | [View Live](https://bergstenarn.github.io/spock-rock-game/index.html)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/spock-rock-game-1.0) | [View Live](https://dwightmckenzie.github.io/spock-rock-game-1.0/)
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
