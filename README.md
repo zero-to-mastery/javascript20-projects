@@ -194,7 +194,6 @@ Check out all of the submissions below! Well done everyone!
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/quote-generator-1.0) | [View Live](https://dwightmckenzie.github.io/quote-generator-1.0/)
 - Andre Chetan - [Github](https://github.com/AndreiChetan/Quote-Generator) | [View Live](https://andreichetan.github.io/Quote-Generator/)
 - Jahmaine Shiloh - [Github](https://github.com/Skullomanic84/quote-generator) | [View Live](https://quote-generator-pi-vert.vercel.app/)
--
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
