@@ -197,6 +197,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
+- Subham Bhadra - [Github](https://github.com/subham-04/Infinite-Scroll) | [Live Demo](https://subham-04.github.io/Infinite-Scroll/)
 - Curtis Warcup - [Github](https://github.com/Cwarcup) | [View Live ](https://cwarcup.github.io/infinite_scroll/)
 - Devtinator - [Github](https://github.com/Devtinator/Infinity-Scroll) | [View Live](https://devtinator.github.io/Infinity-Scroll/)
 - Ido Barnea - [Github](https://github.com/barbareshet/quoteGeneretor) | [View Live](https://barbareshet.github.io/quoteGeneretor/)
