@@ -615,7 +615,6 @@ Check out all of the submissions below! Well done everyone!
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
-- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/ping-pong-game) | [ViewLive](https://pats101.github.io/ping-pong-game/)
 - Huang YiTing - [Github](https://github.com/yiting76/ricarball) [ViewLive](https://yiting76.github.io/ricarball/)
 - Russ Perry - [Github](https://github.com/rperry99/pong-clone) | [ViewLive](https://rperry99.github.io/pong-clone/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/pong), [Viewlive](https://Carls13.github.io/20-javascript-projects/pong)
@@ -624,6 +623,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/pong-game.git) | [View Live](https://isjules.github.io/pong-game/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - bergstenarn - [Github](https://github.com/bergstenarn/pong) | [View Live](https://bergstenarn.github.io/pong/index.html)
+- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/ping-pong-game) | [ViewLive](https://pats101.github.io/ping-pong-game/)
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
