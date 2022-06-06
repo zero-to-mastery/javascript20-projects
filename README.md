@@ -658,7 +658,6 @@ Check out all of the submissions below! Well done everyone!
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
-- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/simple-calculator) | [ViewLive](https://pats101.github.io/simple-calculator/)
 - Aishwar Malviya (Sindbad) - [Github](https://aishwarode17.github.io/calculatorApp/) | [View Live](https://aishwarode17.github.io/calculatorApp/)
 - Siddharth Agrawal - [Github](https://github.com/siddharth329/calculator)
 - Steve Tollin - [Github](https://github.com/Webistics/Wild-West-Calculator) [View Live](https://webistics.github.io/Wild-West-Calculator/)
@@ -680,6 +679,7 @@ Check out all of the submissions below! Well done everyone!
 - Pranav Pillai - [Github](https://github.com/pranav1597/CalC) | [View Live](https://pranav1597.github.io/CalC/)
 - bergstenarn - [Github](https://github.com/bergstenarn/calculator) | [View Live](https://bergstenarn.github.io/calculator/index.html)
 - Md Ashad - [Github](https://github.com/AshXD007/Iphone-Calculator) | [View Live](https://ashxd-iphonecalculator.netlify.app/)
+- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/simple-calculator) | [ViewLive](https://pats101.github.io/simple-calculator/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
