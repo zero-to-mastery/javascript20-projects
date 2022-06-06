@@ -499,7 +499,6 @@ Check out all of the submissions below! Well done everyone!
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
-- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/the-countdown) | [ViewLive](https://pats101.github.io/the-countdown/)
 - Russ Perry - [Github](https://github.com/rperry99/custom-countdown) | [ViewLive](https://rperry99.github.io/custom-countdown/)
 - Arianna Choza - [Github](https://github.com/unachoza/countdown) [ViewLive](https://unachoza.github.io/countdown)
 - Hamza Khan - [Github](https://github.com/salderahamza/countdown) [Live](https://salderahamza.github.io/countdown/)
@@ -520,6 +519,7 @@ Check out all of the submissions below! Well done everyone!
 - Eesuola Ayotunde - [Github](https://github.com/E-tim/countDownTimer) | [View Live](https://confident-swanson-9e5557.netlify.app/)
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/custom-countdown-1.0) | [View Live](https://dwightmckenzie.github.io/custom-countdown-1.0/)
 - bergstenarn - [Github](https://github.com/bergstenarn/custom-countdown) | [View Live](https://bergstenarn.github.io/custom-countdown/index.html)
+- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/the-countdown) | [ViewLive](https://pats101.github.io/the-countdown/)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
