@@ -404,7 +404,6 @@ Check out all of the submissions below! Well done everyone!
 - Umberto Di Napoli - [Github](https://github.com/Khelthos/light-dark-mode), [Viewlive](https://khelthos.github.io/light-dark-mode/)
 - Simone Taeggi - [Github](https://github.com/simotae14/light-dark-mode-tae) | [ViewLive](https://simotae14.github.io/light-dark-mode-tae/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/light-dark-mode) | [View Live](https://youmorcant.github.io/light-dark-mode/)
-
 - Bhairavi Shah - [Github](https://github.com/Bhairavi-shah/Dark-Light-Mode) | [View Live](https://bhairavi-shah.github.io/Dark-Light-Mode/)
 - Lingxiao Huang - [Github](https://github.com/JasonHuang1213/Dark-light-mode) | [View Live](https://jasonhuang1213.github.io/Dark-light-mode/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/light-dark-mode) | [View Live](https://ariellinfy.github.io/light-dark-mode/)
@@ -555,6 +554,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/custom-video-player.git) | [View Live](https://isjules.github.io/custom-video-player/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - bergstenarn - [Github](https://github.com/bergstenarn/video-player) | [View Live](https://bergstenarn.github.io/video-player/index.html)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/video-player-1.0) | [View Live](https://dwightmckenzie.github.io/video-player-1.0/)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
@@ -589,6 +589,7 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - FOLEU Placide - [Github](https://github.com/rigole/Spock-Rock-Game) | [View Live](https://rigole.github.io/Spock-Rock-Game/)
 - bergstenarn - [Github](https://github.com/bergstenarn/spock-rock-game) | [View Live](https://bergstenarn.github.io/spock-rock-game/index.html)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/spock-rock-game-1.0) | [View Live](https://dwightmckenzie.github.io/spock-rock-game-1.0/)
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
