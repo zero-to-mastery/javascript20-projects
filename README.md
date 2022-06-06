@@ -639,7 +639,6 @@ Check out all of the submissions below! Well done everyone!
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
-- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/backlog-site) | [ViewLive](https://pats101.github.io/backlog-site/)
 - Khalil Shakhi (Farsi) - [Github](https://github.com/shakhi95/kanban-board) | [Demo](https://shakhi95.github.io/kanban-board/)
 - Marius Bogdanel - [Github](https://github.com/mbogdanel/kanban-board) [ViewLive](https://mbogdanel.github.io/kanban-board/)
 - Anette [Github](https://github.com/RedSquirrrel/kanban-board) [ViewLive](https://redsquirrrel.github.io/kanban-board/)
@@ -656,6 +655,7 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Placide FOLEU - [Github](https://github.com/rigole/Task-manager) | [View Live](https://rigole.github.io/Task-manager/)
 - bergstenarn - [Github](https://github.com/bergstenarn/drag-and-drop) | [View Live](https://bergstenarn.github.io/drag-and-drop/index.html)
+- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/backlog-site) | [ViewLive](https://pats101.github.io/backlog-site/)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
