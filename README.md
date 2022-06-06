@@ -576,7 +576,6 @@ Check out all of the submissions below! Well done everyone!
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
-- Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/spock-rock-game) | [View Live](https://pats101.github.io/spock-rock-game/)
 - Anette [Github](https://github.com/RedSquirrrel/rock-spock) [ViewLive](https://redsquirrrel.github.io/rock-spock/)
 - Russ Perry - [Github](https://github.com/rperry99/spock-rock-game) | [ViewLive](https://rperry99.github.io/spock-rock-game/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/spock-rock-game), [Viewlive](https://Carls13.github.io/20-javascript-projects/spock-rock-game)
@@ -588,6 +587,7 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - FOLEU Placide - [Github](https://github.com/rigole/Spock-Rock-Game) | [View Live](https://rigole.github.io/Spock-Rock-Game/)
 - bergstenarn - [Github](https://github.com/bergstenarn/spock-rock-game) | [View Live](https://bergstenarn.github.io/spock-rock-game/index.html)
+- Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/spock-rock-game) | [View Live](https://pats101.github.io/spock-rock-game/)
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
