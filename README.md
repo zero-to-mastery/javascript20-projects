@@ -622,6 +622,7 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-canvas-paint) | [View Live](https://jthinlay.github.io/javascript-canvas-paint/)
 - bergstenarn - [Github](https://github.com/bergstenarn/paint-clone) | [View Live](https://bergstenarn.github.io/paint-clone/index.html)
+- Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/ms-paint-clone) | [View Live](https://pats101.github.io/ms-paint-clone/)
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
