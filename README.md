@@ -558,6 +558,7 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - bergstenarn - [Github](https://github.com/bergstenarn/video-player) | [View Live](https://bergstenarn.github.io/video-player/index.html)
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/video-player-1.0) | [View Live](https://dwightmckenzie.github.io/video-player-1.0/)
+- Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/video-player) | [View Live](https://pats101.github.io/video-player/)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
