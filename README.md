@@ -28,7 +28,7 @@ Check out all of the submissions below! Well done everyone!
 - Rossco - [Github](https://github.com/rmchardie/quote-generator) | [Live Demo](https://rmchardie.github.io/quote-generator/)
 - Curtis Warcup - [Github](https://github.com/Cwarcup) | [Live Demo](https://cwarcup.github.io/dad-quotes/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/inspiring-quote-generator) | [View Live Demo](https://pats101.github.io/inspiring-quote-generator/)
-- Monther- [Github] (https://github.com/muntherabdellatif/quote-generator) | [View Live](https://muntherabdellatif.github.io/quote-generator/)
+- Monther- [Github](https://github.com/muntherabdellatif/quote-generator) | [View Live](https://muntherabdellatif.github.io/quote-generator/)
 - Ibrahim - [Github](https://github.com/piincher/quote-generator-) | [View Live](https://piincher.github.io/quote-generator-/)
 - Nu'man - [Github](https://github.com/numanharith/js20-quote-generator) | [View Live](https://numanharith.github.io/js20-quote-generator/)
 - Maya Pun - [Github](https://github.com/mayapun/quote-generator.git) | [View Live](http://127.0.0.1:5500/quote-generator/index.html)
