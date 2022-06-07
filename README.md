@@ -705,6 +705,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/splash-page.git) | [View Live](https://isjules.github.io/splash-page/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-splash-paga) | [View Live](https://jthinlay.github.io/javascript-splash-paga/)
 - bergstenarn - [Github](https://github.com/bergstenarn/splash-page) | [View Live](https://bergstenarn.github.io/splash-page/index.html)
+- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/splash-page) | [Viewlive](https://pats101.github.io/splash-page/)
 
 ### Pig Game - Original: [Github](https://github.com/DeepakRawat24/pig-game)
 
