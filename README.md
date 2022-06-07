@@ -224,7 +224,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
-- Patrick Ganhiwa - [Github](https://github.com/Pats101/Infinit-Scroll) | [Live Demo](https://pats101.github.io/Infinit-Scroll/)
+- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/Infinit-Scroll) | [Live Demo](https://pats101.github.io/Infinit-Scroll/)
 - Gonca Negis - [Github](https://github.com/celeis/infinite-scroll) | [Live Demo](https://celeis.github.io/infinite-scroll/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/InfiniteCats) [view Live](https://gabrielhangor.github.io/InfiniteCats/)
 - Vimarsh Thapa - [Github](https://github.com/VimarshThapa/infinity-scroll) [view Live](https://vimarshthapa.github.io/infinity-scroll/)
@@ -290,7 +290,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
-- Patrick Ganhiwa - [Github](https://github.com/Pats101/pic-in-pic) | [View Live Demo](https://pats101.github.io/pic-in-pic/)
+- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/pic-in-pic) | [View Live Demo](https://pats101.github.io/pic-in-pic/)
 - Devtinator - [Github](https://github.com/Devtinator/Picture-in-Picture) | [View Live](https://devtinator.github.io/Picture-in-Picture/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/PictureInPicture) [view Live](https://gabrielhangor.github.io/PictureInPicture/)
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/js20-picture-in-picture) [ViewLive](https://mister-josuecedeno.github.io/js20-picture-in-picture/)
@@ -337,7 +337,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
-- Patrick Ganhiwa - [Github](https://github.com/Pats101/joke-cracker) | [View Live Demo](https://pats101.github.io/joke-cracker/)
+- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/joke-cracker) | [View Live Demo](https://pats101.github.io/joke-cracker/)
 - Devtinator - [Github](https://github.com/Devtinator/Joke-Teller) | [View Live](https://devtinator.github.io/Joke-Teller/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/JokeRobotApp) [view Live](https://gabrielhangor.github.io/JokeRobotApp/)
 - Russ Perry - [Github](https://github.com/rperry99/joke-teller) | [ViewLive](https://russ-joke-machine.netlify.app/)
@@ -381,7 +381,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
-- Patrick Ganhiwa - [Github](https://github.com/Pats101/light-and-dark-mode) | [View Live Demo](https://pats101.github.io/light-and-dark-mode/)
+- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/light-and-dark-mode) | [View Live Demo](https://pats101.github.io/light-and-dark-mode/)
 - Devtinator - [Github](https://github.com/Devtinator/LIght-and-DArk-Mode) | [View LIve](https://devtinator.github.io/LIght-and-DArk-Mode/)
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit) | [ViewLive](https://reefit.netlify.app)
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode) | [ViewLive](https://rperry99.github.io/light-dark-mode/index.html)
@@ -415,7 +415,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
-- Patrick Ganhiwa [Github](https://github.com/Pats101/animated-template)| [View Live Demo](https://pats101.github.io/animated-template/)
+- Patrick Tonderai Ganhiwa [Github](https://github.com/Pats101/animated-template)| [View Live Demo](https://pats101.github.io/animated-template/)
 - Devtinator - [Github](https://github.com/Devtinator/Animated-Website) | [ViewLive](https://devtinator.github.io/Animated-Website/)
 - Russ Perry - [Github](https://github.com/rperry99/animation-template) | [ViewLive](https://rperry99.github.io/animation-template/)
 - Ozziel Ruiiz [Github](https://ozzielruiz.github.io/animated-template/)
@@ -442,7 +442,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
-- Patrick Ganhiwa - [Github](https://github.com/Pats101/animated-navigation) | [View Live Demo](https://pats101.github.io/animated-navigation/)
+- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/animated-navigation) | [View Live Demo](https://pats101.github.io/animated-navigation/)
 - Devtinator - [Github](https://github.com/Devtinator/Animated-Navigation) | [ViewLive](https://devtinator.github.io/Animated-Navigation/)
 - Russ Perry - [Github](https://github.com/rperry99/navigation-animation) | [ViewLive](https://rperry99.github.io/navigation-animation/)
 - Rick Hallett - [Github](https://github.com/rickhallett/crypto-io) (work in progress! Will be completed by 31/08/2020! [ViewLive](https://rickhallett.github.io/crypto-io-bundled/))
@@ -537,6 +537,7 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/bookmark-app-1.0) | [View Live](https://dwightmckenzie.github.io/bookmark-app-1.0/)
 - bergstenarn - [Github](https://github.com/bergstenarn/book-keeper) | [View Live](https://bergstenarn.github.io/book-keeper/index.html)
+- Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/backlog-site) | [View Live](https://pats101.github.io/bookmark-sites/)
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
