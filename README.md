@@ -497,6 +497,7 @@ Check out all of the submissions below! Well done everyone!
 - bergstenarn - [Github](https://github.com/bergstenarn/music-player) | [View Live](https://bergstenarn.github.io/music-player/index.html)
 - Sridarshan - [Github](https://github.com/sridarshan-webjava/Music-Player) | [View Live](https://sridarshan-webjava.github.io/Music-Player/)
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/music-player-1.0) | [View Live](https://dwightmckenzie.github.io/music-player-1.0/)
+- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/music-player) | [ViewLive](https://pats101.github.io/music-player/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
