@@ -579,6 +579,7 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Glassmorphism/form-validator/)
 - bergstenarn - [Github](https://github.com/bergstenarn/form-validator) | [View Live](https://bergstenarn.github.io/form-validator/index.html)
+- Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/form-validator) | [View Live](https://pats101.github.io/form-validator/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
