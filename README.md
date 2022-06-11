@@ -194,6 +194,7 @@ Check out all of the submissions below! Well done everyone!
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/quote-generator-1.0) | [View Live](https://dwightmckenzie.github.io/quote-generator-1.0/)
 - Andre Chetan - [Github](https://github.com/AndreiChetan/Quote-Generator) | [View Live](https://andreichetan.github.io/Quote-Generator/)
 - Francisco Aveiro - [Github](https://github.com/FAveiro/quoteGenerator) | [Demo](https://faveiroquotegenerator.netlify.app/)
+- Shariq - [Github](https://github.com/cosmicqbit/cosmicqbit.github.io/blob/main/quote-generator) | [Demo](https://cosmicqbit.github.io/quote-generator)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -221,6 +222,7 @@ Check out all of the submissions below! Well done everyone!
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/infinite-scroll-1.0) | [View Live](https://dwightmckenzie.github.io/infinite-scroll-1.0/)
 - Rahul - [Github](https://github.com/rachirah/infiniteImg) || [Go live](https://rachirah.github.io/infiniteImg/)
 - Farhaan Patel - [Github](https://github.com/happi89) | [View Live ](https://happi89.github.io/infinity-scroll/)
+- Shariq = [Github](https://cosmicqbit.github.io/infinite-scroll) | [Demo](https://cosmicqbit.github.io/infinite-scroll)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
