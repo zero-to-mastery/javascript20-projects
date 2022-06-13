@@ -194,6 +194,7 @@ Check out all of the submissions below! Well done everyone!
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/quote-generator-1.0) | [View Live](https://dwightmckenzie.github.io/quote-generator-1.0/)
 - Andre Chetan - [Github](https://github.com/AndreiChetan/Quote-Generator) | [View Live](https://andreichetan.github.io/Quote-Generator/)
 - Francisco Aveiro - [Github](https://github.com/FAveiro/quoteGenerator) | [Demo](https://faveiroquotegenerator.netlify.app/)
+- Shariq - [Github](https://github.com/cosmicqbit/cosmicqbit.github.io/blob/main/quote-generator) | [Demo](https://cosmicqbit.github.io/quote-generator)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -221,6 +222,7 @@ Check out all of the submissions below! Well done everyone!
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/infinite-scroll-1.0) | [View Live](https://dwightmckenzie.github.io/infinite-scroll-1.0/)
 - Rahul - [Github](https://github.com/rachirah/infiniteImg) || [Go live](https://rachirah.github.io/infiniteImg/)
 - Farhaan Patel - [Github](https://github.com/happi89) | [View Live ](https://happi89.github.io/infinity-scroll/)
+- Shariq - [Github](https://cosmicqbit.github.io/infinite-scroll) | [Demo](https://cosmicqbit.github.io/infinite-scroll)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -236,7 +238,7 @@ Check out all of the submissions below! Well done everyone!
 - Paul Gelario - [Github](https://pauldavid23.github.io/InfiniteScrollAPI/)
 - Hasan Cobanoglu - [Github](https://github.com/hasancbngl/JsWeb20Projects/tree/master/2-InfinityScroll) | [View Live](https://hasancbngl.github.io/js20webprojects/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Unsplashed-Infinite-Scroller)
-- Shawn Gillespie - [Github](https://github.com/ShawnGillespie/unsplash-infinite-scroll) [ViewLive](https://shawngillespie.github.io/unsplash-infinite-scroll)
+- Shawn Gillespie - [Github](https://github.com/ShawnGillespie/unsplash-infinite-scroll) | [ViewLive](https://shawngillespie.github.io/unsplash-infinite-scroll)
 - Soojin - [Github](https://github.com/ehdgodgka/js20-infinity-scroll) [ViewLive](https://ehdgodgka.github.io/js20-infinity-scroll/)
 - Sam Kach - [Github](https://github.com/rizamoyi/infinite-scroll)
 - Alaa - [Github](https://github.com/alaa140101/InfinityScroll) [ViewLive](https://alaa140101.github.io/InfinityScroll/)
@@ -334,6 +336,7 @@ Check out all of the submissions below! Well done everyone!
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/pic-in-pic-1.0) | [View Live](https://dwightmckenzie.github.io/pic-in-pic-1.0/)
 - Rahul - [Github](https://github.com/rachirah/beliveYourSelf) || [Go Live](https://rachirah.github.io/beliveYourSelf/)
 - bergstenarn - [Github](https://github.com/bergstenarn/picture-in-picture) | [View Live](https://bergstenarn.github.io/picture-in-picture/index.html)
+- Shariq - [Github](https://github.com/cosmicqbit/cosmicqbit.github.io/tree/main/picture-in-picture) | [View Live](https://cosmicqbit.github.io/picture-in-picture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
