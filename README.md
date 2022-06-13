@@ -334,6 +334,7 @@ Check out all of the submissions below! Well done everyone!
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/pic-in-pic-1.0) | [View Live](https://dwightmckenzie.github.io/pic-in-pic-1.0/)
 - Rahul - [Github](https://github.com/rachirah/beliveYourSelf) || [Go Live](https://rachirah.github.io/beliveYourSelf/)
 - bergstenarn - [Github](https://github.com/bergstenarn/picture-in-picture) | [View Live](https://bergstenarn.github.io/picture-in-picture/index.html)
+- Farhaan Patel - [Github](https://github.com/happi89/Picture-In-Picture) | [View Live](https://happi89.github.io/Picture-In-Picture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
@@ -378,6 +379,7 @@ Check out all of the submissions below! Well done everyone!
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/joke-teller-1.0) | [View Live](https://dwightmckenzie.github.io/joke-teller-1.0/)
 - Rahul - [Github](https://github.com/rachirah/VirtualAgent) || [Go Live with](https://rachirah.github.io/VirtualAgent/)
 - bergstenarn - [Github](https://github.com/bergstenarn/joke-teller) | [View Live](https://bergstenarn.github.io/joke-teller/index.html)
+- Farhaan Patel - [Github](https://github.com/happi89/joke-teller) | [View Live](https://happi89.github.io/joke-teller/)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
