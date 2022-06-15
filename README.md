@@ -601,6 +601,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/nasa-apod.git) | [View Live](https://isjules.github.io/nasa-apod/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - bergstenarn - [Github](https://github.com/bergstenarn/nasa-apod) | [View Live](https://bergstenarn.github.io/nasa-apod/index.html)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/nasa-api-pictures-1.0) | [View Live](https://dwightmckenzie.github.io/nasa-api-pictures-1.0/)
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
