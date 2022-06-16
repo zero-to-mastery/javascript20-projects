@@ -181,7 +181,7 @@ Check out all of the submissions below! Well done everyone!
 - vitwits - [Github](https://github.com/vitwits/Quote-Generator) | [View Live](https://vitwits.github.io/Quote-Generator/)
 - Cleon Barretto - [Github](https://github.com/cleonb/random-quote-generator) | [View Live](https://cleonb.github.io/random-quote-generator/)
 - Jonathan Reeves - [Github](https://github.com/RedHoodJT1988/async-quote-generator) [Live Demo](https://redhoodjt1988.github.io/infinite-scroll/)
-- Alinda Byamukama - [Github](https://githun.com/alindaByamukama/quote-generator) | [Live Demo](https://alindabyamukama.github.io/quote-generator/)
+- Alinda Byamukama - [Github](https://github.com/alindaByamukama/quote-generator) | [Live Demo](https://alindabyamukama.github.io/quote-generator/)
 - Bannoth Trishul Naik - [Github](https://github.com/trishulnaik/js_20/tree/quote_generator) | [View Live](https://quote_generator--papaya-cajeta-c44217.netlify.app/)
 - Sara Abraham - [Github](https://github.com/saraabraham) | [View Live](https://saraabraham.github.io/Quote-Generator/)
 - Martin Shindarski - [Github](https://github.com/MaRtenkata/quote-generator)
