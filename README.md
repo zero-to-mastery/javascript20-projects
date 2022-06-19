@@ -196,6 +196,7 @@ Check out all of the submissions below! Well done everyone!
 - Francisco Aveiro - [Github](https://github.com/FAveiro/quoteGenerator) | [Demo](https://faveiroquotegenerator.netlify.app/)
 - Shariq - [Github](https://github.com/cosmicqbit/cosmicqbit.github.io/blob/main/quote-generator) | [Demo](https://cosmicqbit.github.io/quote-generator)
 - Rudy Gonzalez - [Github](https://github.com/rglez89/quote-generator.git) | [View Live](https://rglez89.github.io/quote-generator/)
+- Reyner Veliz - [Github](https://github.com/rveliza/quote-generator) | [Demo](https://rveliza.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
