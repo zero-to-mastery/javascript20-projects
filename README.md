@@ -181,6 +181,7 @@ Check out all of the submissions below! Well done everyone!
 - vitwits - [Github](https://github.com/vitwits/Quote-Generator) | [View Live](https://vitwits.github.io/Quote-Generator/)
 - Cleon Barretto - [Github](https://github.com/cleonb/random-quote-generator) | [View Live](https://cleonb.github.io/random-quote-generator/)
 - Jonathan Reeves - [Github](https://github.com/RedHoodJT1988/async-quote-generator) [Live Demo](https://redhoodjt1988.github.io/infinite-scroll/)
+- Alinda Byamukama - [Github](https://github.com/alindaByamukama/quote-generator) | [Live Demo](https://alindabyamukama.github.io/quote-generator/)
 - Bannoth Trishul Naik - [Github](https://github.com/trishulnaik/js_20/tree/quote_generator) | [View Live](https://quote_generator--papaya-cajeta-c44217.netlify.app/)
 - Sara Abraham - [Github](https://github.com/saraabraham) | [View Live](https://saraabraham.github.io/Quote-Generator/)
 - Martin Shindarski - [Github](https://github.com/MaRtenkata/quote-generator)
@@ -196,7 +197,8 @@ Check out all of the submissions below! Well done everyone!
 - Francisco Aveiro - [Github](https://github.com/FAveiro/quoteGenerator) | [Demo](https://faveiroquotegenerator.netlify.app/)
 - Shariq - [Github](https://github.com/cosmicqbit/cosmicqbit.github.io/blob/main/quote-generator) | [Demo](https://cosmicqbit.github.io/quote-generator)
 - Rudy Gonzalez - [Github](https://github.com/rglez89/quote-generator.git) | [View Live](https://rglez89.github.io/quote-generator/)
-- Reyner Veliz - [Github](https://github.com/rveliza/quote-generator) | [Demo](https://rveliza.github.io/quote-generator/)
+- Reyner Veliz - [Github](https://github.com/rveliza/quote-generator) | [Demo](https://rveliza.github.io/quote-generator/
+- Niraj Gupta - [Github](https://https://github.com/nirajguptasde/ztm-ca-quote-generator) | [Live Demo](https://nirajguptasde.github.io/ztm-ca-quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -221,6 +223,7 @@ Check out all of the submissions below! Well done everyone!
 - Ezeniel Rios - [Github](https://github.com/ezenielrios/Quote-Generator) | [View Live](https://ezenielrios.github.io/Quote-Generator/)
 - Caofontaine [Github](https://github.com/caofontaine) | [View live](https://caofontaine.github.io/quote-generator/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://react-infinite-scrolling-7xs1twt63-astrogeek77.vercel.app/)
+- Alinda Byamukama - [Github](https://github.com/alindaByamukama/infinity-scroller) | [View Live](https://alindabyamukama.github.io/infinity-scroller/)
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/infinite-scroll-1.0) | [View Live](https://dwightmckenzie.github.io/infinite-scroll-1.0/)
 - Rahul - [Github](https://github.com/rachirah/infiniteImg) || [Go live](https://rachirah.github.io/infiniteImg/)
 - Farhaan Patel - [Github](https://github.com/happi89) | [View Live ](https://happi89.github.io/infinity-scroll/)
