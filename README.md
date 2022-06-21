@@ -199,6 +199,7 @@ Check out all of the submissions below! Well done everyone!
 - Rudy Gonzalez - [Github](https://github.com/rglez89/quote-generator.git) | [View Live](https://rglez89.github.io/quote-generator/)
 - Reyner Veliz - [Github](https://github.com/rveliza/quote-generator) | [Demo](https://rveliza.github.io/quote-generator/
 - Niraj Gupta - [Github](https://https://github.com/nirajguptasde/ztm-ca-quote-generator) | [Live Demo](https://nirajguptasde.github.io/ztm-ca-quote-generator/)
+- Evgeniy Galkovskiy - [Github](https://github.com/ZheGal/javascript-demos/tree/master/quotes) | [Live Demo](https://zhegal.github.io/javascript-demos/quotes) 
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
