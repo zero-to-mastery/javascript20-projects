@@ -584,6 +584,7 @@ Check out all of the submissions below! Well done everyone!
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Glassmorphism/form-validator/)
 - bergstenarn - [Github](https://github.com/bergstenarn/form-validator) | [View Live](https://bergstenarn.github.io/form-validator/index.html)
 - Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/form-validator) | [View Live](https://pats101.github.io/form-validator/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/form-validation-1.0) | [View Live](https://dwightmckenzie.github.io/form-validation-1.0/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
@@ -654,6 +655,7 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - bergstenarn - [Github](https://github.com/bergstenarn/math-sprint-game) | [View Live](https://bergstenarn.github.io/math-sprint-game/index.html)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/math-game-sprint) | [ViewLive](https://pats101.github.io/math-game-sprint/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/math-sprint-game-1.0) | [View Live](https://dwightmckenzie.github.io/math-sprint-game-1.0/)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
