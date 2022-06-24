@@ -199,7 +199,7 @@ Check out all of the submissions below! Well done everyone!
 - Rudy Gonzalez - [Github](https://github.com/rglez89/quote-generator.git) | [View Live](https://rglez89.github.io/quote-generator/)
 - Reyner Veliz - [Github](https://github.com/rveliza/quote-generator) | [Demo](https://rveliza.github.io/quote-generator/
 - Niraj Gupta - [Github](https://https://github.com/nirajguptasde/ztm-ca-quote-generator) | [Live Demo](https://nirajguptasde.github.io/ztm-ca-quote-generator/)
-- Evgeniy Galkovskiy - [Github](https://github.com/ZheGal/javascript-demos/tree/master/quotes) | [Live Demo](https://zhegal.github.io/javascript-demos/quotes) 
+- Evgeniy Galkovskiy - [Github](https://github.com/ZheGal/javascript-demos/tree/master/quotes) | [Live Demo](https://zhegal.github.io/javascript-demos/quotes)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -229,6 +229,7 @@ Check out all of the submissions below! Well done everyone!
 - Rahul - [Github](https://github.com/rachirah/infiniteImg) || [Go live](https://rachirah.github.io/infiniteImg/)
 - Farhaan Patel - [Github](https://github.com/happi89) | [View Live ](https://happi89.github.io/infinity-scroll/)
 - Shariq - [Github](https://cosmicqbit.github.io/infinite-scroll) | [Demo](https://cosmicqbit.github.io/infinite-scroll)
+- Rudy Gonzalez - [Github](https://github.com/rglez89/Infinite-scroll) | [View Live](https://rglez89.github.io/Infinite-scroll/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -590,6 +591,7 @@ Check out all of the submissions below! Well done everyone!
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Glassmorphism/form-validator/)
 - bergstenarn - [Github](https://github.com/bergstenarn/form-validator) | [View Live](https://bergstenarn.github.io/form-validator/index.html)
 - Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/form-validator) | [View Live](https://pats101.github.io/form-validator/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/form-validation-1.0) | [View Live](https://dwightmckenzie.github.io/form-validation-1.0/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
@@ -660,6 +662,7 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - bergstenarn - [Github](https://github.com/bergstenarn/math-sprint-game) | [View Live](https://bergstenarn.github.io/math-sprint-game/index.html)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/math-game-sprint) | [ViewLive](https://pats101.github.io/math-game-sprint/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/math-sprint-game-1.0) | [View Live](https://dwightmckenzie.github.io/math-sprint-game-1.0/)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
