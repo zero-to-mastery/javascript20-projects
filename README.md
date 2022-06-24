@@ -296,6 +296,7 @@ Check out all of the submissions below! Well done everyone!
 - Caofontaine - [Github](https://github.com/caofontaine/infinity-scroll) | [View Live](https://caofontaine.github.io/infinity-scroll/)
 - Jonathan Reeves - [Github](https://github.com/RedHoodJT1988/infinite-scroll) | [View Live](https://redhoodjt1988.github.io/infinite-scroll/)
 - Pete Vermeulen - [Github](https://github.com/PeterVermeulen01123/infinite-scroll) | [View Live](https://petervermeulen01123.github.io/infinite-scroll/)
+- Nafsuki - [Github](https://github.com/Nafsuki) | [View Live](https://js-infinity-scroll.vercel.app/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
