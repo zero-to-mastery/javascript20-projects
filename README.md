@@ -390,6 +390,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
+- Pete Donaghy - [Github](https://github.com/TriplePP/Light-dark-mode.git) | [Demo](https://cute-cascaron-6ce6b3.netlify.app/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/light-and-dark-mode) | [View Live Demo](https://pats101.github.io/light-and-dark-mode/)
 - Devtinator - [Github](https://github.com/Devtinator/LIght-and-DArk-Mode) | [View LIve](https://devtinator.github.io/LIght-and-DArk-Mode/)
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit) | [ViewLive](https://reefit.netlify.app)
