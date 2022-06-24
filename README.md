@@ -230,9 +230,6 @@ Check out all of the submissions below! Well done everyone!
 - Farhaan Patel - [Github](https://github.com/happi89) | [View Live ](https://happi89.github.io/infinity-scroll/)
 - Shariq - [Github](https://cosmicqbit.github.io/infinite-scroll) | [Demo](https://cosmicqbit.github.io/infinite-scroll)
 - Rudy Gonzalez - [Github](https://github.com/rglez89/Infinite-scroll) | [View Live](https://rglez89.github.io/Infinite-scroll/)
-
-### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
-
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/Infinit-Scroll) | [Live Demo](https://pats101.github.io/Infinit-Scroll/)
 - Gonca Negis - [Github](https://github.com/celeis/infinite-scroll) | [Live Demo](https://celeis.github.io/infinite-scroll/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/InfiniteCats) [view Live](https://gabrielhangor.github.io/InfiniteCats/)
