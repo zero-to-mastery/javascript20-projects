@@ -230,6 +230,7 @@ Check out all of the submissions below! Well done everyone!
 - Rahul - [Github](https://github.com/rachirah/infiniteImg) || [Go live](https://rachirah.github.io/infiniteImg/)
 - Farhaan Patel - [Github](https://github.com/happi89) | [View Live ](https://happi89.github.io/infinity-scroll/)
 - Shariq - [Github](https://cosmicqbit.github.io/infinite-scroll) | [Demo](https://cosmicqbit.github.io/infinite-scroll)
+- Rudy Gonzalez - [Github](https://github.com/rglez89/Infinite-scroll) | [View Live](https://rglez89.github.io/Infinite-scroll/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/Infinit-Scroll) | [Live Demo](https://pats101.github.io/Infinit-Scroll/)
 - Gonca Negis - [Github](https://github.com/celeis/infinite-scroll) | [Live Demo](https://celeis.github.io/infinite-scroll/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/InfiniteCats) [view Live](https://gabrielhangor.github.io/InfiniteCats/)
@@ -598,6 +599,7 @@ Check out all of the submissions below! Well done everyone!
 - bergstenarn - [Github](https://github.com/bergstenarn/form-validator) | [View Live](https://bergstenarn.github.io/form-validator/index.html)
 - Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/form-validator) | [View Live](https://pats101.github.io/form-validator/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/form-validator) | [Live Demo](https://jonnathanriquelmo.github.io/form-validator/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/form-validation-1.0) | [View Live](https://dwightmckenzie.github.io/form-validation-1.0/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
@@ -673,6 +675,7 @@ Check out all of the submissions below! Well done everyone!
 - bergstenarn - [Github](https://github.com/bergstenarn/math-sprint-game) | [View Live](https://bergstenarn.github.io/math-sprint-game/index.html)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/math-game-sprint) | [ViewLive](https://pats101.github.io/math-game-sprint/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/math-sprint-game) | [Live Demo](https://jonnathanriquelmo.github.io/math-sprint-game/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/math-sprint-game-1.0) | [View Live](https://dwightmckenzie.github.io/math-sprint-game-1.0/)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
