@@ -343,6 +343,7 @@ Check out all of the submissions below! Well done everyone!
 - Rahul - [Github](https://github.com/rachirah/beliveYourSelf) || [Go Live](https://rachirah.github.io/beliveYourSelf/)
 - bergstenarn - [Github](https://github.com/bergstenarn/picture-in-picture) | [View Live](https://bergstenarn.github.io/picture-in-picture/index.html)
 - Shariq - [Github](https://github.com/cosmicqbit/cosmicqbit.github.io/tree/main/picture-in-picture) | [View Live](https://cosmicqbit.github.io/picture-in-picture/)
+- Rudy Gonzalez - [Github](https://github.com/rglez89/Picture-in-picture) | [View Live](https://rglez89.github.io/Picture-in-picture/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/picture-in-picture) | [Live Demo](https://jonnathanriquelmo.github.io/picture-in-picture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
