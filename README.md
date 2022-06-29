@@ -219,6 +219,7 @@ Check out all of the submissions below! Well done everyone!
 - Ezeniel Rios - [Github](https://github.com/ezenielrios/Quote-Generator) | [View Live](https://ezenielrios.github.io/Quote-Generator/)
 - Caofontaine [Github](https://github.com/caofontaine) | [View live](https://caofontaine.github.io/quote-generator/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/quote-generator) | [Live Demo](https://jonnathanriquelmo.github.io/quote-generator/)
+- G-H4wke - [Github](https://github.com/G-H4wke/quote-generator) | [View live](https://g-h4wke.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
