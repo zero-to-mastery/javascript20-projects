@@ -392,6 +392,7 @@ Check out all of the submissions below! Well done everyone!
 - Rahul - [Github](https://github.com/rachirah/VirtualAgent) || [Go Live with](https://rachirah.github.io/VirtualAgent/)
 - bergstenarn - [Github](https://github.com/bergstenarn/joke-teller) | [View Live](https://bergstenarn.github.io/joke-teller/index.html)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/joke-teller) | [Live Demo](https://jonnathanriquelmo.github.io/joke-teller/)
+- Rudy Gonzalez - [Github](https://github.com/rglez89/Joke-teller) | [View Live](https://rglez89.github.io/Joke-teller/)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
