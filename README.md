@@ -23,6 +23,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+- Nikolay Miroshnichenko - [Github](https://github.com/4rtify/quote-generator) | [Live Demo](https://4rtify.github.io/quote-generator/)
 - Pete Donaghy - [Github](https://github.com/TriplePP/Quote-generator) | [Demo](https://graceful-horse-6709ef.netlify.app/)
 - Roxanne - [Github](https://github.com/roxanneweber/quote-generator) | [Demo](https://rw-js-quote-generator.netlify.app/)
 - Rossco - [Github](https://github.com/rmchardie/quote-generator) | [Live Demo](https://rmchardie.github.io/quote-generator/)
