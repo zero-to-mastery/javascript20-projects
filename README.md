@@ -676,6 +676,7 @@ Check out all of the submissions below! Well done everyone!
 - Placide FOLEU - [Github](https://github.com/rigole/Task-manager) | [View Live](https://rigole.github.io/Task-manager/)
 - bergstenarn - [Github](https://github.com/bergstenarn/drag-and-drop) | [View Live](https://bergstenarn.github.io/drag-and-drop/index.html)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/backlog-site) | [ViewLive](https://pats101.github.io/backlog-site/)
+- Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/drag-and-drop-1.0) | [View Live](https://dwightmckenzie.github.io/drag-and-drop-1.0/)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
