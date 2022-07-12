@@ -429,6 +429,7 @@ Check out all of the submissions below! Well done everyone!
 - bergstenarn - [Github](https://github.com/bergstenarn/light-dark-mode) | [View Live](https://bergstenarn.github.io/light-dark-mode/index.html)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/light-dark-mode) | [Live Demo](https://jonnathanriquelmo.github.io/light-dark-mode/)
 - Rudy Gonzalez - [Github](https://github.com/rglez89/Light-Dark-mode) | [View Live](https://rglez89.github.io/Light-Dark-mode/)
+- Pete Donaghy - [Github](https://github.com/TriplePP/Light-dark-mode) | [View Live](https://triplepp.github.io/Light-dark-mode/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
