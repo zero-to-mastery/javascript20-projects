@@ -220,7 +220,7 @@ Check out all of the submissions below! Well done everyone!
 - Caofontaine [Github](https://github.com/caofontaine) | [View live](https://caofontaine.github.io/quote-generator/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/quote-generator) | [Live Demo](https://jonnathanriquelmo.github.io/quote-generator/)
 - G-H4wke - [Github](https://github.com/G-H4wke/quote-generator) | [View live](https://g-h4wke.github.io/quote-generator/)
-
+- Prince N. - [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [View live](https://thefirstcodebender.github.io/Quote-Generator/)
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
 - Curtis Warcup - [Github](https://github.com/Cwarcup) | [View Live ](https://cwarcup.github.io/infinite_scroll/)
