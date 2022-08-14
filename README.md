@@ -22,6 +22,7 @@ Check out all of the submissions below! Well done everyone!
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/quiz-app/)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+
 - Michael Shields - [Github](https://github.com/mike-shields-dev/quote-generator) | [Demo](https://mike-shields-dev.github.io/quote-generator/)
 - Pete Donaghy - [Github](https://github.com/TriplePP/Quote-generator) | [Demo](https://graceful-horse-6709ef.netlify.app/)
 - Roxanne - [Github](https://github.com/roxanneweber/quote-generator) | [Demo](https://rw-js-quote-generator.netlify.app/)
@@ -222,6 +223,7 @@ Check out all of the submissions below! Well done everyone!
 - G-H4wke - [Github](https://github.com/G-H4wke/quote-generator) | [View live](https://g-h4wke.github.io/quote-generator/)
 - Andrew L - [Github](https://github.com/levelingup/quote-generator) | [View live](https://levelingup.github.io/quote-generator/)
 - Helena - [Github](https://github.com/Helena2018/quote-generator) | [Live Demo](https://helena2018.github.io/quote-generator/)
+- Punvireakroth - [Github](https://github.com/Punvireakroth/vanilla-js/tree/main/quote_generator)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
