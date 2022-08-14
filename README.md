@@ -222,6 +222,8 @@ Check out all of the submissions below! Well done everyone!
 - G-H4wke - [Github](https://github.com/G-H4wke/quote-generator) | [View live](https://g-h4wke.github.io/quote-generator/)
 - Andrew L - [Github](https://github.com/levelingup/quote-generator) | [View live](https://levelingup.github.io/quote-generator/)
 - Helena - [Github](https://github.com/Helena2018/quote-generator) | [Live Demo](https://helena2018.github.io/quote-generator/)
+- Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [Live Demo](https://mayorman07.github.io/Autoquote/)
+
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
