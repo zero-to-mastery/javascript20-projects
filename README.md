@@ -222,9 +222,7 @@ Check out all of the submissions below! Well done everyone!
 - G-H4wke - [Github](https://github.com/G-H4wke/quote-generator) | [View live](https://g-h4wke.github.io/quote-generator/)
 - Andrew L - [Github](https://github.com/levelingup/quote-generator) | [View live](https://levelingup.github.io/quote-generator/)
 - Helena - [Github](https://github.com/Helena2018/quote-generator) | [Live Demo](https://helena2018.github.io/quote-generator/)
-- Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [Live Demo](https://mayorman07.github.io/Autoquote/)
-
-
+- Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [Live Demo](https://mayorman07.github.io/Autoquote/)- Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [Live Demo](https://thefirstcodebender.github.io/Quote-Generator/)
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
 - Curtis Warcup - [Github](https://github.com/Cwarcup) | [View Live ](https://cwarcup.github.io/infinite_scroll/)
@@ -302,7 +300,7 @@ Check out all of the submissions below! Well done everyone!
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/infinite-scroll) | [Live Demo](https://jonnathanriquelmo.github.io/infinite-scroll/)
 - Nafsuki - [Github](https://github.com/Nafsuki) | [View Live](https://js-infinity-scroll.vercel.app/)
 - Helena - [Github](https://github.com/Helena2018/infinite-scroll) | [Live Demo](https://helena2018.github.io/infinite-scroll/)
-
+- Prince Nwaonicha - [Github](https://github.com/TheFirstCodeBender/Infinite-Scroll) | [Live Demo](https://thefirstcodebender.github.io/Infinite-Scroll/)
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/pic-in-pic) | [View Live Demo](https://pats101.github.io/pic-in-pic/)
