@@ -555,6 +555,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/custom-video-player.git) | [View Live](https://isjules.github.io/custom-video-player/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - bergstenarn - [Github](https://github.com/bergstenarn/video-player) | [View Live](https://bergstenarn.github.io/video-player/index.html)
+- Subham Bhadra - [Github](https://github.com/subham-04/video-player) | [View Live](https://subham-04.github.io/video-player/)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
