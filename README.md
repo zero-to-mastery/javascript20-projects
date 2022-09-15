@@ -20,6 +20,7 @@ Check out all of the submissions below! Well done everyone!
 - Rupam Gogoi - [Github](https://github.com/RupamG/simple-quiz) | [View Live](https://quick-quiz-app.netlify.app/)
 - Nayana Thapa - [Github](https://github.com/nayana-thapa/quizApp) | [View Live](https://nayana-thapa.github.io/quizApp/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/quiz-app/)
+- Cristian Dicu - [Github](https://github.com/dicucristiann/Quiz-app) [View Live](https://jovial-bublanina-a876ce.netlify.app/)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 - Michael Shields - [Github](https://github.com/mike-shields-dev/quote-generator) | [Demo](https://mike-shields-dev.github.io/quote-generator/)
