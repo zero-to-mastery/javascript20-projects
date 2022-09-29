@@ -22,6 +22,7 @@ Check out all of the submissions below! Well done everyone!
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/quiz-app/)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+
 - Michael Shields - [Github](https://github.com/mike-shields-dev/quote-generator) | [Demo](https://mike-shields-dev.github.io/quote-generator/)
 - Pete Donaghy - [Github](https://github.com/TriplePP/Quote-generator) | [Demo](https://graceful-horse-6709ef.netlify.app/)
 - Roxanne - [Github](https://github.com/roxanneweber/quote-generator) | [Demo](https://rw-js-quote-generator.netlify.app/)
@@ -396,6 +397,7 @@ Check out all of the submissions below! Well done everyone!
 - bergstenarn - [Github](https://github.com/bergstenarn/joke-teller) | [View Live](https://bergstenarn.github.io/joke-teller/index.html)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/joke-teller) | [Live Demo](https://jonnathanriquelmo.github.io/joke-teller/)
 - Rudy Gonzalez - [Github](https://github.com/rglez89/Joke-teller) | [View Live](https://rglez89.github.io/Joke-teller/)
+- Tiffany Chen - [Github](https://github.com/yinjuchen/Robot-Joke-Teller) | [View Live](https://yinjuchen.github.io/Robot-Joke-Teller/)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
