@@ -2,7 +2,7 @@
 
 Student submissions for the [JavaScript 20 Projects Course](https://academy.zerotomastery.io/p/javascript-projects)
 
-- Add your name and project to the list below by submitting a Pull Request!
+- Add your name and project to the list below by submitting a Pull Request! If you don't know how to submit a Pull Request, check this: https://github.com/zero-to-mastery/start-here-guidelines
 
 **DO NOT** add your projects directly to this repository
 
