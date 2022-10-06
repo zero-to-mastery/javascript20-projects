@@ -304,6 +304,7 @@ Check out all of the submissions below! Well done everyone!
 - Nafsuki - [Github](https://github.com/Nafsuki) | [View Live](https://js-infinity-scroll.vercel.app/)
 - Helena - [Github](https://github.com/Helena2018/infinite-scroll) | [Live Demo](https://helena2018.github.io/infinite-scroll/)
 - Prince Nwaonicha - [Github](https://github.com/TheFirstCodeBender/Infinite-Scroll) | [Live Demo](https://thefirstcodebender.github.io/Infinite-Scroll/)
+- LinerFox - [Github](https://github.com/LinerFox/infinity_scroll)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
