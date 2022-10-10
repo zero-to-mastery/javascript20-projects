@@ -225,9 +225,11 @@ Check out all of the submissions below! Well done everyone!
 - Andrew L - [Github](https://github.com/levelingup/quote-generator) | [View live](https://levelingup.github.io/quote-generator/)
 - Helena - [Github](https://github.com/Helena2018/quote-generator) | [Live Demo](https://helena2018.github.io/quote-generator/)
 - Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [Live Demo](https://thefirstcodebender.github.io/Quote-Generator/)
+- Opoku Isaiah Clifford [Github](https://github.com/Clifftech123) | [Live Demo](https://clifftech123.github.io/js_quote-generator/)
 - Agnesia Lubuk [Github](https://github.com/agnesia-lubuk/quote-generator) | [Live Demo](https://agnesia-lubuk.github.io/quote-generator/)
 - Damian Padilla [Github](https://github.com/Damianpad/quote-generator) | [Live Demo](https://damianpad.github.io/quote-generator/)
 - Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [Live Demo](https://mayorman07.github.io/Autoquote/)- Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [Live Demo](https://thefirstcodebender.github.io/Quote-Generator/)
+
 
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
@@ -777,4 +779,3 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Kishor Balgi - [Github](https://github.com/KishorBalgi/To-do-list) | [View Live](https://kishorbalgi.github.io/To-do-list/)
 - Gurjeet Singh Virdee - [Github](https://github.com/gurjeetsinghvirdee/Todo-app) | [View Live](https://todo-app-9da99.web.app/)
-
