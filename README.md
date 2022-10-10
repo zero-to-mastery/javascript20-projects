@@ -23,6 +23,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+
 - Sagar Sinha - [Github](https://github.com/sinhasagar01/Quote-generator) | [Live Demo](https://thunderous-chaja-a34296.netlify.app/)
 - Pradeep Kumar - [Github](https://github.com/pradytpk/quote-generator-js) | [Demo](https://pradytpk.github.io/quote-generator-js/)
 - Michael Shields - [Github](https://github.com/mike-shields-dev/quote-generator) | [Demo](https://mike-shields-dev.github.io/quote-generator/)
@@ -226,12 +227,12 @@ Check out all of the submissions below! Well done everyone!
 - Andrew L - [Github](https://github.com/levelingup/quote-generator) | [View live](https://levelingup.github.io/quote-generator/)
 - Helena - [Github](https://github.com/Helena2018/quote-generator) | [Live Demo](https://helena2018.github.io/quote-generator/)
 - Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [Live Demo](https://thefirstcodebender.github.io/Quote-Generator/)
+- LinerFox [Github](https://github.com/LinerFox/quote_generator)
 - Mike Vrkljan [Github](https://github.com/vrkljam/quote-generator) | [Live Demo](https://vrkljam.github.io/quote-generator/)
 - Opoku Isaiah Clifford [Github](https://github.com/Clifftech123) | [Live Demo](https://clifftech123.github.io/js_quote-generator/)
 - Agnesia Lubuk [Github](https://github.com/agnesia-lubuk/quote-generator) | [Live Demo](https://agnesia-lubuk.github.io/quote-generator/)
 - Damian Padilla [Github](https://github.com/Damianpad/quote-generator) | [Live Demo](https://damianpad.github.io/quote-generator/)
 - Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [Live Demo](https://mayorman07.github.io/Autoquote/)- Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [Live Demo](https://thefirstcodebender.github.io/Quote-Generator/)
-
 
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
@@ -312,6 +313,8 @@ Check out all of the submissions below! Well done everyone!
 - Nafsuki - [Github](https://github.com/Nafsuki) | [View Live](https://js-infinity-scroll.vercel.app/)
 - Helena - [Github](https://github.com/Helena2018/infinite-scroll) | [Live Demo](https://helena2018.github.io/infinite-scroll/)
 - Prince Nwaonicha - [Github](https://github.com/TheFirstCodeBender/Infinite-Scroll) | [Live Demo](https://thefirstcodebender.github.io/Infinite-Scroll/)
+- LinerFox - [Github](https://github.com/LinerFox/infinity_scroll)
+
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/pic-in-pic) | [View Live Demo](https://pats101.github.io/pic-in-pic/)
