@@ -2,7 +2,7 @@
 
 Student submissions for the [JavaScript 20 Projects Course](https://academy.zerotomastery.io/p/javascript-projects)
 
-- Add your name and project to the list below by submitting a Pull Request!
+- Add your name and project to the list below by submitting a Pull Request! If you don't know how to submit a Pull Request, check this: https://github.com/zero-to-mastery/start-here-guidelines
 
 **DO NOT** add your projects directly to this repository
 
@@ -22,6 +22,7 @@ Check out all of the submissions below! Well done everyone!
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/quiz-app/)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+- Pradeep Kumar - [Github](https://github.com/pradytpk/quote-generator-js) | [Demo](https://pradytpk.github.io/quote-generator-js/)
 - Michael Shields - [Github](https://github.com/mike-shields-dev/quote-generator) | [Demo](https://mike-shields-dev.github.io/quote-generator/)
 - Pete Donaghy - [Github](https://github.com/TriplePP/Quote-generator) | [Demo](https://graceful-horse-6709ef.netlify.app/)
 - Roxanne - [Github](https://github.com/roxanneweber/quote-generator) | [Demo](https://rw-js-quote-generator.netlify.app/)
@@ -224,6 +225,9 @@ Check out all of the submissions below! Well done everyone!
 - Helena - [Github](https://github.com/Helena2018/quote-generator) | [Live Demo](https://helena2018.github.io/quote-generator/)
 - Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [Live Demo](https://thefirstcodebender.github.io/Quote-Generator/)
 - Damian Padilla [Github](https://github.com/Damianpad/quote-generator) | [Live Demo](https://damianpad.github.io/quote-generator/)
+- Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [Live Demo](https://mayorman07.github.io/Autoquote/)- Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [Live Demo](https://thefirstcodebender.github.io/Quote-Generator/)
+
+
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
 - Curtis Warcup - [Github](https://github.com/Cwarcup) | [View Live ](https://cwarcup.github.io/infinite_scroll/)
@@ -579,6 +583,7 @@ Check out all of the submissions below! Well done everyone!
 - Alaa balbaid - [Github](https://github.com/alaa140101/Video-Player) | [ViewLive](https://alaa140101.github.io/Video-Player/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/video-player), [Viewlive](https://Carls13.github.io/20-javascript-projects/video-player)
 - PuneetAsnani12 - [Github](https://github.com/PuneetAsnani12/custom-video-player/)
+- Lakshay Tyagi - [GitHub](https://github.com/imlakshay08/Video-Player-using-JavaScript) | [View Live](https://imlakshay08.github.io/Video-Player-using-JavaScript/)
 - Yifang Di - [Github](https://github.com/YvonneD/video-player), [Viewlive](https://yvonned.github.io/video-player/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javaScript-Project-video), [Viewlive](https://jthinlay.github.io/javaScript-Project-video/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Video-Player) | [View Live](https://krungleviciute.github.io/Video-Player/)
