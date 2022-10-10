@@ -687,6 +687,7 @@ Check out all of the submissions below! Well done everyone!
 - bergstenarn - [Github](https://github.com/bergstenarn/pong) | [View Live](https://bergstenarn.github.io/pong/index.html)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/ping-pong-game) | [ViewLive](https://pats101.github.io/ping-pong-game/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/pong-game) | [Live Demo](https://jonnathanriquelmo.github.io/pong-game/)
+- Saksham Gupta - [Github](https://github.com/Saksham-Gupta-30/Pong-Game) | [ViewLive](https://saksham-gupta-30.github.io/Pong-Game/)
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
