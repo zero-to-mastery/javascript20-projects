@@ -226,6 +226,7 @@ Check out all of the submissions below! Well done everyone!
 - Andrew L - [Github](https://github.com/levelingup/quote-generator) | [View live](https://levelingup.github.io/quote-generator/)
 - Helena - [Github](https://github.com/Helena2018/quote-generator) | [Live Demo](https://helena2018.github.io/quote-generator/)
 - Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [Live Demo](https://thefirstcodebender.github.io/Quote-Generator/)
+- Mike Vrkljan [Github](https://github.com/vrkljam/quote-generator) | [Live Demo](https://vrkljam.github.io/quote-generator/)
 - Opoku Isaiah Clifford [Github](https://github.com/Clifftech123) | [Live Demo](https://clifftech123.github.io/js_quote-generator/)
 - Agnesia Lubuk [Github](https://github.com/agnesia-lubuk/quote-generator) | [Live Demo](https://agnesia-lubuk.github.io/quote-generator/)
 - Damian Padilla [Github](https://github.com/Damianpad/quote-generator) | [Live Demo](https://damianpad.github.io/quote-generator/)
