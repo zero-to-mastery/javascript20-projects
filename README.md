@@ -579,6 +579,7 @@ Check out all of the submissions below! Well done everyone!
 - Alaa balbaid - [Github](https://github.com/alaa140101/Video-Player) | [ViewLive](https://alaa140101.github.io/Video-Player/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/video-player), [Viewlive](https://Carls13.github.io/20-javascript-projects/video-player)
 - PuneetAsnani12 - [Github](https://github.com/PuneetAsnani12/custom-video-player/)
+- Lakshay Tyagi - [GitHub](https://github.com/imlakshay08/Video-Player-using-JavaScript) | [View Live](https://imlakshay08.github.io/Video-Player-using-JavaScript/)
 - Yifang Di - [Github](https://github.com/YvonneD/video-player), [Viewlive](https://yvonned.github.io/video-player/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javaScript-Project-video), [Viewlive](https://jthinlay.github.io/javaScript-Project-video/)
 - Dalia Krungleviciute - [Github](https://github.com/Krungleviciute/Video-Player) | [View Live](https://krungleviciute.github.io/Video-Player/)
