@@ -223,7 +223,11 @@ Check out all of the submissions below! Well done everyone!
 - G-H4wke - [Github](https://github.com/G-H4wke/quote-generator) | [View live](https://g-h4wke.github.io/quote-generator/)
 - Andrew L - [Github](https://github.com/levelingup/quote-generator) | [View live](https://levelingup.github.io/quote-generator/)
 - Helena - [Github](https://github.com/Helena2018/quote-generator) | [Live Demo](https://helena2018.github.io/quote-generator/)
+- Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [Live Demo](https://thefirstcodebender.github.io/Quote-Generator/)
+- Damian Padilla [Github](https://github.com/Damianpad/quote-generator) | [Live Demo](https://damianpad.github.io/quote-generator/)
 - Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [Live Demo](https://mayorman07.github.io/Autoquote/)- Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [Live Demo](https://thefirstcodebender.github.io/Quote-Generator/)
+
+
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
 - Curtis Warcup - [Github](https://github.com/Cwarcup) | [View Live ](https://cwarcup.github.io/infinite_scroll/)
