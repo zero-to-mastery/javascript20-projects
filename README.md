@@ -233,6 +233,7 @@ Check out all of the submissions below! Well done everyone!
 - Agnesia Lubuk [Github](https://github.com/agnesia-lubuk/quote-generator) | [View Live](https://agnesia-lubuk.github.io/quote-generator/)
 - Damian Padilla [Github](https://github.com/Damianpad/quote-generator) | [View Live](https://damianpad.github.io/quote-generator/)
 - Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [View Live](https://mayorman07.github.io/Autoquote/)- Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [View Live](https://thefirstcodebender.github.io/Quote-Generator/)
+- -Erez Avni [Github](http://github.com/ErezAvni9)[View live]( https://erezavni9.github.io/My-quote-generator/)
 
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
@@ -787,5 +788,6 @@ Check out all of the submissions below! Well done everyone!
 - Kishor Balgi - [Github](https://github.com/KishorBalgi/To-do-list) | [View Live](https://kishorbalgi.github.io/To-do-list/)
 - Gurjeet Singh Virdee - [Github](https://github.com/gurjeetsinghvirdee/Todo-app) | [View Live](https://todo-app-9da99.web.app/)
 
--[@ErezAvni9](http://github.com/ErezAvni9)
+
+
 
