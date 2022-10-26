@@ -232,7 +232,9 @@ Check out all of the submissions below! Well done everyone!
 - Opoku Isaiah Clifford [Github](https://github.com/Clifftech123) | [View Live](https://clifftech123.github.io/js_quote-generator/)
 - Agnesia Lubuk [Github](https://github.com/agnesia-lubuk/quote-generator) | [View Live](https://agnesia-lubuk.github.io/quote-generator/)
 - Damian Padilla [Github](https://github.com/Damianpad/quote-generator) | [View Live](https://damianpad.github.io/quote-generator/)
-- Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [View Live](https://mayorman07.github.io/Autoquote/)- Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [View Live](https://thefirstcodebender.github.io/Quote-Generator/)
+- Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [View Live](https://mayorman07.github.io/Autoquote/)
+- Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [View Live](https://thefirstcodebender.github.io/Quote-Generator/)
+- Melissa Mitchell - [Github](https://github.com/mel-codingphoenix/quote_generator) | [View Live](https://mel-codingphoenix.github.io/quote_generator/)
 
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
