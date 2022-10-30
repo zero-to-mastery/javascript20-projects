@@ -317,12 +317,18 @@ Check out all of the submissions below! Well done everyone!
 - Pete Vermeulen - [Github](https://github.com/PeterVermeulen01123/infinite-scroll) | [View Live](https://petervermeulen01123.github.io/infinite-scroll/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/infinite-scroll) | [View Live](https://jonnathanriquelmo.github.io/infinite-scroll/)
 - Nafsuki - [Github](https://github.com/Nafsuki) | [View Live](https://js-infinity-scroll.vercel.app/)
+- Helena - [Github](https://github.com/Helena2018/infinite-scroll) | [Live Demo](https://helena2018.github.io/infinite-scroll/)
+- Prince Nwaonicha - [Github](https://github.com/TheFirstCodeBender/Infinite-Scroll) | [Live Demo](https://thefirstcodebender.github.io/Infinite-Scroll/)
+- Mike Vrkljan [Github](https://github.com/vrkljam/infinite-scroll) | [Live Demo](https://vrkljam.github.io/infinite-scroll/)
 - Helena - [Github](https://github.com/Helena2018/infinite-scroll) | [View Live](https://helena2018.github.io/infinite-scroll/)
 - Prince Nwaonicha - [Github](https://github.com/TheFirstCodeBender/Infinite-Scroll) | [View Live](https://thefirstcodebender.github.io/Infinite-Scroll/)
 - LinerFox - [Github](https://github.com/LinerFox/infinity_scroll)
 -Opoku Isaiah Clifford -[Github](https://github.com/Clifftech123/js_Infinite_Image_Scroll.git)| [live Demo](https://clifftech123.github.io/js_Infinite_Image_Scroll/)
 - Virginija Meilune - [Github](https://github.com/meilune/infinite-scroll) | [View Live](https://meilune.github.io/infinite-scroll/)
 - Melissa Mitchell - [Github](https://github.com/mel-codingphoenix/infinite_scrolling) | [View Live](https://mel-codingphoenix.github.io/infinite_scrolling/)
+
+
+
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/pic-in-pic) | [View Live Demo](https://pats101.github.io/pic-in-pic/)
