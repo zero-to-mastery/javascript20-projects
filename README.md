@@ -23,6 +23,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+- Rock Roque - [Github](https://github.com/RockRoque/quote-generator) | [View Live](https://rockroque.github.io/quote-generator-app/)
 - Nathalie Daoût - [Github](https://github.com/SapinSobre/quote-generator) | [View Live](https://sapinsobre.github.io/quote-generator/)
 - Sagar Sinha - [Github](https://github.com/sinhasagar01/Quote-generator) | [View Live](https://thunderous-chaja-a34296.netlify.app/)
 - Pradeep Kumar - [Github](https://github.com/pradytpk/quote-generator-js) | [View Live](https://pradytpk.github.io/quote-generator-js/)
@@ -40,7 +41,7 @@ Check out all of the submissions below! Well done everyone!
 - Paco Alvarez - [Github](https://github.com/pacoalvarez1/01.-Quote-Generator) | [View Live](https://pacoalvarez1.github.io/01.-Quote-Generator/)
 - Devtinator - [Github](https://github.com/Devtinator/Random-Quote-Generator) | [View Live](https://devtinator.github.io/Random-Quote-Generator)
 - Gonca Negis - [Github](https://github.com/celeis/random-quote-generator) | [View Live](https://celeis.github.io/random-quote-generator/)
-- Mohammed-Aymen Benadra - [Github](https://github.com/aymenBenadra/modern-quote-generator) | [View Live](https://benadra.me/modern-quote-generator) 
+- Mohammed-Aymen Benadra - [Github](https://github.com/aymenBenadra/modern-quote-generator) | [View Live](https://benadra.me/modern-quote-generator)
 - Stephen Anokwulu - [Github](https://github.com/Stephenanokz/Quote-Generator) | [View Live](https://stephenanokz.github.io/Quote-Generator/)
 - Julian Sosa - [Github](https://github.com/hijuliancode/js-20-projects/tree/main/01-quote-generator) | [View Live](https://hijuliancode.github.io/js-20-projects/01-quote-generator/index.html)
 - Rahul-[Github](https://github.com/rachirah/breif) | [View Live](https://rachirah.github.io/breif/)
@@ -78,7 +79,7 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Livingston - [Github](https://github.com/DanielLivingston32/Quote-Generator)
 - Keshav Naganathan - [Github](https://github.com/DevKesh/quote_app) | [View Live](https://generator-quotes.netlify.app/)
 - Paul Gelario - [Github](https://github.com/pauldavid23/quote-generator)
-- Adwaith Rajesh -[Github](https://github.com/Adwaith123/Quote-generator) | [View Live](https://adwaith123.github.io/Quote-generator/) 
+- Adwaith Rajesh -[Github](https://github.com/Adwaith123/Quote-generator) | [View Live](https://adwaith123.github.io/Quote-generator/)
 - Simone Taeggi - [Github](https://github.com/simotae14/quote-tae-generator) |[View Live](https://simotae14.github.io/quote-tae-generator/)
 - Sam Kach - [Github](https://github.com/rizamoyi/quote-generator)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Quote-Generator)
@@ -820,7 +821,3 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Kishor Balgi - [Github](https://github.com/KishorBalgi/To-do-list) | [View Live](https://kishorbalgi.github.io/To-do-list/)
 - Gurjeet Singh Virdee - [Github](https://github.com/gurjeetsinghvirdee/Todo-app) | [View Live](https://todo-app-9da99.web.app/)
-
-
-
-
