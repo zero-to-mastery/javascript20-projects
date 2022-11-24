@@ -223,6 +223,7 @@ Check out all of the submissions below! Well done everyone!
 - G-H4wke - [Github](https://github.com/G-H4wke/quote-generator) | [View live](https://g-h4wke.github.io/quote-generator/)
 - Andrew L - [Github](https://github.com/levelingup/quote-generator) | [View live](https://levelingup.github.io/quote-generator/)
 - Helena - [Github](https://github.com/Helena2018/quote-generator) | [Live Demo](https://helena2018.github.io/quote-generator/)
+- Tiffany Chen - [Github](https://github.com/yinjuchen/QuotesGenerator) | [Live Demo](https://yinjuchen.github.io/QuotesGenerator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -646,6 +647,7 @@ Check out all of the submissions below! Well done everyone!
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/nasa-api-pictures-1.0) | [View Live](https://dwightmckenzie.github.io/nasa-api-pictures-1.0/)
 - Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/the-nasa-sci-pic) | [View Live](https://pats101.github.io/the-nasa-sci-pic/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/nasa-api-apod) | [Live Demo](https://jonnathanriquelmo.github.io/nasa-api-apod/)
+- Tiffany Chen - [GitHub](https://github.com/yinjuchen/NASA-APOD) | [Live Demo](https://yinjuchen.github.io/NASA-APOD/)
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
