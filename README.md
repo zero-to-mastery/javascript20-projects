@@ -92,7 +92,7 @@ Check out all of the submissions below! Well done everyone!
 - Soojin - [Github](https://github.com/ehdgodgka/quote-generator) | [View Live](https://ehdgodgka.github.io/quote-generator/)
 - Theodorus Clarence - [Github](https://github.com/theodorusclarence/quote-generator) | [View Live](https://theodorusclarence.github.io/quote-generator/)
 - Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator) | [View Live](https://pechaprasanna.github.io/quote-generator/)
-- Noha El-Boghdady - [Github](https://github.com/nohaelboghdady/QuoteGenerator) | [View Live](https://nohaelboghdady.github.io/QuoteGenerator/) |
+- Noha El-Boghdady - [Github](https://github.com/nohaelboghdady/QuoteGenerator) | [View Live](https://nohaelboghdady.github.io/QuoteGenerator/)
 - Van Thong - [Github](https://github.com/ThongKun/quote-generator) | [View Live](https://thongkun.github.io/quote-generator/)
 - Prasanna Pecha - [Github](https://github.com/pechaprasanna/quote-generator) | [View Live](https://pechaprasanna.github.io/quote-generator/)
 - Noha El-Boghdady - [Github](https://github.com/nohaelboghdady/QuoteGenerator) | [View Live](https://nohaelboghdady.github.io/QuoteGenerator/)
@@ -110,7 +110,6 @@ Check out all of the submissions below! Well done everyone!
 - Joe Giuffrida - [Github](https://github.com/joegiuffrida/quote-generator)
 - Sean Demske - [Github](https://github.com/SeanDemske/Quote-Generator) [View Live](https://seandemske.github.io/Quote-Generator/)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/quote-generator) | [View Live](https://alaa140101.github.io/quote-generator/)
-- Guilherme (GuinuxBR) [GitHub](https://github.com/guinuxbr/chucks-jokes) | [View Live](https://chucksjokes.netlify.app/)
 - Elena Markova - [Github](https://github.com/webkwondo/quote-generator) | [View Live](https://webkwondo.github.io/quote-generator/)
 - Karan Ahir - [GitHub](https://github.com/karanahir9/Quote-Genrator) | [View Live](https://karanahir9.github.io/Quote-Genrator/)
 - Sarwar Md - [Github](https://github.com/Sarwar-Md/quote_) | [View Live](https://sarwar-md.github.io/quote_/)
@@ -212,7 +211,6 @@ Check out all of the submissions below! Well done everyone!
 - Charles Loges IV - [Github](https://github.com/cloges4/Quote-Generator) | [View Live](https://cl4-quotegen.netlify.app/)
 - Julie Dumbrique - [Github](https://github.com/isjules/quotegenerator.git) | [View Live](https://isjules.github.io/quotegenerator/)
 - Elder Pinto - [Github](https://elderpintto.github.io/quote-generator/) | [View Live](https://elderpintto.github.io/quote-generator/)
-- Thomas Sprotte - [Github](https://github.com/JustTom77/ChuckNorris-Joke-Generator) | [View Live](https://justtom77.github.io/ChuckNorris-Joke-Generator/)
 - Alberto Gonzalez - [Github](https://github.com/ajsaenz1091/quote-generator) | [View Live](https://ajsaenz1091.github.io/quote-generator/)
 - Tiamiyu Sikiru Abidemi - [Github](https://github.com/AbidemiT/quote-generator) | [View Live](https://abidemiquotegenerator.netlify.app/)
 - Siyovush Kadyrov - [Github](https://github.com/SYOM29/quote-generator) | [View Live](https://syom29.github.io/quote-generator/)
@@ -232,7 +230,8 @@ Check out all of the submissions below! Well done everyone!
 - Opoku Isaiah Clifford [Github](https://github.com/Clifftech123) | [View Live](https://clifftech123.github.io/js_quote-generator/)
 - Agnesia Lubuk [Github](https://github.com/agnesia-lubuk/quote-generator) | [View Live](https://agnesia-lubuk.github.io/quote-generator/)
 - Damian Padilla [Github](https://github.com/Damianpad/quote-generator) | [View Live](https://damianpad.github.io/quote-generator/)
-- Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [View Live](https://mayorman07.github.io/Autoquote/)- Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [View Live](https://thefirstcodebender.github.io/Quote-Generator/)
+- Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [View Live](https://mayorman07.github.io/Autoquote/)
+- Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [View Live](https://thefirstcodebender.github.io/Quote-Generator/)
 - Virginija Meilune [Github](https://github.com/meilune/quote-generator) | [View Live](https://github.com/meilune/quote-generator)
 - -Erez Avni [Github](http://github.com/ErezAvni9)[View live]( https://erezavni9.github.io/My-quote-generator/)
 - Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [View Live](https://mayorman07.github.io/Autoquote/)
@@ -430,6 +429,9 @@ Check out all of the submissions below! Well done everyone!
 - Rudy Gonzalez - [Github](https://github.com/rglez89/Joke-teller) | [View Live](https://rglez89.github.io/Joke-teller/)
 - Tiffany Chen - [Github](https://github.com/yinjuchen/Robot-Joke-Teller) | [View Live](https://yinjuchen.github.io/Robot-Joke-Teller/)
 - Virginija Meilune - [Github](https://github.com/meilune/joke-teller) | [View Live](https://meilune.github.io/joke-teller/)
+- Thomas Sprotte - [Github](https://github.com/JustTom77/ChuckNorris-Joke-Generator) | [View Live](https://justtom77.github.io/ChuckNorris-Joke-Generator/)
+- Alinda Byamukama - [GitHub](https://github.com/alindaByamukama/js-joke-teller) | [View Live Demo](https://alindabyamukama.github.io/js-joke-teller/)
+- Guilherme (GuinuxBR) [GitHub](https://github.com/guinuxbr/chucks-jokes) | [View Live](https://chucksjokes.netlify.app/)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
@@ -467,7 +469,6 @@ Check out all of the submissions below! Well done everyone!
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/light-dark-mode) | [View Live](https://jonnathanriquelmo.github.io/light-dark-mode/)
 - Rudy Gonzalez - [Github](https://github.com/rglez89/Light-Dark-mode) | [View Live](https://rglez89.github.io/Light-Dark-mode/)
 - Pete Donaghy - [Github](https://github.com/TriplePP/Light-dark-mode) | [View Live](https://triplepp.github.io/Light-dark-mode/)
-- Alinda Byamukama - [GitHub](https://github.com/alindaByamukama/js-joke-teller) | [View Live Demo](https://alindabyamukama.github.io/js-joke-teller/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/light-dark-modes) | [View Live Demo](https://meilune.github.io/light-dark-modes/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
