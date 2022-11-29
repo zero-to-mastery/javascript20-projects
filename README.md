@@ -469,6 +469,7 @@ Check out all of the submissions below! Well done everyone!
 - Pete Donaghy - [Github](https://github.com/TriplePP/Light-dark-mode) | [View Live](https://triplepp.github.io/Light-dark-mode/)
 - Alinda Byamukama - [GitHub](https://github.com/alindaByamukama/js-joke-teller) | [View Live Demo](https://alindabyamukama.github.io/js-joke-teller/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/light-dark-modes) | [View Live Demo](https://meilune.github.io/light-dark-modes/)
+- Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz05_mode_change) | [View Live](https://jin-co-jcg.hostman.site/20p/pz05_mode_change/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
