@@ -499,6 +499,7 @@ Check out all of the submissions below! Well done everyone!
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/animated-template) | [View Live](https://jonnathanriquelmo.github.io/animated-template/)
 - Rudy Gonzalez - [Github](https://github.com/rglez89/Animated-template) | [View Live](https://rglez89.github.io/Animated-template/)
 - Virginija Meilune - [Github](https://github.com/meilune/animated-template) | [View Live](https://meilune.github.io/animated-template/)
+- Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz06_animated) | [View Live](https://jin-co-jcg.hostman.site/20p/pz06_animated/index.html)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
@@ -524,6 +525,7 @@ Check out all of the submissions below! Well done everyone!
 - bergstenarn - [Github](https://github.com/bergstenarn/navigation-nation) | [View Live](https://bergstenarn.github.io/navigation-nation/index.html)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/navigation-nation) | [View Live](https://jonnathanriquelmo.github.io/navigation-nation/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/navigation-animation) | [View Live](https://meilune.github.io/navigation-animation/)
+- Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz07_navigation) | [View Live](https://jin-co-jcg.hostman.site/20p/pz07_navigation/index.html)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
