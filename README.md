@@ -562,6 +562,7 @@ Check out all of the submissions below! Well done everyone!
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/music-player) | [View Live](https://pats101.github.io/music-player/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/music-player) | [View Live](https://jonnathanriquelmo.github.io/music-player/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/music-player) | [View Live](https://meilune.github.io/music-player/)
+- Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz08_music_play) | [View Live](https://jin-co-jcg.hostman.site/20p/pz08_music_play/index.html)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
