@@ -588,6 +588,7 @@ Check out all of the submissions below! Well done everyone!
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/the-countdown) | [View Live](https://pats101.github.io/the-countdown/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/custom-countdown) | [View Live](https://jonnathanriquelmo.github.io/custom-countdown/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/custom-countdown) | [View Live](https://meilune.github.io/custom-countdown/)
+- Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz09_count_down) | [View Live](https://jin-co-jcg.hostman.site/20p/pz09_count_down/index.html)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
