@@ -336,6 +336,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
+- - Patricio Schranz - [Github](https://github.com/patricioSchranz/picture-in-picture) | [View Live](https://patricioschranz.github.io/picture-in-picture/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/pic-in-pic) | [View Live Demo](https://pats101.github.io/pic-in-pic/)
 - Devtinator - [Github](https://github.com/Devtinator/Picture-in-Picture) | [View Live](https://devtinator.github.io/Picture-in-Picture/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/PictureInPicture) [View Live](https://gabrielhangor.github.io/PictureInPicture/)
