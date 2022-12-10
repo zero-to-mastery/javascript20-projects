@@ -654,6 +654,7 @@ Check out all of the submissions below! Well done everyone!
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/form-validator) | [View Live](https://jonnathanriquelmo.github.io/form-validator/)
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/form-validation-1.0) | [View Live](https://dwightmckenzie.github.io/form-validation-1.0/)
 - Virginija Meilune - [Github](https://github.com/meilune/form-validation) | [View Live](https://meilune.github.io/form-validation/)
+- Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz12_form) | [View Live](https://jin-co-jcg.hostman.site/20p/pz12_form/index.html)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
