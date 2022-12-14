@@ -388,6 +388,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
+- Patricio Schranz - [Github](https://github.com/patricioSchranz/joke_teller) | [View Live](https://patricioschranz.github.io/joke_teller/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/joke-cracker) | [View Live Demo](https://pats101.github.io/joke-cracker/)
 - Devtinator - [Github](https://github.com/Devtinator/Joke-Teller) | [View Live](https://devtinator.github.io/Joke-Teller/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/JokeRobotApp) [View Live](https://gabrielhangor.github.io/JokeRobotApp/)
