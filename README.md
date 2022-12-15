@@ -23,6 +23,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+- Anish Kumar - [Github](https://github.com/anishkumar92/quote-generator) | [View Live](https://anishkumar92.github.io/quote-generator/)
 - Nathalie Daoût - [Github](https://github.com/SapinSobre/quote-generator) | [View Live](https://sapinsobre.github.io/quote-generator/)
 - Sagar Sinha - [Github](https://github.com/sinhasagar01/Quote-generator) | [View Live](https://thunderous-chaja-a34296.netlify.app/)
 - Pradeep Kumar - [Github](https://github.com/pradytpk/quote-generator-js) | [View Live](https://pradytpk.github.io/quote-generator-js/)
