@@ -40,7 +40,7 @@ Check out all of the submissions below! Well done everyone!
 - Paco Alvarez - [Github](https://github.com/pacoalvarez1/01.-Quote-Generator) | [View Live](https://pacoalvarez1.github.io/01.-Quote-Generator/)
 - Devtinator - [Github](https://github.com/Devtinator/Random-Quote-Generator) | [View Live](https://devtinator.github.io/Random-Quote-Generator)
 - Gonca Negis - [Github](https://github.com/celeis/random-quote-generator) | [View Live](https://celeis.github.io/random-quote-generator/)
-- Mohammed-Aymen Benadra - [Github](https://github.com/aymenBenadra/modern-quote-generator) | [View Live](https://benadra.me/modern-quote-generator) 
+- Mohammed-Aymen Benadra - [Github](https://github.com/aymenBenadra/modern-quote-generator) | [View Live](https://benadra.me/modern-quote-generator)
 - Stephen Anokwulu - [Github](https://github.com/Stephenanokz/Quote-Generator) | [View Live](https://stephenanokz.github.io/Quote-Generator/)
 - Julian Sosa - [Github](https://github.com/hijuliancode/js-20-projects/tree/main/01-quote-generator) | [View Live](https://hijuliancode.github.io/js-20-projects/01-quote-generator/index.html)
 - Rahul-[Github](https://github.com/rachirah/breif) | [View Live](https://rachirah.github.io/breif/)
@@ -50,7 +50,7 @@ Check out all of the submissions below! Well done everyone!
 - Mauricio Paternina - [Github](https://github.com/spaceinvadev/vanilla-js-random-projects/tree/main/projects/quote-generator) | [View Live](https://js-small-random-projects.netlify.app/)
 - HackerdX - [Github](https://github.com/HackerdX/AV-Quote-Generator) | [View Live](https://hackerdx.github.io/AV-Quote-Generator/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/Quote-Generator) | [View Live](https://gabrielhangor.github.io/Quote-Generator/)
-- Vimarsh Thapa - [Github](https://github.com/VimarshThapa/quotes-generator)  |[View Live](https://vimarshthapa.github.io/quotes-generator/)
+- Vimarsh Thapa - [Github](https://github.com/VimarshThapa/quotes-generator) |[View Live](https://vimarshthapa.github.io/quotes-generator/)
 - Naim Uddin - [Github](https://github.com/Naim365/quote-generator) | [View Live](https://naim365.github.io/quote-generator/)
 - Siddhant - [Github](https://github.com/lannisterrr/QuotesWithFav) | [View Live](https://lannisterrr.github.io/QuotesWithFav/)
 - Akil Mahmod Tipu - [Github](https://github.com/akiltipu/quotes-generator) | [View Live](https://akiltipu.github.io/quotes-generator/)
@@ -78,7 +78,7 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Livingston - [Github](https://github.com/DanielLivingston32/Quote-Generator)
 - Keshav Naganathan - [Github](https://github.com/DevKesh/quote_app) | [View Live](https://generator-quotes.netlify.app/)
 - Paul Gelario - [Github](https://github.com/pauldavid23/quote-generator)
-- Adwaith Rajesh -[Github](https://github.com/Adwaith123/Quote-generator) | [View Live](https://adwaith123.github.io/Quote-generator/) 
+- Adwaith Rajesh -[Github](https://github.com/Adwaith123/Quote-generator) | [View Live](https://adwaith123.github.io/Quote-generator/)
 - Simone Taeggi - [Github](https://github.com/simotae14/quote-tae-generator) |[View Live](https://simotae14.github.io/quote-tae-generator/)
 - Sam Kach - [Github](https://github.com/rizamoyi/quote-generator)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Quote-Generator)
@@ -234,11 +234,11 @@ Check out all of the submissions below! Well done everyone!
 - Damian Padilla [Github](https://github.com/Damianpad/quote-generator) | [View Live](https://damianpad.github.io/quote-generator/)
 - Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [View Live](https://mayorman07.github.io/Autoquote/)- Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [View Live](https://thefirstcodebender.github.io/Quote-Generator/)
 - Virginija Meilune [Github](https://github.com/meilune/quote-generator) | [View Live](https://github.com/meilune/quote-generator)
-- -Erez Avni [Github](http://github.com/ErezAvni9)[View live]( https://erezavni9.github.io/My-quote-generator/)
+- -Erez Avni [Github](http://github.com/ErezAvni9)[View live](https://erezavni9.github.io/My-quote-generator/)
 - Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [View Live](https://mayorman07.github.io/Autoquote/)
 - Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [View Live](https://thefirstcodebender.github.io/Quote-Generator/)
 - Melissa Mitchell - [Github](https://github.com/mel-codingphoenix/quote_generator) | [View Live](https://mel-codingphoenix.github.io/quote_generator/)
-
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/Quote_Generator) | [View Live](https://rostorm.github.io/Quote_Generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -281,12 +281,12 @@ Check out all of the submissions below! Well done everyone!
 - Palak Jain - [Github](https://github.com/Palak-coder626/Infinite-scroll) | [View Live](https://palak-coder626.github.io/Infinite-scroll/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectInfiniteScroll) | [View Live](https://jthinlay.github.io/JavaScriptProjectInfiniteScroll/)
 - Gabriela M. Carvalho- [Github](https://github.com/Gabrielamcarvalho/InfiniteDogs) | [View Live](https://gabrielamcarvalho.github.io/InfiniteDogs/)
-- Hamza Khan - [Github](https://github.com/salderahamza/Image-Scroll)  | [Live](https://salderahamza.github.io/Image-Scroll/)
+- Hamza Khan - [Github](https://github.com/salderahamza/Image-Scroll) | [Live](https://salderahamza.github.io/Image-Scroll/)
 - Oscar Ramos - [Github](https://github.com/oscaramos/infinite-landscapes) | [Live](https://oscaramos.github.io/infinite-landscapes/)
-- Anuj Kumar Prasad - [Github](https://github.com/prasadanuj36/infinity-scroll)  | [Live](https://prasadanuj36.github.io/infinity-scroll/)
+- Anuj Kumar Prasad - [Github](https://github.com/prasadanuj36/infinity-scroll) | [Live](https://prasadanuj36.github.io/infinity-scroll/)
 - Yifang Di - [Github](https://github.com/YvonneD/infinite-scroll-images) | [View Live](https://yvonned.github.io/infinite-scroll-images/)
-- Yudan Zhai - [Github](https://github.com/yudanZ/infinite-scroll)  | [Live](https://yudanz.github.io/infinite-scroll/)
-- Umberto Di Napoli - [Github](https://github.com/Khelthos/unsplash-infinite-scroll)  | [Live](https://khelthos.github.io/unsplash-infinite-scroll/)
+- Yudan Zhai - [Github](https://github.com/yudanZ/infinite-scroll) | [Live](https://yudanz.github.io/infinite-scroll/)
+- Umberto Di Napoli - [Github](https://github.com/Khelthos/unsplash-infinite-scroll) | [Live](https://khelthos.github.io/unsplash-infinite-scroll/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/infinite-scroll) | [View Live](https://Carls13.github.io/20-javascript-projects/infinite-scroll)
 - krittiyaclark - [Github](https://github.com/krittiyaclark/mini-projects/tree/main/quote-generator)
 - Altamas khan - [Github](https://github.com/Altamas2049/quote-generator) |[View Live](https://altamas2049.github.io/Infinite-Scroll/)
@@ -327,10 +327,6 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [Github](https://github.com/meilune/infinite-scroll) | [View Live](https://meilune.github.io/infinite-scroll/)
 - Melissa Mitchell - [Github](https://github.com/mel-codingphoenix/infinite_scrolling) | [View Live](https://mel-codingphoenix.github.io/infinite_scrolling/)
 - Mike Vrkljan [Github](https://github.com/vrkljam/infinite-scroll) | [Live Demo](https://vrkljam.github.io/infinite-scroll/)
-
-
-
-
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
@@ -406,10 +402,10 @@ Check out all of the submissions below! Well done everyone!
 - Wei-Hang Wang - [Github](https://github.com/KalpasWang/joke-teller)
 - Anette - [Github](https://github.com/RedSquirrrel/joke-teller) [View Live](https://redsquirrrel.github.io/joke-teller/)
 - Soojin - [Github](https://github.com/ehdgodgka/joke-teller) [View Live](https://ehdgodgka.github.io/joke-teller/)
-- Hamza Khan - [Github](https://github.com/salderahamza/robo-joke)  | [Live](https://salderahamza.github.io/robo-joke/.)
+- Hamza Khan - [Github](https://github.com/salderahamza/robo-joke) | [Live](https://salderahamza.github.io/robo-joke/.)
 - WayneMacMavis - [Github](https://github.com/waynemacmavis/joke-teller) | [View Live](https://waynemacmavis.github.io/joke-teller/)
 - Palak Jain - [Github](https://github.com/Palak-coder626/Joke-Teller) | [View Live](https://palak-coder626.github.io/Joke-Teller/)
-- Yudan Zhai - [Github](https://github.com/yudanZ/joke-teller)  | [Live](https://yudanz.github.io/joke-teller/)
+- Yudan Zhai - [Github](https://github.com/yudanZ/joke-teller) | [Live](https://yudanz.github.io/joke-teller/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/quote-generator) | [View Live](https://Carls13.github.io/20-javascript-projects/quote-generator)
 - Oscar Ramos - [Github](https://github.com/oscaramos/joke-teller) | [Live](https://joke-teller-five.vercel.app/)
 - Yifang Di - [Github](https://github.com/YvonneD/joke-teller) | [View Live](https://yvonned.github.io/joke-teller/)
@@ -550,7 +546,7 @@ Check out all of the submissions below! Well done everyone!
 - Sam Morgan - [Github](https://github.com/YouMorCant/music-player) | [View Live](https://youmorcant.github.io/music-player/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/JavaScriptProjectMusicPlayer) | [View Live](https://jthinlay.github.io/JavaScriptProjectMusicPlayer/)
 - Keshav Naganathan - [View Code](https://github.com/DevKesh/Music-Player) | [View Live](https://the-music-player.netlify.app/)
-- Palak Jain - [Github](https://github.com/Palak-coder626)  | [View Live](https://palak-coder626.github.io/Music-Player/)
+- Palak Jain - [Github](https://github.com/Palak-coder626) | [View Live](https://palak-coder626.github.io/Music-Player/)
 - Keshav Naganathan - [View Code](https://github.com/DevKesh/Music-Player) [Click here](https://the-music-player.netlify.app/) for live app
 - Ariel Lin - [Github](https://github.com/ariellinfy/music-player) | [View Live](https://ariellinfy.github.io/music-player/)
 - Julie Dumbrique - [Github](https://github.com/isjules/music-player.git) | [View Live](https://isjules.github.io/music-player/)
@@ -820,7 +816,3 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Kishor Balgi - [Github](https://github.com/KishorBalgi/To-do-list) | [View Live](https://kishorbalgi.github.io/To-do-list/)
 - Gurjeet Singh Virdee - [Github](https://github.com/gurjeetsinghvirdee/Todo-app) | [View Live](https://todo-app-9da99.web.app/)
-
-
-
-
