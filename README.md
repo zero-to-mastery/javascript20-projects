@@ -759,6 +759,7 @@ Check out all of the submissions below! Well done everyone!
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/drag-and-drop-1.0) | [View Live](https://dwightmckenzie.github.io/drag-and-drop-1.0/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/drag-and-drop) | [View Live](https://jonnathanriquelmo.github.io/drag-and-drop/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/kanban-board) | [View Live](https://meilune.github.io/kanban-board/)
+- Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz16_kanban) | [View Live](https://jin-co-jcg.vercel.app/20p/pz16_kanban/index.html)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
