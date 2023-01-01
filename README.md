@@ -802,6 +802,7 @@ Check out all of the submissions below! Well done everyone!
 - bergstenarn - [Github](https://github.com/bergstenarn/splash-page) | [View Live](https://bergstenarn.github.io/splash-page/index.html)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/splash-page) | [View Live](https://pats101.github.io/splash-page/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/splash-page) | [View Live](https://jonnathanriquelmo.github.io/splash-page/)
+- Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz18_splash) | [View Live](https://jin-co-jcg.vercel.app/20p/pz18_splash/index.html)
 
 ### Pig Game - Original: [Github](https://github.com/DeepakRawat24/pig-game)
 
