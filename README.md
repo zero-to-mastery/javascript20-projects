@@ -327,6 +327,7 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [Github](https://github.com/meilune/infinite-scroll) | [View Live](https://meilune.github.io/infinite-scroll/)
 - Melissa Mitchell - [Github](https://github.com/mel-codingphoenix/infinite_scrolling) | [View Live](https://mel-codingphoenix.github.io/infinite_scrolling/)
 - Mike Vrkljan [Github](https://github.com/vrkljam/infinite-scroll) | [Live Demo](https://vrkljam.github.io/infinite-scroll/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/Infinite-Scroll) | [View Live](https://rostorm.github.io/Infinite-Scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
@@ -378,6 +379,7 @@ Check out all of the submissions below! Well done everyone!
 - Rudy Gonzalez - [Github](https://github.com/rglez89/Picture-in-picture) | [View Live](https://rglez89.github.io/Picture-in-picture/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/picture-in-picture) | [View Live](https://jonnathanriquelmo.github.io/picture-in-picture/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/picture-in-picture) | [View Live](https://meilune.github.io/picture-in-picture/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/Picture-in-Picture) | [View Live](https://rostorm.github.io/Picture-in-Picture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
