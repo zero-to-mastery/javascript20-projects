@@ -742,6 +742,7 @@ Check out all of the submissions below! Well done everyone!
 - Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/ms-paint-clone) | [View Live](https://pats101.github.io/ms-paint-clone/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/paint-clone) | [View Live](https://jonnathanriquelmo.github.io/paint-clone/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/paint-clone) | [View Live](https://meilune.github.io/paint-clone/)
+- Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz19_drawing) | [View Live](https://jin-co-jcg.vercel.app/20p/pz19_drawing/index.html)
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
