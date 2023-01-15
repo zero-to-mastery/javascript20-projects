@@ -248,12 +248,12 @@ Check out all of the submissions below! Well done everyone!
 - Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [View Live](https://mayorman07.github.io/Autoquote/)
 - Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [View Live](https://thefirstcodebender.github.io/Quote-Generator/)
 - Melissa Mitchell - [Github](https://github.com/mel-codingphoenix/quote_generator) | [View Live](https://mel-codingphoenix.github.io/quote_generator/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/Quote_Generator) | [View Live](https://rostorm.github.io/Quote_Generator/)
 - Trilok Vallamkonda - [Github](https://github.com/trilok2703/quote-generator) | [View Live](https://trilok2703.github.io/quote-generator/)
 - Danilo Hung - [Github](https://github.com/danilo-hung/QuoteGenerator) | [View Live](danilo-hung.github.io/QuoteGenerator/)
 - Shivam Kumar - [Github](https://github.com/rhinoxD/javascript-20-projects/tree/master/quote-generator) | [View Live](https://quote-generator-rhino.netlify.app/)
 - Pouassi Steff - [Github](https://github.com/steffFrank/quoteGenerator) | [View Live](https://quote-generator-ztm.netlify.app/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz01_quote_gen) | [View Live](https://jin-co-jcg.hostman.site/20p/pz01_quote_gen/index.html)
-
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -343,6 +343,7 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [Github](https://github.com/meilune/infinite-scroll) | [View Live](https://meilune.github.io/infinite-scroll/)
 - Melissa Mitchell - [Github](https://github.com/mel-codingphoenix/infinite_scrolling) | [View Live](https://mel-codingphoenix.github.io/infinite_scrolling/)
 - Mike Vrkljan [Github](https://github.com/vrkljam/infinite-scroll) | [Live Demo](https://vrkljam.github.io/infinite-scroll/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/Infinite-Scroll) | [View Live](https://rostorm.github.io/Infinite-Scroll/)
 - Danilo Hung - [Github](https://github.com/danilo-hung/2022_InfiniteScroll) | [View Live](https://danilo-hung.github.io/2022_InfiniteScroll/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz02_infinite_scroll) | [View Live](https://jin-co-jcg.hostman.site/20p/pz02_infinite_scroll/index.html)
 
@@ -398,6 +399,7 @@ Check out all of the submissions below! Well done everyone!
 - Rudy Gonzalez - [Github](https://github.com/rglez89/Picture-in-picture) | [View Live](https://rglez89.github.io/Picture-in-picture/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/picture-in-picture) | [View Live](https://jonnathanriquelmo.github.io/picture-in-picture/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/picture-in-picture) | [View Live](https://meilune.github.io/picture-in-picture/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/Picture-in-Picture) | [View Live](https://rostorm.github.io/Picture-in-Picture/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz03_picture_in_picture) | [View Live](https://jin-co-jcg.hostman.site/20p/pz03_picture_in_picture/index.html)
 - Mike Vrkljan [Github](https://github.com/vrkljam/pic-n-pic) | [Live Demo](https://vrkljam.github.io/pic-n-pic/)
 
@@ -862,3 +864,4 @@ Check out all of the submissions below! Well done everyone!
 ### Budget App - Original: [Github](https://github.com/abhishekmulik/BudgetApp)
 
 - Abhishek Mulik -[Github](https://github.com/abhishekmulik/BudgetApp) | [View Live](https://abhishek-mulik-budgetapp.netlify.app/)
+
