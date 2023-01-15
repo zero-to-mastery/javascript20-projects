@@ -16,14 +16,13 @@ Check out all of the submissions below! Well done everyone!
 [Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-scroll---original-github) | [Picture in Picture](#picture-in-picture---original-github) | [Joke Teller](#joke-teller---original-github) | [Light/Dark Mode](#light-dark-mode---original-github) | [Animated Template](#animated-template---original-github) | [Navigation Nation](#navigation-nation---original-github) | [Music Player](#music-player---original-github) | [Custom Countdown](#custom-countdown---original-github) | [Book Keeper](#book-keeper---original-github) | [Video Player](#video-player---original-github) | [Form Validator](#form-validator---original-github) | [Rock Spock](#rock-spock---original-github) | [NASA APOD](#nasa-apod---original-github) | [Paint Clone](#paint-clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#math-sprint-game---original-github) | [Drag and Drop](#drag-and-drop---original-github) | [Calculator](#calculator---original-github) | [Splash Page](#splash-page---original-github) | [Pig Game](#pig-game---original-github)
 
 ### Simple Quiz App - Original: [Github](https://github.com/RupamG/simple-quiz)
-
 - Rupam Gogoi - [Github](https://github.com/RupamG/simple-quiz) | [View Live](https://quick-quiz-app.netlify.app/)
 - Nayana Thapa - [Github](https://github.com/nayana-thapa/quizApp) | [View Live](https://nayana-thapa.github.io/quizApp/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/quiz-app/)
 - Nilam Bhuva - [Github](https://github.com/nilmeet)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
-
+- Anas Elmakhloufi - [Github](https://github.com/anasmak04/30-Days-30-Projects-VanillaJS/tree/main/Project-02-Quotes) | [View Live](https://30-days-30-projects-vanilla-js.vercel.app/)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/quote-generator) | [View Live](https://patricioschranz.github.io/quote-generator/)
 - James Murphy - [Github](https://github.com/jamesIVdeveloper/quote-generator) | [View Live](https://jamesivdeveloper.github.io/quote-generator/)
 - Rock Roque - [Github](https://github.com/RockRoque/quote-generator) | [View Live](https://rockroque.github.io/quote-generator-app/)
