@@ -24,6 +24,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+- Patricio Schranz - [Github](https://github.com/patricioSchranz/quote-generator) | [View Live](https://patricioschranz.github.io/quote-generator/)
 - James Murphy - [Github](https://github.com/jamesIVdeveloper/quote-generator) | [View Live](https://jamesivdeveloper.github.io/quote-generator/)
 - Rock Roque - [Github](https://github.com/RockRoque/quote-generator) | [View Live](https://rockroque.github.io/quote-generator-app/)
 - Nathalie Daoût - [Github](https://github.com/SapinSobre/quote-generator) | [View Live](https://sapinsobre.github.io/quote-generator/)
@@ -253,6 +254,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
+- - Patricio Schranz - [Github](https://github.com/patricioSchranz/infinite-scroll) | [View Live](https://patricioschranz.github.io/infinite-scroll/)
 - Nathalie Daoût - [Github](https://github.com/SapinSobre/infinity-scroll) | [View Live ](https://sapinsobre.github.io/infinity-scroll/)
 - Curtis Warcup - [Github](https://github.com/Cwarcup) | [View Live ](https://cwarcup.github.io/infinite_scroll/)
 - Devtinator - [Github](https://github.com/Devtinator/Infinity-Scroll) | [View Live](https://devtinator.github.io/Infinity-Scroll/)
@@ -342,6 +344,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
+- - Patricio Schranz - [Github](https://github.com/patricioSchranz/picture-in-picture) | [View Live](https://patricioschranz.github.io/picture-in-picture/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/pic-in-pic) | [View Live Demo](https://pats101.github.io/pic-in-pic/)
 - Devtinator - [Github](https://github.com/Devtinator/Picture-in-Picture) | [View Live](https://devtinator.github.io/Picture-in-Picture/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/PictureInPicture) [View Live](https://gabrielhangor.github.io/PictureInPicture/)
@@ -396,6 +399,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
+- Patricio Schranz - [Github](https://github.com/patricioSchranz/joke_teller) | [View Live](https://patricioschranz.github.io/joke_teller/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/joke-cracker) | [View Live Demo](https://pats101.github.io/joke-cracker/)
 - Devtinator - [Github](https://github.com/Devtinator/Joke-Teller) | [View Live](https://devtinator.github.io/Joke-Teller/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/JokeRobotApp) [View Live](https://gabrielhangor.github.io/JokeRobotApp/)
@@ -445,6 +449,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
+- Patricio Schranz - [Github](https://github.com/patricioSchranz/light-dark-mode) | [View Live](https://patricioschranz.github.io/light-dark-mode/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/light-and-dark-mode) | [View Live Demo](https://pats101.github.io/light-and-dark-mode/)
 - Devtinator - [Github](https://github.com/Devtinator/LIght-and-DArk-Mode) | [View Live](https://devtinator.github.io/LIght-and-DArk-Mode/)
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit) | [View Live](https://reefit.netlify.app)
@@ -485,6 +490,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
+- Patricio Schranz - [Github](https://github.com/patricioSchranz/animated_template) | [View Live](https://patricioschranz.github.io/animated_template/)
 - Patrick Tonderai Ganhiwa [Github](https://github.com/Pats101/animated-template)| [View Live Demo](https://pats101.github.io/animated-template/)
 - Devtinator - [Github](https://github.com/Devtinator/Animated-Website) | [View Live](https://devtinator.github.io/Animated-Website/)
 - Russ Perry - [Github](https://github.com/rperry99/animation-template) | [View Live](https://rperry99.github.io/animation-template/)
