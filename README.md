@@ -834,6 +834,7 @@ Check out all of the submissions below! Well done everyone!
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/calculator-1.0) | [View Live](https://dwightmckenzie.github.io/calculator-1.0/)
 - Abdulrahman Aljaadi - [Github](https://github.com/realabdul-1/Calculator-JS) | [View Live](https://realabdul-1.github.io/Calculator-JS/)
 - Virginija Meilune - [Github](https://github.com/meilune/calculator) | [View Live](https://meilune.github.io/calculator/)
+- Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz17_caculator) | [View Live](https://jin-co-jcg.vercel.app/20p/pz17_caculator/index.html)
 - Abhishek Mulik - [Github](https://github.com/abhishekmulik/Calculator-)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
