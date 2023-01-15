@@ -342,6 +342,7 @@ Check out all of the submissions below! Well done everyone!
 - Mike Vrkljan [Github](https://github.com/vrkljam/infinite-scroll) | [Live Demo](https://vrkljam.github.io/infinite-scroll/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz02_infinite_scroll) | [View Live](https://jin-co-jcg.hostman.site/20p/pz02_infinite_scroll/index.html)
 
+
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
 - - Patricio Schranz - [Github](https://github.com/patricioSchranz/picture-in-picture) | [View Live](https://patricioschranz.github.io/picture-in-picture/)
@@ -797,7 +798,6 @@ Check out all of the submissions below! Well done everyone!
 - Alaa Balbaid -[Github](https://github.com/alaa140101/Calculator) [Live](https://alaa140101.github.io/Calculator/)
 - Constantin U -[Github](https://github.com/conuko/Calculator) [Live](https://conuko.github.io/Calculator/)
 - Yifang Di - [Github](https://github.com/YvonneD/calculator) | [View Live](https://yvonned.github.io/calculator/)
-- Abhishek Mulik - [Github](https://github.com/abhishekmulik/Calculator-)
 - Cindy McReynolds - [Github](https://github.com/Cindy452/Calculator) | [View Live](https://cindy452.github.io/Calculator/)
 - bintouski - [Github](https://github.com/bintou123-ski/Calculator) | [View Live](https:/bintou123-ski.github.io/Calculator)
 - Ariel Lin - [Github](https://github.com/ariellinfy/calculator) | [View Live](https://ariellinfy.github.io/calculator/)
@@ -812,6 +812,7 @@ Check out all of the submissions below! Well done everyone!
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/calculator-1.0) | [View Live](https://dwightmckenzie.github.io/calculator-1.0/)
 - Abdulrahman Aljaadi - [Github](https://github.com/realabdul-1/Calculator-JS) | [View Live](https://realabdul-1.github.io/Calculator-JS/)
 - Virginija Meilune - [Github](https://github.com/meilune/calculator) | [View Live](https://meilune.github.io/calculator/)
+- Abhishek Mulik - [Github](https://github.com/abhishekmulik/Calculator-)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
@@ -844,3 +845,8 @@ Check out all of the submissions below! Well done everyone!
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Kishor Balgi - [Github](https://github.com/KishorBalgi/To-do-list) | [View Live](https://kishorbalgi.github.io/To-do-list/)
 - Gurjeet Singh Virdee - [Github](https://github.com/gurjeetsinghvirdee/Todo-app) | [View Live](https://todo-app-9da99.web.app/)
+
+
+### Budget App - Original: [Github](https://github.com/abhishekmulik/BudgetApp)
+
+- Abhishek Mulik -[Github](https://github.com/abhishekmulik/BudgetApp) | [View Live](https://abhishek-mulik-budgetapp.netlify.app/)
