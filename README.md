@@ -655,6 +655,7 @@ Check out all of the submissions below! Well done everyone!
 - Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/video-player) | [View Live](https://pats101.github.io/video-player/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/video-player) | [View Live](https://jonnathanriquelmo.github.io/video-player/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/video-player) | [View Live](https://meilune.github.io/video-player/)
+- Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz11_video_player) | [View Live](https://jin-co-jcg.hostman.site/20p/pz11_video_player/index.html)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
