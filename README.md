@@ -698,6 +698,7 @@ Check out all of the submissions below! Well done everyone!
 - Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/spock-rock-game) | [View Live](https://pats101.github.io/spock-rock-game/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/rock-paper-scissors-lizard-spock) | [View Live](https://jonnathanriquelmo.github.io/rock-paper-scissors-lizard-spock/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/spock-rock-game) | [View Live](https://meilune.github.io/spock-rock-game/)
+- Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz13_paper_scissors) | [View Live](https://jin-co-jcg.hostman.site/20p/pz13_paper_scissors/index.html)
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
