@@ -246,6 +246,7 @@ Check out all of the submissions below! Well done everyone!
 - Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [View Live](https://mayorman07.github.io/Autoquote/)
 - Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [View Live](https://thefirstcodebender.github.io/Quote-Generator/)
 - Melissa Mitchell - [Github](https://github.com/mel-codingphoenix/quote_generator) | [View Live](https://mel-codingphoenix.github.io/quote_generator/)
+- Shivam Kumar - [Github](https://github.com/rhinoxD/javascript-20-projects/tree/master/quote-generator) | [View Live](https://quote-generator-rhino.netlify.app/)
 - Pouassi Steff - [Github](https://github.com/steffFrank/quoteGenerator) | [View Live](https://quote-generator-ztm.netlify.app/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz01_quote_gen) | [View Live](https://jin-co-jcg.hostman.site/20p/pz01_quote_gen/index.html)
 
