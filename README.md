@@ -248,6 +248,7 @@ Check out all of the submissions below! Well done everyone!
 - Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [View Live](https://mayorman07.github.io/Autoquote/)
 - Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [View Live](https://thefirstcodebender.github.io/Quote-Generator/)
 - Melissa Mitchell - [Github](https://github.com/mel-codingphoenix/quote_generator) | [View Live](https://mel-codingphoenix.github.io/quote_generator/)
+- Tara Swingholm [Github](https://github.com/TaraByte79/quote-generator) | [View Live](TaraByte79.github.io/quote-generator)
 - Aastha Aggarwal - [Github](https://github.com/AasthaAgg/Quote-Generator) | [View Live](https://aasthaagg.github.io/Quote-Generator/)
 - Rostom Matchavariani - [Github](https://github.com/RostoRM/Quote_Generator) | [View Live](https://rostorm.github.io/Quote_Generator/)
 - Trilok Vallamkonda - [Github](https://github.com/trilok2703/quote-generator) | [View Live](https://trilok2703.github.io/quote-generator/)
@@ -345,6 +346,7 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [Github](https://github.com/meilune/infinite-scroll) | [View Live](https://meilune.github.io/infinite-scroll/)
 - Melissa Mitchell - [Github](https://github.com/mel-codingphoenix/infinite_scrolling) | [View Live](https://mel-codingphoenix.github.io/infinite_scrolling/)
 - Mike Vrkljan [Github](https://github.com/vrkljam/infinite-scroll) | [Live Demo](https://vrkljam.github.io/infinite-scroll/)
+-Tara Swingholm [Github] (https://github.com/TaraByte79/infinite-scroll) | [Live Demo](https://TaraByte79.github.io/infinite-scroll)
 - Rostom Matchavariani - [Github](https://github.com/RostoRM/Infinite-Scroll) | [View Live](https://rostorm.github.io/Infinite-Scroll/)
 - Danilo Hung - [Github](https://github.com/danilo-hung/2022_InfiniteScroll) | [View Live](https://danilo-hung.github.io/2022_InfiniteScroll/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz02_infinite_scroll) | [View Live](https://jin-co-jcg.hostman.site/20p/pz02_infinite_scroll/index.html)
@@ -832,6 +834,7 @@ Check out all of the submissions below! Well done everyone!
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/calculator-1.0) | [View Live](https://dwightmckenzie.github.io/calculator-1.0/)
 - Abdulrahman Aljaadi - [Github](https://github.com/realabdul-1/Calculator-JS) | [View Live](https://realabdul-1.github.io/Calculator-JS/)
 - Virginija Meilune - [Github](https://github.com/meilune/calculator) | [View Live](https://meilune.github.io/calculator/)
+- Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz17_caculator) | [View Live](https://jin-co-jcg.vercel.app/20p/pz17_caculator/index.html)
 - Abhishek Mulik - [Github](https://github.com/abhishekmulik/Calculator-)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
@@ -867,6 +870,7 @@ Check out all of the submissions below! Well done everyone!
 - Kishor Balgi - [Github](https://github.com/KishorBalgi/To-do-list) | [View Live](https://kishorbalgi.github.io/To-do-list/)
 - Gurjeet Singh Virdee - [Github](https://github.com/gurjeetsinghvirdee/Todo-app) | [View Live](https://todo-app-9da99.web.app/)
 - dcd_innovation - [Github](https://github.com/dcd-innovation/Todo-list)
+- dcd_innovation - [Github](https://github.com/dcd-innovation/Meds_Quiz)
 
 
 ### Budget App - Original: [Github](https://github.com/abhishekmulik/BudgetApp)
