@@ -632,6 +632,7 @@ Check out all of the submissions below! Well done everyone!
 - Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/backlog-site) | [View Live](https://pats101.github.io/bookmark-sites/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/book-keeper) | [View Live](https://jonnathanriquelmo.github.io/book-keeper/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/bookmarker) | [View Live](https://meilune.github.io/bookmarker/)
+- Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz10_book_mark) | [View Live](https://jin-co-jcg.hostman.site/20p/pz10_book_mark/index.html)
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
