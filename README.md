@@ -254,7 +254,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
-- - Patricio Schranz - [Github](https://github.com/patricioSchranz/infinite-scroll) | [View Live](https://patricioschranz.github.io/infinite-scroll/)
+- Patricio Schranz - [Github](https://github.com/patricioSchranz/infinite-scroll) | [View Live](https://patricioschranz.github.io/infinite-scroll/)
 - Nathalie Daoût - [Github](https://github.com/SapinSobre/infinity-scroll) | [View Live ](https://sapinsobre.github.io/infinity-scroll/)
 - Curtis Warcup - [Github](https://github.com/Cwarcup) | [View Live ](https://cwarcup.github.io/infinite_scroll/)
 - Devtinator - [Github](https://github.com/Devtinator/Infinity-Scroll) | [View Live](https://devtinator.github.io/Infinity-Scroll/)
@@ -344,7 +344,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
-- - Patricio Schranz - [Github](https://github.com/patricioSchranz/picture-in-picture) | [View Live](https://patricioschranz.github.io/picture-in-picture/)
+- Patricio Schranz - [Github](https://github.com/patricioSchranz/picture-in-picture) | [View Live](https://patricioschranz.github.io/picture-in-picture/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/pic-in-pic) | [View Live Demo](https://pats101.github.io/pic-in-pic/)
 - Devtinator - [Github](https://github.com/Devtinator/Picture-in-Picture) | [View Live](https://devtinator.github.io/Picture-in-Picture/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/PictureInPicture) [View Live](https://gabrielhangor.github.io/PictureInPicture/)
