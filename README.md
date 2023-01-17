@@ -508,6 +508,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
+- Patricio Schranz - [Github](https://github.com/patricioSchranz/navigation-nation) | [View Live](https://patricioschranz.github.io/navigation-nation/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/animated-navigation) | [View Live Demo](https://pats101.github.io/animated-navigation/)
 - Devtinator - [Github](https://github.com/Devtinator/Animated-Navigation) | [View Live](https://devtinator.github.io/Animated-Navigation/)
 - Russ Perry - [Github](https://github.com/rperry99/navigation-animation) | [View Live](https://rperry99.github.io/navigation-animation/)
