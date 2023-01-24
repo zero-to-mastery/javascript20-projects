@@ -220,6 +220,7 @@ Check out all of the submissions below! Well done everyone!
 - Alberto Gonzalez - [Github](https://github.com/ajsaenz1091/quote-generator) | [View Live](https://ajsaenz1091.github.io/quote-generator/)
 - Tiamiyu Sikiru Abidemi - [Github](https://github.com/AbidemiT/quote-generator) | [View Live](https://abidemiquotegenerator.netlify.app/)
 - Siyovush Kadyrov - [Github](https://github.com/SYOM29/quote-generator) | [View Live](https://syom29.github.io/quote-generator/)
+- Fernando Hernandez - [Github](https://github.com/datenshi/quote-generator) | [View Live](https://datenshi.github.io/quote-generator/)
 - Anthony Keel - [Github](https://github.com/Anthony-Keel) |[View Live](https://anthony-keel.github.io/QuoteGenerator/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Hau Vu - [Github](https://github.com/hauvudev/quote-generator)
