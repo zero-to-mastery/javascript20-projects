@@ -194,6 +194,7 @@ Check out all of the submissions below! Well done everyone!
 - Sara Abraham - [Github](https://github.com/saraabraham) | [View Live](https://saraabraham.github.io/Quote-Generator/)
 - Martin Shindarski - [Github](https://github.com/MaRtenkata/quote-generator)
 - Tomer Baranes - [GitHub](https://github.com/TomerBaranes/js20-quote-generator) [View Live](https://tomerbaranes.github.io/js20-quote-generator/)
+- Brent Edwards - [GitHub](https://github.com/zirris512/Quote-Generator) [View Live](https://zirris512.github.io/Quote-Generator/)
 - chen yuhao - [Github](https://github.com/cyhfe/quote-generator) | [View Live](https://cyh-quote-genertor.netlify.app/)
 - Erik Hunter - [Github](https://github.com/Ej1seven/Quote-Generator) [View Live](https://ej1seven.github.io/Quote-Generator/)
 - Keith Warren - [Github](https://github.com/KeWa-io/quote-generator) | [View Live](https://kewa-io.github.io/quote-generator/)
