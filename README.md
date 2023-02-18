@@ -22,6 +22,7 @@ Check out all of the submissions below! Well done everyone!
 - Nilam Bhuva - [Github](https://github.com/nilmeet)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+-Sahil Aghara - [Github](https://github.com/sahilaghara1911) | [View Live](https://sahilaghara1911.github.io/quote-generator/)
 - Anish Kumar - [Github](https://github.com/anishkumar92/quote-generator) | [View Live](https://anishkumar92.github.io/quote-generator/)
 - Anas Elmakhloufi - [Github](https://github.com/anasmak04/30-Days-30-Projects-VanillaJS/tree/main/Project-02-Quotes) | [View Live](https://30-days-30-projects-vanilla-js.vercel.app/)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/quote-generator) | [View Live](https://patricioschranz.github.io/quote-generator/)
@@ -415,7 +416,7 @@ Check out all of the submissions below! Well done everyone!
 
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
-
+- Sahil Aghara - [GitHub](https://github.com/sahilaghara1911) | [View Live](https://sahilaghara1911.github.io/Joke-Teller/)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/joke_teller) | [View Live](https://patricioschranz.github.io/joke_teller/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/joke-cracker) | [View Live Demo](https://pats101.github.io/joke-cracker/)
 - Devtinator - [Github](https://github.com/Devtinator/Joke-Teller) | [View Live](https://devtinator.github.io/Joke-Teller/)
@@ -467,7 +468,7 @@ Check out all of the submissions below! Well done everyone!
 
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
-
+- Sahil Aghara - [Github] (https://github.com/sahilaghara1911) | [View Live](https://sahilaghara1911.github.io/Light-Dark-Mode/)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/light-dark-mode) | [View Live](https://patricioschranz.github.io/light-dark-mode/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/light-and-dark-mode) | [View Live Demo](https://pats101.github.io/light-and-dark-mode/)
 - Devtinator - [Github](https://github.com/Devtinator/LIght-and-DArk-Mode) | [View Live](https://devtinator.github.io/LIght-and-DArk-Mode/)
@@ -512,7 +513,7 @@ Check out all of the submissions below! Well done everyone!
 
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
-
+- Sahil Aghara - [GitHub](https://github.com/sahilaghara1911) | [View Live](https://sahilaghara1911.github.io/Animated-Template/)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/animated_template) | [View Live](https://patricioschranz.github.io/animated_template/)
 - Patrick Tonderai Ganhiwa [Github](https://github.com/Pats101/animated-template)| [View Live Demo](https://pats101.github.io/animated-template/)
 - Devtinator - [Github](https://github.com/Devtinator/Animated-Website) | [View Live](https://devtinator.github.io/Animated-Website/)
