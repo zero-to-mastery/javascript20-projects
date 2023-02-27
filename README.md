@@ -22,6 +22,7 @@ Check out all of the submissions below! Well done everyone!
 - Nilam Bhuva - [Github](https://github.com/nilmeet)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+- Cristian Tudor - [Github](https://github.com/cristianstudor/quote-generator) | [View Live](https://cristianstudor.github.io/quote-generator/)
 - Anish Kumar - [Github](https://github.com/anishkumar92/quote-generator) | [View Live](https://anishkumar92.github.io/quote-generator/)
 - Anas Elmakhloufi - [Github](https://github.com/anasmak04/30-Days-30-Projects-VanillaJS/tree/main/Project-02-Quotes) | [View Live](https://30-days-30-projects-vanilla-js.vercel.app/)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/quote-generator) | [View Live](https://patricioschranz.github.io/quote-generator/)
