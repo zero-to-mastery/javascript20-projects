@@ -1,4 +1,4 @@
-# javascript20-projects
+# javascript20-projects 
 
 Student submissions for the [JavaScript 20 Projects Course](https://academy.zerotomastery.io/p/javascript-projects)
 
