@@ -428,6 +428,7 @@ Check out all of the submissions below! Well done everyone!
 - Rudy Gonzalez - [Github](https://github.com/rglez89/Joke-teller) | [View Live](https://rglez89.github.io/Joke-teller/)
 - Tiffany Chen - [Github](https://github.com/yinjuchen/Robot-Joke-Teller) | [View Live](https://yinjuchen.github.io/Robot-Joke-Teller/)
 - Virginija Meilune - [Github](https://github.com/meilune/joke-teller) | [View Live](https://meilune.github.io/joke-teller/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/JokeTeller) | [View Live](https://rostorm.github.io/JokeTeller/)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
@@ -467,6 +468,7 @@ Check out all of the submissions below! Well done everyone!
 - Pete Donaghy - [Github](https://github.com/TriplePP/Light-dark-mode) | [View Live](https://triplepp.github.io/Light-dark-mode/)
 - Alinda Byamukama - [GitHub](https://github.com/alindaByamukama/js-joke-teller) | [View Live Demo](https://alindabyamukama.github.io/js-joke-teller/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/light-dark-modes) | [View Live Demo](https://meilune.github.io/light-dark-modes/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/LightToDarkMode) | [View Live](https://rostorm.github.io/LightToDarkMode/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
@@ -497,6 +499,7 @@ Check out all of the submissions below! Well done everyone!
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/animated-template) | [View Live](https://jonnathanriquelmo.github.io/animated-template/)
 - Rudy Gonzalez - [Github](https://github.com/rglez89/Animated-template) | [View Live](https://rglez89.github.io/Animated-template/)
 - Virginija Meilune - [Github](https://github.com/meilune/animated-template) | [View Live](https://meilune.github.io/animated-template/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/Animated_Template) | [View Live](https://rostorm.github.io/Animated_Template/)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
@@ -522,6 +525,7 @@ Check out all of the submissions below! Well done everyone!
 - bergstenarn - [Github](https://github.com/bergstenarn/navigation-nation) | [View Live](https://bergstenarn.github.io/navigation-nation/index.html)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/navigation-nation) | [View Live](https://jonnathanriquelmo.github.io/navigation-nation/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/navigation-animation) | [View Live](https://meilune.github.io/navigation-animation/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/Side_Navigation) | [View Live](https://rostorm.github.io/Side_Navigation/)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
@@ -560,6 +564,7 @@ Check out all of the submissions below! Well done everyone!
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/music-player) | [View Live](https://pats101.github.io/music-player/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/music-player) | [View Live](https://jonnathanriquelmo.github.io/music-player/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/music-player) | [View Live](https://meilune.github.io/music-player/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/Music_Player) | [View Live](https://rostorm.github.io/Music_Player/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
@@ -586,6 +591,7 @@ Check out all of the submissions below! Well done everyone!
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/the-countdown) | [View Live](https://pats101.github.io/the-countdown/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/custom-countdown) | [View Live](https://jonnathanriquelmo.github.io/custom-countdown/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/custom-countdown) | [View Live](https://meilune.github.io/custom-countdown/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/Custom_Countdown) | [View Live](https://rostorm.github.io/Custom_Countdown/)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
@@ -606,6 +612,7 @@ Check out all of the submissions below! Well done everyone!
 - Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/backlog-site) | [View Live](https://pats101.github.io/bookmark-sites/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/book-keeper) | [View Live](https://jonnathanriquelmo.github.io/book-keeper/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/bookmarker) | [View Live](https://meilune.github.io/bookmarker/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/Create_Bookmarks) | [View Live](https://rostorm.github.io/Create_Bookmarks/)
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
@@ -628,6 +635,7 @@ Check out all of the submissions below! Well done everyone!
 - Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/video-player) | [View Live](https://pats101.github.io/video-player/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/video-player) | [View Live](https://jonnathanriquelmo.github.io/video-player/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/video-player) | [View Live](https://meilune.github.io/video-player/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/Video-Player) | [View Live](https://rostorm.github.io/Video-Player/)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
@@ -652,6 +660,7 @@ Check out all of the submissions below! Well done everyone!
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/form-validator) | [View Live](https://jonnathanriquelmo.github.io/form-validator/)
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/form-validation-1.0) | [View Live](https://dwightmckenzie.github.io/form-validation-1.0/)
 - Virginija Meilune - [Github](https://github.com/meilune/form-validation) | [View Live](https://meilune.github.io/form-validation/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/Form_Validation) | [View Live](https://rostorm.github.io/Form_Validation/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
@@ -670,6 +679,7 @@ Check out all of the submissions below! Well done everyone!
 - Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/spock-rock-game) | [View Live](https://pats101.github.io/spock-rock-game/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/rock-paper-scissors-lizard-spock) | [View Live](https://jonnathanriquelmo.github.io/rock-paper-scissors-lizard-spock/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/spock-rock-game) | [View Live](https://meilune.github.io/spock-rock-game/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/SpockRock-Game) | [View Live](https://rostorm.github.io/SpockRock-Game/)
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
@@ -687,6 +697,7 @@ Check out all of the submissions below! Well done everyone!
 - Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/the-nasa-sci-pic) | [View Live](https://pats101.github.io/the-nasa-sci-pic/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/nasa-api-apod) | [View Live](https://jonnathanriquelmo.github.io/nasa-api-apod/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/nasa-api-pictures) | [View Live](https://meilune.github.io/nasa-api-pictures/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/NASA_APOD) | [View Live](https://rostorm.github.io/NASA_APOD/)
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
@@ -702,6 +713,7 @@ Check out all of the submissions below! Well done everyone!
 - Patrick Tonderai Ganhiwa - [Gihub](https://github.com/Pats101/ms-paint-clone) | [View Live](https://pats101.github.io/ms-paint-clone/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/paint-clone) | [View Live](https://jonnathanriquelmo.github.io/paint-clone/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/paint-clone) | [View Live](https://meilune.github.io/paint-clone/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/PaintClone) | [View Live](https://rostorm.github.io/PaintClone/)
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
@@ -717,6 +729,7 @@ Check out all of the submissions below! Well done everyone!
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/pong-game) | [View Live](https://jonnathanriquelmo.github.io/pong-game/)
 - Saksham Gupta - [Github](https://github.com/Saksham-Gupta-30/Pong-Game) | [View Live](https://saksham-gupta-30.github.io/Pong-Game/)
 - Virginija Meilune - [Github](https://github.com/meilune/ping-pong) | [View Live](https://meilune.github.io/ping-pong/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/PongGame) | [View Live](https://rostorm.github.io/PongGame/)
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
@@ -734,6 +747,7 @@ Check out all of the submissions below! Well done everyone!
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/math-sprint-game) | [View Live](https://jonnathanriquelmo.github.io/math-sprint-game/)
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/math-sprint-game-1.0) | [View Live](https://dwightmckenzie.github.io/math-sprint-game-1.0/)
 - Virginija Meilune - [Github](https://github.com/meilune/math-sprint-game) | [View Live](https://meilune.github.io/math-sprint-game/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/MathSprint-Game) | [View Live](https://rostorm.github.io/MathSprint-Game/)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
@@ -757,6 +771,7 @@ Check out all of the submissions below! Well done everyone!
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/drag-and-drop-1.0) | [View Live](https://dwightmckenzie.github.io/drag-and-drop-1.0/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/drag-and-drop) | [View Live](https://jonnathanriquelmo.github.io/drag-and-drop/)
 - Virginija Meilune - [GitHub](https://github.com/meilune/kanban-board) | [View Live](https://meilune.github.io/kanban-board/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/DragAndDrop) | [View Live](https://rostorm.github.io/DragAndDrop/)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
@@ -786,6 +801,7 @@ Check out all of the submissions below! Well done everyone!
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/calculator-1.0) | [View Live](https://dwightmckenzie.github.io/calculator-1.0/)
 - Abdulrahman Aljaadi - [Github](https://github.com/realabdul-1/Calculator-JS) | [View Live](https://realabdul-1.github.io/Calculator-JS/)
 - Virginija Meilune - [Github](https://github.com/meilune/calculator) | [View Live](https://meilune.github.io/calculator/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/Calculator) | [View Live](https://rostorm.github.io/Calculator/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
@@ -800,6 +816,7 @@ Check out all of the submissions below! Well done everyone!
 - bergstenarn - [Github](https://github.com/bergstenarn/splash-page) | [View Live](https://bergstenarn.github.io/splash-page/index.html)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/splash-page) | [View Live](https://pats101.github.io/splash-page/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/splash-page) | [View Live](https://jonnathanriquelmo.github.io/splash-page/)
+- Rostom Matchavariani - [Github](https://github.com/RostoRM/SplashPage) | [View Live](https://rostorm.github.io/SplashPage/)
 
 ### Pig Game - Original: [Github](https://github.com/DeepakRawat24/pig-game)
 
