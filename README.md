@@ -779,6 +779,7 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [GitHub](https://github.com/meilune/paint-clone) | [View Live](https://meilune.github.io/paint-clone/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz19_drawing) | [View Live](https://jin-co-jcg.vercel.app/20p/pz19_drawing/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/019-paint-clone) | [View Live](http://wayney-paint-clone.s3-website-ap-southeast-1.amazonaws.com/)
+- Nguyen Le - [Github](https://github.com/lenguyenhcm325/07-paint-clone) | [View Live](https://jazzy-lollipop-9c779e.netlify.app/)
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
