@@ -31,6 +31,7 @@ Check out all of the submissions below! Well done everyone!
 - Sagar Sinha - [Github](https://github.com/sinhasagar01/Quote-generator) | [View Live](https://thunderous-chaja-a34296.netlify.app/)
 - Pradeep Kumar - [Github](https://github.com/pradytpk/quote-generator-js) | [View Live](https://pradytpk.github.io/quote-generator-js/)
 - Michael Shields - [Github](https://github.com/mike-shields-dev/quote-generator) | [View Live](https://mike-shields-dev.github.io/quote-generator/)
+- Joé St-Pierre - [Github](https://github.com/Elflakos/quote-generator) | [View Live](https://elflakos.github.io/quote-generator/)
 - Pete Donaghy - [Github](https://github.com/TriplePP/Quote-generator) | [View Live](https://graceful-horse-6709ef.netlify.app/)
 - Roxanne - [Github](https://github.com/roxanneweber/quote-generator) | [View Live](https://rw-js-quote-generator.netlify.app/)
 - Rossco - [Github](https://github.com/rmchardie/quote-generator) | [View Live](https://rmchardie.github.io/quote-generator/)
