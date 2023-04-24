@@ -259,6 +259,7 @@ Check out all of the submissions below! Well done everyone!
 - Pouassi Steff - [Github](https://github.com/steffFrank/quoteGenerator) | [View Live](https://quote-generator-ztm.netlify.app/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz01_quote_gen) | [View Live](https://jin-co-jcg.hostman.site/20p/pz01_quote_gen/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/001-quote-generator) | [View Live](http://wayney-quote-generator.s3-website-ap-southeast-1.amazonaws.com/)
+- Dipen Chauhan - [Github](https://github.com/overdrivemachines/quote-generator) | [View Live](https://overdrivemachines.github.io/quote-generator/)
 
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
@@ -354,6 +355,8 @@ Check out all of the submissions below! Well done everyone!
 - Danilo Hung - [Github](https://github.com/danilo-hung/2022_InfiniteScroll) | [View Live](https://danilo-hung.github.io/2022_InfiniteScroll/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz02_infinite_scroll) | [View Live](https://jin-co-jcg.hostman.site/20p/pz02_infinite_scroll/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/002-infinity-scroll) | [View Live](https://github.com/ymw0331/javascript-20-projects/tree/master/002-infinity-scroll)
+- Dipen Chauhan - [Github](https://github.com/overdrivemachines/infinity-scroll) | [View Live](https://overdrivemachines.github.io/infinity-scroll/)
+
 
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
@@ -411,6 +414,7 @@ Check out all of the submissions below! Well done everyone!
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz03_picture_in_picture) | [View Live](https://jin-co-jcg.hostman.site/20p/pz03_picture_in_picture/index.html)
 - Mike Vrkljan [Github](https://github.com/vrkljam/pic-n-pic) | [Live Demo](https://vrkljam.github.io/pic-n-pic/)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/003-picture-picture) | [View Live](http://wayney-picture-in-picture.s3-website-ap-southeast-1.amazonaws.com/)
+- Dipen Chauhan - [Github](https://github.com/overdrivemachines/picture-in-picture) | [View Live](https://overdrivemachines.github.io/picture-in-picture/)
 
 
 
@@ -464,6 +468,7 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [Github](https://github.com/meilune/joke-teller) | [View Live](https://meilune.github.io/joke-teller/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz04_joke_api) | [View Live](https://jin-co-jcg.hostman.site/20p/pz04_joke_api/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/004-joke-teller) | [View Live](http://wayney-joke-teller.s3-website-ap-southeast-1.amazonaws.com)
+- Dipen Chauhan - [Github](https://github.com/overdrivemachines/joke-teller) | [View Live](https://overdrivemachines.github.io/joke-teller/)
 
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
