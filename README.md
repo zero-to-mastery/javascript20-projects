@@ -16,12 +16,14 @@ Check out all of the submissions below! Well done everyone!
 [Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-scroll---original-github) | [Picture in Picture](#picture-in-picture---original-github) | [Joke Teller](#joke-teller---original-github) | [Light/Dark Mode](#light-dark-mode---original-github) | [Animated Template](#animated-template---original-github) | [Navigation Nation](#navigation-nation---original-github) | [Music Player](#music-player---original-github) | [Custom Countdown](#custom-countdown---original-github) | [Book Keeper](#book-keeper---original-github) | [Video Player](#video-player---original-github) | [Form Validator](#form-validator---original-github) | [Rock Spock](#rock-spock---original-github) | [NASA APOD](#nasa-apod---original-github) | [Paint Clone](#paint-clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#math-sprint-game---original-github) | [Drag and Drop](#drag-and-drop---original-github) | [Calculator](#calculator---original-github) | [Splash Page](#splash-page---original-github) | [Pig Game](#pig-game---original-github)
 
 ### Simple Quiz App - Original: [Github](https://github.com/RupamG/simple-quiz)
+
 - Rupam Gogoi - [Github](https://github.com/RupamG/simple-quiz) | [View Live](https://quick-quiz-app.netlify.app/)
 - Nayana Thapa - [Github](https://github.com/nayana-thapa/quizApp) | [View Live](https://nayana-thapa.github.io/quizApp/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/quiz-app/)
 - Nilam Bhuva - [Github](https://github.com/nilmeet)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+
 - Anish Kumar - [Github](https://github.com/anishkumar92/quote-generator) | [View Live](https://anishkumar92.github.io/quote-generator/)
 - Anas Elmakhloufi - [Github](https://github.com/anasmak04/30-Days-30-Projects-VanillaJS/tree/main/Project-02-Quotes) | [View Live](https://30-days-30-projects-vanilla-js.vercel.app/)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/quote-generator) | [View Live](https://patricioschranz.github.io/quote-generator/)
@@ -259,7 +261,7 @@ Check out all of the submissions below! Well done everyone!
 - Pouassi Steff - [Github](https://github.com/steffFrank/quoteGenerator) | [View Live](https://quote-generator-ztm.netlify.app/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz01_quote_gen) | [View Live](https://jin-co-jcg.hostman.site/20p/pz01_quote_gen/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/001-quote-generator) | [View Live](http://wayney-quote-generator.s3-website-ap-southeast-1.amazonaws.com/)
-
+- Daniel Wernz - [Github](https://github.com/dwernz/quote-generator) | [View Live](https://dwernz.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -349,12 +351,11 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [Github](https://github.com/meilune/infinite-scroll) | [View Live](https://meilune.github.io/infinite-scroll/)
 - Melissa Mitchell - [Github](https://github.com/mel-codingphoenix/infinite_scrolling) | [View Live](https://mel-codingphoenix.github.io/infinite_scrolling/)
 - Mike Vrkljan [Github](https://github.com/vrkljam/infinite-scroll) | [Live Demo](https://vrkljam.github.io/infinite-scroll/)
--Tara Swingholm [Github] (https://github.com/TaraByte79/infinite-scroll) | [Live Demo](https://TaraByte79.github.io/infinite-scroll)
+  -Tara Swingholm [Github] (https://github.com/TaraByte79/infinite-scroll) | [Live Demo](https://TaraByte79.github.io/infinite-scroll)
 - Rostom Matchavariani - [Github](https://github.com/RostoRM/Infinite-Scroll) | [View Live](https://rostorm.github.io/Infinite-Scroll/)
 - Danilo Hung - [Github](https://github.com/danilo-hung/2022_InfiniteScroll) | [View Live](https://danilo-hung.github.io/2022_InfiniteScroll/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz02_infinite_scroll) | [View Live](https://jin-co-jcg.hostman.site/20p/pz02_infinite_scroll/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/002-infinity-scroll) | [View Live](https://github.com/ymw0331/javascript-20-projects/tree/master/002-infinity-scroll)
-
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
@@ -412,8 +413,6 @@ Check out all of the submissions below! Well done everyone!
 - Mike Vrkljan [Github](https://github.com/vrkljam/pic-n-pic) | [Live Demo](https://vrkljam.github.io/pic-n-pic/)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/003-picture-picture) | [View Live](http://wayney-picture-in-picture.s3-website-ap-southeast-1.amazonaws.com/)
 
-
-
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/joke_teller) | [View Live](https://patricioschranz.github.io/joke_teller/)
@@ -465,7 +464,6 @@ Check out all of the submissions below! Well done everyone!
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz04_joke_api) | [View Live](https://jin-co-jcg.hostman.site/20p/pz04_joke_api/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/004-joke-teller) | [View Live](http://wayney-joke-teller.s3-website-ap-southeast-1.amazonaws.com)
 
-
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/light-dark-mode) | [View Live](https://patricioschranz.github.io/light-dark-mode/)
@@ -509,8 +507,6 @@ Check out all of the submissions below! Well done everyone!
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz05_mode_change) | [View Live](https://jin-co-jcg.hostman.site/20p/pz05_mode_change/)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/005-light-dark-mode) | [View Live](http://wayney-light-dark-mode.s3-website-ap-southeast-1.amazonaws.com/)
 
-
-
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/animated_template) | [View Live](https://patricioschranz.github.io/animated_template/)
@@ -544,7 +540,6 @@ Check out all of the submissions below! Well done everyone!
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz06_animated) | [View Live](https://jin-co-jcg.hostman.site/20p/pz06_animated/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/006-animated) | [View Live](http://wayney-animated.s3-website-ap-southeast-1.amazonaws.com/)
 
-
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/navigation-nation) | [View Live](https://patricioschranz.github.io/navigation-nation/)
@@ -572,7 +567,6 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [GitHub](https://github.com/meilune/navigation-animation) | [View Live](https://meilune.github.io/navigation-animation/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz07_navigation) | [View Live](https://jin-co-jcg.hostman.site/20p/pz07_navigation/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/007-navigation-nation) | [View Live](http://wayney-navigation-nation.s3-website-ap-southeast-1.amazonaws.com/)
-
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
@@ -614,8 +608,6 @@ Check out all of the submissions below! Well done everyone!
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz08_music_play) | [View Live](https://jin-co-jcg.hostman.site/20p/pz08_music_play/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/008-music-player) | [View Live](http://wayney-music-player.s3-website-ap-southeast-1.amazonaws.com/)
 
-
-
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
 - Russ Perry - [Github](https://github.com/rperry99/custom-countdown) | [View Live](https://rperry99.github.io/custom-countdown/)
@@ -645,7 +637,6 @@ Check out all of the submissions below! Well done everyone!
 - Aastha Aggarwal - [Github](https://github.com/AasthaAgg/Countdown-Timer) | [View Live](https://aasthaagg.github.io/Countdown-Timer/)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/009-custom-countdown) | [View Live](http://wayney-custom-countdown.s3-website-ap-southeast-1.amazonaws.com/)
 
-
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
 - Russ Perry - [Github](https://github.com/rperry99/book-keeper)
@@ -667,7 +658,6 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [GitHub](https://github.com/meilune/bookmarker) | [View Live](https://meilune.github.io/bookmarker/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz10_book_mark) | [View Live](https://jin-co-jcg.hostman.site/20p/pz10_book_mark/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/010-book-keeper) | [View Live](http://wayney-book-keeper.s3-website-ap-southeast-1.amazonaws.com/)
-
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
@@ -692,7 +682,6 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [GitHub](https://github.com/meilune/video-player) | [View Live](https://meilune.github.io/video-player/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz11_video_player) | [View Live](https://jin-co-jcg.hostman.site/20p/pz11_video_player/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/011-video-player) | [View Live](http://wayney-video-player.s3-website-ap-southeast-1.amazonaws.com/)
-
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
@@ -740,7 +729,6 @@ Check out all of the submissions below! Well done everyone!
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz13_paper_scissors) | [View Live](https://jin-co-jcg.hostman.site/20p/pz13_paper_scissors/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/013-spock-rock-game) | [View Live](http://wayney-spock-rock-game.s3-website-ap-southeast-1.amazonaws.com/)
 
-
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
 - Anette [Github](https://github.com/RedSquirrrel/nasa-apod) [View Live](https://redsquirrrel.github.io/nasa-apod/)
@@ -761,7 +749,6 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [GitHub](https://github.com/meilune/nasa-api-pictures) | [View Live](https://meilune.github.io/nasa-api-pictures/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz14_nasa) | [View Live](https://jin-co-jcg.hostman.site/20p/pz14_nasa/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/014-nasa-apod) | [View Live](http://wayney-nasa-apod.s3-website-ap-southeast-1.amazonaws.com/)
-  
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
@@ -816,7 +803,6 @@ Check out all of the submissions below! Well done everyone!
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz15_sprint) | [View Live](https://jin-co-jcg.vercel.app/20p/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/015-math-sprint) | [View Live](http://wayney-math-sprint.s3-website-ap-southeast-1.amazonaws.com/)
 
-
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
 - Khalil Shakhi (Farsi) - [Github](https://github.com/shakhi95/kanban-board) | [View Live](https://shakhi95.github.io/kanban-board/)
@@ -841,7 +827,6 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [GitHub](https://github.com/meilune/kanban-board) | [View Live](https://meilune.github.io/kanban-board/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz16_kanban) | [View Live](https://jin-co-jcg.vercel.app/20p/pz16_kanban/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/016-drag-and-drop) | [View Live](http://wayney-drag-and-drop.s3-website-ap-southeast-1.amazonaws.com/)
-
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
@@ -874,7 +859,6 @@ Check out all of the submissions below! Well done everyone!
 - Abhishek Mulik - [Github](https://github.com/abhishekmulik/Calculator-)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/017-calculator) | [View Live](http://wayney-calculator.s3-website-ap-southeast-1.amazonaws.com/)
 
-
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
 - Anette [Github](https://github.com/RedSquirrrel/splash-page) [View Live](https://redsquirrrel.github.io/splash-page/)
@@ -890,7 +874,6 @@ Check out all of the submissions below! Well done everyone!
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/splash-page) | [View Live](https://jonnathanriquelmo.github.io/splash-page/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz18_splash) | [View Live](https://jin-co-jcg.vercel.app/20p/pz18_splash/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/018-splash-page) | [View Live](http://wayney-splash-page.s3-website-ap-southeast-1.amazonaws.com/)
-
 
 ### Pig Game - Original: [Github](https://github.com/DeepakRawat24/pig-game)
 
@@ -912,9 +895,6 @@ Check out all of the submissions below! Well done everyone!
 - dcd_innovation - [Github](https://github.com/dcd-innovation/Todo-list)
 - dcd_innovation - [Github](https://github.com/dcd-innovation/Meds_Quiz)
 
-
 ### Budget App - Original: [Github](https://github.com/abhishekmulik/BudgetApp)
 
 - Abhishek Mulik -[Github](https://github.com/abhishekmulik/BudgetApp) | [View Live](https://abhishek-mulik-budgetapp.netlify.app/)
-
-
