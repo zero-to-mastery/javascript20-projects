@@ -465,6 +465,7 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [Github](https://github.com/meilune/joke-teller) | [View Live](https://meilune.github.io/joke-teller/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz04_joke_api) | [View Live](https://jin-co-jcg.hostman.site/20p/pz04_joke_api/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/004-joke-teller) | [View Live](http://wayney-joke-teller.s3-website-ap-southeast-1.amazonaws.com)
+- Daniel Wernz - [Github](https://github.com/dwernz/joke-teller) | [View Live](https://dwernz.github.io/joke-teller/)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
