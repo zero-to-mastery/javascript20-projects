@@ -509,6 +509,7 @@ Check out all of the submissions below! Well done everyone!
 - Ali Ibrahim - [GitHub](https://github.com/edocai/landing-page) | [View Live Demo](https://landing-page-ss.netlify.app/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz05_mode_change) | [View Live](https://jin-co-jcg.hostman.site/20p/pz05_mode_change/)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/005-light-dark-mode) | [View Live](http://wayney-light-dark-mode.s3-website-ap-southeast-1.amazonaws.com/)
+- Daniel Wernz - [Github](https://github.com/dwernz/light-dark-mode) | [View Live](https://dwernz.github.io/light-dark-mode/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
