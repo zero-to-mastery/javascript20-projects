@@ -572,6 +572,7 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [GitHub](https://github.com/meilune/navigation-animation) | [View Live](https://meilune.github.io/navigation-animation/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz07_navigation) | [View Live](https://jin-co-jcg.hostman.site/20p/pz07_navigation/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/007-navigation-nation) | [View Live](http://wayney-navigation-nation.s3-website-ap-southeast-1.amazonaws.com/)
+- Daniel Wernz - [Github](https://github.com/dwernz/navigation-nation) | [View Live](https://dwernz.github.io/navigation-nation/)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
