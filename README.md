@@ -613,6 +613,7 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [GitHub](https://github.com/meilune/music-player) | [View Live](https://meilune.github.io/music-player/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz08_music_play) | [View Live](https://jin-co-jcg.hostman.site/20p/pz08_music_play/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/008-music-player) | [View Live](http://wayney-music-player.s3-website-ap-southeast-1.amazonaws.com/)
+- Daniel Wernz - [Github](https://www.github.com/dwernz/music-player) | [View Live](https://dwernz.github.io/music-player)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
