@@ -643,6 +643,7 @@ Check out all of the submissions below! Well done everyone!
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz09_count_down) | [View Live](https://jin-co-jcg.hostman.site/20p/pz09_count_down/index.html)
 - Aastha Aggarwal - [Github](https://github.com/AasthaAgg/Countdown-Timer) | [View Live](https://aasthaagg.github.io/Countdown-Timer/)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/009-custom-countdown) | [View Live](http://wayney-custom-countdown.s3-website-ap-southeast-1.amazonaws.com/)
+- Daniel Wernz - [Github](https://www.github.com/dwernz/custom-countdown) | [View Live](https:/dwernz.github.io/custom-countdown)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
