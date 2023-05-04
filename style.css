@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap');
+
+html{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    min-height: 100vh;
+    background-color: #956362;
+    background-image: url("data:image/svg+xml,%3Csvg width='42' height='44' viewBox='0 0 42 44' xmlns='http://www.w3.org/2000/svg'%3E%3Cg id='Page-1' fill='none' fill-rule='evenodd'%3E%3Cg id='brick-wall' fill='%23433b39' fill-opacity='0.77'%3E%3Cpath d='M0 0h42v44H0V0zm1 1h40v20H1V1zM0 23h20v20H0V23zm22 0h20v20H22V23z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    color: white;
+    font-family: Instrument serif, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.quote-container{
+    width: auto;
+    max-width: 900px;
+    padding: 40px 10px;
+    border-radius: 10px;
+    background-color: rgba(46, 44, 45, 0.6);
+    box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.4);
+}
+.quote-text{
+    font-size: 2.75rem;
+}
+
+.long-quote{
+    font-size: 2rem;
+}
+.fa-quote-left{
+    font-size: 4rem;
+}
+.quote-author{
+    margin-top: 15px;
+    font-size: 2rem;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.button-container{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    cursor: pointer;
+    font-size: 1.2rem;
+    height: 2.2rem;
+    border: none;
+    border-radius: 10px;
+    color: #ffffff;
+    background: #6F74B4;
+    outline: none;
+    padding: 0.5rem 1.5rem;
+    box-shadow: 0 0.3rem rgb(255, 255, 255 , 0.1);
+}
+
+button:hover{
+    filter: brightness(120%);
+}
+button:active{
+    transform: translate(0 0.3rem);
+    box-shadow: 0 0.1rem rgba(0, 0, 0, 0.1);
+}
+
+.twitter:hover{
+    color: #38a1f3;
+}
+
+/* Loader */
+.loader {
+    border: 16px solid #f3f3f3; 
+    border-top: 16px solid #6F74B4; 
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+  }
+  
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
+/*Media Query : Tablet or Smaller */
+@media screen and (max-width: 1000px) {
+    .quote-container{
+         margin: auto 10px;
+        }
+        .quote-text{
+            font-size: 2.5rem;
+        }
+    }
