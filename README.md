@@ -861,6 +861,7 @@ Check out all of the submissions below! Well done everyone!
 - Cindy McReynolds - [Github](https://github.com/Cindy452/Calculator) | [View Live](https://cindy452.github.io/Calculator/)
 - bintouski - [Github](https://github.com/bintou123-ski/Calculator) | [View Live](https:/bintou123-ski.github.io/Calculator)
 - Ariel Lin - [Github](https://github.com/ariellinfy/calculator) | [View Live](https://ariellinfy.github.io/calculator/)
+- Emmanuel Damilola - [Github](https://github.com/DAEM007/basic-calculator) | [View Live](https://basic-calculator-topaz.vercel.app/)
 - Julie Dumbrique - [Github](https://github.com/isjules/calculator.git) | [View Live](https://isjules.github.io/calculator/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascript-calculator) | [View Live](https://jthinlay.github.io/javascript-calculator/)
