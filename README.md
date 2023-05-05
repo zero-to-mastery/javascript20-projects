@@ -19,6 +19,7 @@ Check out all of the submissions below! Well done everyone!
 - Rupam Gogoi - [Github](https://github.com/RupamG/simple-quiz) | [View Live](https://quick-quiz-app.netlify.app/)
 - Nayana Thapa - [Github](https://github.com/nayana-thapa/quizApp) | [View Live](https://nayana-thapa.github.io/quizApp/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/quiz-app/)
+- Emmanuel Damilola - [Github](https://github.com/DAEM007/QUIZ_PROJECT) | [View Live](http://quiz-project-psi.vercel.app/)
 - Nilam Bhuva - [Github](https://github.com/nilmeet)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
@@ -53,6 +54,7 @@ Check out all of the submissions below! Well done everyone!
 - KasibhatlaMidhun - [Github](https://github.com/KasibhatlaMidhun/quotegenerator) | [View Live](https://kasibhatlamidhun.github.io/quotegenerator/)
 - Mauricio Paternina - [Github](https://github.com/spaceinvadev/vanilla-js-random-projects/tree/main/projects/quote-generator) | [View Live](https://js-small-random-projects.netlify.app/)
 - HackerdX - [Github](https://github.com/HackerdX/AV-Quote-Generator) | [View Live](https://hackerdx.github.io/AV-Quote-Generator/)
+- Emmanuel Damilola - [Github](https://github.com/DAEM007/Quotes-generator-project) | [View Live](http://quotes-generator-project.vercel.app/)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/Quote-Generator) | [View Live](https://gabrielhangor.github.io/Quote-Generator/)
 - Vimarsh Thapa - [Github](https://github.com/VimarshThapa/quotes-generator) |[View Live](https://vimarshthapa.github.io/quotes-generator/)
 - Naim Uddin - [Github](https://github.com/Naim365/quote-generator) | [View Live](https://naim365.github.io/quote-generator/)
