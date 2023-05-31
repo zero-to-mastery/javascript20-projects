@@ -28,6 +28,7 @@ Check out all of the submissions below! Well done everyone!
 - James Murphy - [Github](https://github.com/jamesIVdeveloper/quote-generator) | [View Live](https://jamesivdeveloper.github.io/quote-generator/)
 - Rock Roque - [Github](https://github.com/RockRoque/quote-generator) | [View Live](https://rockroque.github.io/quote-generator-app/)
 - Nathalie Daoût - [Github](https://github.com/SapinSobre/quote-generator) | [View Live](https://sapinsobre.github.io/quote-generator/)
+- Ariel Schwartz - [Github](https://github.com/Ariel-Schwartz-254/quote-generator) | [View Live](https://ariel-schwartz-254.github.io/quote-generator/)
 - Sagar Sinha - [Github](https://github.com/sinhasagar01/Quote-generator) | [View Live](https://thunderous-chaja-a34296.netlify.app/)
 - Pradeep Kumar - [Github](https://github.com/pradytpk/quote-generator-js) | [View Live](https://pradytpk.github.io/quote-generator-js/)
 - Michael Shields - [Github](https://github.com/mike-shields-dev/quote-generator) | [View Live](https://mike-shields-dev.github.io/quote-generator/)
