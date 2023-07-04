@@ -736,6 +736,7 @@ Check out all of the submissions below! Well done everyone!
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/simple-calculator) | [ViewLive](https://pats101.github.io/simple-calculator/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/js-calculator) | [Live Demo](https://jonnathanriquelmo.github.io/js-calculator/)
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/calculator-1.0) | [View Live](https://dwightmckenzie.github.io/calculator-1.0/)
+-Tiffany Chen - [Github](https://github.com/yinjuchen/my-calculator.git) | [View Live](https://project-my-calculator.netlify.app/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
