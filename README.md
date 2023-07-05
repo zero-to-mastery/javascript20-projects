@@ -22,12 +22,17 @@ Check out all of the submissions below! Well done everyone!
 - Nilam Bhuva - [Github](https://github.com/nilmeet)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
+- Cristian Tudor - [Github](https://github.com/cristianstudor/quote-generator) | [View Live](https://cristianstudor.github.io/quote-generator/)
+- DailyVitamin by @thelore85 - [Github](https://github.com/thelore85) | [View Live](https://thelore85.github.io/quote-generator-API/)
+- Sahil Aghara - [Github](https://github.com/sahilaghara1911) | [View Live](https://sahilaghara1911.github.io/quote-generator/)
 - Anish Kumar - [Github](https://github.com/anishkumar92/quote-generator) | [View Live](https://anishkumar92.github.io/quote-generator/)
 - Anas Elmakhloufi - [Github](https://github.com/anasmak04/30-Days-30-Projects-VanillaJS/tree/main/Project-02-Quotes) | [View Live](https://30-days-30-projects-vanilla-js.vercel.app/)
+- Pailodze - [Github](https://github.com/shotapailodze/quote-generator)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/quote-generator) | [View Live](https://patricioschranz.github.io/quote-generator/)
 - James Murphy - [Github](https://github.com/jamesIVdeveloper/quote-generator) | [View Live](https://jamesivdeveloper.github.io/quote-generator/)
 - Rock Roque - [Github](https://github.com/RockRoque/quote-generator) | [View Live](https://rockroque.github.io/quote-generator-app/)
 - Nathalie Daoût - [Github](https://github.com/SapinSobre/quote-generator) | [View Live](https://sapinsobre.github.io/quote-generator/)
+- Ariel Schwartz - [Github](https://github.com/Ariel-Schwartz-254/quote-generator) | [View Live](https://ariel-schwartz-254.github.io/quote-generator/)
 - Sagar Sinha - [Github](https://github.com/sinhasagar01/Quote-generator) | [View Live](https://thunderous-chaja-a34296.netlify.app/)
 - Pradeep Kumar - [Github](https://github.com/pradytpk/quote-generator-js) | [View Live](https://pradytpk.github.io/quote-generator-js/)
 - Michael Shields - [Github](https://github.com/mike-shields-dev/quote-generator) | [View Live](https://mike-shields-dev.github.io/quote-generator/)
@@ -260,12 +265,15 @@ Check out all of the submissions below! Well done everyone!
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz01_quote_gen) | [View Live](https://jin-co-jcg.hostman.site/20p/pz01_quote_gen/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/001-quote-generator) | [View Live](http://wayney-quote-generator.s3-website-ap-southeast-1.amazonaws.com/)
 - Nicolo Valbuena - [Github](https://github.com/tradengr/stoic-quote-generator) | [View Live](https://tradengr.github.io/stoic-quote-generator/)
+- Mano Beeslaar - [Github](https://github.com/manobeeslaar) | [View Live](https://manobeeslaar.github.io/quote-generator/)
+- João Gonçalves [Github](https://github.com/Joopr8/quote-generator) | [View Live](https://joopr8.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/infinite-scroll) | [View Live](https://patricioschranz.github.io/infinite-scroll/)
 - Nathalie Daoût - [Github](https://github.com/SapinSobre/infinity-scroll) | [View Live ](https://sapinsobre.github.io/infinity-scroll/)
 - Curtis Warcup - [Github](https://github.com/Cwarcup) | [View Live ](https://cwarcup.github.io/infinite_scroll/)
+- Pailodze - [Github](https://github.com/shotapailodze/infinity-scroll)
 - Devtinator - [Github](https://github.com/Devtinator/Infinity-Scroll) | [View Live](https://devtinator.github.io/Infinity-Scroll/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://react-infinite-scrolling-7xs1twt63-astrogeek77.vercel.app/)
 - Alinda Byamukama - [Github](https://github.com/alindaByamukama/infinity-scroller) | [View Live](https://alindabyamukama.github.io/infinity-scroller/)
@@ -355,12 +363,15 @@ Check out all of the submissions below! Well done everyone!
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz02_infinite_scroll) | [View Live](https://jin-co-jcg.hostman.site/20p/pz02_infinite_scroll/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/002-infinity-scroll) | [View Live](https://github.com/ymw0331/javascript-20-projects/tree/master/002-infinity-scroll)
 - Nicolo Valbuena - [Github](https://github.com/tradengr/infinity-scroll) | [View Live](https://tradengr.github.io/infinity-scroll/)
+- João Gonçalves [Github](https://github.com/Joopr8/infinity-scroll) | [View Live](https://joopr8.github.io/infinity-scroll/)
+
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/picture-in-picture) | [View Live](https://patricioschranz.github.io/picture-in-picture/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/pic-in-pic) | [View Live Demo](https://pats101.github.io/pic-in-pic/)
 - Devtinator - [Github](https://github.com/Devtinator/Picture-in-Picture) | [View Live](https://devtinator.github.io/Picture-in-Picture/)
+- Pailodze - [Github](https://github.com/shotapailodze/picture-in-picture)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/PictureInPicture) [View Live](https://gabrielhangor.github.io/PictureInPicture/)
 - Josue Cedeno - [Github](https://github.com/mister-josuecedeno/js20-picture-in-picture) [View Live](https://mister-josuecedeno.github.io/js20-picture-in-picture/)
 - Russ Perry - [Github](https://github.com/rperry99/picture-in-picture) | [View Live](https://rperry99.github.io/picture-in-picture/)
@@ -411,14 +422,16 @@ Check out all of the submissions below! Well done everyone!
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz03_picture_in_picture) | [View Live](https://jin-co-jcg.hostman.site/20p/pz03_picture_in_picture/index.html)
 - Mike Vrkljan [Github](https://github.com/vrkljam/pic-n-pic) | [Live Demo](https://vrkljam.github.io/pic-n-pic/)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/003-picture-picture) | [View Live](http://wayney-picture-in-picture.s3-website-ap-southeast-1.amazonaws.com/)
+- João Gonçalves [Github](https://github.com/Joopr8/picture-in-picture) | [View Live](https://joopr8.github.io/picture-in-picture//)
 
 
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
-
+- Sahil Aghara - [GitHub](https://github.com/sahilaghara1911) | [View Live](https://sahilaghara1911.github.io/Joke-Teller/)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/joke_teller) | [View Live](https://patricioschranz.github.io/joke_teller/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/joke-cracker) | [View Live Demo](https://pats101.github.io/joke-cracker/)
 - Devtinator - [Github](https://github.com/Devtinator/Joke-Teller) | [View Live](https://devtinator.github.io/Joke-Teller/)
+- Pailodze - [Github](https://github.com/shotapailodze/joke-teller)
 - Gabriel Habibulin - [Github](https://github.com/GabrielHangor/JokeRobotApp) [View Live](https://gabrielhangor.github.io/JokeRobotApp/)
 - Russ Perry - [Github](https://github.com/rperry99/joke-teller) | [View Live](https://russ-joke-machine.netlify.app/)
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
@@ -464,12 +477,15 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [Github](https://github.com/meilune/joke-teller) | [View Live](https://meilune.github.io/joke-teller/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz04_joke_api) | [View Live](https://jin-co-jcg.hostman.site/20p/pz04_joke_api/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/004-joke-teller) | [View Live](http://wayney-joke-teller.s3-website-ap-southeast-1.amazonaws.com)
+- João Gonçalves [Github](https://github.com/Joopr8/joker-teller) | [View Live](https://joopr8.github.io/joker-teller/)
+
 
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
-
+- Sahil Aghara - [Github] (https://github.com/sahilaghara1911) | [View Live](https://sahilaghara1911.github.io/Light-Dark-Mode/)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/light-dark-mode) | [View Live](https://patricioschranz.github.io/light-dark-mode/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/light-and-dark-mode) | [View Live Demo](https://pats101.github.io/light-and-dark-mode/)
+- Pailodze - [Github](https://github.com/shotapailodze/light-dark-mode)
 - Devtinator - [Github](https://github.com/Devtinator/LIght-and-DArk-Mode) | [View Live](https://devtinator.github.io/LIght-and-DArk-Mode/)
 - Teri Eyenike - [Github](https://github.com/Terieyenike/Reefit) | [View Live](https://reefit.netlify.app)
 - Russ Perry - [Github](https://github.com/rperry99/light-dark-mode) | [View Live](https://rperry99.github.io/light-dark-mode/index.html)
@@ -508,13 +524,15 @@ Check out all of the submissions below! Well done everyone!
 - Ali Ibrahim - [GitHub](https://github.com/edocai/landing-page) | [View Live Demo](https://landing-page-ss.netlify.app/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz05_mode_change) | [View Live](https://jin-co-jcg.hostman.site/20p/pz05_mode_change/)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/005-light-dark-mode) | [View Live](http://wayney-light-dark-mode.s3-website-ap-southeast-1.amazonaws.com/)
+- João Gonçalves [Github](https://github.com/Joopr8/light-dark-mode) | [View Live](https://joopr8.github.io/light-dark-mode/)
 
 
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
-
+- Sahil Aghara - [GitHub](https://github.com/sahilaghara1911) | [View Live](https://sahilaghara1911.github.io/Animated-Template/)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/animated_template) | [View Live](https://patricioschranz.github.io/animated_template/)
 - Patrick Tonderai Ganhiwa [Github](https://github.com/Pats101/animated-template)| [View Live Demo](https://pats101.github.io/animated-template/)
+- Pailodze - [Github](https://github.com/shotapailodze/Animated-Template)
 - Devtinator - [Github](https://github.com/Devtinator/Animated-Website) | [View Live](https://devtinator.github.io/Animated-Website/)
 - Russ Perry - [Github](https://github.com/rperry99/animation-template) | [View Live](https://rperry99.github.io/animation-template/)
 - Ozziel Ruiiz [Github](https://ozzielruiz.github.io/animated-template/)
@@ -549,6 +567,7 @@ Check out all of the submissions below! Well done everyone!
 
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/navigation-nation) | [View Live](https://patricioschranz.github.io/navigation-nation/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/animated-navigation) | [View Live Demo](https://pats101.github.io/animated-navigation/)
+- Pailodze - [Github](https://github.com/shotapailodze/Navigation-Nation)
 - Devtinator - [Github](https://github.com/Devtinator/Animated-Navigation) | [View Live](https://devtinator.github.io/Animated-Navigation/)
 - Russ Perry - [Github](https://github.com/rperry99/navigation-animation) | [View Live](https://rperry99.github.io/navigation-animation/)
 - Rick Hallett - [Github](https://github.com/rickhallett/crypto-io) (work in progress! Will be completed by 31/08/2020! [View Live](https://rickhallett.github.io/crypto-io-bundled/))
@@ -576,10 +595,12 @@ Check out all of the submissions below! Well done everyone!
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
+- Patricio Schranz - [Github](https://github.com/patricioSchranz/music-player) | [View Live](https://patricioschranz.github.io/music-player/)
 - Devtinator - [Github](https://github.com/Devtinator/Music-Player) | [View Live](https://devtinator.github.io/Music-Player/)
 - Russ Perry - [Github](https://github.com/rperry99/javascript-music-player)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/javascript20-projects)
 - Russ Perry - [Github](https://github.com/rperry99/javascript-music-player) | [View Live](https://rperry99.github.io/javascript-music-player/)
+- Pailodze - [Github](https://github.com/shotapailodze/Music-Player)
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audioplayer)
 - Juan Melara - [Github](https://juanky256.github.io/Music-Player/)
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/audio-player/)
@@ -613,6 +634,8 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [GitHub](https://github.com/meilune/music-player) | [View Live](https://meilune.github.io/music-player/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz08_music_play) | [View Live](https://jin-co-jcg.hostman.site/20p/pz08_music_play/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/008-music-player) | [View Live](http://wayney-music-player.s3-website-ap-southeast-1.amazonaws.com/)
+- João Gonçalves [Github](https://github.com/Joopr8/music-player) | [View Live](https://joopr8.github.io/music-player/)
+
 
 
 
@@ -621,6 +644,7 @@ Check out all of the submissions below! Well done everyone!
 - Russ Perry - [Github](https://github.com/rperry99/custom-countdown) | [View Live](https://rperry99.github.io/custom-countdown/)
 - Arianna Choza - [Github](https://github.com/unachoza/countdown) [View Live](https://unachoza.github.io/countdown)
 - Hamza Khan - [Github](https://github.com/salderahamza/countdown) [Live](https://salderahamza.github.io/countdown/)
+- Pailodze - [Github](https://github.com/shotapailodze/Custom-Countdown)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/custom-countdown) | [View Live](https://Carls13.github.io/20-javascript-projects/custom-countdown)
 - Yifang Di - [Github](https://github.com/YvonneD/custom-countdown) | [View Live](https://yvonned.github.io/custom-countdown/)
 - Sam Morgan - [Github](https://github.com/YouMorCant/custom-countdown) | [View Live](https://youmorcant.github.io/custom-countdown/)
@@ -651,6 +675,7 @@ Check out all of the submissions below! Well done everyone!
 - Russ Perry - [Github](https://github.com/rperry99/book-keeper)
 - Hasan Cobanoglu - [Github](https://github.com/hasancbngl/JsWeb20Projects/tree/master/10-bookmark-app) | [View Live](https://hasancbngl.github.io/js20webprojects/)
 - Hamza Khan - [Github](https://github.com/salderahamza/bookmark-app) [Live](https://salderahamza.github.io/bookmark-app/)
+- Pailodze - [Github](https://github.com/shotapailodze/Book-keeper)
 - Anette - [Github](https://github.com/RedSquirrrel/countdown) [View Live](https://redsquirrrel.github.io/countdown/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/bookmark) | [View Live](https://Carls13.github.io/20-javascript-projects/bookmark)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Book-Keeper) | [View Live](https://alaa140101.github.io/Book-Keeper/)
@@ -674,6 +699,7 @@ Check out all of the submissions below! Well done everyone!
 - Yusuf Abukar - [Github](https://github.com/yusufabukar/video-player/)
 - Hamza Khan - [Github](https://github.com/salderahamza/video-player/)
 - Anette - [Github](https://github.com/RedSquirrrel/video-player) [View Live](https://redsquirrrel.github.io/video-player/)
+- Pailodze - [Github](https://github.com/shotapailodze/Video-Player)
 - Russ Perry - [Github](https://github.com/rperry99/video-player) | [View Live](https://rperry99.github.io/video-player/)
 - Alaa balbaid - [Github](https://github.com/alaa140101/Video-Player) | [View Live](https://alaa140101.github.io/Video-Player/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/video-player) | [View Live](https://Carls13.github.io/20-javascript-projects/video-player)
@@ -698,6 +724,7 @@ Check out all of the submissions below! Well done everyone!
 
 - Brian Smith - [Github](https://github.com/theautoroboto/TheAutoLotto)
 - Steve Tollin - [Github](https://github.com/Webistics/Validation-Form) [View Live](https://webistics.github.io/Validation-Form/)
+- Pailodze - [Github](https://github.com/shotapailodze/Form-Validator)
 - Anette - [Github](https://github.com/RedSquirrrel/form-validator) [View Live](https://redsquirrrel.github.io/form-validator/)
 - Russ Perry - [Github](https://github.com/rperry99/form-validation) | [View Live](https://rperry99.github.io/form-validation/)
 - Shreyash Singh - [Github](https://github.com/cyborg7459/formValidation) | [View Live](https://cyborg7459.github.io/formValidation/)
@@ -719,12 +746,14 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [Github](https://github.com/meilune/form-validation) | [View Live](https://meilune.github.io/form-validation/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz12_form) | [View Live](https://jin-co-jcg.hostman.site/20p/pz12_form/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/012-form-validator) | [View Live](http://wayney-form-validator.s3-website-ap-southeast-1.amazonaws.com/)
+- João Gonçalves [Github](https://github.com/Joopr8/form-validator) | [View Live](https://joopr8.github.io/form-validator/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
 - Anette [Github](https://github.com/RedSquirrrel/rock-spock) [View Live](https://redsquirrrel.github.io/rock-spock/)
 - Russ Perry - [Github](https://github.com/rperry99/spock-rock-game) | [View Live](https://rperry99.github.io/spock-rock-game/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/spock-rock-game) | [View Live](https://Carls13.github.io/20-javascript-projects/spock-rock-game)
+- Pailodze - [Github](https://github.com/shotapailodze/spock-rock-game)
 - Yifang Di - [Github](https://github.com/YvonneD/spock-rock-game) | [View Live](https://yvonned.github.io/spock-rock-game/)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Spock-Rock-Game) | [View Live](https://alaa140101.github.io/Spock-Rock-Game/)
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProject-rockPaperScissorsGame) | [View Live](https://jthinlay.github.io/javascriptProject-rockPaperScissorsGame/)
@@ -745,6 +774,7 @@ Check out all of the submissions below! Well done everyone!
 
 - Anette [Github](https://github.com/RedSquirrrel/nasa-apod) [View Live](https://redsquirrrel.github.io/nasa-apod/)
 - Russ Perry - [Github](https://github.com/rperry99/Nasa-APOD) | [View Live](https://rperry99.github.io/Nasa-APOD/)
+- Pailodze - [Github](https://github.com/shotapailodze/Nasa-API)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/nasa-api-pictures) | [View Live](https://Carls13.github.io/20-javascript-projects/nasa-api-pictures)
 - Yifang Di - [Github](https://github.com/YvonneD/NASA-pictures) | [View Live](https://yvonned.github.io/NASA-pictures/)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/NASA-APOD) | [View Live](https://alaa140101.github.io/NASA-APOD/)
@@ -767,6 +797,7 @@ Check out all of the submissions below! Well done everyone!
 
 - Sarwar MD - [Github](https://github.com/Sarwar-Md/just-paint) [View Live](https://sarwar-md.github.io/just-paint/)
 - Russ Perry - [Github](https://github.com/rperry99/paint-clone) | [View Live](https://rperry99.github.io/paint-clone/)
+- Pailodze - [Github](https://github.com/shotapailodze/paint-clone)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/paint-clone) | [View Live](https://Carls13.github.io/20-javascript-projects/paint-clone)
 - Yifang Di - [Github](https://github.com/YvonneD/paint-clone) [View Live](https://yvonned.github.io/paint-clone/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/paint-clone) | [View Live](https://ariellinfy.github.io/paint-clone/)
@@ -779,12 +810,14 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [GitHub](https://github.com/meilune/paint-clone) | [View Live](https://meilune.github.io/paint-clone/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz19_drawing) | [View Live](https://jin-co-jcg.vercel.app/20p/pz19_drawing/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/019-paint-clone) | [View Live](http://wayney-paint-clone.s3-website-ap-southeast-1.amazonaws.com/)
+- João Gonçalves [Github](https://github.com/Joopr8/paint-clone) | [View Live](https://joopr8.github.io/paint-clone/)
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
 - Huang YiTing - [Github](https://github.com/yiting76/ricarball) [View Live](https://yiting76.github.io/ricarball/)
 - Russ Perry - [Github](https://github.com/rperry99/pong-clone) | [View Live](https://rperry99.github.io/pong-clone/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/pong) | [View Live](https://Carls13.github.io/20-javascript-projects/pong)
+- Pailodze - [Github](https://github.com/shotapailodze/Pong)
 - Yifang Di - [Github](https://github.com/YvonneD/pong) | [View Live](https://yvonned.github.io/pong/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/pong) | [View Live](https://ariellinfy.github.io/pong/)
 - Julie Dumbrique - [Github](https://github.com/isjules/pong-game.git) | [View Live](https://isjules.github.io/pong-game/)
@@ -800,6 +833,7 @@ Check out all of the submissions below! Well done everyone!
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
 - Anette [Github](https://github.com/RedSquirrrel/math-sprint-game) [View Live](https://redsquirrrel.github.io/math-sprint-game/)
+- Pailodze - [Github](https://github.com/shotapailodze/Math-Sprint-Game)
 - Russ Perry - [Github](https://github.com/rperry99/math-sprint) | [View Live](https://rperry99.github.io/math-sprint/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/math-sprint) | [View Live](https://Carls13.github.io/20-javascript-projects/math-sprint)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Math-Sprint-Game) | [View Live](https://alaa140101.github.io/Math-Sprint-Game/)
@@ -846,6 +880,7 @@ Check out all of the submissions below! Well done everyone!
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
 - Aishwar Malviya (Sindbad) - [Github](https://aishwarode17.github.io/calculatorApp/) | [View Live](https://aishwarode17.github.io/calculatorApp/)
+- Pailodze - [Github](https://github.com/shotapailodze/calculator)
 - Siddharth Agrawal - [Github](https://github.com/siddharth329/calculator)
 - Steve Tollin - [Github](https://github.com/Webistics/Wild-West-Calculator) [View Live](https://webistics.github.io/Wild-West-Calculator/)
 - @stanimal93 - [GitHub](https://github.com/stanimal93/bubbly-calculator)
@@ -865,6 +900,9 @@ Check out all of the submissions below! Well done everyone!
 - Pranav Pillai - [Github](https://github.com/pranav1597/CalC) | [View Live](https://pranav1597.github.io/CalC/)
 - bergstenarn - [Github](https://github.com/bergstenarn/calculator) | [View Live](https://bergstenarn.github.io/calculator/index.html)
 - Md Ashad - [Github](https://github.com/AshXD007/Iphone-Calculator) | [View Live](https://ashxd-iphonecalculator.netlify.app/)
+-Tiffany Chen - [Github](https://github.com/yinjuchen/my-calculator.git) | [View Live](https://project-my-calculator.netlify.app/)
+- Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/simple-calculator) | [ViewLive](https://pats101.github.io/simple-calculator/)
+- Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/js-calculator) | [Live Demo](https://jonnathanriquelmo.github.io/js-calculator/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/simple-calculator) | [View Live](https://pats101.github.io/simple-calculator/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/js-calculator) | [View Live](https://jonnathanriquelmo.github.io/js-calculator/)
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/calculator-1.0) | [View Live](https://dwightmckenzie.github.io/calculator-1.0/)
@@ -880,6 +918,7 @@ Check out all of the submissions below! Well done everyone!
 - Anette [Github](https://github.com/RedSquirrrel/splash-page) [View Live](https://redsquirrrel.github.io/splash-page/)
 - Russ Perry - [Github](https://github.com/rperry99/splash-page) | [View Live](https://rperry99.github.io/splash-page/)
 - Carls13 - [Github](https://github.com/Carls13/20-javascript-projects/splash-page) | [View Live](https://Carls13.github.io/20-javascript-projects/splash-page)
+- Pailodze - [Github](https://github.com/shotapailodze/figma-splash-page)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Splash-Page) | [View Live](https://alaa140101.github.io/Splash-Page/)
 - Yifang Di - [Github](https://github.com/YvonneD/splash-page) | [View Live](https://yvonned.github.io/splash-page/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/splash-page) | [View Live](https://ariellinfy.github.io/splash-page/)
@@ -896,6 +935,7 @@ Check out all of the submissions below! Well done everyone!
 
 - DeepakRawat24 - [Github](https://github.com/DeepakRawat24/pig-game) | [View Live](https://pig-game-rho.vercel.app/)
 - Alkka Wilson - [Github](https://github.com/alkka/Dice-roll-game)
+- Pailodze - [Github](https://github.com/shotapailodze/pig-game.github.io/tree/main/Pig%20Game)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Web_Projects_2020/Project%20Dice%20Game/)
 
 ### Tic Tac Toe Game - Original: [Github](https://github.com/KishorBalgi/JavaScript-Tic-Tac-Toe-Game)
@@ -916,5 +956,11 @@ Check out all of the submissions below! Well done everyone!
 ### Budget App - Original: [Github](https://github.com/abhishekmulik/BudgetApp)
 
 - Abhishek Mulik -[Github](https://github.com/abhishekmulik/BudgetApp) | [View Live](https://abhishek-mulik-budgetapp.netlify.app/)
+
+### Drum Kit - Original: [Github](https://github.com/AnsulaDev/Drum-Kit)
+
+- AnsulaDev -[Github](https://github.com/AnsulaDev/Drum-Kit) | [View Live](https://ansuladev.github.io/Drum-Kit/)
+
+
 
 
