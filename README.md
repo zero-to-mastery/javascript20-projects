@@ -951,6 +951,7 @@ Check out all of the submissions below! Well done everyone!
 
 - Milan Sachani - [Github](https://github.com/Milan-960/Tic-Tac-Toe-Game) | [View Live](https://tic-tac-toem.netlify.app/)
 - Kishor Balgi - [Github](https://github.com/KishorBalgi/JavaScript-Tic-Tac-Toe-Game) | [View Live](https://kishorbalgi.github.io/JavaScript-Tic-Tac-Toe-Game/)
+- Adel Malek - [Github](https://github.com/adelmalek/react-tic-tac-toe-game) | [View Live](https://adelmalek.github.io/react-tic-tac-toe-game/)
 
 ### Todo List - Original: [Github](https://github.com/JacintoDesign/todo-list)
 
