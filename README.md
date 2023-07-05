@@ -213,6 +213,7 @@ Check out all of the submissions below! Well done everyone!
 - Rudy Gonzalez - [Github](https://github.com/rglez89/quote-generator.git) | [View Live](https://rglez89.github.io/quote-generator/)
 - Reyner Veliz - [Github](https://github.com/rveliza/quote-generator) | [View Live](https://rveliza.github.io/quote-generator/)
 - Niraj Gupta - [Github](https://https://github.com/nirajguptasde/ztm-ca-quote-generator) | [View Live](https://nirajguptasde.github.io/ztm-ca-quote-generator/)
+- Monté Thomas - [Github](https://github.com/MonteThmas/Quote-generator) |[View Live](https://montethmas.github.io/Quote-generator/)
 - Evgeniy Galkovskiy - [Github](https://github.com/ZheGal/javascript-demos/tree/master/quotes) | [View Live](https://zhegal.github.io/javascript-demos/quotes)
 - Ido Barnea - [Github](https://github.com/barbareshet/quoteGeneretor) | [View Live](https://barbareshet.github.io/quoteGeneretor/)
 - Colombo RIccardo - [Github](https://github.com/ColomboRiccardo/quote-generator) | [View Live](https://colomboriccardo.github.io/quote-generator/)
