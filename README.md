@@ -482,11 +482,11 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [Github](https://github.com/meilune/joke-teller) | [View Live](https://meilune.github.io/joke-teller/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz04_joke_api) | [View Live](https://jin-co-jcg.hostman.site/20p/pz04_joke_api/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/004-joke-teller) | [View Live](http://wayney-joke-teller.s3-website-ap-southeast-1.amazonaws.com)
+- Mike Vrkljan [Github](https://github.com/vrkljam/Jokester) | [Live Demo](https://vrkljam.github.io/Jokester/)
 - João Gonçalves [Github](https://github.com/Joopr8/joker-teller) | [View Live](https://joopr8.github.io/joker-teller/)
 
-
-
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
+- 
 - Sahil Aghara - [Github] (https://github.com/sahilaghara1911) | [View Live](https://sahilaghara1911.github.io/Light-Dark-Mode/)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/light-dark-mode) | [View Live](https://patricioschranz.github.io/light-dark-mode/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/light-and-dark-mode) | [View Live Demo](https://pats101.github.io/light-and-dark-mode/)
