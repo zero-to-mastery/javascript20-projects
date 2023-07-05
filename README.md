@@ -268,6 +268,7 @@ Check out all of the submissions below! Well done everyone!
 - Pouassi Steff - [Github](https://github.com/steffFrank/quoteGenerator) | [View Live](https://quote-generator-ztm.netlify.app/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz01_quote_gen) | [View Live](https://jin-co-jcg.hostman.site/20p/pz01_quote_gen/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/001-quote-generator) | [View Live](http://wayney-quote-generator.s3-website-ap-southeast-1.amazonaws.com/)
+- Louis Hellman - [Github](https://github.com/TheBigLou/quote-generator) | [View Live](https://thebiglou.github.io/quote-generator/)
 - Lada Jakab - [Github](https://github.com/Lada-Montcorbier/Udemy-JavaScript-Web-Projects-20-Projects-to-Build-Your-Portfolio-/tree/3ec03b9541d5fbbd728c888d61ebea928aa8945c/quote-generator)
 - Nicolo Valbuena - [Github](https://github.com/tradengr/stoic-quote-generator) | [View Live](https://tradengr.github.io/stoic-quote-generator/)
 - Mano Beeslaar - [Github](https://github.com/manobeeslaar) | [View Live](https://manobeeslaar.github.io/quote-generator/)
