@@ -495,7 +495,6 @@ Check out all of the submissions below! Well done everyone!
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
--
 - Sahil Aghara - [Github] (https://github.com/sahilaghara1911) | [View Live](https://sahilaghara1911.github.io/Light-Dark-Mode/)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/light-dark-mode) | [View Live](https://patricioschranz.github.io/light-dark-mode/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/light-and-dark-mode) | [View Live Demo](https://pats101.github.io/light-and-dark-mode/)
@@ -916,7 +915,7 @@ Check out all of the submissions below! Well done everyone!
 - Pranav Pillai - [Github](https://github.com/pranav1597/CalC) | [View Live](https://pranav1597.github.io/CalC/)
 - bergstenarn - [Github](https://github.com/bergstenarn/calculator) | [View Live](https://bergstenarn.github.io/calculator/index.html)
 - Md Ashad - [Github](https://github.com/AshXD007/Iphone-Calculator) | [View Live](https://ashxd-iphonecalculator.netlify.app/)
-  -Tiffany Chen - [Github](https://github.com/yinjuchen/my-calculator.git) | [View Live](https://project-my-calculator.netlify.app/)
+- Tiffany Chen - [Github](https://github.com/yinjuchen/my-calculator.git) | [View Live](https://project-my-calculator.netlify.app/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/simple-calculator) | [ViewLive](https://pats101.github.io/simple-calculator/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/js-calculator) | [Live Demo](https://jonnathanriquelmo.github.io/js-calculator/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/simple-calculator) | [View Live](https://pats101.github.io/simple-calculator/)
