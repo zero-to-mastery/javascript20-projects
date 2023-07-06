@@ -494,7 +494,8 @@ Check out all of the submissions below! Well done everyone!
 - João Gonçalves [Github](https://github.com/Joopr8/joker-teller) | [View Live](https://joopr8.github.io/joker-teller/)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
-- 
+
+-
 - Sahil Aghara - [Github] (https://github.com/sahilaghara1911) | [View Live](https://sahilaghara1911.github.io/Light-Dark-Mode/)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/light-dark-mode) | [View Live](https://patricioschranz.github.io/light-dark-mode/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/light-and-dark-mode) | [View Live Demo](https://pats101.github.io/light-and-dark-mode/)
@@ -823,6 +824,7 @@ Check out all of the submissions below! Well done everyone!
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz19_drawing) | [View Live](https://jin-co-jcg.vercel.app/20p/pz19_drawing/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/019-paint-clone) | [View Live](http://wayney-paint-clone.s3-website-ap-southeast-1.amazonaws.com/)
 - João Gonçalves [Github](https://github.com/Joopr8/paint-clone) | [View Live](https://joopr8.github.io/paint-clone/)
+- Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/paint-clone) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/paint-clone)
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
@@ -841,6 +843,7 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [Github](https://github.com/meilune/ping-pong) | [View Live](https://meilune.github.io/ping-pong/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz20_pong) | [View Live](https://jin-co-jcg.vercel.app/20p/pz20_pong/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/020-pong) | [View Live](http://wayney-ping-pong.s3-website-ap-southeast-1.amazonaws.com/)
+- Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/pong) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/pong)
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
@@ -861,6 +864,7 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [Github](https://github.com/meilune/math-sprint-game) | [View Live](https://meilune.github.io/math-sprint-game/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz15_sprint) | [View Live](https://jin-co-jcg.vercel.app/20p/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/015-math-sprint) | [View Live](http://wayney-math-sprint.s3-website-ap-southeast-1.amazonaws.com/)
+- Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/math-sprint-game) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/math-sprint-game/)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
@@ -886,6 +890,7 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [GitHub](https://github.com/meilune/kanban-board) | [View Live](https://meilune.github.io/kanban-board/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz16_kanban) | [View Live](https://jin-co-jcg.vercel.app/20p/pz16_kanban/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/016-drag-and-drop) | [View Live](http://wayney-drag-and-drop.s3-website-ap-southeast-1.amazonaws.com/)
+- Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/drag-and-drop) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/drag-and-drop/)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
@@ -911,7 +916,7 @@ Check out all of the submissions below! Well done everyone!
 - Pranav Pillai - [Github](https://github.com/pranav1597/CalC) | [View Live](https://pranav1597.github.io/CalC/)
 - bergstenarn - [Github](https://github.com/bergstenarn/calculator) | [View Live](https://bergstenarn.github.io/calculator/index.html)
 - Md Ashad - [Github](https://github.com/AshXD007/Iphone-Calculator) | [View Live](https://ashxd-iphonecalculator.netlify.app/)
--Tiffany Chen - [Github](https://github.com/yinjuchen/my-calculator.git) | [View Live](https://project-my-calculator.netlify.app/)
+  -Tiffany Chen - [Github](https://github.com/yinjuchen/my-calculator.git) | [View Live](https://project-my-calculator.netlify.app/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/simple-calculator) | [ViewLive](https://pats101.github.io/simple-calculator/)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/js-calculator) | [Live Demo](https://jonnathanriquelmo.github.io/js-calculator/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/simple-calculator) | [View Live](https://pats101.github.io/simple-calculator/)
@@ -922,6 +927,7 @@ Check out all of the submissions below! Well done everyone!
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz17_caculator) | [View Live](https://jin-co-jcg.vercel.app/20p/pz17_caculator/index.html)
 - Abhishek Mulik - [Github](https://github.com/abhishekmulik/Calculator-)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/017-calculator) | [View Live](http://wayney-calculator.s3-website-ap-southeast-1.amazonaws.com/)
+- Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/calculator) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/calculator/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
@@ -939,6 +945,7 @@ Check out all of the submissions below! Well done everyone!
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/splash-page) | [View Live](https://jonnathanriquelmo.github.io/splash-page/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz18_splash) | [View Live](https://jin-co-jcg.vercel.app/20p/pz18_splash/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/018-splash-page) | [View Live](http://wayney-splash-page.s3-website-ap-southeast-1.amazonaws.com/)
+- Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/splash-page) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/splash-page)
 
 ### Pig Game - Original: [Github](https://github.com/DeepakRawat24/pig-game)
 
