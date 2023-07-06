@@ -801,7 +801,7 @@ Check out all of the submissions below! Well done everyone!
 - Virginija Meilune - [GitHub](https://github.com/meilune/nasa-api-pictures) | [View Live](https://meilune.github.io/nasa-api-pictures/)
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz14_nasa) | [View Live](https://jin-co-jcg.hostman.site/20p/pz14_nasa/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/014-nasa-apod) | [View Live](http://wayney-nasa-apod.s3-website-ap-southeast-1.amazonaws.com/)
-  
+
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
@@ -964,15 +964,18 @@ Check out all of the submissions below! Well done everyone!
 - dcd_innovation - [Github](https://github.com/dcd-innovation/Todo-list)
 - dcd_innovation - [Github](https://github.com/dcd-innovation/Meds_Quiz)
 
-
 ### Budget App - Original: [Github](https://github.com/abhishekmulik/BudgetApp)
 
 - Abhishek Mulik -[Github](https://github.com/abhishekmulik/BudgetApp) | [View Live](https://abhishek-mulik-budgetapp.netlify.app/)
+
+### Simon Game - Original: [Github](https://github.com/enam007/Simon-Game)
+
+- Md Aamir Enam -[GitHub](https://github.com/enam007/Simon-Game) | [View Live](https://enam007.github.io/Simon-Game/)
 
 ### Drum Kit - Original: [Github](https://github.com/AnsulaDev/Drum-Kit)
 
 - AnsulaDev -[Github](https://github.com/AnsulaDev/Drum-Kit) | [View Live](https://ansuladev.github.io/Drum-Kit/)
 
+### Virtual Drum - Original [Github](https://github.com/enam007/VirtualDrum)
 
-
-
+- Md Aamir Enam -[GitHub](https://github.com/enam007/VirtualDrum) | [View Live](https://enam007.github.io/VirtualDrum/)
