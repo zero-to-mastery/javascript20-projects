@@ -278,6 +278,7 @@ Check out all of the submissions below! Well done everyone!
 - Nicolo Valbuena - [Github](https://github.com/tradengr/stoic-quote-generator) | [View Live](https://tradengr.github.io/stoic-quote-generator/)
 - Mano Beeslaar - [Github](https://github.com/manobeeslaar) | [View Live](https://manobeeslaar.github.io/quote-generator/)
 - João Gonçalves [Github](https://github.com/Joopr8/quote-generator) | [View Live](https://joopr8.github.io/quote-generator/)
+- BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/quote-generator) | [View Live](https://bshohug.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -377,6 +378,7 @@ Check out all of the submissions below! Well done everyone!
 - Hassan Abdi - [Github](https://github.com/HassanNewDev/Infinite-bubbles-) | [View Live](https://hassannewdev.github.io/Infinite-bubbles-/)
 - Nicolo Valbuena - [Github](https://github.com/tradengr/infinity-scroll) | [View Live](https://tradengr.github.io/infinity-scroll/)
 - João Gonçalves [Github](https://github.com/Joopr8/infinity-scroll) | [View Live](https://joopr8.github.io/infinity-scroll/)
+- BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/infinity-scroll) | [View Live](https://bshohug.github.io/infinity-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
@@ -436,6 +438,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/003-picture-picture) | [View Live](http://wayney-picture-in-picture.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/picture-in-picture) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/picture-in-picture/)
 - João Gonçalves [Github](https://github.com/Joopr8/picture-in-picture) | [View Live](https://joopr8.github.io/picture-in-picture//)
+- BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/picture-in-picture) | [View Live](https://bshohug.github.io/picture-in-picture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
@@ -492,6 +495,7 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/joke-teller) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/joke-teller/)
 - Mike Vrkljan [Github](https://github.com/vrkljam/Jokester) | [Live Demo](https://vrkljam.github.io/Jokester/)
 - João Gonçalves [Github](https://github.com/Joopr8/joker-teller) | [View Live](https://joopr8.github.io/joker-teller/)
+- BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/joke-teller) | [View Live](https://bshohug.github.io/joke-teller/)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
@@ -539,6 +543,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/005-light-dark-mode) | [View Live](http://wayney-light-dark-mode.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/light-dark-mode) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/light-dark-mode/)
 - João Gonçalves [Github](https://github.com/Joopr8/light-dark-mode) | [View Live](https://joopr8.github.io/light-dark-mode/)
+- BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/toggle-day-light-mode) | [View Live](https://bshohug.github.io/toggle-day-light-mode/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
@@ -927,6 +932,8 @@ Check out all of the submissions below! Well done everyone!
 - Abhishek Mulik - [Github](https://github.com/abhishekmulik/Calculator-)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/017-calculator) | [View Live](http://wayney-calculator.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/calculator) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/calculator/)
+- BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/js-calculator) | [View Live](https://bshohug.github.io/js-calculator/)
+
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
