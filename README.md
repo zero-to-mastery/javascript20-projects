@@ -25,6 +25,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+- Restu Oktafiandi - [Github](https://github.com/restuoktafiandi/quote-generator) | [View Live](https://codepen.io/restu_oktafiandi/full/jOQaeBx)
 - Mihai Pavelescu - [Github](https://github.com/MediaExpres/quote-generator_byMediaExpres) | [View Live](https://mediaexpres.github.io/quote-generator_byMediaExpres/)
 - Cristian Tudor - [Github](https://github.com/cristianstudor/quote-generator) | [View Live](https://cristianstudor.github.io/quote-generator/)
 - DailyVitamin by @thelore85 - [Github](https://github.com/thelore85) | [View Live](https://thelore85.github.io/quote-generator-API/)
