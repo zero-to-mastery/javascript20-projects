@@ -283,6 +283,7 @@ Check out all of the submissions below! Well done everyone!
 - Mano Beeslaar - [Github](https://github.com/manobeeslaar) | [View Live](https://manobeeslaar.github.io/quote-generator/)
 - João Gonçalves [Github](https://github.com/Joopr8/quote-generator) | [View Live](https://joopr8.github.io/quote-generator/)
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/quote-generator) | [View Live](https://bshohug.github.io/quote-generator/)
+- Linta Antony - [Github](https://github.com/squeakdesign/quote-generator) | [View Live](https://squeakdesign.github.io/quote-generator/)
 - Linta Nijo - [Github](https://github.com/squeakdesign/Quote-generator) | [View Live](https://squeakdesign.github.io/Quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
