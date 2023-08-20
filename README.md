@@ -285,6 +285,7 @@ Check out all of the submissions below! Well done everyone!
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/quote-generator) | [View Live](https://bshohug.github.io/quote-generator/)
 - Linta Antony - [Github](https://github.com/squeakdesign/quote-generator) | [View Live](https://squeakdesign.github.io/quote-generator/)
 - Linta Nijo - [Github](https://github.com/squeakdesign/Quote-generator) | [View Live](https://squeakdesign.github.io/Quote-generator/)
+- Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/Quote-Generator) | [View Live](https://yo0guitarit.github.io/Quote-Generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -387,6 +388,7 @@ Check out all of the submissions below! Well done everyone!
 - Nicolo Valbuena - [Github](https://github.com/tradengr/infinity-scroll) | [View Live](https://tradengr.github.io/infinity-scroll/)
 - João Gonçalves [Github](https://github.com/Joopr8/infinity-scroll) | [View Live](https://joopr8.github.io/infinity-scroll/)
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/infinity-scroll) | [View Live](https://bshohug.github.io/infinity-scroll/)
+- Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/InfiniteScroll) | [View Live](https://yo0guitarit.github.io/InfiniteScroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
@@ -507,6 +509,7 @@ Check out all of the submissions below! Well done everyone!
 - Mike Vrkljan [Github](https://github.com/vrkljam/Jokester) | [Live Demo](https://vrkljam.github.io/Jokester/)
 - João Gonçalves [Github](https://github.com/Joopr8/joker-teller) | [View Live](https://joopr8.github.io/joker-teller/)
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/joke-teller) | [View Live](https://bshohug.github.io/joke-teller/)
+- Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/JokeTeller) | [View Live](https://yo0guitarit.github.io/JokeTeller/)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
@@ -555,6 +558,7 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/light-dark-mode) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/light-dark-mode/)
 - João Gonçalves [Github](https://github.com/Joopr8/light-dark-mode) | [View Live](https://joopr8.github.io/light-dark-mode/)
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/toggle-day-light-mode) | [View Live](https://bshohug.github.io/toggle-day-light-mode/)
+- Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/DarkLightMode) | [View Live](https://yo0guitarit.github.io/DarkLightMode/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
@@ -591,6 +595,7 @@ Check out all of the submissions below! Well done everyone!
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz06_animated) | [View Live](https://jin-co-jcg.hostman.site/20p/pz06_animated/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/006-animated) | [View Live](http://wayney-animated.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/animated) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/animated/)
+- Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/AnimateTemplate) | [View Live](https://yo0guitarit.github.io/AnimateTemplate/)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
@@ -621,6 +626,7 @@ Check out all of the submissions below! Well done everyone!
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz07_navigation) | [View Live](https://jin-co-jcg.hostman.site/20p/pz07_navigation/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/007-navigation-nation) | [View Live](http://wayney-navigation-nation.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/navigation-nation) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/navigation-nation/)
+- Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/NavigationNation) | [View Live](https://yo0guitarit.github.io/NavigationNation/)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
