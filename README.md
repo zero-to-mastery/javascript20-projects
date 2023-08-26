@@ -631,6 +631,7 @@ Check out all of the submissions below! Well done everyone!
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/music-player) | [View Live](https://patricioschranz.github.io/music-player/)
+- Roman Chursin - [Github](https://github.com/RChursin/own_music_player) | [View Live](https://rchursin.github.io/own_music_player/)
 - Devtinator - [Github](https://github.com/Devtinator/Music-Player) | [View Live](https://devtinator.github.io/Music-Player/)
 - Russ Perry - [Github](https://github.com/rperry99/javascript-music-player)
 - vasuwebdeveloper - [Github](https://github.com/vasuwebdeveloper/javascript20-projects)
