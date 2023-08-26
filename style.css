@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #f6f6f7;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80' viewBox='0 0 80 80'%3E%3Cg fill='%233e3c41' fill-opacity='0.15'%3E%3Cpath fill-rule='evenodd' d='M11 0l5 20H6l5-20zm42 31a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM0 72h40v4H0v-4zm0-8h31v4H0v-4zm20-16h20v4H20v-4zM0 56h40v4H0v-4zm63-25a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm10 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM53 41a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm10 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm10 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-30 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-28-8a5 5 0 0 0-10 0h10zm10 0a5 5 0 0 1-10 0h10zM56 5a5 5 0 0 0-10 0h10zm10 0a5 5 0 0 1-10 0h10zm-3 46a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm10 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM21 0l5 20H16l5-20zm43 64v-4h-4v4h-4v4h4v4h4v-4h4v-4h-4zM36 13h4v4h-4v-4zm4 4h4v4h-4v-4zm-4 4h4v4h-4v-4zm8-8h4v4h-4v-4z'/%3E%3C/g%3E%3C/svg%3E");
+  color: black;
+  font-family: Poppins;
+  font-weight: 600;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quote-container {
+  width : auto;
+  max-width: 900px;
+  padding: 10px 30px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.5);
+  box-shadow: 0px 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+.quote-text {
+  font-size: 2.3rem;
+}
+
+.long-quote {
+  font-size: 1.8rem;
+}
+
+.fa-quote-right {
+  font-size: 4rem;
+}
+
+.quote-author {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.button-container {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  cursor: pointer;
+  font-size: 1.3rem;
+  height: 3rem;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  background-color: #000000;
+  outline: none;
+  padding: 0.5rem 1rem;
+  box-shadow: 0 0.3rem rgba(121, 121, 121, 0.65);
+}
+
+button:hover {
+  background-color: #141414c2;
+  box-shadow: 0 0.3rem rgba(141, 141, 141, 0.65);
+}
+
+button:active {
+  transform: translate(0rem, 0.36rem);
+  box-shadow: 0 0.1rem rgba(141, 141, 141, 0.65);
+}
+
+.fa-square-x-twitter {
+  font-size: 1.5rem;
+}
+
+/* Loader */
+.loader {
+  border: 16px solid #dddddd; 
+  border-top: 16px solid #3a3a3a;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+  margin: 2rem;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@media screen and (max-width: 900px) {
+  .quote-container{
+    margin: auto 20px;
+  }
+  .quote-text{
+    font-size: 2rem;
+  }
+  .fa-quote-right {
+    font-size: 2.8rem;
+  }
+  .quote-author {
+    font-size: 1.5rem;
+  }
+}
+@media screen and (max-width: 500px) {
+  .quote-container{
+    margin: auto 20px;
+  }
+  .quote-text{
+    font-size: 1.2rem;
+  }
+  .long-quote {
+    font-size: 1rem;
+  }
+  .fa-quote-right {
+    font-size: 2rem;
+  }
+  .quote-author {
+    font-size: 1rem;
+  }
+  button {
+    font-size: 1rem;
+    height: 2.5rem;
+  }
+}
