@@ -11,30 +11,135 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="quote-container" id="quote-container">
-        <div class="loader" id="loader"></div>
-        <div id="quote-containerreal">
-            <div class="quote-text">
-                <i class="fas fa-quote-right"></i>
-                <span id="quote">
-    
-                </span>
-            </div>
-            <div class="quote-author">
-                <span id="author">
-                    
-                </span>
-            </div>
-            <div class="button-container">
-                <button class="twitter-button" id="twitter" title="Tweet This!">
-                    <i class="fa-brands fa-square-x-twitter"></i>
-                    <button id="new-quote">New Quote</button>
-                </button>
-            </div>
-        </div>
+    <div class="qTitle">
+        Quote Generator
     </div>
-    <!-- Loader -->
-    
+    <div class="container">
+        <div class="quote-container" id="quote-container">
+            <div class="loader" id="loader">
+                <div class="loadingio-spinner-double-ring-c6uyc7ztadk"><div class="ldio-wd0nr27rktb">
+                    <div></div>
+                    <div></div>
+                    <div><div></div></div>
+                    <div><div></div></div>
+                    </div></div>
+                    <style type="text/css">
+                    @keyframes ldio-wd0nr27rktb {
+                      0% { transform: rotate(0) }
+                      100% { transform: rotate(360deg) }
+                    }
+                    .ldio-wd0nr27rktb div { box-sizing: border-box!important }
+                    .ldio-wd0nr27rktb > div {
+                      position: absolute;
+                      width: 106.38px;
+                      height: 106.38px;
+                      top: 45.31px;
+                      left: 45.31px;
+                      border-radius: 50%;
+                      border: 11.82px solid #000;
+                      border-color: #423f3f transparent #423f3f transparent;
+                      animation: ldio-wd0nr27rktb 0.819672131147541s linear infinite;
+                    }
+                    
+                    .ldio-wd0nr27rktb > div:nth-child(2), .ldio-wd0nr27rktb > div:nth-child(4) {
+                      width: 78.8px;
+                      height: 78.8px;
+                      top: 59.1px;
+                      left: 59.1px;
+                      animation: ldio-wd0nr27rktb 0.819672131147541s linear infinite reverse;
+                    }
+                    .ldio-wd0nr27rktb > div:nth-child(2) {
+                      border-color: transparent #a2a09f transparent #a2a09f
+                    }
+                    .ldio-wd0nr27rktb > div:nth-child(3) { border-color: transparent }
+                    .ldio-wd0nr27rktb > div:nth-child(3) div {
+                      position: absolute;
+                      width: 100%;
+                      height: 100%;
+                      transform: rotate(45deg);
+                    }
+                    .ldio-wd0nr27rktb > div:nth-child(3) div:before, .ldio-wd0nr27rktb > div:nth-child(3) div:after { 
+                      content: "";
+                      display: block;
+                      position: absolute;
+                      width: 11.82px;
+                      height: 11.82px;
+                      top: -11.82px;
+                      left: 35.46px;
+                      background: #423f3f;
+                      border-radius: 50%;
+                      box-shadow: 0 94.56px 0 0 #423f3f;
+                    }
+                    .ldio-wd0nr27rktb > div:nth-child(3) div:after {
+                      left: -11.82px;
+                      top: 35.46px;
+                      box-shadow: 94.56px 0 0 0 #423f3f;
+                    }
+                    
+                    .ldio-wd0nr27rktb > div:nth-child(4) { border-color: transparent; }
+                    .ldio-wd0nr27rktb > div:nth-child(4) div {
+                      position: absolute;
+                      width: 100%;
+                      height: 100%;
+                      transform: rotate(45deg);
+                    }
+                    .ldio-wd0nr27rktb > div:nth-child(4) div:before, .ldio-wd0nr27rktb > div:nth-child(4) div:after {
+                      content: "";
+                      display: block;
+                      position: absolute;
+                      width: 11.82px;
+                      height: 11.82px;
+                      top: -11.82px;
+                      left: 21.669999999999998px;
+                      background: #a2a09f;
+                      border-radius: 50%;
+                      box-shadow: 0 66.98px 0 0 #a2a09f;
+                    }
+                    .ldio-wd0nr27rktb > div:nth-child(4) div:after {
+                      left: -11.82px;
+                      top: 21.669999999999998px;
+                      box-shadow: 66.98px 0 0 0 #a2a09f;
+                    }
+                    .loadingio-spinner-double-ring-c6uyc7ztadk {
+                      width: 197px;
+                      height: 197px;
+                      display: inline-block;
+                      overflow: hidden;
+                      background: none;
+                    }
+                    .ldio-wd0nr27rktb {
+                      width: 100%;
+                      height: 100%;
+                      position: relative;
+                      transform: translateZ(0) scale(1);
+                      backface-visibility: hidden;
+                      transform-origin: 0 0; /* see note above */
+                    }
+                    .ldio-wd0nr27rktb div { box-sizing: content-box; }
+                    /* generated by https://loading.io/ */
+                    </style>
+            </div>
+            <div id="quote-containerreal">
+                <div class="quote-text">
+                    <i class="fas fa-quote-right"></i>
+                    <span id="quote">
+        
+                    </span>
+                </div>
+                <div class="quote-author">
+                    <span id="author">
+                        
+                    </span>
+                </div>
+                <div class="button-container">
+                    <button class="twitter-button" id="twitter" title="Tweet This!">
+                        <i class="fa-brands fa-square-x-twitter"></i>
+                        <button id="new-quote">New Quote</button>
+                    </button>
+                </div>
+            </div>
+        </div>    
+    </div>
     <!-- Script -->
     <script src="quotes.js"></script>
     <script src="script.js"></script>

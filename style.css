@@ -12,13 +12,23 @@ body {
   color: black;
   font-family: Poppins;
   font-weight: 600;
+}
+
+.qTitle {
+  margin-top: 2rem;
   text-align: center;
+  font-size: 2rem;
+}
+
+.container {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 6rem;
 }
 
 .quote-container {
+  text-align: center;
   width : auto;
   max-width: 900px;
   padding: 10px 30px;
@@ -80,7 +90,7 @@ button:active {
 }
 
 /* Loader */
-.loader {
+/* .loader {
   border: 16px solid #dddddd; 
   border-top: 16px solid #3a3a3a;
   border-radius: 50%;
@@ -93,7 +103,7 @@ button:active {
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
-}
+} */
 
 @media screen and (max-width: 900px) {
   .quote-container{
