@@ -47,6 +47,7 @@ Check out all of the submissions below! Well done everyone!
 - Roxanne - [Github](https://github.com/roxanneweber/quote-generator) | [View Live](https://rw-js-quote-generator.netlify.app/)
 - Rossco - [Github](https://github.com/rmchardie/quote-generator) | [View Live](https://rmchardie.github.io/quote-generator/)
 - Curtis Warcup - [Github](https://github.com/Cwarcup) | [View Live](https://cwarcup.github.io/dad-quotes/)
+- Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/Quote%20Generator) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/Quote%20Generator/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/inspiring-quote-generator) | [View Live Demo](https://pats101.github.io/inspiring-quote-generator/)
 - Sai Chandu- [Github](https://github.com/chandu0077/quote-generator) | [View Live](https://chandu0077.github.io/quote-generator/)
 - Monther- [Github](https://github.com/muntherabdellatif/quote-generator) | [View Live](https://muntherabdellatif.github.io/quote-generator/)
@@ -285,7 +286,7 @@ Check out all of the submissions below! Well done everyone!
 - João Gonçalves [Github](https://github.com/Joopr8/quote-generator) | [View Live](https://joopr8.github.io/quote-generator/)
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/quote-generator) | [View Live](https://bshohug.github.io/quote-generator/)
 - Linta Antony - [Github](https://github.com/squeakdesign/quote-generator) | [View Live](https://squeakdesign.github.io/quote-generator/)
-- PrinzEugen39 - [Github](https://github.com/PrinzEugen39/javascript20-projects) |  [View Live](https://prinzeugen39.github.io/javascript20-projects/)
+- PrinzEugen39 - [Github](https://github.com/PrinzEugen39/javascript20-projects) | [View Live](https://prinzeugen39.github.io/javascript20-projects/)
 - Linta Nijo - [Github](https://github.com/squeakdesign/Quote-generator) | [View Live](https://squeakdesign.github.io/Quote-generator/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/Quote-Generator) | [View Live](https://yo0guitarit.github.io/Quote-Generator/)
 
