@@ -47,7 +47,7 @@ Check out all of the submissions below! Well done everyone!
 - Roxanne - [Github](https://github.com/roxanneweber/quote-generator) | [View Live](https://rw-js-quote-generator.netlify.app/)
 - Rossco - [Github](https://github.com/rmchardie/quote-generator) | [View Live](https://rmchardie.github.io/quote-generator/)
 - Curtis Warcup - [Github](https://github.com/Cwarcup) | [View Live](https://cwarcup.github.io/dad-quotes/)
-- Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/Quote%20Generator) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/Quote%20Generator/)
+- Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/quote-generator) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/quote-generator/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/inspiring-quote-generator) | [View Live Demo](https://pats101.github.io/inspiring-quote-generator/)
 - Sai Chandu- [Github](https://github.com/chandu0077/quote-generator) | [View Live](https://chandu0077.github.io/quote-generator/)
 - Monther- [Github](https://github.com/muntherabdellatif/quote-generator) | [View Live](https://muntherabdellatif.github.io/quote-generator/)
@@ -392,6 +392,7 @@ Check out all of the submissions below! Well done everyone!
 - João Gonçalves [Github](https://github.com/Joopr8/infinity-scroll) | [View Live](https://joopr8.github.io/infinity-scroll/)
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/infinity-scroll) | [View Live](https://bshohug.github.io/infinity-scroll/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/InfiniteScroll) | [View Live](https://yo0guitarit.github.io/InfiniteScroll/)
+- Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/infinite-scroll) | [View Live] (https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/infinite-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
