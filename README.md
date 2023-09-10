@@ -1016,3 +1016,4 @@ Check out all of the submissions below! Well done everyone!
 
 - Sreerag U -[GitHub](https://github.com/strawhatrag/react-hangman-game) | [View Live](https://strawhatrag.github.io/react-hangman-game/)
 - vishwajeet -[GitHub](https://github.com/myself-vishwajeet)  |[View Live](https://myself-vishwajeet.github.io/Drum_kit/)
+- vishwajeet -[GitHub](https://github.com/myself-vishwajeet)  |[View Live](https://myself-vishwajeet.github.io/Quote-generator/)
