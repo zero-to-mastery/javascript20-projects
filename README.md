@@ -25,6 +25,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+- Roman Chursin - [Github](https://github.com/RChursin/javascript_projects/tree/main/quote_generator) | [View Live](https://rchursin.github.io/quote_generator/)
 - Restu Oktafiandi - [Github](https://github.com/restuoktafiandi/quote-generator) | [View Live](https://codepen.io/restu_oktafiandi/full/jOQaeBx)
 - Mihai Pavelescu - [Github](https://github.com/MediaExpres/quote-generator_byMediaExpres) | [View Live](https://mediaexpres.github.io/quote-generator_byMediaExpres/)
 - Cristian Tudor - [Github](https://github.com/cristianstudor/quote-generator) | [View Live](https://cristianstudor.github.io/quote-generator/)
@@ -292,6 +293,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
+- Roman Chursin - [Github](https://github.com/RChursin/javascript_projects/tree/main/infinity_scroll) | [View Live](https://rchursin.github.io/infinity_scroll/)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/infinite-scroll) | [View Live](https://patricioschranz.github.io/infinite-scroll/)
 - Nathalie Daoût - [Github](https://github.com/SapinSobre/infinity-scroll) | [View Live ](https://sapinsobre.github.io/infinity-scroll/)
 - Curtis Warcup - [Github](https://github.com/Cwarcup) | [View Live ](https://cwarcup.github.io/infinite_scroll/)
