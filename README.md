@@ -25,6 +25,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+- Jose Saboya - [Github](https://github.com/SaboyaTech/quote-generator-from-api) | [View Live](https://quote-generator-from-api.netlify.app/)
 - Roman Chursin - [Github](https://github.com/RChursin/javascript_projects/tree/main/quote_generator) | [View Live](https://rchursin.github.io/quote_generator/)
 - Restu Oktafiandi - [Github](https://github.com/restuoktafiandi/quote-generator) | [View Live](https://codepen.io/restu_oktafiandi/full/jOQaeBx)
 - Mihai Pavelescu - [Github](https://github.com/MediaExpres/quote-generator_byMediaExpres) | [View Live](https://mediaexpres.github.io/quote-generator_byMediaExpres/)
@@ -1019,5 +1020,5 @@ Check out all of the submissions below! Well done everyone!
 ### Hangman Game - Original [Github](https://github.com/strawhatrag/react-hangman-game)
 
 - Sreerag U -[GitHub](https://github.com/strawhatrag/react-hangman-game) | [View Live](https://strawhatrag.github.io/react-hangman-game/)
-- vishwajeet -[GitHub](https://github.com/myself-vishwajeet)  |[View Live](https://myself-vishwajeet.github.io/Drum_kit/)
-- vishwajeet -[GitHub](https://github.com/myself-vishwajeet)  |[View Live](https://myself-vishwajeet.github.io/Quote-generator/)
+- vishwajeet -[GitHub](https://github.com/myself-vishwajeet) |[View Live](https://myself-vishwajeet.github.io/Drum_kit/)
+- vishwajeet -[GitHub](https://github.com/myself-vishwajeet) |[View Live](https://myself-vishwajeet.github.io/Quote-generator/)
