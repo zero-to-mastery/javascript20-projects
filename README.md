@@ -568,6 +568,7 @@ Check out all of the submissions below! Well done everyone!
 - João Gonçalves [Github](https://github.com/Joopr8/light-dark-mode) | [View Live](https://joopr8.github.io/light-dark-mode/)
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/toggle-day-light-mode) | [View Live](https://bshohug.github.io/toggle-day-light-mode/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/DarkLightMode) | [View Live](https://yo0guitarit.github.io/DarkLightMode/)
+- Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/light-dark-mode) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/light-dark-mode/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
@@ -605,6 +606,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/006-animated) | [View Live](http://wayney-animated.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/animated) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/animated/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/AnimateTemplate) | [View Live](https://yo0guitarit.github.io/AnimateTemplate/)
+- Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/animated-template) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/animated-template/)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
@@ -636,6 +638,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/007-navigation-nation) | [View Live](http://wayney-navigation-nation.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/navigation-nation) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/navigation-nation/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/NavigationNation) | [View Live](https://yo0guitarit.github.io/NavigationNation/)
+- Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/animated-navigation) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/animated-navigation/)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
@@ -681,6 +684,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/008-music-player) | [View Live](http://wayney-music-player.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/music-player) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/music-player/)
 - João Gonçalves [Github](https://github.com/Joopr8/music-player) | [View Live](https://joopr8.github.io/music-player/)
+- Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/music-player) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/music-player/)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
@@ -712,6 +716,7 @@ Check out all of the submissions below! Well done everyone!
 - Aastha Aggarwal - [Github](https://github.com/AasthaAgg/Countdown-Timer) | [View Live](https://aasthaagg.github.io/Countdown-Timer/)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/009-custom-countdown) | [View Live](http://wayney-custom-countdown.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/custom-countdown) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/custom-countdown/)
+- Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/custom-countdown) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/custom-countdown/)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
@@ -736,6 +741,7 @@ Check out all of the submissions below! Well done everyone!
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz10_book_mark) | [View Live](https://jin-co-jcg.hostman.site/20p/pz10_book_mark/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/010-book-keeper) | [View Live](http://wayney-book-keeper.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/book-keeper) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/book-keeper/)
+- Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/bookmarks-app) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/bookmarks-app/)
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
@@ -762,6 +768,7 @@ Check out all of the submissions below! Well done everyone!
 - Jin-co - [Github](https://github.com/jin-co/web-javascript/tree/master/p2/pz11_video_player) | [View Live](https://jin-co-jcg.hostman.site/20p/pz11_video_player/index.html)
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/011-video-player) | [View Live](http://wayney-video-player.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/video-player) [View Live](https://dwernz.github.io/ZTM_Portfolio/project/video-player/)
+- Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/video-player) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/video-player/)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
@@ -791,6 +798,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/012-form-validator) | [View Live](http://wayney-form-validator.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/form-validator) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/form-validator/)
 - João Gonçalves [Github](https://github.com/Joopr8/form-validator) | [View Live](https://joopr8.github.io/form-validator/)
+- Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/form-validator) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/form-validator/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
