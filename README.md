@@ -25,6 +25,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+- Ashish Upadhyay - [Github](https://github.com/ashish-pro/quote-generator) | [View Live](https://quote-generator-six-ecru.vercel.app/)
 - Jose Saboya - [Github](https://github.com/SaboyaTech/quote-generator-from-api) | [View Live](https://quote-generator-from-api.netlify.app/)
 - Roman Chursin - [Github](https://github.com/RChursin/javascript_projects/tree/main/quote_generator) | [View Live](https://rchursin.github.io/quote_generator/)
 - Restu Oktafiandi - [Github](https://github.com/restuoktafiandi/quote-generator) | [View Live](https://codepen.io/restu_oktafiandi/full/jOQaeBx)
@@ -968,6 +969,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/017-calculator) | [View Live](http://wayney-calculator.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/calculator) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/calculator/)
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/js-calculator) | [View Live](https://bshohug.github.io/js-calculator/)
+- Vishal Krishna - [Github](https://github.com/vishalkrishna8/calculator) 
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
