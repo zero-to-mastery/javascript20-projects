@@ -13,7 +13,7 @@ Check out all of the submissions below! Well done everyone!
 ### Contents
 
 [Simple Quiz App](#simple-quiz-app--original-github) |
-[Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-scroll---original-github) | [Picture in Picture](#picture-in-picture---original-github) | [Joke Teller](#joke-teller---original-github) | [Light/Dark Mode](#light-dark-mode---original-github) | [Animated Template](#animated-template---original-github) | [Navigation Nation](#navigation-nation---original-github) | [Music Player](#music-player---original-github) | [Custom Countdown](#custom-countdown---original-github) | [Book Keeper](#book-keeper---original-github) | [Video Player](#video-player---original-github) | [Form Validator](#form-validator---original-github) | [Rock Spock](#rock-spock---original-github) | [NASA APOD](#nasa-apod---original-github) | [Paint Clone](#paint-clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#math-sprint-game---original-github) | [Drag and Drop](#drag-and-drop---original-github) | [Calculator](#calculator---original-github) | [Splash Page](#splash-page---original-github) | [Pig Game](#pig-game---original-github) | [Hangman Game](#hangman-game---original-github)
+[Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-scroll---original-github) | [Picture in Picture](#picture-in-picture---original-github) | [Joke Teller](#joke-teller---original-github) | [Light/Dark Mode](#light-dark-mode---original-github) | [Animated Template](#animated-template---original-github) | [Navigation Nation](#navigation-nation---original-github) | [Music Player](#music-player---original-github) | [Custom Countdown](#custom-countdown---original-github) | [Book Keeper](#book-keeper---original-github) | [Video Player](#video-player---original-github) | [Form Validator](#form-validator---original-github) | [Rock Spock](#rock-spock---original-github) | [NASA APOD](#nasa-apod---original-github) | [Paint Clone](#paint-clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#math-sprint-game---original-github) | [Drag and Drop](#drag-and-drop---original-github) | [Calculator](#calculator---original-github) | [Splash Page](#splash-page---original-github) | [Pig Game](#pig-game---original-github) | [Hangman Game](#hangman-game---original-github) | [Tetris Game](#tetris-game---original-github)
 
 ### Simple Quiz App - Original: [Github](https://github.com/RupamG/simple-quiz)
 
@@ -25,7 +25,9 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+
 - Andrada Dobocan - [Github](https://github.com/AndradaDobocan/Quote_Generator) | [View Live](https://andradadobocan.github.io/Quote_Generator/)
+- Noah Rodgers - [Github](https://github.com/createdbynoah/quote-generator-js) | [View Live](https://createdbynoah.github.io/quote-generator-js/)
 - Ashish Upadhyay - [Github](https://github.com/ashish-pro/quote-generator) | [View Live](https://quote-generator-six-ecru.vercel.app/)
 - Jose Saboya - [Github](https://github.com/SaboyaTech/quote-generator-from-api) | [View Live](https://quote-generator-from-api.netlify.app/)
 - Roman Chursin - [Github](https://github.com/RChursin/javascript_projects/tree/main/quote_generator) | [View Live](https://rchursin.github.io/quote_generator/)
@@ -293,6 +295,7 @@ Check out all of the submissions below! Well done everyone!
 - PrinzEugen39 - [Github](https://github.com/PrinzEugen39/javascript20-projects) | [View Live](https://prinzeugen39.github.io/javascript20-projects/)
 - Linta Nijo - [Github](https://github.com/squeakdesign/Quote-generator) | [View Live](https://squeakdesign.github.io/Quote-generator/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/Quote-Generator) | [View Live](https://yo0guitarit.github.io/Quote-Generator/)
+- naijamesz - [Github](https://github.com/naijamesz/random-quote) | [View Live](https://random-quote-bice.vercel.app/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -962,7 +965,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/017-calculator) | [View Live](http://wayney-calculator.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/calculator) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/calculator/)
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/js-calculator) | [View Live](https://bshohug.github.io/js-calculator/)
-- Vishal Krishna - [Github](https://github.com/vishalkrishna8/calculator) 
+- Vishal Krishna - [Github](https://github.com/vishalkrishna8/calculator)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
@@ -1025,3 +1028,7 @@ Check out all of the submissions below! Well done everyone!
 - Sreerag U -[GitHub](https://github.com/strawhatrag/react-hangman-game) | [View Live](https://strawhatrag.github.io/react-hangman-game/)
 - vishwajeet -[GitHub](https://github.com/myself-vishwajeet) |[View Live](https://myself-vishwajeet.github.io/Drum_kit/)
 - vishwajeet -[GitHub](https://github.com/myself-vishwajeet) |[View Live](https://myself-vishwajeet.github.io/Quote-generator/)
+
+### Tetris Game - Original [Github](https://github.com/BlankSpacePlus/javascript-tetris)
+
+- BlankSpacePlus -[GitHub](https://github.com/BlankSpacePlus/javascript-tetris)
