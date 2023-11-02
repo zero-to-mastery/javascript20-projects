@@ -17,11 +17,13 @@ Check out all of the submissions below! Well done everyone!
 
 ### Simple Quiz App - Original: [Github](https://github.com/RupamG/simple-quiz)
 
+- Bhavna Makode - [Github](https://github.com/Bhavna2003) | [View Live](https://bhavna2003.github.io/JAVASCRIPT-QUIZ-APP/)
 - Rupam Gogoi - [Github](https://github.com/RupamG/simple-quiz) | [View Live](https://quick-quiz-app.netlify.app/)
 - Nayana Thapa - [Github](https://github.com/nayana-thapa/quizApp) | [View Live](https://nayana-thapa.github.io/quizApp/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/quiz-app/)
 - Emmanuel Damilola - [Github](https://github.com/DAEM007/QUIZ_PROJECT) | [View Live](http://quiz-project-psi.vercel.app/)
 - Nilam Bhuva - [Github](https://github.com/nilmeet)
+
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
