@@ -404,6 +404,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
+- Bhavna Makode - [Github](https://github.com/Bhavna2003/Picture-in-picture-app-js) | [View Live](https://bhavna2003.github.io/Picture-in-picture-app-js/)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/picture-in-picture) | [View Live](https://patricioschranz.github.io/picture-in-picture/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/pic-in-pic) | [View Live Demo](https://pats101.github.io/pic-in-pic/)
 - Devtinator - [Github](https://github.com/Devtinator/Picture-in-Picture) | [View Live](https://devtinator.github.io/Picture-in-Picture/)
