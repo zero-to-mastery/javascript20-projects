@@ -296,7 +296,7 @@ Check out all of the submissions below! Well done everyone!
 - Linta Nijo - [Github](https://github.com/squeakdesign/Quote-generator) | [View Live](https://squeakdesign.github.io/Quote-generator/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/Quote-Generator) | [View Live](https://yo0guitarit.github.io/Quote-Generator/)
 - naijamesz - [Github](https://github.com/naijamesz/random-quote) | [View Live](https://random-quote-bice.vercel.app/)
-- Jimmy Brandti [Github] (https://github.com/3fm108/quote-generator) | [View Live](https://3fm108.github.io/quote-generator/)
+- Jimmy Brandti [Github](https://github.com/3fm108/quote-generator) | [View Live](https://3fm108.github.io/quote-generator/)
 
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
