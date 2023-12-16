@@ -1,52 +1,61 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Bebas+Neue&family=Montserrat:wght@400;500&family=Mooli&family=Open+Sans:ital@1&family=Roboto+Slab&display=swap');
+
 html {
   box-sizing: border-box;
 }
 
 body {
   margin: 0;
-  height: 100vh
+  background: #45badd;
 }
 
-
-
-body {
-  margin: 0;
-  min-height: 100vh;
+.container {
+  height: 100vh;
+  width: 100vw;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: rgb(37, 37, 37)
-}
-
-
-.button-container {
-  border: 2px solid black;
-  padding: 10px;
-  border-radius: 7px;
-  box-shadow: inset 0 20px 4px -19px rgba(255, 255, 255, 0.7);
+  background: url('./robot.gif');
+  background-size: contain;
+  background-position: left center;
+  background-repeat: no-repeat;
 }
 
 button {
   cursor: pointer;
   outline: none;
-  width: 120px;
-  height: 75px;
-  font-family: Barlow, sans-serif;
-  font-size: 25px;
+  width: 200px;
+  height: 50px;
+  font-family: Courier, monospace;
+  font-size: 20px;
   color: white;
-  text-shadow: 0 2px 5px black;
-  background: linear-gradient(to top, #696969, #575757);
-  border: 2px solid black;
-  border-radius: 7px;
-  box-shadow: inset 0 20px 4px -19px rgba(255, 255, 255, 0.4), 0 12px 12px 0 rgba(0, 0, 0, 0.3);
+  background: #ff3482;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 2px 2px 20px 10px rgba(0, 0, 0, 0.2);
 }
 
 button:hover {
-  background: linear-gradient(to bottom, #696969, #575757);
+  filter: brightness(95%);
 }
 
 button:active {
-  transform: translateY(3px);
-  box-shadow: 0 6px 6px 0 rgba(0, 0, 0, 0.3)
+  transform: scale(0.98);
+}
+
+button:disabled {
+  cursor: default;
+  filter: brightness(30%);
+}
+
+/* Media Query: Tablet or Smaller */
+@media screen and (max-width: 1000px) {
+  .container {
+    background-position: center center;
+    background-size: cover;
+  }
+
+  button {
+    box-shadow: 5px 5px 30px 20px rgba(0, 0, 0, 0.5);
+  }
 }
