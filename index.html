@@ -3,17 +3,84 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Joke Teller</title>
+    <title>Development and Learning Journey</title>
     <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <button id="button">Tell Me A Joke</button>    
-        <audio id="audio" controls hidden></audio>   
+    <div class="theme-switch-wrapper">
+        <span id="toggle-icon">
+            <span class="toggle-text">Light Mode</span>
+            <i class="fas fa-sun"></i>
+        </span>
+        <label class="theme-switch">
+            <input type="checkbox">
+            <div class="slider round"></div>
+        </label>
     </div>
+
+
+    <nav id="nav">
+        <a href="#home">HOME</a>
+        <a href="#about">EXPLORE</a>
+        <a href="#projects">EXPERIENCES</a>
+        <a href="#contact">CONTACT</a>    
+    </nav>
+
+    <section id="home">
+        <div class="title-group">
+            <h1>Development and Learning Journey</h1>
+            <h2>Explore my path in the world of software development!</h2>
+        </div>
+    </section>
+
+    <section id="about">
+            <h1>Journey in the World of Development</h1>
+        <div class="about-container">
+            <div class="image-container">
+                <h2>First Line of Code</h2>
+                <img src="img/undraw_proud_coder_light.svg" alt="Proud Coder" id="image1">
+            </div>
+            <div class="image-container">
+                <h2>Impactful Projects</h2>
+                <img src="img/undraw_feeling_proud_light.svg" alt="Proud Coder" id="image2">
+            </div>
+            <div class="image-container">
+                <h2>Developer Community</h2>
+                <img src="img/undraw_conceptual_idea_light.svg" alt="Proud Coder" id="image3">
+            </div>
+        </div>
+    </section>
+
+    <section id="projects">
+        <h1>Explore Recent Articles</h1>
+        <div class="buttons">
+            <button class="primary">Read Now</button>
+            <button class="secondary">Bookmark</button>
+            <button class="primary" disabled>Share</button>
+            <button class="outline">Explore All</button>
+            <button class="secondary outline">Coming Soon</button>
+            <button class="outline" disabled>Disabled</button>
+        </div>
+        <div class="text-box" id="text-box">
+            <p>>Welcome to the collection of my recent articles. Dive into topics ranging from coding tutorials to insights on the latest technologies. Join me on this learning journey, and let's explore the vast world of software development together!</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="social-icons">
+            <i class="fab fa-github"></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fab fa-linkedin"></i>
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-twitch"></i>
+            <i class="fab fa-facebook"></i>
+        </div>
+    </section>
+    
+
     <!-- Script -->
-    <script src="voiceRSS.js"></script>
     <script src="script.js"></script>
 </body>
 </html>

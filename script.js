@@ -1,49 +1,53 @@
-const button = document.getElementById('button');
-const audioElement = document.getElementById('audio');
+const toggleSwitch = document.querySelector('input[type="checkbox"]');
+const nav = document.getElementById('nav');
+const toggleIcon = document.getElementById('toggle-icon');
+const image1 = document.getElementById('image1');
+const image2 = document.getElementById('image2');
+const image3 = document.getElementById('image3');
+const textBox = document.getElementById('text-box');
 
-// Disable/Enable Button
-function toggleButton() {
-  button.disabled = !button.disabled;
+function imageMode(color) {
+    image1.src = `img/undraw_proud_coder_${color}.svg`;
+    image2.src = `img/undraw_feeling_proud_${color}.svg`;
+    image3.src = `img/undraw_conceptual_idea_${color}.svg`;
+
 }
 
-// VoiceRSS Speech Function
-function tellMe(joke) {
-  const jokeString = joke.trim().replace(/ /g, '%20');
-  // VoiceRSS Speech Parameters
-  VoiceRSS.speech({
-    // Normally, don't write out API Keys like this, but an exception made here because it's free.
-    key: 'b73d990a106144c4aee6af06ef7537eb',
-    src: jokeString,
-    hl: 'en-us',
-    r: 0,
-    c: 'mp3',
-    f: '44khz_16bit_stereo',
-    ssml: false,
-  });
+function darkMode() {
+    nav.style.backgroundColor = 'rgb(0 0 0 / 50%)';
+    textBox.style.backgroundColor = 'rgb(255 255 255 / 50%)';
+    toggleIcon.children[0].textContent = 'Dark Mode';
+    toggleIcon.children[1].classList.replace('fa-sun', 'fa-moon');
+    imageMode('dark')
+}
+function lightMode() {
+    nav.style.backgroundColor = 'rgb(255 255 255 / 50%)';
+    textBox.style.backgroundColor = 'rgb(0 0 0 / 50%)';
+    toggleIcon.children[0].textContent = 'Light Mode';
+    toggleIcon.children[1].classList.replace('fa-moon', 'fa-sun');
+    imageMode('light')
 }
 
-// Get jokes from Joke API
-async function getJokes() {
-  let joke = '';
-  const apiUrl = 'https://sv443.net/jokeapi/v2/joke/Programming?blacklistFlags=nsfw,racist,sexist';
-  try {
-    const response = await fetch(apiUrl);
-    const data = await response.json();
-    // Assign One or Two Part Joke
-    if (data.setup) {
-      joke = `${data.setup} ... ${data.delivery}`;
+function switchTheme(event) {
+    if (event.target.checked) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+        darkMode();
     } else {
-      joke = data.joke;
+        document.documentElement.setAttribute('data-theme', 'light');
+        localStorage.setItem('theme', 'light');
+        lightMode();
     }
-    // Passing Joke to VoiceRSS API
-    tellMe(joke);
-    // Disable Button
-    toggleButton();
-  } catch (error) {
-    // Catch Error Here
-  }
 }
 
-// Event Listeners
-button.addEventListener('click', getJokes);
-audioElement.addEventListener('ended', toggleButton);
+
+toggleSwitch.addEventListener('change', switchTheme);
+
+const currentTheme = localStorage.getItem('theme');
+if (currentTheme) {
+    document.documentElement.setAttribute('data-theme', currentTheme);
+if (currentTheme === 'dark') {
+    toggleSwitch.checked = true;
+    darkMode();
+ }
+}
