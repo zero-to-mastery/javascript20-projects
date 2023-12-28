@@ -576,7 +576,7 @@ Check out all of the submissions below! Well done everyone!
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/toggle-day-light-mode) | [View Live](https://bshohug.github.io/toggle-day-light-mode/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/DarkLightMode) | [View Live](https://yo0guitarit.github.io/DarkLightMode/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/light-dark-mode) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/light-dark-mode/)
-
+- Lambru Adrian Georgian - [Github](https://github.com/lambrugeorge/light-dark-mode) | [View Live](https://lambrugeorge.github.io/light-dark-mode/)
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
 - Sahil Aghara - [GitHub](https://github.com/sahilaghara1911) | [View Live](https://sahilaghara1911.github.io/Animated-Template/)
