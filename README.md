@@ -614,6 +614,7 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/animated) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/animated/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/AnimateTemplate) | [View Live](https://yo0guitarit.github.io/AnimateTemplate/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/animated-template) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/animated-template/)
+- Yu Ling Chen - [Github](https://github.com/lambrugeorge/animated-template) | [View Live](https://lambrugeorge.github.io/animated-template/)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
