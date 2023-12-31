@@ -402,6 +402,7 @@ Check out all of the submissions below! Well done everyone!
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/infinity-scroll) | [View Live](https://bshohug.github.io/infinity-scroll/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/InfiniteScroll) | [View Live](https://yo0guitarit.github.io/InfiniteScroll/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/infinite-scroll) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/infinite-scroll/)
+- LaClarence - [Github](https://github.com/LaClarence/infinity-scroll) | [View Live](https://laclarence.github.io/infinity-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
