@@ -182,6 +182,7 @@ Check out all of the submissions below! Well done everyone!
 - Chintan Patel - [Github](https://github.com/chintans357/quote-generator) | [View Live](https://chintans357.github.io/quote-generator/)
 - Brent Beers - [Github](https://github.com/chironjon/quote-generator) | [View Live](https://chironjon.github.io/quote-generator/)
 - Brandon Galloway – [Github](https://github.com/thingetoo/random-quote-generator) | [View Live](https://thingetoo.github.io/random-quote-generator/)
+- Mahe Dell – [Github](https://github.com/TheMahe/quote-generator) | [View Live](https://themahe.github.io/quote-generator/)
 - Cam Jackson - [Github](https://github.com/CamJackson-Dev/quoteGenerator) | [View Live](https://camjackson-dev.github.io/quoteGenerator/)
 - Brandon Galloway – [Github](https://github.com/thingetoo/random-quote-generator) | [View Live](https://thingetoo.github.io/random-quote-generator/)
 - Harsh Khilawala - [Github](https://github.com/HarshKhilawala/Quote-Generator) | [View Live](https://harshkhilawala.github.io/Quote-Generator/)
