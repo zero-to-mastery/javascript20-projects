@@ -25,7 +25,6 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
-
 - Andrada Dobocan - [Github](https://github.com/AndradaDobocan/Quote_Generator) | [View Live](https://andradadobocan.github.io/Quote_Generator/)
 - Noah Rodgers - [Github](https://github.com/createdbynoah/quote-generator-js) | [View Live](https://createdbynoah.github.io/quote-generator-js/)
 - Ashish Upadhyay - [Github](https://github.com/ashish-pro/quote-generator) | [View Live](https://quote-generator-six-ecru.vercel.app/)
@@ -49,6 +48,7 @@ Check out all of the submissions below! Well done everyone!
 - Sagar Sinha - [Github](https://github.com/sinhasagar01/Quote-generator) | [View Live](https://thunderous-chaja-a34296.netlify.app/)
 - Pradeep Kumar - [Github](https://github.com/pradytpk/quote-generator-js) | [View Live](https://pradytpk.github.io/quote-generator-js/)
 - Michael Shields - [Github](https://github.com/mike-shields-dev/quote-generator) | [View Live](https://mike-shields-dev.github.io/quote-generator/)
+- Czipa Szilárd - [Github](https://github.com/Cleshy/Quote-Generator) | [View Live](https://cleshy.github.io/Quote-Generator/)
 - Pete Donaghy - [Github](https://github.com/TriplePP/Quote-generator) | [View Live](https://graceful-horse-6709ef.netlify.app/)
 - Roxanne - [Github](https://github.com/roxanneweber/quote-generator) | [View Live](https://rw-js-quote-generator.netlify.app/)
 - Rossco - [Github](https://github.com/rmchardie/quote-generator) | [View Live](https://rmchardie.github.io/quote-generator/)
@@ -559,6 +559,7 @@ Check out all of the submissions below! Well done everyone!
 - Julie Dumbrique - [Github](https://github.com/isjules/light-dark-mode.git) | [View Live](https://isjules.github.io/light-dark-mode/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/light-dark-mode-1.0) | [View Live](https://dwightmckenzie.github.io/light-dark-mode-1.0/)
+- Czipa Szilárd - [Github](https://github.com/Cleshy/Light-Dark-mode) | [View Live](https://cleshy.github.io/Light-Dark-mode/)
 - Rahul - [Github](https://github.com/rachirah/website) || [Go Live](https://rachirah.github.io/website/)
 - bergstenarn - [Github](https://github.com/bergstenarn/light-dark-mode) | [View Live](https://bergstenarn.github.io/light-dark-mode/index.html)
 - Jonnathan Riquelmo - [GitHub](https://github.com/JonnathanRiquelmo/light-dark-mode) | [View Live](https://jonnathanriquelmo.github.io/light-dark-mode/)
@@ -601,6 +602,7 @@ Check out all of the submissions below! Well done everyone!
 - Jampa Thinlay - [Github](https://github.com/jthinlay/javascriptProjectAnimatedTemplate) | [View Live](https://jthinlay.github.io/javascriptProjectAnimatedTemplate/)
 - Ariel Lin - [Github](https://github.com/ariellinfy/animated-template) | [View Live](https://ariellinfy.github.io/animated-template/)
 - Julie Dumbrique - [Github](https://github.com/isjules/animated-template.git) | [View Live](https://isjules.github.io/animated-template/)
+- Czipa Szilárd - [Github](https://github.com/Cleshy/Animated-Template) | [View Live](https://cleshy.github.io/Animated-Template/)
 - Vectoras - [Github](https://github.com/Vectoras/ztm-20-js-projects) | [View Live](https://ztm20jsprojects.netlify.app/)
 - Dwight Mckenzie - [Github](https://github.com/DwightMckenzie/animated-template-1.0) | [View Live](https://dwightmckenzie.github.io/animated-template-1.0/)
 - bergstenarn - [Github](https://github.com/bergstenarn/animated-template) | [View Live](https://bergstenarn.github.io/animated-template/index.html)
@@ -979,7 +981,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/017-calculator) | [View Live](http://wayney-calculator.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/calculator) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/calculator/)
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/js-calculator) | [View Live](https://bshohug.github.io/js-calculator/)
-- Vishal Krishna - [Github](https://github.com/vishalkrishna8/calculator) 
+- Vishal Krishna - [Github](https://github.com/vishalkrishna8/calculator)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/calculator) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/calculator/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
