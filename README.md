@@ -25,7 +25,6 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
-
 - Corey Uebelacker - [Github](https://github.com/acoreyu/quote-generator) | [View Live](https://acoreyu.github.io/quote-generator/)
 - Andrada Dobocan - [Github](https://github.com/AndradaDobocan/Quote_Generator) | [View Live](https://andradadobocan.github.io/Quote_Generator/)
 - Noah Rodgers - [Github](https://github.com/createdbynoah/quote-generator-js) | [View Live](https://createdbynoah.github.io/quote-generator-js/)
@@ -40,6 +39,7 @@ Check out all of the submissions below! Well done everyone!
 - DailyVitamin by @thelore85 - [Github](https://github.com/thelore85) | [View Live](https://thelore85.github.io/quote-generator-API/)
 - Sahil Aghara - [Github](https://github.com/sahilaghara1911) | [View Live](https://sahilaghara1911.github.io/quote-generator/)
 - Renato Soares - [Github](https://github.com/renatofmsoares/quote-generator) | [View Live](https://renatofmsoares.github.io/quote-generator/)
+- Eric Lahoda- [Github](https://github.com/elahoda/quote-generator) | [View Live](https://elahoda.github.io/quote-generator//)
 - Anish Kumar - [Github](https://github.com/anishkumar92/quote-generator) | [View Live](https://anishkumar92.github.io/quote-generator/)
 - Anas Elmakhloufi - [Github](https://github.com/anasmak04/30-Days-30-Projects-VanillaJS/tree/main/Project-02-Quotes) | [View Live](https://30-days-30-projects-vanilla-js.vercel.app/)
 - Nylle Griffiths - [Github](https://github.com/nyllegriffiths1/quote-generator) | [View  Live] (https://nyllegriffiths1.github.io/quote-generator/)
@@ -990,7 +990,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/017-calculator) | [View Live](http://wayney-calculator.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/calculator) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/calculator/)
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/js-calculator) | [View Live](https://bshohug.github.io/js-calculator/)
-- Vishal Krishna - [Github](https://github.com/vishalkrishna8/calculator) 
+- Vishal Krishna - [Github](https://github.com/vishalkrishna8/calculator)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/calculator) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/calculator/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
