@@ -26,6 +26,7 @@ Check out all of the submissions below! Well done everyone!
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
 
+- Corey Uebelacker - [Github](https://github.com/acoreyu/quote-generator) | [View Live](https://acoreyu.github.io/quote-generator/)
 - Andrada Dobocan - [Github](https://github.com/AndradaDobocan/Quote_Generator) | [View Live](https://andradadobocan.github.io/Quote_Generator/)
 - Noah Rodgers - [Github](https://github.com/createdbynoah/quote-generator-js) | [View Live](https://createdbynoah.github.io/quote-generator-js/)
 - Ashish Upadhyay - [Github](https://github.com/ashish-pro/quote-generator) | [View Live](https://quote-generator-six-ecru.vercel.app/)
@@ -33,12 +34,15 @@ Check out all of the submissions below! Well done everyone!
 - Roman Chursin - [Github](https://github.com/RChursin/javascript_projects/tree/main/quote_generator) | [View Live](https://rchursin.github.io/quote_generator/)
 - Restu Oktafiandi - [Github](https://github.com/restuoktafiandi/quote-generator) | [View Live](https://codepen.io/restu_oktafiandi/full/jOQaeBx)
 - Mihai Pavelescu - [Github](https://github.com/MediaExpres/quote-generator_byMediaExpres) | [View Live](https://mediaexpres.github.io/quote-generator_byMediaExpres/)
+- Mahmoud Mostafa - [Github](https://github.com/Mahmoud-Moustafa93/quote-generator) | [View Live](https://mahmoud-moustafa93.github.io/quote-generator/)
+- Ajay Boro - [Github](https://github.com/ajaybor0/cite-generator) | [View Live](https://cite-generator.netlify.app/)
 - Cristian Tudor - [Github](https://github.com/cristianstudor/quote-generator) | [View Live](https://cristianstudor.github.io/quote-generator/)
 - DailyVitamin by @thelore85 - [Github](https://github.com/thelore85) | [View Live](https://thelore85.github.io/quote-generator-API/)
 - Sahil Aghara - [Github](https://github.com/sahilaghara1911) | [View Live](https://sahilaghara1911.github.io/quote-generator/)
 - Renato Soares - [Github](https://github.com/renatofmsoares/quote-generator) | [View Live](https://renatofmsoares.github.io/quote-generator/)
 - Anish Kumar - [Github](https://github.com/anishkumar92/quote-generator) | [View Live](https://anishkumar92.github.io/quote-generator/)
 - Anas Elmakhloufi - [Github](https://github.com/anasmak04/30-Days-30-Projects-VanillaJS/tree/main/Project-02-Quotes) | [View Live](https://30-days-30-projects-vanilla-js.vercel.app/)
+- Nylle Griffiths - [Github](https://github.com/nyllegriffiths1/quote-generator) | [View  Live] (https://nyllegriffiths1.github.io/quote-generator/)
 - Pailodze - [Github](https://github.com/shotapailodze/quote-generator)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/quote-generator) | [View Live](https://patricioschranz.github.io/quote-generator/)
 - James Murphy - [Github](https://github.com/jamesIVdeveloper/quote-generator) | [View Live](https://jamesivdeveloper.github.io/quote-generator/)
@@ -297,6 +301,9 @@ Check out all of the submissions below! Well done everyone!
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/Quote-Generator) | [View Live](https://yo0guitarit.github.io/Quote-Generator/)
 - naijamesz - [Github](https://github.com/naijamesz/random-quote) | [View Live](https://random-quote-bice.vercel.app/)
 - LaClarence - [Github](https://github.com/LaClarence/Quote-Generator) | [View Live](https://laclarence.github.io/Quote-Generator/)
+- Sylwester Foerster - [Github](https://github.com/For3stu/Quote-Generator) | [View Live](https://for3stu.github.io/Quote-Generator/)
+- dotslashbit - [Github](https://github.com/dotslashbit/web-projects/tree/main/javascript_projects/quote_generator) | [View Live](https://web-projects-sepia.vercel.app/)
+
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -692,6 +699,7 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/music-player) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/music-player/)
 - João Gonçalves [Github](https://github.com/Joopr8/music-player) | [View Live](https://joopr8.github.io/music-player/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/music-player) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/music-player/)
+
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
