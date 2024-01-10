@@ -39,6 +39,7 @@ Check out all of the submissions below! Well done everyone!
 - Renato Soares - [Github](https://github.com/renatofmsoares/quote-generator) | [View Live](https://renatofmsoares.github.io/quote-generator/)
 - Anish Kumar - [Github](https://github.com/anishkumar92/quote-generator) | [View Live](https://anishkumar92.github.io/quote-generator/)
 - Anas Elmakhloufi - [Github](https://github.com/anasmak04/30-Days-30-Projects-VanillaJS/tree/main/Project-02-Quotes) | [View Live](https://30-days-30-projects-vanilla-js.vercel.app/)
+- Nylle Griffiths - [Github](https://github.com/nyllegriffiths1/quote-generator) | [View  Live] (https://nyllegriffiths1.github.io/quote-generator/)
 - Pailodze - [Github](https://github.com/shotapailodze/quote-generator)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/quote-generator) | [View Live](https://patricioschranz.github.io/quote-generator/)
 - James Murphy - [Github](https://github.com/jamesIVdeveloper/quote-generator) | [View Live](https://jamesivdeveloper.github.io/quote-generator/)
@@ -690,6 +691,7 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/music-player) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/music-player/)
 - João Gonçalves [Github](https://github.com/Joopr8/music-player) | [View Live](https://joopr8.github.io/music-player/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/music-player) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/music-player/)
+
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
