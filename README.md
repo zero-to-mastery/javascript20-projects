@@ -647,6 +647,7 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/navigation-nation) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/navigation-nation/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/NavigationNation) | [View Live](https://yo0guitarit.github.io/NavigationNation/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/animated-navigation) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/animated-navigation/)
+- Lambru Adrian Georgian - [Github](https://github.com/lambrugeorge/Navigation-nations) | [View Live](https://lambrugeorge.github.io/Navigation-nations/)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
