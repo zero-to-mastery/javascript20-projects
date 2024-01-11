@@ -465,6 +465,7 @@ Check out all of the submissions below! Well done everyone!
 - João Gonçalves [Github](https://github.com/Joopr8/picture-in-picture) | [View Live](https://joopr8.github.io/picture-in-picture//)
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/picture-in-picture) | [View Live](https://bshohug.github.io/picture-in-picture/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/picture-in-picture) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/picture-in-picture/)
+- Lambru Adrian Georgian - [Github](https://github.com/lambrugeorge/picture-in-picture) | [View Live](https://lambrugeorge.github.io/picture-in-picture/)
 
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
