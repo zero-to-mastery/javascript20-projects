@@ -22,6 +22,7 @@ Check out all of the submissions below! Well done everyone!
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/quiz-app/)
 - Emmanuel Damilola - [Github](https://github.com/DAEM007/QUIZ_PROJECT) | [View Live](http://quiz-project-psi.vercel.app/)
 - Nilam Bhuva - [Github](https://github.com/nilmeet)
+- AwesomePerson - [Github](https://github.com/LanguageXange/demo-how-to-fork) | [View Live](somelinkhere)
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
@@ -42,7 +43,7 @@ Check out all of the submissions below! Well done everyone!
 - Eric Lahoda- [Github](https://github.com/elahoda/quote-generator) | [View Live](https://elahoda.github.io/quote-generator//)
 - Anish Kumar - [Github](https://github.com/anishkumar92/quote-generator) | [View Live](https://anishkumar92.github.io/quote-generator/)
 - Anas Elmakhloufi - [Github](https://github.com/anasmak04/30-Days-30-Projects-VanillaJS/tree/main/Project-02-Quotes) | [View Live](https://30-days-30-projects-vanilla-js.vercel.app/)
-- Nylle Griffiths - [Github](https://github.com/nyllegriffiths1/quote-generator) | [View  Live] (https://nyllegriffiths1.github.io/quote-generator/)
+- Nylle Griffiths - [Github](https://github.com/nyllegriffiths1/quote-generator) | [View Live] (https://nyllegriffiths1.github.io/quote-generator/)
 - Pailodze - [Github](https://github.com/shotapailodze/quote-generator)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/quote-generator) | [View Live](https://patricioschranz.github.io/quote-generator/)
 - James Murphy - [Github](https://github.com/jamesIVdeveloper/quote-generator) | [View Live](https://jamesivdeveloper.github.io/quote-generator/)
@@ -707,7 +708,6 @@ Check out all of the submissions below! Well done everyone!
 - João Gonçalves [Github](https://github.com/Joopr8/music-player) | [View Live](https://joopr8.github.io/music-player/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/music-player) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/music-player/)
 
-
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
 - Russ Perry - [Github](https://github.com/rperry99/custom-countdown) | [View Live](https://rperry99.github.io/custom-countdown/)
@@ -1065,4 +1065,3 @@ Check out all of the submissions below! Well done everyone!
 ### Tetris Game - Original [Github](https://github.com/BlankSpacePlus/javascript-tetris)
 
 - BlankSpacePlus -[GitHub](https://github.com/BlankSpacePlus/javascript-tetris)
-
