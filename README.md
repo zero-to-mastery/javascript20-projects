@@ -910,6 +910,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/020-pong) | [View Live](http://wayney-ping-pong.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/pong) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/pong)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/pong) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/pong/)
+- Richard Lew - [Github](https://github.com/rylew0925/Neon-Pong.git)
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
