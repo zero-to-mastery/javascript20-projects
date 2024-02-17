@@ -755,7 +755,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/010-book-keeper) | [View Live](http://wayney-book-keeper.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/book-keeper) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/book-keeper/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/bookmarks-app) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/bookmarks-app/)
-- Lambru Adrian - [Github]https://github.com/lambrugeorge/bookmark-app | [View Live]https://lambrugeorge.github.io/bookmark-app/
+- Lambru Adrian - [Github](https://github.com/lambrugeorge/bookmark-app) | [View Live](https://lambrugeorge.github.io/bookmark-app/)
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
