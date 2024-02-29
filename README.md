@@ -59,6 +59,7 @@ Check out all of the submissions below! Well done everyone!
 - Rossco - [Github](https://github.com/rmchardie/quote-generator) | [View Live](https://rmchardie.github.io/quote-generator/)
 - Curtis Warcup - [Github](https://github.com/Cwarcup) | [View Live](https://cwarcup.github.io/dad-quotes/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/quote-generator) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/quote-generator/)
+- Bart vd Berg - [Github](https://github.com/eibart/quote-generator) | [View Live](https://eibart.github.io/quote-generator/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/inspiring-quote-generator) | [View Live Demo](https://pats101.github.io/inspiring-quote-generator/)
 - Sai Chandu- [Github](https://github.com/chandu0077/quote-generator) | [View Live](https://chandu0077.github.io/quote-generator/)
 - Monther- [Github](https://github.com/muntherabdellatif/quote-generator) | [View Live](https://muntherabdellatif.github.io/quote-generator/)
