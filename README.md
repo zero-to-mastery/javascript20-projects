@@ -783,6 +783,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/011-video-player) | [View Live](http://wayney-video-player.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/video-player) [View Live](https://dwernz.github.io/ZTM_Portfolio/project/video-player/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/video-player) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/video-player/)
+- Lambru Adrian Georgian - [Github](https://github.com/lambrugeorge/video-player) [View Live](https://lambrugeorge.github.io/video-player/)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
