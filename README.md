@@ -22,6 +22,8 @@ Check out all of the submissions below! Well done everyone!
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/quiz-app/)
 - Emmanuel Damilola - [Github](https://github.com/DAEM007/QUIZ_PROJECT) | [View Live](http://quiz-project-psi.vercel.app/)
 - Nilam Bhuva - [Github](https://github.com/nilmeet)
+- Katsu Tsushima - [Github](https://github.com/KatsuTsushima) | [View Live](https://katsutsushima.github.io/QuizApp/)
+
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
