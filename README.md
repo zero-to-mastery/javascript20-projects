@@ -814,6 +814,7 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/form-validator) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/form-validator/)
 - João Gonçalves [Github](https://github.com/Joopr8/form-validator) | [View Live](https://joopr8.github.io/form-validator/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/form-validator) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/form-validator/)
+- Lambru Adrian Georgian [Github](https://github.com/lambrugeorge/form-validator) | [View Live](https://lambrugeorge.github.io/form-validator/)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
