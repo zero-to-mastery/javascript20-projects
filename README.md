@@ -26,6 +26,7 @@ Check out all of the submissions below! Well done everyone!
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
 - Corey Uebelacker - [Github](https://github.com/acoreyu/quote-generator) | [View Live](https://acoreyu.github.io/quote-generator/)
+- Subin Vidhu - [Github](https://github.com/Subin-Vidhu/quote-generator) | [View Live](https://subin-vidhu.github.io/quote-generator/)
 - Andrada Dobocan - [Github](https://github.com/AndradaDobocan/Quote_Generator) | [View Live](https://andradadobocan.github.io/Quote_Generator/)
 - Noah Rodgers - [Github](https://github.com/createdbynoah/quote-generator-js) | [View Live](https://createdbynoah.github.io/quote-generator-js/)
 - Ashish Upadhyay - [Github](https://github.com/ashish-pro/quote-generator) | [View Live](https://quote-generator-six-ecru.vercel.app/)
