@@ -838,6 +838,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/013-spock-rock-game) | [View Live](http://wayney-spock-rock-game.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/spock-rock-game) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/spock-rock-game/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/spock-rock-game) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/spock-rock-game/)
+- Lambru Adrian Georgian [Github](https://github.com/lambrugeorge/Spock-Rock) | [View Live](https://lambrugeorge.github.io/Spock-Rock/)
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
@@ -862,6 +863,8 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/014-nasa-apod) | [View Live](http://wayney-nasa-apod.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/nasa-apod) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/nasa-apod/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/nasa-api-pictures) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/nasa-api-pictures/)
+- Lambru Adrian - [Github](https://github.com/lambrugeorge/NASA-APOD) | [View Live](https://lambrugeorge.github.io/NASA-APOD/)
+
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
@@ -925,6 +928,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/015-math-sprint) | [View Live](http://wayney-math-sprint.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/math-sprint-game) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/math-sprint-game/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/math-sprint-game) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/math-sprint-game/)
+- Lambru Adrian - [Github](https://github.com/lambrugeorge/Math-Sprint-Game) | [View Live](https://lambrugeorge.github.io/Math-Sprint-Game/)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
