@@ -957,6 +957,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/016-drag-and-drop) | [View Live](http://wayney-drag-and-drop.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/drag-and-drop) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/drag-and-drop/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/drag-and-drop) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/drag-and-drop/)
+- Lambru Adrian Georgian - [Github](https://github.com/lambrugeorge/Drag-and-drop) | [View Live](https://lambrugeorge.github.io/Drag-and-drop/)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
@@ -997,6 +998,7 @@ Check out all of the submissions below! Well done everyone!
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/js-calculator) | [View Live](https://bshohug.github.io/js-calculator/)
 - Vishal Krishna - [Github](https://github.com/vishalkrishna8/calculator) 
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/calculator) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/calculator/)
+- Lambru Adrian Georgian - [Github](https://github.com/lambrugeorge/Calculator-Project) | [View Live](https://lambrugeorge.github.io/Calculator-Project/)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
@@ -1016,6 +1018,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/018-splash-page) | [View Live](http://wayney-splash-page.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/splash-page) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/splash-page)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/splash-page) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/splash-page/)
+- Lambru Adrian Georgian - [Github](https://github.com/lambrugeorge/Splash-Page) | [View Live](https://lambrugeorge.github.io/Splash-Page/)
 
 ### Pig Game - Original: [Github](https://github.com/DeepakRawat24/pig-game)
 
