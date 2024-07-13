@@ -307,6 +307,8 @@ Check out all of the submissions below! Well done everyone!
 - LaClarence - [Github](https://github.com/LaClarence/Quote-Generator) | [View Live](https://laclarence.github.io/Quote-Generator/)
 - Sylwester Foerster - [Github](https://github.com/For3stu/Quote-Generator) | [View Live](https://for3stu.github.io/Quote-Generator/)
 - dotslashbit - [Github](https://github.com/dotslashbit/web-projects/tree/main/javascript_projects/quote_generator) | [View Live](https://web-projects-sepia.vercel.app/)
+- Brandon Ortega - [Github](https://github.com/brando161/quote-generator) | [View Live](https://brando161.github.io/quote-generator/)
+- santosism - [Github](https://github.com/santosism/quote-generator) | [View Live](https://zen4you.netlify.app/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -478,6 +480,7 @@ Check out all of the submissions below! Well done everyone!
 - João Gonçalves [Github](https://github.com/Joopr8/picture-in-picture) | [View Live](https://joopr8.github.io/picture-in-picture//)
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/picture-in-picture) | [View Live](https://bshohug.github.io/picture-in-picture/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/picture-in-picture) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/picture-in-picture/)
+- LaClarence - [Github](https://github.com/LaClarence/picture-in-picture/) | [View Live](https://laclarence.github.io/picture-in-picture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
@@ -538,6 +541,7 @@ Check out all of the submissions below! Well done everyone!
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/joke-teller) | [View Live](https://bshohug.github.io/joke-teller/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/JokeTeller) | [View Live](https://yo0guitarit.github.io/JokeTeller/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/joke-teller) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/joke-teller/)
+- LaClarence - [Github](https://github.com/LaClarence/joke-teller/) | [View Live](https://laclarence.github.io/joke-teller/)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
@@ -590,6 +594,7 @@ Check out all of the submissions below! Well done everyone!
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/DarkLightMode) | [View Live](https://yo0guitarit.github.io/DarkLightMode/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/light-dark-mode) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/light-dark-mode/)
 - Richard Lew - [Github](https://github.com/rylew0925/dark-light-mode.git)
+- LaClarence - [Github](https://github.com/LaClarence/light-dark-mode/) | [View Live](https://laclarence.github.io/light-dark-mode/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
