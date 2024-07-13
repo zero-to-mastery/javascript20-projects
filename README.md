@@ -593,6 +593,7 @@ Check out all of the submissions below! Well done everyone!
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/toggle-day-light-mode) | [View Live](https://bshohug.github.io/toggle-day-light-mode/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/DarkLightMode) | [View Live](https://yo0guitarit.github.io/DarkLightMode/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/light-dark-mode) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/light-dark-mode/)
+- Richard Lew - [Github](https://github.com/rylew0925/dark-light-mode.git)
 - LaClarence - [Github](https://github.com/LaClarence/light-dark-mode/) | [View Live](https://laclarence.github.io/light-dark-mode/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
@@ -914,6 +915,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/020-pong) | [View Live](http://wayney-ping-pong.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/pong) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/pong)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/pong) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/pong/)
+- Richard Lew - [Github](https://github.com/rylew0925/Neon-Pong.git)
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
