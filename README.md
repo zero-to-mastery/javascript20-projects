@@ -887,6 +887,7 @@ Check out all of the submissions below! Well done everyone!
 - João Gonçalves [Github](https://github.com/Joopr8/paint-clone) | [View Live](https://joopr8.github.io/paint-clone/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/paint-clone) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/paint-clone)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/paint-clone) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/paint-clone/)
+- Lambru Adrian Georgian - [Github](https://github.com/lambrugeorge/Paint-Clone) | [View Live](https://lambrugeorge.github.io/Paint-Clone/)
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
@@ -907,6 +908,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/020-pong) | [View Live](http://wayney-ping-pong.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/pong) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/pong)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/pong) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/pong/)
+- Lambru Adrian Georgian - [Github](https://github.com/lambrugeorge/Pong) | [View Live](https://lambrugeorge.github.io/Pong/)
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
