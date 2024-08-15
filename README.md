@@ -44,7 +44,7 @@ Check out all of the submissions below! Well done everyone!
 - Eric Lahoda- [Github](https://github.com/elahoda/quote-generator) | [View Live](https://elahoda.github.io/quote-generator//)
 - Anish Kumar - [Github](https://github.com/anishkumar92/quote-generator) | [View Live](https://anishkumar92.github.io/quote-generator/)
 - Anas Elmakhloufi - [Github](https://github.com/anasmak04/30-Days-30-Projects-VanillaJS/tree/main/Project-02-Quotes) | [View Live](https://30-days-30-projects-vanilla-js.vercel.app/)
-- Nylle Griffiths - [Github](https://github.com/nyllegriffiths1/quote-generator) | [View  Live] (https://nyllegriffiths1.github.io/quote-generator/)
+- Nylle Griffiths - [Github](https://github.com/nyllegriffiths1/quote-generator) | [View Live] (https://nyllegriffiths1.github.io/quote-generator/)
 - Pailodze - [Github](https://github.com/shotapailodze/quote-generator)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/quote-generator) | [View Live](https://patricioschranz.github.io/quote-generator/)
 - James Murphy - [Github](https://github.com/jamesIVdeveloper/quote-generator) | [View Live](https://jamesivdeveloper.github.io/quote-generator/)
@@ -310,6 +310,7 @@ Check out all of the submissions below! Well done everyone!
 - LaClarence - [Github](https://github.com/LaClarence/Quote-Generator) | [View Live](https://laclarence.github.io/Quote-Generator/)
 - Sylwester Foerster - [Github](https://github.com/For3stu/Quote-Generator) | [View Live](https://for3stu.github.io/Quote-Generator/)
 - dotslashbit - [Github](https://github.com/dotslashbit/web-projects/tree/main/javascript_projects/quote_generator) | [View Live](https://web-projects-sepia.vercel.app/)
+- Héctor Zayas - [Github](https://github.com/hectorzayas/JS-01-QuoteGenerator) | [View Live](https://hectorzayas.github.io/JS-01-QuoteGenerator/)
 - Datagekko - [Github](https://github.com/datagekko/quote-generator) | [View Live](https://datagekko.github.io/quote-generator/)
 - Brandon Ortega - [Github](https://github.com/brando161/quote-generator) | [View Live](https://brando161.github.io/quote-generator/)
 - santosism - [Github](https://github.com/santosism/quote-generator) | [View Live](https://zen4you.netlify.app/)
@@ -719,7 +720,6 @@ Check out all of the submissions below! Well done everyone!
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/music-player) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/music-player/)
 - Yu Ling Chen  - [Github](https://github.com/Yo0GuitarIT/music-player-js20) | [View Live](https://yo0guitarit.github.io/music-player-js20/)
 
-
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
 - Russ Perry - [Github](https://github.com/rperry99/custom-countdown) | [View Live](https://rperry99.github.io/custom-countdown/)
@@ -1083,4 +1083,3 @@ Check out all of the submissions below! Well done everyone!
 ### Tetris Game - Original [Github](https://github.com/BlankSpacePlus/javascript-tetris)
 
 - BlankSpacePlus -[GitHub](https://github.com/BlankSpacePlus/javascript-tetris)
-
