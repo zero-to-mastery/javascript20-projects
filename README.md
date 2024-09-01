@@ -7,7 +7,7 @@ Student submissions for the [JavaScript 20 Projects Course](https://academy.zero
 **DO NOT** add your projects directly to this repository
 
 ## Submissions:
-
+##Submitted by people over here
 Check out all of the submissions below! Well done everyone!
 
 ### Contents
