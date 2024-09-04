@@ -978,6 +978,7 @@ gg
 - Pailodze - [Github](https://github.com/shotapailodze/calculator)
 - Siddharth Agrawal - [Github](https://github.com/siddharth329/calculator)
 - Steve Tollin - [Github](https://github.com/Webistics/Wild-West-Calculator) [View Live](https://webistics.github.io/Wild-West-Calculator/)
+- Raghad Ali - [GitHub] (https://github.com/raghad-smth/Code-Soft/tree/main/Calculator)
 - @stanimal93 - [GitHub](https://github.com/stanimal93/bubbly-calculator)
 - Anette [Github](https://github.com/RedSquirrrel/calculator) [View Live](https://redsquirrrel.github.io/calculator/)
 - Russ Perry - [Github](https://github.com/rperry99/calculator) | [View Live](https://rperry99.github.io/calculator/)
