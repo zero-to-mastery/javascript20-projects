@@ -1,5 +1,7 @@
 # javascript20-projects
 
+# Search for the name "Lambru Adrian Georgian" to see the projects from the course. Thank you!
+
 Student submissions for the [JavaScript 20 Projects Course](https://academy.zerotomastery.io/p/javascript-projects)
 
 - Add your name and project to the list below by submitting a Pull Request! If you don't know how to submit a Pull Request | check this: https://github.com/zero-to-mastery/start-here-guidelines
