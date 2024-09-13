@@ -511,6 +511,7 @@ Check out all of the submissions below! Well done everyone!
 - Sahil Jamwal - [Github](https://github.com/sahiljamwal/Programming-Joke-Teller)
 - Hasan Cobanoglu - [Github](https://github.com/hasancbngl/JsWeb20Projects/tree/master/4-jokeTeller) | [View Live](https://hasancbngl.github.io/js20webprojects/)
 - Sam Kach - [Github](https://github.com/rizamoyi/joke-teller)
+- Jacob McEwen - [Github](https://github.com/jacobmcazure/joke-teller) | [View Live](https://jacobmcazure.github.io/joke-teller/)
 - Hamza Khan - [Github](https://github.com/salderahamza/robo-joke) [Live](https://salderahamza.github.io/robo-joke/)
 - Alaa Balbaid - [Github](https://github.com/alaa140101/Joke-Teller) [View Live](https://alaa140101.github.io/Joke-Teller/)
 - Rohan Raj Gautam - [Github](https://github.com/RohanRajGautam/ChuckNorrisJokeGenerator) | [View Live](https://rohanrajgautam.github.io/ChuckNorrisJokeGenerator/)
