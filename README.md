@@ -761,6 +761,7 @@ gg
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/009-custom-countdown) | [View Live](http://wayney-custom-countdown.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/custom-countdown) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/custom-countdown/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/custom-countdown) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/custom-countdown/)
+- Patricio Schranz - [Github](https://github.com/patricioSchranz/custom-countdown) | [View Live](https://patricioschranz.github.io/custom-countdown/)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
