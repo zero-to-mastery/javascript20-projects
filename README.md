@@ -285,7 +285,6 @@ Check out all of the submissions below! Well done everyone!
 - Erez Avni [Github](http://github.com/ErezAvni9)[View live](https://erezavni9.github.io/My-quote-generator/)
 - Mayowa Olajide - [Github](https://github.com/Mayorman07/Autoquote.git) | [View Live](https://mayorman07.github.io/Autoquote/)
 - Prince Nwaonicha [Github](https://github.com/TheFirstCodeBender/Quote-Generator) | [View Live](https://thefirstcodebender.github.io/Quote-Generator/)
-- Melissa Mitchell - [Github](https://github.com/mel-codingphoenix/quote_generator) | [View Live](https://mel-codingphoenix.github.io/quote_generator/)
 - Tara Swingholm [Github](https://github.com/TaraByte79/quote-generator) | [View Live](TaraByte79.github.io/quote-generator)
 - Aastha Aggarwal - [Github](https://github.com/AasthaAgg/Quote-Generator) | [View Live](https://aasthaagg.github.io/Quote-Generator/)
 - Rostom Matchavariani - [Github](https://github.com/RostoRM/Quote_Generator) | [View Live](https://rostorm.github.io/Quote_Generator/)
@@ -314,6 +313,7 @@ Check out all of the submissions below! Well done everyone!
 - LaClarence - [Github](https://github.com/LaClarence/Quote-Generator) | [View Live](https://laclarence.github.io/Quote-Generator/)
 - Sylwester Foerster - [Github](https://github.com/For3stu/Quote-Generator) | [View Live](https://for3stu.github.io/Quote-Generator/)
 - dotslashbit - [Github](https://github.com/dotslashbit/web-projects/tree/main/javascript_projects/quote_generator) | [View Live](https://web-projects-sepia.vercel.app/)
+- Melissa Cutts - [Github](https://github.com/the-codingphoenix/QuoteGenerator) | [View Live](https://the-codingphoenix.github.io/QuoteGenerator/)
 - Héctor Zayas - [Github](https://github.com/hectorzayas/JS-01-QuoteGenerator) | [View Live](https://hectorzayas.github.io/JS-01-QuoteGenerator/)
 - Datagekko - [Github](https://github.com/datagekko/quote-generator) | [View Live](https://datagekko.github.io/quote-generator/)
 - Brandon Ortega - [Github](https://github.com/brando161/quote-generator) | [View Live](https://brando161.github.io/quote-generator/)
@@ -425,6 +425,7 @@ Check out all of the submissions below! Well done everyone!
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/InfiniteScroll) | [View Live](https://yo0guitarit.github.io/InfiniteScroll/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/infinite-scroll) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/infinite-scroll/)
 - LaClarence - [Github](https://github.com/LaClarence/infinity-scroll) | [View Live](https://laclarence.github.io/infinity-scroll/)
+- Melissa Cutts - [Github](https://github.com/the-codingphoenix/InfiniteScroll) | [View Live](https://the-codingphoenix.github.io/InfiniteScroll/)
 - Datagekko - [Github](https://github.com/datagekko/infinite-scroll) | [View Live](https://datagekko.github.io/infinite-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
@@ -490,6 +491,7 @@ Check out all of the submissions below! Well done everyone!
 - João Gonçalves [Github](https://github.com/Joopr8/picture-in-picture) | [View Live](https://joopr8.github.io/picture-in-picture//)
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/picture-in-picture) | [View Live](https://bshohug.github.io/picture-in-picture/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/picture-in-picture) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/picture-in-picture/)
+- Melissa Cutts - [Github](https://github.com/the-codingphoenix/Picture-in-Picture) | [View Live](https://the-codingphoenix.github.io/Picture-in-Picture/)
 - LaClarence - [Github](https://github.com/LaClarence/picture-in-picture/) | [View Live](https://laclarence.github.io/picture-in-picture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
@@ -551,6 +553,7 @@ Check out all of the submissions below! Well done everyone!
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/joke-teller) | [View Live](https://bshohug.github.io/joke-teller/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/JokeTeller) | [View Live](https://yo0guitarit.github.io/JokeTeller/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/joke-teller) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/joke-teller/)
+- Melissa Cutts - [Github](https://github.com/the-codingphoenix/JokeTeller) | [View Live](https://the-codingphoenix.github.io/JokeTeller/)
 - LaClarence - [Github](https://github.com/LaClarence/joke-teller/) | [View Live](https://laclarence.github.io/joke-teller/)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
@@ -603,6 +606,7 @@ Check out all of the submissions below! Well done everyone!
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/toggle-day-light-mode) | [View Live](https://bshohug.github.io/toggle-day-light-mode/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/DarkLightMode) | [View Live](https://yo0guitarit.github.io/DarkLightMode/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/light-dark-mode) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/light-dark-mode/)
+- Melissa Cutts - [Github](https://github.com/the-codingphoenix/Light-Dark-Mode) | [View Live](https://the-codingphoenix.github.io/Light-Dark-Mode/)
 - Richard Lew - [Github](https://github.com/rylew0925/dark-light-mode.git)
 - LaClarence - [Github](https://github.com/LaClarence/light-dark-mode/) | [View Live](https://laclarence.github.io/light-dark-mode/)
 
@@ -1065,13 +1069,11 @@ gg
 ### Simon Game - Original: [Github](https://github.com/enam007/Simon-Game)
 
 - Md Aamir Enam -[GitHub](https://github.com/enam007/Simon-Game) | [View Live](https://enam007.github.io/Simon-Game/)
-
 - Jaweria Batool -[GitHub](https://github.com/Jaweria-B/Simon-Game) | [View Live](https://Jaweri-B.github.io/Simon-Game/)
 
 ### Drum Kit - Original: [Github](https://github.com/AnsulaDev/Drum-Kit)
 
 - AnsulaDev -[Github](https://github.com/AnsulaDev/Drum-Kit) | [View Live](https://ansuladev.github.io/Drum-Kit/)
-
 - Jaweria Batool -[Github](https://github.com/Jaweria-B/Drum-Kit) | [View Live](https://jaweria-b.github.io/Drum-Kit/)
 
 
