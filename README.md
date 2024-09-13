@@ -13,7 +13,7 @@ Check out all of the submissions below! Well done everyone!
 ### Contents
 
 [Simple Quiz App](#simple-quiz-app--original-github) |
-[Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-scroll---original-github) | [Picture in Picture](#picture-in-picture---original-github) | [Joke Teller](#joke-teller---original-github) | [Light/Dark Mode](#light-dark-mode---original-github) | [Animated Template](#animated-template---original-github) | [Navigation Nation](#navigation-nation---original-github) | [Music Player](#music-player---original-github) | [Custom Countdown](#custom-countdown---original-github) | [Book Keeper](#book-keeper---original-github) | [Video Player](#video-player---original-github) | [Form Validator](#form-validator---original-github) | [Rock Spock](#rock-spock---original-github) | [NASA APOD](#nasa-apod---original-github) | [Paint Clone](#paint-clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#math-sprint-game---original-github) | [Drag and Drop](#drag-and-drop---original-github) | [Calculator](#calculator---original-github) | [Splash Page](#splash-page---original-github) | [Pig Game](#pig-game---original-github) | [Hangman Game](#hangman-game---original-github) | [Tetris Game](#tetris-game---original-github)
+[Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-scroll---original-github) | [Picture in Picture](#picture-in-picture---original-github) | [Joke Teller](#joke-teller---original-github) | [Light/Dark Mode](#light-dark-mode---original-github) | [Animated Template](#animated-template---original-github) | [Navigation Nation](#navigation-nation---original-github) | [Music Player](#music-player---original-github) | [Custom Countdown](#custom-countdown---original-github) | [Book Keeper](#book-keeper---original-github) | [Video Player](#video-player---original-github) | [Form Validator](#form-validator---original-github) | [Rock Spock](#rock-spock---original-github) | [NASA APOD](#nasa-apod---original-github) | [Paint Clone](#paint-clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#math-sprint-game---original-github) | [Drag and Drop](#drag-and-drop---original-github) | [Calculator](#calculator---original-github) | [Splash Page](#splash-page---original-github) | [Pig Game](#pig-game---original-github) | [Hangman Game](#hangman-game---original-github) | [Tetris Game](#tetris-game---original-github)  | [Drum Kit](#Drum-Kit---original-github) | [Simon Game](#Simon-Game---original-github)
 
 ### Simple Quiz App - Original: [Github](https://github.com/RupamG/simple-quiz)
 
@@ -22,11 +22,14 @@ Check out all of the submissions below! Well done everyone!
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/quiz-app/)
 - Emmanuel Damilola - [Github](https://github.com/DAEM007/QUIZ_PROJECT) | [View Live](http://quiz-project-psi.vercel.app/)
 - Nilam Bhuva - [Github](https://github.com/nilmeet)
+- Katsu Tsushima - [Github](https://github.com/KatsuTsushima) | [View Live](https://katsutsushima.github.io/QuizApp/)
+
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
 - Corey Uebelacker - [Github](https://github.com/acoreyu/quote-generator) | [View Live](https://acoreyu.github.io/quote-generator/)
 - Subin Vidhu - [Github](https://github.com/Subin-Vidhu/quote-generator) | [View Live](https://subin-vidhu.github.io/quote-generator/)
+- Ashok - [Github](https://github.com/Ashoka2002/js-project-1-quote-generator) | [View Live](https://ashoka2002.github.io/js-project-1-quote-generator/)
 - Andrada Dobocan - [Github](https://github.com/AndradaDobocan/Quote_Generator) | [View Live](https://andradadobocan.github.io/Quote_Generator/)
 - Noah Rodgers - [Github](https://github.com/createdbynoah/quote-generator-js) | [View Live](https://createdbynoah.github.io/quote-generator-js/)
 - Ashish Upadhyay - [Github](https://github.com/ashish-pro/quote-generator) | [View Live](https://quote-generator-six-ecru.vercel.app/)
@@ -37,13 +40,15 @@ Check out all of the submissions below! Well done everyone!
 - Mahmoud Mostafa - [Github](https://github.com/Mahmoud-Moustafa93/quote-generator) | [View Live](https://mahmoud-moustafa93.github.io/quote-generator/)
 - Ajay Boro - [Github](https://github.com/ajaybor0/cite-generator) | [View Live](https://cite-generator.netlify.app/)
 - Cristian Tudor - [Github](https://github.com/cristianstudor/quote-generator) | [View Live](https://cristianstudor.github.io/quote-generator/)
+- Ashok - [Github](https://github.com/Ashoka2002/js-project-1-quote-generator) | [View Live](https://ashoka2002.github.io/js-project-1-quote-generator/)
+- Alaa Aldeen Shammr - [Github](https://github.com/aladdinshammr/quote-generator) | [View Live](https://aladdinshammr.github.io/quote-generator/)
 - DailyVitamin by @thelore85 - [Github](https://github.com/thelore85) | [View Live](https://thelore85.github.io/quote-generator-API/)
 - Sahil Aghara - [Github](https://github.com/sahilaghara1911) | [View Live](https://sahilaghara1911.github.io/quote-generator/)
 - Renato Soares - [Github](https://github.com/renatofmsoares/quote-generator) | [View Live](https://renatofmsoares.github.io/quote-generator/)
 - Eric Lahoda- [Github](https://github.com/elahoda/quote-generator) | [View Live](https://elahoda.github.io/quote-generator//)
 - Anish Kumar - [Github](https://github.com/anishkumar92/quote-generator) | [View Live](https://anishkumar92.github.io/quote-generator/)
 - Anas Elmakhloufi - [Github](https://github.com/anasmak04/30-Days-30-Projects-VanillaJS/tree/main/Project-02-Quotes) | [View Live](https://30-days-30-projects-vanilla-js.vercel.app/)
-- Nylle Griffiths - [Github](https://github.com/nyllegriffiths1/quote-generator) | [View  Live] (https://nyllegriffiths1.github.io/quote-generator/)
+- Nylle Griffiths - [Github](https://github.com/nyllegriffiths1/quote-generator) | [View Live] (https://nyllegriffiths1.github.io/quote-generator/)
 - Pailodze - [Github](https://github.com/shotapailodze/quote-generator)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/quote-generator) | [View Live](https://patricioschranz.github.io/quote-generator/)
 - James Murphy - [Github](https://github.com/jamesIVdeveloper/quote-generator) | [View Live](https://jamesivdeveloper.github.io/quote-generator/)
@@ -60,6 +65,7 @@ Check out all of the submissions below! Well done everyone!
 - Rossco - [Github](https://github.com/rmchardie/quote-generator) | [View Live](https://rmchardie.github.io/quote-generator/)
 - Curtis Warcup - [Github](https://github.com/Cwarcup) | [View Live](https://cwarcup.github.io/dad-quotes/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/quote-generator) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/quote-generator/)
+- Bart vd Berg - [Github](https://github.com/eibart/quote-generator) | [View Live](https://eibart.github.io/quote-generator/)
 - Patrick Tonderai Ganhiwa - [Github](https://github.com/Pats101/inspiring-quote-generator) | [View Live Demo](https://pats101.github.io/inspiring-quote-generator/)
 - Sai Chandu- [Github](https://github.com/chandu0077/quote-generator) | [View Live](https://chandu0077.github.io/quote-generator/)
 - Monther- [Github](https://github.com/muntherabdellatif/quote-generator) | [View Live](https://muntherabdellatif.github.io/quote-generator/)
@@ -308,6 +314,10 @@ Check out all of the submissions below! Well done everyone!
 - LaClarence - [Github](https://github.com/LaClarence/Quote-Generator) | [View Live](https://laclarence.github.io/Quote-Generator/)
 - Sylwester Foerster - [Github](https://github.com/For3stu/Quote-Generator) | [View Live](https://for3stu.github.io/Quote-Generator/)
 - dotslashbit - [Github](https://github.com/dotslashbit/web-projects/tree/main/javascript_projects/quote_generator) | [View Live](https://web-projects-sepia.vercel.app/)
+- Héctor Zayas - [Github](https://github.com/hectorzayas/JS-01-QuoteGenerator) | [View Live](https://hectorzayas.github.io/JS-01-QuoteGenerator/)
+- Datagekko - [Github](https://github.com/datagekko/quote-generator) | [View Live](https://datagekko.github.io/quote-generator/)
+- Brandon Ortega - [Github](https://github.com/brando161/quote-generator) | [View Live](https://brando161.github.io/quote-generator/)
+- santosism - [Github](https://github.com/santosism/quote-generator) | [View Live](https://zen4you.netlify.app/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -415,6 +425,7 @@ Check out all of the submissions below! Well done everyone!
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/InfiniteScroll) | [View Live](https://yo0guitarit.github.io/InfiniteScroll/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/infinite-scroll) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/infinite-scroll/)
 - LaClarence - [Github](https://github.com/LaClarence/infinity-scroll) | [View Live](https://laclarence.github.io/infinity-scroll/)
+- Datagekko - [Github](https://github.com/datagekko/infinite-scroll) | [View Live](https://datagekko.github.io/infinite-scroll/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
@@ -479,6 +490,7 @@ Check out all of the submissions below! Well done everyone!
 - João Gonçalves [Github](https://github.com/Joopr8/picture-in-picture) | [View Live](https://joopr8.github.io/picture-in-picture//)
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/picture-in-picture) | [View Live](https://bshohug.github.io/picture-in-picture/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/picture-in-picture) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/picture-in-picture/)
+- LaClarence - [Github](https://github.com/LaClarence/picture-in-picture/) | [View Live](https://laclarence.github.io/picture-in-picture/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
@@ -539,6 +551,7 @@ Check out all of the submissions below! Well done everyone!
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/joke-teller) | [View Live](https://bshohug.github.io/joke-teller/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/JokeTeller) | [View Live](https://yo0guitarit.github.io/JokeTeller/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/joke-teller) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/joke-teller/)
+- LaClarence - [Github](https://github.com/LaClarence/joke-teller/) | [View Live](https://laclarence.github.io/joke-teller/)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
@@ -590,6 +603,8 @@ Check out all of the submissions below! Well done everyone!
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/toggle-day-light-mode) | [View Live](https://bshohug.github.io/toggle-day-light-mode/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/DarkLightMode) | [View Live](https://yo0guitarit.github.io/DarkLightMode/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/light-dark-mode) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/light-dark-mode/)
+- Richard Lew - [Github](https://github.com/rylew0925/dark-light-mode.git)
+- LaClarence - [Github](https://github.com/LaClarence/light-dark-mode/) | [View Live](https://laclarence.github.io/light-dark-mode/)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
@@ -707,7 +722,8 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/music-player) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/music-player/)
 - João Gonçalves [Github](https://github.com/Joopr8/music-player) | [View Live](https://joopr8.github.io/music-player/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/music-player) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/music-player/)
-
+- Yu Ling Chen  - [Github](https://github.com/Yo0GuitarIT/music-player-js20) | [View Live](https://yo0guitarit.github.io/music-player-js20/)
+gg
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
@@ -910,6 +926,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/020-pong) | [View Live](http://wayney-ping-pong.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/pong) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/pong)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/pong) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/pong/)
+- Richard Lew - [Github](https://github.com/rylew0925/Neon-Pong.git)
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
@@ -1049,9 +1066,14 @@ Check out all of the submissions below! Well done everyone!
 
 - Md Aamir Enam -[GitHub](https://github.com/enam007/Simon-Game) | [View Live](https://enam007.github.io/Simon-Game/)
 
+- Jaweria Batool -[GitHub](https://github.com/Jaweria-B/Simon-Game) | [View Live](https://Jaweri-B.github.io/Simon-Game/)
+
 ### Drum Kit - Original: [Github](https://github.com/AnsulaDev/Drum-Kit)
 
 - AnsulaDev -[Github](https://github.com/AnsulaDev/Drum-Kit) | [View Live](https://ansuladev.github.io/Drum-Kit/)
+
+- Jaweria Batool -[Github](https://github.com/Jaweria-B/Drum-Kit) | [View Live](https://jaweria-b.github.io/Drum-Kit/)
+
 
 ### Virtual Drum - Original [Github](https://github.com/enam007/VirtualDrum)
 
@@ -1066,4 +1088,3 @@ Check out all of the submissions below! Well done everyone!
 ### Tetris Game - Original [Github](https://github.com/BlankSpacePlus/javascript-tetris)
 
 - BlankSpacePlus -[GitHub](https://github.com/BlankSpacePlus/javascript-tetris)
-
