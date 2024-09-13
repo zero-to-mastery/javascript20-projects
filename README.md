@@ -1073,6 +1073,8 @@ gg
 - Md Aamir Enam -[GitHub](https://github.com/enam007/Simon-Game) | [View Live](https://enam007.github.io/Simon-Game/)
 - Jaweria Batool -[GitHub](https://github.com/Jaweria-B/Simon-Game) | [View Live](https://Jaweri-B.github.io/Simon-Game/)
 
+- Swiss Tangsatjatham -[GitHub](https://github.com/tintinguy01/Simon-Game) | [View Live](https://simon-game-lr0g1990f-swiss-projects-7eafb3e6.vercel.app/)
+
 ### Drum Kit - Original: [Github](https://github.com/AnsulaDev/Drum-Kit)
 
 - AnsulaDev -[Github](https://github.com/AnsulaDev/Drum-Kit) | [View Live](https://ansuladev.github.io/Drum-Kit/)
