@@ -13,7 +13,7 @@ Check out all of the submissions below! Well done everyone!
 ### Contents
 
 [Simple Quiz App](#simple-quiz-app--original-github) |
-[Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-scroll---original-github) | [Picture in Picture](#picture-in-picture---original-github) | [Joke Teller](#joke-teller---original-github) | [Light/Dark Mode](#light-dark-mode---original-github) | [Animated Template](#animated-template---original-github) | [Navigation Nation](#navigation-nation---original-github) | [Music Player](#music-player---original-github) | [Custom Countdown](#custom-countdown---original-github) | [Book Keeper](#book-keeper---original-github) | [Video Player](#video-player---original-github) | [Form Validator](#form-validator---original-github) | [Rock Spock](#rock-spock---original-github) | [NASA APOD](#nasa-apod---original-github) | [Paint Clone](#paint-clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#math-sprint-game---original-github) | [Drag and Drop](#drag-and-drop---original-github) | [Calculator](#calculator---original-github) | [Splash Page](#splash-page---original-github) | [Pig Game](#pig-game---original-github) | [Hangman Game](#hangman-game---original-github) | [Tetris Game](#tetris-game---original-github)  | [Drum Kit](#Drum-Kit---original-github) | [Simon Game](#Simon-Game---original-github)
+[Quote Generator](#quote-generator---original-github) | [Infinity Scroll](#infinity-scroll---original-github) | [Picture in Picture](#picture-in-picture---original-github) | [Joke Teller](#joke-teller---original-github) | [Light/Dark Mode](#light-dark-mode---original-github) | [Animated Template](#animated-template---original-github) | [Navigation Nation](#navigation-nation---original-github) | [Music Player](#music-player---original-github) | [Custom Countdown](#custom-countdown---original-github) | [Book Keeper](#book-keeper---original-github) | [Video Player](#video-player---original-github) | [Form Validator](#form-validator---original-github) | [Rock Spock](#rock-spock---original-github) | [NASA APOD](#nasa-apod---original-github) | [Paint Clone](#paint-clone---original-github) | [Pong](#pong---original-github) | [Math Sprint Game](#math-sprint-game---original-github) | [Drag and Drop](#drag-and-drop---original-github) | [Calculator](#calculator---original-github) | [Splash Page](#splash-page---original-github) | [Pig Game](#pig-game---original-github) | [Hangman Game](#hangman-game---original-github) | [Tetris Game](#tetris-game---original-github) | [Drum Kit](#Drum-Kit---original-github) | [Simon Game](#Simon-Game---original-github)
 
 ### Simple Quiz App - Original: [Github](https://github.com/RupamG/simple-quiz)
 
@@ -23,7 +23,6 @@ Check out all of the submissions below! Well done everyone!
 - Emmanuel Damilola - [Github](https://github.com/DAEM007/QUIZ_PROJECT) | [View Live](http://quiz-project-psi.vercel.app/)
 - Nilam Bhuva - [Github](https://github.com/nilmeet)
 - Katsu Tsushima - [Github](https://github.com/KatsuTsushima) | [View Live](https://katsutsushima.github.io/QuizApp/)
-
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
@@ -318,6 +317,7 @@ Check out all of the submissions below! Well done everyone!
 - Datagekko - [Github](https://github.com/datagekko/quote-generator) | [View Live](https://datagekko.github.io/quote-generator/)
 - Brandon Ortega - [Github](https://github.com/brando161/quote-generator) | [View Live](https://brando161.github.io/quote-generator/)
 - santosism - [Github](https://github.com/santosism/quote-generator) | [View Live](https://zen4you.netlify.app/)
+- Kelechukwu Tasie - [Github](https://github.com/ktasie/quote-generator) | [View Live](https://ktasie.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -727,8 +727,8 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/music-player) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/music-player/)
 - João Gonçalves [Github](https://github.com/Joopr8/music-player) | [View Live](https://joopr8.github.io/music-player/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/music-player) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/music-player/)
-- Yu Ling Chen  - [Github](https://github.com/Yo0GuitarIT/music-player-js20) | [View Live](https://yo0guitarit.github.io/music-player-js20/)
-gg
+- Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/music-player-js20) | [View Live](https://yo0guitarit.github.io/music-player-js20/)
+  gg
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
@@ -1080,7 +1080,6 @@ gg
 
 - AnsulaDev -[Github](https://github.com/AnsulaDev/Drum-Kit) | [View Live](https://ansuladev.github.io/Drum-Kit/)
 - Jaweria Batool -[Github](https://github.com/Jaweria-B/Drum-Kit) | [View Live](https://jaweria-b.github.io/Drum-Kit/)
-
 
 ### Virtual Drum - Original [Github](https://github.com/enam007/VirtualDrum)
 
