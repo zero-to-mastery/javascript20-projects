@@ -495,6 +495,7 @@ Check out all of the submissions below! Well done everyone!
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/picture-in-picture) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/picture-in-picture/)
 - Melissa Cutts - [Github](https://github.com/the-codingphoenix/Picture-in-Picture) | [View Live](https://the-codingphoenix.github.io/Picture-in-Picture/)
 - LaClarence - [Github](https://github.com/LaClarence/picture-in-picture/) | [View Live](https://laclarence.github.io/picture-in-picture/)
+- Evgueni Kounik - [Github](https://github.com/buzzcosm/picture-in-picture-vanilla-js-app) | [View Live](https://buzzcosm.github.io/picture-in-picture-vanilla-js-app/)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
