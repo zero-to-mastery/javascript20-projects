@@ -428,6 +428,7 @@ Check out all of the submissions below! Well done everyone!
 - LaClarence - [Github](https://github.com/LaClarence/infinity-scroll) | [View Live](https://laclarence.github.io/infinity-scroll/)
 - Melissa Cutts - [Github](https://github.com/the-codingphoenix/InfiniteScroll) | [View Live](https://the-codingphoenix.github.io/InfiniteScroll/)
 - Datagekko - [Github](https://github.com/datagekko/infinite-scroll) | [View Live](https://datagekko.github.io/infinite-scroll/)
+- Evgueni Kounik - [Github](https://github.com/buzzcosm/infinite-scroll-vanilla-js-app) | [View Live](https://buzzcosm.github.io/infinite-scroll-vanilla-js-app/)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
