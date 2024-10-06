@@ -559,6 +559,7 @@ Check out all of the submissions below! Well done everyone!
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/joke-teller) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/joke-teller/)
 - Melissa Cutts - [Github](https://github.com/the-codingphoenix/JokeTeller) | [View Live](https://the-codingphoenix.github.io/JokeTeller/)
 - LaClarence - [Github](https://github.com/LaClarence/joke-teller/) | [View Live](https://laclarence.github.io/joke-teller/)
+- Evgueni Kounik - [Github](https://github.com/buzzcosm/joke-teller-vanilla-js-app) | [View Live](https://buzzcosm.github.io/joke-teller-vanilla-js-app/)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
