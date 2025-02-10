@@ -30,6 +30,7 @@ Check out all of the submissions below! Well done everyone!
 - Subin Vidhu - [Github](https://github.com/Subin-Vidhu/quote-generator) | [View Live](https://subin-vidhu.github.io/quote-generator/)
 - Ashok - [Github](https://github.com/Ashoka2002/js-project-1-quote-generator) | [View Live](https://ashoka2002.github.io/js-project-1-quote-generator/)
 - Andrada Dobocan - [Github](https://github.com/AndradaDobocan/Quote_Generator) | [View Live](https://andradadobocan.github.io/Quote_Generator/)
+- Abiala Faith - [Github](https://github.com/AbialaFaith/Quote-Generator) | [View Live](https://abialafaith.github.io/Quote-Generator/)
 - Kelly C. Silva - [Github](https://github.com/Kell-C/quote-generator) | [View Live](https://kell-c.github.io/quote-generator/)
 - Noah Rodgers - [Github](https://github.com/createdbynoah/quote-generator-js) | [View Live](https://createdbynoah.github.io/quote-generator-js/)
 - Ashish Upadhyay - [Github](https://github.com/ashish-pro/quote-generator) | [View Live](https://quote-generator-six-ecru.vercel.app/)
