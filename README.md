@@ -432,7 +432,7 @@ Check out all of the submissions below! Well done everyone!
 - Melissa Cutts - [Github](https://github.com/the-codingphoenix/InfiniteScroll) | [View Live](https://the-codingphoenix.github.io/InfiniteScroll/)
 - Datagekko - [Github](https://github.com/datagekko/infinite-scroll) | [View Live](https://datagekko.github.io/infinite-scroll/)
 - Evgueni Kounik - [Github](https://github.com/buzzcosm/infinite-scroll-vanilla-js-app) | [View Live](https://buzzcosm.github.io/infinite-scroll-vanilla-js-app/)
-
+- Christopher Ade - [Github](https://github.com/caw083/infinity_scroll_update) | [View Live](https://caw083.github.io/infinity_scroll_update/) => Card Versions
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/picture-in-picture) | [View Live](https://patricioschranz.github.io/picture-in-picture/)
