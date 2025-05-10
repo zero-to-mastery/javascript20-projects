@@ -39,6 +39,7 @@ Check out all of the submissions below! Well done everyone!
 - Mihai Pavelescu - [Github](https://github.com/MediaExpres/quote-generator_byMediaExpres) | [View Live](https://mediaexpres.github.io/quote-generator_byMediaExpres/)
 - Mahmoud Mostafa - [Github](https://github.com/Mahmoud-Moustafa93/quote-generator) | [View Live](https://mahmoud-moustafa93.github.io/quote-generator/)
 - Ajay Boro - [Github](https://github.com/ajaybor0/cite-generator) | [View Live](https://cite-generator.netlify.app/)
+- Abdallahman - Habyarimana [Github](https://github.com/Abdallahman-habyarimana/Quote-generator) | [View Live](https://abdallahman-habyarimana.github.io/Quote-generator/)
 - Cristian Tudor - [Github](https://github.com/cristianstudor/quote-generator) | [View Live](https://cristianstudor.github.io/quote-generator/)
 - Ashok - [Github](https://github.com/Ashoka2002/js-project-1-quote-generator) | [View Live](https://ashoka2002.github.io/js-project-1-quote-generator/)
 - Alaa Aldeen Shammr - [Github](https://github.com/aladdinshammr/quote-generator) | [View Live](https://aladdinshammr.github.io/quote-generator/)
