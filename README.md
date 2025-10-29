@@ -27,6 +27,7 @@ Check out all of the submissions below! Well done everyone!
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
 - Daniil Baturyn - [Github](https://github.com/notfeardan/Quote-Generator) | [View Live](https://notfeardan.github.io/Quote-Generator/)
+- Houssam Ouhra - [Github](https://github.com/houssamouhra/Quote-Generator) | [View Live](https://houssamouhra.github.io/Quote-Generator/)
 - Corey Uebelacker - [Github](https://github.com/acoreyu/quote-generator) | [View Live](https://acoreyu.github.io/quote-generator/)
 - Subin Vidhu - [Github](https://github.com/Subin-Vidhu/quote-generator) | [View Live](https://subin-vidhu.github.io/quote-generator/)
 - Ashok - [Github](https://github.com/Ashoka2002/js-project-1-quote-generator) | [View Live](https://ashoka2002.github.io/js-project-1-quote-generator/)
@@ -563,6 +564,7 @@ Check out all of the submissions below! Well done everyone!
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/joke-teller) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/joke-teller/)
 - Melissa Cutts - [Github](https://github.com/the-codingphoenix/JokeTeller) | [View Live](https://the-codingphoenix.github.io/JokeTeller/)
 - LaClarence - [Github](https://github.com/LaClarence/joke-teller/) | [View Live](https://laclarence.github.io/joke-teller/)
+- Evgueni Kounik - [Github](https://github.com/buzzcosm/joke-teller-vanilla-js-app) | [View Live](https://buzzcosm.github.io/joke-teller-vanilla-js-app/)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
