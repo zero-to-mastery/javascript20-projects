@@ -26,6 +26,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+- Daniil Baturyn - [Github](https://github.com/notfeardan/Quote-Generator) | [View Live](https://notfeardan.github.io/Quote-Generator/)
 - Houssam Ouhra - [Github](https://github.com/houssamouhra/Quote-Generator) | [View Live](https://houssamouhra.github.io/Quote-Generator/)
 - Corey Uebelacker - [Github](https://github.com/acoreyu/quote-generator) | [View Live](https://acoreyu.github.io/quote-generator/)
 - Subin Vidhu - [Github](https://github.com/Subin-Vidhu/quote-generator) | [View Live](https://subin-vidhu.github.io/quote-generator/)
