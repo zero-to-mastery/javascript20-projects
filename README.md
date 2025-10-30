@@ -323,6 +323,7 @@ Check out all of the submissions below! Well done everyone!
 - santosism - [Github](https://github.com/santosism/quote-generator) | [View Live](https://zen4you.netlify.app/)
 - Kelechukwu Tasie - [Github](https://github.com/ktasie/quote-generator) | [View Live](https://ktasie.github.io/quote-generator/)
 - Evgueni Kounik - [Github](https://github.com/buzzcosm/quote-generator-vanilla-js-app) | [View Live](https://buzzcosm.github.io/quote-generator-vanilla-js-app/)
+- Eslam Mamdouh - [Github](https://github.com/eslammamdouh24/quote-generator) | [View Live](https://eslammamdouh24.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
