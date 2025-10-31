@@ -26,10 +26,14 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+- Daniil Baturyn - [Github](https://github.com/notfeardan/Quote-Generator) | [View Live](https://notfeardan.github.io/Quote-Generator/)
+- Houssam Ouhra - [Github](https://github.com/houssamouhra/Quote-Generator) | [View Live](https://houssamouhra.github.io/Quote-Generator/)
 - Corey Uebelacker - [Github](https://github.com/acoreyu/quote-generator) | [View Live](https://acoreyu.github.io/quote-generator/)
 - Subin Vidhu - [Github](https://github.com/Subin-Vidhu/quote-generator) | [View Live](https://subin-vidhu.github.io/quote-generator/)
+- Hanem Naga -[Github](https://github.com/hanemNaga/quote-generator) | [View Live](https://hanemnaga.github.io/quote-generator/)
 - Ashok - [Github](https://github.com/Ashoka2002/js-project-1-quote-generator) | [View Live](https://ashoka2002.github.io/js-project-1-quote-generator/)
 - Andrada Dobocan - [Github](https://github.com/AndradaDobocan/Quote_Generator) | [View Live](https://andradadobocan.github.io/Quote_Generator/)
+- Abiala Faith - [Github](https://github.com/AbialaFaith/Quote-Generator) | [View Live](https://abialafaith.github.io/Quote-Generator/)
 - Kelly C. Silva - [Github](https://github.com/Kell-C/quote-generator) | [View Live](https://kell-c.github.io/quote-generator/)
 - Noah Rodgers - [Github](https://github.com/createdbynoah/quote-generator-js) | [View Live](https://createdbynoah.github.io/quote-generator-js/)
 - Ashish Upadhyay - [Github](https://github.com/ashish-pro/quote-generator) | [View Live](https://quote-generator-six-ecru.vercel.app/)
@@ -321,6 +325,7 @@ Check out all of the submissions below! Well done everyone!
 - Kelechukwu Tasie - [Github](https://github.com/ktasie/quote-generator) | [View Live](https://ktasie.github.io/quote-generator/)
 - Evgueni Kounik - [Github](https://github.com/buzzcosm/quote-generator-vanilla-js-app) | [View Live](https://buzzcosm.github.io/quote-generator-vanilla-js-app/)
 - Christopher Ade - [Github](https://github.com/caw083/quote-generator) | [View Live](https://caw083.github.io/quote-generator/) => Twitter to X
+- Eslam Mamdouh - [Github](https://github.com/eslammamdouh24/quote-generator) | [View Live](https://eslammamdouh24.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -563,6 +568,7 @@ Check out all of the submissions below! Well done everyone!
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/joke-teller) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/joke-teller/)
 - Melissa Cutts - [Github](https://github.com/the-codingphoenix/JokeTeller) | [View Live](https://the-codingphoenix.github.io/JokeTeller/)
 - LaClarence - [Github](https://github.com/LaClarence/joke-teller/) | [View Live](https://laclarence.github.io/joke-teller/)
+- Evgueni Kounik - [Github](https://github.com/buzzcosm/joke-teller-vanilla-js-app) | [View Live](https://buzzcosm.github.io/joke-teller-vanilla-js-app/)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
