@@ -882,7 +882,7 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/spock-rock-game) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/spock-rock-game/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/spock-rock-game) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/spock-rock-game/)
 
-### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
+### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures.
 
 - Anette [Github](https://github.com/RedSquirrrel/nasa-apod) [View Live](https://redsquirrrel.github.io/nasa-apod/)
 - Russ Perry - [Github](https://github.com/rperry99/Nasa-APOD) | [View Live](https://rperry99.github.io/Nasa-APOD/)
