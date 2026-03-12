@@ -31,6 +31,7 @@ Check out all of the submissions below! Well done everyone!
 - Corey Uebelacker - [Github](https://github.com/acoreyu/quote-generator) | [View Live](https://acoreyu.github.io/quote-generator/)
 - Subin Vidhu - [Github](https://github.com/Subin-Vidhu/quote-generator) | [View Live](https://subin-vidhu.github.io/quote-generator/)
 - Hanem Naga -[Github](https://github.com/hanemNaga/quote-generator) | [View Live](https://hanemnaga.github.io/quote-generator/)
+- Max - [Github](https://github.com/trett1004/quote-generator) | [View Live](https://trett1004.github.io/quote-generator/)
 - Chris Ahearn -[Github](https://github.com/ChrisAhearn/Amazing-Quote-Generator) | [View Live](chrisahearn.github.io/Amazing-Quote-Generator/)
 - Ashok - [Github](https://github.com/Ashoka2002/js-project-1-quote-generator) | [View Live](https://ashoka2002.github.io/js-project-1-quote-generator/)
 - Andrada Dobocan - [Github](https://github.com/AndradaDobocan/Quote_Generator) | [View Live](https://andradadobocan.github.io/Quote_Generator/)
@@ -440,6 +441,7 @@ Check out all of the submissions below! Well done everyone!
 - Datagekko - [Github](https://github.com/datagekko/infinite-scroll) | [View Live](https://datagekko.github.io/infinite-scroll/)
 - Evgueni Kounik - [Github](https://github.com/buzzcosm/infinite-scroll-vanilla-js-app) | [View Live](https://buzzcosm.github.io/infinite-scroll-vanilla-js-app/)
 - Christopher Ade - [Github](https://github.com/caw083/infinity_scroll_update) | [View Live](https://caw083.github.io/infinity_scroll_update/) => Card Versions
+
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/picture-in-picture) | [View Live](https://patricioschranz.github.io/picture-in-picture/)
