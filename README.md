@@ -330,6 +330,7 @@ Check out all of the submissions below! Well done everyone!
 - Christopher Ade - [Github](https://github.com/caw083/quote-generator) | [View Live](https://caw083.github.io/quote-generator/) => Twitter to X
 - Eslam Mamdouh - [Github](https://github.com/eslammamdouh24/quote-generator) | [View Live](https://eslammamdouh24.github.io/quote-generator/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/quote-generator)
+- Paulo Márcio - [Github](https://github.com/pmbfsa/quote-generator) | [View Live](https://pmbfsa.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
