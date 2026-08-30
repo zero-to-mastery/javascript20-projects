@@ -331,6 +331,7 @@ Check out all of the submissions below! Well done everyone!
 - Eslam Mamdouh - [Github](https://github.com/eslammamdouh24/quote-generator) | [View Live](https://eslammamdouh24.github.io/quote-generator/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/quote-generator)
 - Paulo Márcio - [Github](https://github.com/pmbfsa/quote-generator) | [View Live](https://pmbfsa.github.io/quote-generator/)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/quote-generator) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/quote-generator)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -444,6 +445,7 @@ Check out all of the submissions below! Well done everyone!
 - Evgueni Kounik - [Github](https://github.com/buzzcosm/infinite-scroll-vanilla-js-app) | [View Live](https://buzzcosm.github.io/infinite-scroll-vanilla-js-app/)
 - Christopher Ade - [Github](https://github.com/caw083/infinity_scroll_update) | [View Live](https://caw083.github.io/infinity_scroll_update/) => Card Versions
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/infinity-scroll)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/infinite-scroll)
 
 ### Picture in Picture - Original: [Github](https://github.com/JacintoDesign/picture-in-picture)
 
@@ -513,6 +515,7 @@ Check out all of the submissions below! Well done everyone!
 - LaClarence - [Github](https://github.com/LaClarence/picture-in-picture/) | [View Live](https://laclarence.github.io/picture-in-picture/)
 - Evgueni Kounik - [Github](https://github.com/buzzcosm/picture-in-picture-vanilla-js-app) | [View Live](https://buzzcosm.github.io/picture-in-picture-vanilla-js-app/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/picture-in-picture)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/picture-in-picture) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/picture-in-picture)
 
 ### Joke Teller - Original: [Github](https://github.com/JacintoDesign/joke-teller/)
 
@@ -578,6 +581,7 @@ Check out all of the submissions below! Well done everyone!
 - LaClarence - [Github](https://github.com/LaClarence/joke-teller/) | [View Live](https://laclarence.github.io/joke-teller/)
 - Evgueni Kounik - [Github](https://github.com/buzzcosm/joke-teller-vanilla-js-app) | [View Live](https://buzzcosm.github.io/joke-teller-vanilla-js-app/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/joke-teller)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/joke-teller) 
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
@@ -633,6 +637,7 @@ Check out all of the submissions below! Well done everyone!
 - Richard Lew - [Github](https://github.com/rylew0925/dark-light-mode.git)
 - LaClarence - [Github](https://github.com/LaClarence/light-dark-mode/) | [View Live](https://laclarence.github.io/light-dark-mode/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/light-dark-mode)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/light-dark-mode) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/light-dark-mode)
 
 ### Animated Template - Original: [Github](https://github.com/JacintoDesign/animated-template)
 
@@ -673,6 +678,7 @@ Check out all of the submissions below! Well done everyone!
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/AnimateTemplate) | [View Live](https://yo0guitarit.github.io/AnimateTemplate/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/animated-template) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/animated-template/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/animated-template)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/animated-website) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/animated-website)
 
 ### Navigation Nation - Original: [Github](https://github.com/JacintoDesign/animated-navigation)
 
@@ -706,6 +712,7 @@ Check out all of the submissions below! Well done everyone!
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/NavigationNation) | [View Live](https://yo0guitarit.github.io/NavigationNation/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/animated-navigation) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/animated-navigation/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/navigation-nation)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/navigation-nation) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/navigation-nation)
 
 ### Music Player - Original: [Github](https://github.com/JacintoDesign/music-player)
 
@@ -755,6 +762,7 @@ Check out all of the submissions below! Well done everyone!
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/music-player-js20) | [View Live](https://yo0guitarit.github.io/music-player-js20/)
   gg
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/music-player)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/music-player) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/music-player)
 
 ### Custom Countdown - Original: [Github](https://github.com/JacintoDesign/custom-countdown)
 
@@ -789,6 +797,7 @@ Check out all of the submissions below! Well done everyone!
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/custom-countdown) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/custom-countdown/)
 - Patricio Schranz - [Github](https://github.com/patricioSchranz/custom-countdown) | [View Live](https://patricioschranz.github.io/custom-countdown/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/custom-countdown)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/custom-countdown) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/custom-countdown)
 
 ### Book Keeper - Original: [Github](https://github.com/JacintoDesign/bookmark-app)
 
@@ -815,6 +824,7 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/book-keeper) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/book-keeper/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/bookmarks-app) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/bookmarks-app/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/book-keeper)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/book-keeper) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/book-keeper)
 
 ### Video Player - Original: [Github](https://github.com/JacintoDesign/video-player)
 
@@ -843,6 +853,7 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/video-player) [View Live](https://dwernz.github.io/ZTM_Portfolio/project/video-player/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/video-player) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/video-player/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/video-player)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/video-player) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/video-player)
 
 ### Form Validator - Original: [Github](https://github.com/JacintoDesign/form-validation)
 
@@ -874,6 +885,7 @@ Check out all of the submissions below! Well done everyone!
 - João Gonçalves [Github](https://github.com/Joopr8/form-validator) | [View Live](https://joopr8.github.io/form-validator/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/form-validator) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/form-validator/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/form-validator)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/form-validation) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/form-validation)
 
 ### Rock Spock - Original: [Github](https://github.com/JacintoDesign/spock-rock-game)
 
@@ -898,8 +910,9 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/spock-rock-game) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/spock-rock-game/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/spock-rock-game) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/spock-rock-game/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/spock-rock-game)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/spock-rock-game) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/spock-rock-game)
 
-### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures.
+### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures).
 
 - Anette [Github](https://github.com/RedSquirrrel/nasa-apod) [View Live](https://redsquirrrel.github.io/nasa-apod/)
 - Russ Perry - [Github](https://github.com/rperry99/Nasa-APOD) | [View Live](https://rperry99.github.io/Nasa-APOD/)
@@ -923,6 +936,7 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/nasa-apod) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/nasa-apod/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/nasa-api-pictures) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/nasa-api-pictures/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/nasa-apod)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/nasa-pod)
 
 ### Paint Clone - Original: [Github](https://github.com/JacintoDesign/paint-clone)
 
@@ -945,6 +959,7 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/paint-clone) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/paint-clone)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/paint-clone) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/paint-clone/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/paint-clone)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/paint-clone) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/paint-clone)
 
 ### Pong - Original: [Github](https://github.com/JacintoDesign/pong-clone)
 
@@ -967,6 +982,7 @@ Check out all of the submissions below! Well done everyone!
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/pong) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/pong/)
 - Richard Lew - [Github](https://github.com/rylew0925/Neon-Pong.git)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/pong)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/pong) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/pong)
 
 ### Math Sprint Game - Original: [Github](https://github.com/JacintoDesign/math-sprint-game)
 
@@ -990,6 +1006,7 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/math-sprint-game) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/math-sprint-game/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/math-sprint-game) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/math-sprint-game/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/math-sprint-game)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/math-sprint-game) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/math-sprint-game)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
@@ -1018,6 +1035,7 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/drag-and-drop) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/drag-and-drop/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/drag-and-drop) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/drag-and-drop/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/drag-n-drop)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/drag-and-drop) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/drag-and-drop)
 
 ### Calculator - Original: [Github](https://github.com/JacintoDesign/calculator)
 
@@ -1060,6 +1078,7 @@ Check out all of the submissions below! Well done everyone!
 - Vishal Krishna - [Github](https://github.com/vishalkrishna8/calculator)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/calculator) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/calculator/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/calculator)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/calculator) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/calculator)
 
 ### Splash Page - Original: [Github](https://github.com/JacintoDesign/splash-page)
 
@@ -1080,6 +1099,7 @@ Check out all of the submissions below! Well done everyone!
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/splash-page) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/splash-page)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/splash-page) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/splash-page/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/splash-page)
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/splash-page) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/splash-page)
 
 ### Pig Game - Original: [Github](https://github.com/DeepakRawat24/pig-game)
 
