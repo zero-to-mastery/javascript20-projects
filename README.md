@@ -332,6 +332,7 @@ Check out all of the submissions below! Well done everyone!
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/quote-generator)
 - Paulo Márcio - [Github](https://github.com/pmbfsa/quote-generator) | [View Live](https://pmbfsa.github.io/quote-generator/)
 - Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/quote-generator) | [View Live](https://giorgiodb.github.io/ZTM_JS_COURSE/quote-generator)
+- Mahsa Azadi - [Github](https://github.com/Mahsaazadi-hub/template-test) | [View Live](https://mahsaazadi-hub.github.io/template-test/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
