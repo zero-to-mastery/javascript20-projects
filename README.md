@@ -26,6 +26,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Quote Generator - Original: [Github](https://github.com/JacintoDesign/quote-generator)
 
+- Mahmoud Fadl - [Github](https://github.com/mahmoudfadl93/Quote-Generator) | [View Live](https://mahmoudfadl93.github.io/Quote-Generator/)
 - Daniil Baturyn - [Github](https://github.com/notfeardan/Quote-Generator) | [View Live](https://notfeardan.github.io/Quote-Generator/)
 - Houssam Ouhra - [Github](https://github.com/houssamouhra/Quote-Generator) | [View Live](https://houssamouhra.github.io/Quote-Generator/)
 - Corey Uebelacker - [Github](https://github.com/acoreyu/quote-generator) | [View Live](https://acoreyu.github.io/quote-generator/)
@@ -582,7 +583,7 @@ Check out all of the submissions below! Well done everyone!
 - LaClarence - [Github](https://github.com/LaClarence/joke-teller/) | [View Live](https://laclarence.github.io/joke-teller/)
 - Evgueni Kounik - [Github](https://github.com/buzzcosm/joke-teller-vanilla-js-app) | [View Live](https://buzzcosm.github.io/joke-teller-vanilla-js-app/)
 - Stefano Raneri - [Github](https://github.com/st1vms/ztm-20-javascript-projects/blob/main/joke-teller)
-- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/joke-teller) 
+- Giorgio Di Bartolo [Github](https://github.com/giorgiodb/ZTM_JS_COURSE/joke-teller)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
